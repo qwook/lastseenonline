@@ -192,7 +192,7 @@
   "VISUAL_NOVEL_SURE_TAKE_YOUR_TIME_YOU_CAN_PROBABLY_FIND_SOMETHING_ON_YOUR_COMPUTER_TO_HELP_YOU_REFRESH_YOUR_MEMORY": "sure. take your time~ you can probably find something on your computer to help you refresh your memory",
   "VISUAL_NOVEL_THANKS_ILL_TRY_AGAIN": "thanks... i'll try again",
   "VISUAL_NOVEL_I_DONT_THINK_THATS_IT": "i don't think that's it...",
-  "VISUAL_NOVEL_HMM_OKAY_I_BELIEVE_U_FOR_NOW_YOU_NEED_TO_REGISTER_A_NEW_ACCOUNT_THE_INVITE_CODE_IS_NEVERLAND": "hmm... okay i believe u. for now. you need to register a new account, the invite code is NEVERLAND",
+  "VISUAL_NOVEL_HMM_OKAY_I_BELIEVE_U_FOR_NOW_YOU_NEED_TO_REGISTER_A_NEW_ACCOUNT_THE_INVITE_CODE_IS_NEVERLAND": "hmm... okay i believe u. for now. you need to register a new account, the invite code is {0}",
   "LYRICS_1": [
     {
       "start": "0:00:46",
