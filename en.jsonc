@@ -1,0 +1,446 @@
+{
+  "TITLE_TEXT": "last seen online",
+  "INTRO_TEXT_1": "you find an old computer at a garage sale.",
+  "INTRO_TEXT_2": "so you decide to turn it on.",
+  "CONTINUE_BUTTON": "continue",
+  "PASSWORD_TEXT": "Password:",
+  "PASSWORD_HINT": "Hint: little furry boy's name and my birth year",
+  // Optional:
+  "LOGGING_IN": "logging in...",
+  // Optional:
+  "WELCOME_BACK": "welcome back...",
+  "DESKTOP_SHORTCUT_BUDDYLIST": "Buddy List",
+  // Don't change LoseAmp Player name.
+  // Kept here for consistency.
+  "DESKTOP_SHORTCUT_LOSEAMP_PLAYER": "LoseAmp Player",
+  "DESKTOP_SHORTCUT_OTHER_WORLD": "Other World",
+  "DESKTOP_SHORTCUT_ZIP": "photos4em.zip",
+  "UNZIPPER_TITLE": "UnZipper - photos4em.zip",
+  "UNZIPPER_TEXT": "This ZIP file is password-protected with a 4 digit code.",
+  "UNZIPPER_UNLOCK_BUTTON": "Unlock",
+  "UNZIPPER_INCORRECT_PASSWORD": "Incorrect password. Try again.",
+  // Optional:
+  "BUDDYLIST_SIGN_ON": "Sign On",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_1": "1. Using saved password...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_2": "2. Connecting...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_3": "3. Starting services...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_4": "4. Connected.",
+  "BUDDYLIST_CHAT_WINDOW_TITLE": "{0} - Chat",
+  "USER_IS_OFFLINE": "this user is offline, wait until they get back on.",
+  // <LIZ> colors the line of chat blue.
+  // <SYSTEM> colors the line of chat gray.
+  // <...ANYTHING ElSE> colors the line of chat red.
+  "LAWSON_CHATLOG": [
+    "<LAWSON>: heyyy :) how is ur day going?",
+    "<LIZ>: its good",
+    "<LAWSON>: just good?? what are u up to?",
+    "<LIZ>: nothing much!! just listening to music playin ggames.. how about u??",
+    "<LAWSON>: also just good here... gotta study for the algebra test soon or else my moms gonna kill meee",
+    "<LIZ>: omg didnt your mom yell at you last time?",
+    "<LAWSON>: yah... but i think i can do better this time",
+    "<LIZ>: :((( you are doing your best!! dont let her get you down. my moms also been on my butt lately...",
+    "<LAWSON>: u too??? tell me about it!!",
+    "<LIZ>: keeps telling me that im so much like my dad... its not my fault he left her thou.... every day its just yelling and yelling.. im not enough...",
+    "<LAWSON>: aww thats rough... yeah its been a while since i seen my dad too.. wonder how hes doing...",
+    "<LAWSON>: i gotta go but, i do rly enjoy talking to u... gn!!",
+    "<SYSTEM>: aznL4ws0n is now offline",
+    "<SYSTEM>: aznL4ws0n is now online",
+    "<LAWSON>: yo did u fin the algebra hw yet?",
+    "<SYSTEM>: aznL4ws0n is now offline",
+    "<SYSTEM>: aznL4ws0n is now online",
+    "<LAWSON>: heyy theyre saying things at school, are u ok?",
+    "<SYSTEM>: aznL4ws0n is now offline",
+    "<SYSTEM>: aznL4ws0n is now online",
+    "<LAWSON>: i know u dont want to talk about it but i just want to make sure ur ok",
+    "<SYSTEM>: aznL4ws0n is now offline",
+    "<SYSTEM>: aznL4ws0n is now online",
+    "<LAWSON>: imy",
+    "<SYSTEM>: aznL4ws0n is now offline",
+    "<SYSTEM>: aznL4ws0n is now online",
+    "<LAWSON>: i just got a C+ on the algebra test :(",
+    "<SYSTEM>: aznL4ws0n is now offline",
+    "<SYSTEM>: aznL4ws0n is now online",
+    "<LAWSON>: had a fight with my mom today, its ok though.. hope u are doing well.",
+    "<SYSTEM>: aznL4ws0n is now offline",
+    "<SYSTEM>: aznL4ws0n is now online",
+    "<LAWSON>: just got into our dream school! <3",
+    "<SYSTEM>: aznL4ws0n is now offline",
+    "<SYSTEM>: aznL4ws0n is now online",
+    "<LAWSON>: saw a dog today. looked a lot like scotty :)",
+    "<SYSTEM>: aznL4ws0n is now offline"
+  ],
+  "SCOTT_CHATLOG": [
+    "<SCOTT>: hello. it is scott, from Other World. you wished to add me?",
+    "<LIZ>: yes!! (=^o^=) so what u talked about. the ritual.. ive been thinking about it. it will help me leave?",
+    "<SCOTT>: ah yes. the baphomet ritual. i would describe it more as the konami code of the universe. it won't help you leave, but it will bring your consciousness.. your code... into enlightenment. i can show you forever.",
+    "<LIZ>: hmm ok also u have the same name as my dog hahahaha",
+    "<SYSTEM>: scottNJ is now offline",
+    "<SYSTEM>: scottNJ is now online",
+    "<SCOTT>: did u get my link from the game?",
+    "<LIZ>: so this is it??? are yo sure it works???",
+    "<SCOTT>: you're the one who asked for my help. the path towards eternal sanctity lies within here. do you seek eternal happiness or not?",
+    "<SYSTEM>: scottNJ is now offline",
+    "<SYSTEM>: scottNJ is now online",
+    "<SCOTT>: the process has begun, are you ready?",
+    "<LIZ>: ya... but im a lil scared",
+    "<SCOTT>: don't be scared, little one. i will meet you soon",
+    "<SYSTEM>: scottNJ is now offline",
+    "<SYSTEM>: scottNJ is now online",
+    "<LIZ|CORRUPTED>: YOU PROMISED ME YOU WOULDN'T LEAVE ME"
+  ],
+  "ETERNALJUICE_CHATLOG": [
+    "<ETERNAL_JUICE>: a/s/l?",
+    "<LIZ>: im just 14",
+    "<ETERNAL_JUICE>: the sweet nectar of youth, i cannot wait for you to join us",
+    "<LIZ>: what???"
+  ],
+  "EMMBER_CHATLOG": [
+    "<LIZ>: aaahhh lawson is sooo cute :(:(:(:(:(",
+    "<EMMBER>: y dont u just ask him out!!!",
+    "<LIZ>: theres no way he likes me... im not pretty",
+    "<EMMBER>: wot lol!! ur so pretty......",
+    "<LIZ>: =.= my mom says i dont hav her nose, i hav my dads big nose.! i hate it",
+    "<EMMBER>: dont listen to her, ur booOotiful d(^_^)z",
+    "<LIZ>: i just wanna run away emmmm... i hate it on earth",
+    "<EMMBER>: awww even if lawson doesnt love u i will always love u!!! BFF!!!",
+    "<SYSTEM>: xXemmberXx86 is now offline",
+    "<SYSTEM>: xXemmberXx86 is now online",
+    "<LIZ>: my mom is taking away my computer. but i found a way em.",
+    "<EMMBER>: sozz i was studying, whats going on?? ur mom is so weird!!",
+    "<SYSTEM>: xXemmberXx86 is now offline",
+    "<SYSTEM>: xXemmberXx86 is now online",
+    "<EMMBER>: liz we haven't talked in like 2 weeks, what have u been up to??",
+    "<LIZ>: o soz!! just been hanging with some frends i met on otherworld!!",
+    "<SYSTEM>: xXemmberXx86 is now offline",
+    "<SYSTEM>: xXemmberXx86 is now online",
+    "<LIZ>: i did it. i found out how 2 get out of here 4ever.",
+    "<EMMBER>: lol where r u going? paris?",
+    "<LIZ>: i sent u the photos did u get them?",
+    "<LIZ>: we performed these steps yesterday for orion.. soon i will be free.",
+    "<EMMBER>: yeah the ZIP file? but it's got a 4-digit passcode.",
+    "<LIZ>: -_- its 4 of my songs on my LoseAmp playlist!!",
+    "<EMMBER>: oh... i don't get it.. you have 8 songs.",
+    "<LIZ>: r u still using our bff <b>desktop wallpaper</b>?? u need 2 close every window except for LoseAmp!!! the wallpaper will show u the order.",
+    "<EMMBER>: O_O !! thats crzy!! omg <b>i just dragged the window over.</b> ok what next??",
+    "<LIZ>: listen to the lyrics!!",
+    "<EMMBER>: ooooOOo now UR smrt as fukkk ^_^",
+    "<EMMBER>: omg y do u have a pic of lawson??",
+    "<LIZ>: NOOOo THAT WAS ON ACCIDENT!!!",
+    "<EMMBER>: ... these r weird pics...",
+    "<LIZ>: so r u interested?",
+    "<SYSTEM>: xXemmberXx86 is now offline",
+    "<SYSTEM>: xXemmberXx86 is now online",
+    "<LIZ|CORRUPTED>: EMILY IT WORKED",
+    "<EMMBER>: who is this?",
+    "<LIZ|CORRUPTED>: IT'S ME, LIZ!! IM STILL LEARNING HOW TO CONTROL THIS",
+    "<EMMBER>: listen i don't know what kind of fucking sick joke you are playing, but this is seriously fucked up. i am blocking you."
+  ],
+  "ORION_CHATLOG": [
+    "<LIZ>: hey have u seen jenni's new world??",
+    "<ORION>: yah it was so cool. she really put a lot of time into it.",
+    "<LIZ>: one day i'll make a world just as cool",
+    "<ORION>: haha maybe",
+    "<ORION>: oh yeah look at this thing i found: RED_HERRING_EXE",
+    "<LIZ>: oh wow?? is this from other world???",
+    "<ORION>: no it's just some art project, i dont think it has anything to do with the game.",
+    "<SYSTEM>: __orion__ is now offline",
+    "<SYSTEM>: __orion__ is now online",
+    "<ORION>: hey have u tried typing /info in the otherworld chat?? it shows u how long uve been online",
+    "<LIZ>: omg this is embarassing...... 849 hours...",
+    "<SYSTEM>: __orion__ is now offline",
+    "<SYSTEM>: __orion__ is now online",
+    "<ORION>: IT WORKED!!! GET ON OTHERWORLD RIGHT NOW!!!",
+    "<SYSTEM>: __orion__ is now offline",
+    "<SYSTEM>: __orion__ is now online"
+  ],
+  "VISUAL_NOVEL_HEY_IS_THIS_LIZ": "hey?? is this liz???",
+  "VISUAL_NOVEL_YEAH_THIS_IS_LIZ": "yeah.. this is liz...",
+  "VISUAL_NOVEL_OH_INTERESTING_SO_STRANGE_TO_SEE_YOU_HERE": "oh interesting... so strange to see you...here...",
+  "VISUAL_NOVEL_UM_YEAH_JUST_TOOK_A_LONG_BREAK": "um yeah, just took a long break.",
+  "VISUAL_NOVEL_I_DONT_KNOW_WHAT_YOU_MEAN": "i don't know what you mean...",
+  "VISUAL_NOVEL_WELL_GLAD_YOURE_BACK_IVE_MISSED_YOU": "well. glad you're back. i've missed you.",
+  "VISUAL_NOVEL_IVE_MISSED_YOU_TOO": "i've missed you too",
+  "VISUAL_NOVEL_CAN_YOU_REMIND_ME_WHO_THIS_IS": "can you remind me who this is?",
+  "VISUAL_NOVEL_ITS_ORION_WE_USED_TO_BE_GOOD_FRIENDS_IM_SURPRISED_YOU_DONT_REMEMBER_ME_THATS_FINE": "it's orion! we used to be good friends. i'm surprised you don't remember me. thats fine!",
+  "VISUAL_NOVEL_ANYTHING_I_CAN_HELP_YOU_WITH": "anything i can help you with?",
+  "VISUAL_NOVEL_DO_YOU_KNOW_THE_PASSCODE_FOR_PHOTOS4EMZIP": "do you know the passcode for photos4em.zip?",
+  "VISUAL_NOVEL_HMM_I_DONT_REMEMBER_TRY_DIGGING_THROUGH_YOUR_OLD_CHATLOGS_MAYBE_YOU_SENT_IT_TO_SOMEONE": "hmm... i don't remember, try digging through your old chatlogs. maybe you sent it to someone",
+  "VISUAL_NOVEL_OKAY_ILL_TRY_THAT_OUT": "okay.. i'll try that out",
+  "VISUAL_NOVEL_WHATS_OTHER_WORLD": "whats Other World?",
+  "VISUAL_NOVEL_YOU_GOTTA_BE_JOKING_YOU_DONT_REMEMBER_ITS_THE_GAME_WE_PLAYED_WHEN_WE_WERE_KIDS_ARE_YOU_SURE_THIS_IS_LIZ": "you gotta be joking! you don't remember? it's the game we played when we were kids. are you sure this is liz?",
+  "VISUAL_NOVEL_YES_IM_SURE_HOW_DO_I_GET_IN": "yes... i'm sure. how do i get in?",
+  "VISUAL_NOVEL_JUST_TO_MAKE_SURE_YOU_ARE_WHO_YOU_SAY_YOU_ARE_CAN_YOU_TELL_ME_THE_ORDER_OF_THE_FOUR_EVENTS_DURING_OUR_FINAL_RITUAL": "just to make sure you are who you say you are... can you tell me the order of the four events during our final ritual?",
+  "VISUAL_NOVEL_ILL_TRY_TO_REMEMBER": "i'll try to remember",
+  "VISUAL_NOVEL_I_DONT_REMEMBER": "i don't remember",
+  "VISUAL_NOVEL_THAT_S_OKAY_TAKE_YOUR_TIME": "that's okay, take your time",
+  "VISUAL_NOVEL_OKAY": "okay",
+  "VISUAL_NOVEL_SO_REMIND_ME_WHAT_HAPPENED": "so remind me, what happened",
+  "VISUAL_NOVEL_THAT_MIGHT_BE_RIGHT_THAT_MIGHT_BE_WRONG_WHAT_NEXT": "that might be right, that might be wrong. what next?",
+  "VISUAL_NOVEL_OK_COULD_BE_WHAT_HAPPENED_BUT_I_WONT_TELL_YOU_WHAT_THEN": "ok... could be what happened but i won't tell you. what then?",
+  "VISUAL_NOVEL_AND_FINALLY": "and finally?",
+  "VISUAL_NOVEL_WE_BLESSED_THE_STATUE": "we blessed the statue",
+  "VISUAL_NOVEL_WE_LIT_CANDLES_FOR_OUR_TRIBUTES": "we lit candles for our tributes",
+  "VISUAL_NOVEL_WE_GAZED_UPON_THE_FOUNTAIN": "we gazed upon the fountain",
+  "VISUAL_NOVEL_WE_FOUGHT_THE_LOST_BOYS": "we fought the lost boys",
+  "VISUAL_NOVEL_WE_RESPECTED_THE_FOUR_FALLEN": "we respected the four fallen",
+  "VISUAL_NOVEL_WE_SUNG_AWAY_OUR_AGE": "we sung away our age",
+  "VISUAL_NOVEL_HOLD_ON_MY_MEMORY_IS_JUST_FUZZY": "hold on.. my memory is just fuzzy...",
+  "VISUAL_NOVEL_SURE_TAKE_YOUR_TIME_YOU_CAN_PROBABLY_FIND_SOMETHING_ON_YOUR_COMPUTER_TO_HELP_YOU_REFRESH_YOUR_MEMORY": "sure. take your time~ you can probably find something on your computer to help you refresh your memory",
+  "VISUAL_NOVEL_THANKS_ILL_TRY_AGAIN": "thanks... i'll try again",
+  "VISUAL_NOVEL_I_DONT_THINK_THATS_IT": "i don't think that's it...",
+  "VISUAL_NOVEL_HMM_OKAY_I_BELIEVE_U_FOR_NOW_YOU_NEED_TO_REGISTER_A_NEW_ACCOUNT_THE_INVITE_CODE_IS_NEVERLAND": "hmm... okay i believe u. for now. you need to register a new account, the invite code is NEVERLAND",
+  "LYRICS_1": [
+    {
+      "start": "0:00:46",
+      "lyric": "a babbling river"
+    },
+    {
+      "start": "0:03:07",
+      "lyric": "a pond that glows"
+    },
+    {
+      "start": "0:05:11",
+      "lyric": "a hot spring over-overflows"
+    },
+    {
+      "start": "0:10:28",
+      "lyric": "all three things oh, oh I know"
+    },
+    {
+      "start": "0:13:90",
+      "lyric": "I know..."
+    }
+  ],
+  "LYRICS_2": [
+    {
+      "start": "0:00:40",
+      "lyric": "two hands holding on to the same"
+    },
+    {
+      "start": "0:05:57",
+      "lyric": "old story, written poorly"
+    },
+    {
+      "start": "0:09:92",
+      "lyric": "can we -"
+    },
+    {
+      "start": "0:11:40",
+      "lyric": "take control?"
+    },
+    {
+      "start": "0:13:01",
+      "lyric": "I wanna leave this all behind"
+    }
+  ],
+  "LYRICS_3": [
+    {
+      "start": "0:00:61",
+      "lyric": "wake at seven A.M."
+    },
+    {
+      "start": "0:03:96",
+      "lyric": "it's like heaven again"
+    },
+    {
+      "start": "0:07:48",
+      "lyric": "see you smiling my friend"
+    },
+    {
+      "start": "0:10:86",
+      "lyric": "and I don't want this to end"
+    },
+    {
+      "start": "0:13:92",
+      "lyric": "the present moment will fleet"
+    },
+    {
+      "start": "0:17:38",
+      "lyric": "crowded city and streets"
+    },
+    {
+      "start": "0:21:13",
+      "lyric": "everybody you meet"
+    },
+    {
+      "start": "0:24:23",
+      "lyric": "will go away someday"
+    }
+  ],
+  "LYRICS_4": [
+    {
+      "start": "0:01:11",
+      "lyric": "am I a drink that you drank?"
+    },
+    {
+      "start": "0:05:21",
+      "lyric": "am I a snack that you eight?"
+    },
+    {
+      "start": "0:09:61",
+      "lyric": "am I a thing that you lost?"
+    },
+    {
+      "start": "0:14:69",
+      "lyric": "lost long ago"
+    }
+  ],
+  "LYRICS_5": [
+    {
+      "start": "0:00:71",
+      "lyric": "I don't want to be buried"
+    },
+    {
+      "start": "0:04:67",
+      "lyric": "six feet under the ground"
+    },
+    {
+      "start": "0:08:61",
+      "lyric": "if you are not around"
+    },
+    {
+      "start": "0:12:40",
+      "lyric": "don't want to be alone"
+    },
+    {
+      "start": "0:15:75",
+      "lyric": "I don't want to leave this world"
+    },
+    {
+      "start": "0:20:07",
+      "lyric": "if you're not by my side"
+    },
+    {
+      "start": "0:23:34",
+      "lyric": "no, I don't want to die"
+    },
+    {
+      "start": "0:26:80",
+      "lyric": "without you"
+    }
+  ],
+  "LYRICS_6": [
+    {
+      "start": "0:01:10",
+      "lyric": "*guitar noodling*"
+    },
+    {
+      "start": "0:03:73",
+      "lyric": "oh shit uhm..."
+    },
+    {
+      "start": "0:06:00",
+      "lyric": "*GUITAR STRUM*"
+    },
+    {
+      "start": "0:07:52",
+      "lyric": "(whispers) so"
+    },
+    {
+      "start": "0:08:63",
+      "lyric": "just one chance,"
+    },
+    {
+      "start": "0:11:82",
+      "lyric": "and one dance"
+    },
+    {
+      "start": "0:14:88",
+      "lyric": "feels like awkward"
+    },
+    {
+      "start": "0:17:36",
+      "lyric": "teenage romance"
+    },
+    {
+      "start": "0:19:98",
+      "lyric": "*music stops* it kinda sounds like"
+    },
+    {
+      "start": "0:20:96",
+      "lyric": "the end though"
+    },
+    {
+      "start": "0:22:55",
+      "lyric": "maybe i should write"
+    },
+    {
+      "start": "0:23:21",
+      "lyric": "the beginning"
+    }
+  ],
+  "LYRICS_7": [
+    {
+      "start": "0:00:86",
+      "lyric": "it's so funny how hindsight,"
+    },
+    {
+      "start": "0:03:98",
+      "lyric": "is super clear vision"
+    },
+    {
+      "start": "0:06:07",
+      "lyric": "it's so funny how you hide,"
+    },
+    {
+      "start": "0:09:28",
+      "lyric": "what you're really thinking"
+    },
+    {
+      "start": "0:11:46",
+      "lyric": "I have three eyes open now"
+    },
+    {
+      "start": "0:16:59",
+      "lyric": "I tried but you are not around"
+    }
+  ],
+  "LYRICS_8": [
+    {
+      "start": "0:00:42",
+      "lyric": "please don't say that it's over"
+    },
+    {
+      "start": "0:04:42",
+      "lyric": "I put my luck on a four-leaf clover"
+    },
+    {
+      "start": "0:11:15",
+      "lyric": "don't say it's nostalgia"
+    },
+    {
+      "start": "0:16:28",
+      "lyric": "I'd rather stay in the past if I want to"
+    }
+  ],
+  "OTHER_WORLD_LOGIN": "Login",
+  "OTHER_WORLD_REGISTER": "Register",
+  "OTHER_WORLD_EXIT": "Exit",
+  "OTHER_WORLD_BACK": "Back",
+  "OTHER_WORLD_INVITE_CODE": "Invite Code",
+  "OTHER_WORLD_CONTINUE": "Continue",
+  "OTHER_WORLD_USERNAME": "Username",
+  "OTHER_WORLD_PASSWORD": "Password",
+  "OTHER_WORLD_CONNECTING": "Connecting to Server...",
+  "OTHER_WORLD_LOGGING_IN": "Logging In...",
+  "OTHER_WORLD_WELCOME": "we welcome you {0}",
+  "OTHER_WORLD_INVALID": "Invalid Username or Password",
+  "OTHER_WORLD_WHATS_YOUR_NAME": "What's Your Name",
+  "VIDEO_CALL_TITLE": "WebCam - __orion__",
+  "VIDEO_CALL_REQUEST": "<b>__orion__</b> has requested a webcam call.",
+  "VIDEO_CALL_ACCEPT": "Accept",
+  "VIDEO_CALL_DECLINE": "Decline",
+  "VIDEO_CALL_CONNECTING": "Connecting to a call with <b>__orion__</b> please wait.",
+  "VIDEO_CALL_CAMERA_ON": "YOUR CAMERA IS ON",
+  "VIDEO_CALL_END_CALL": "End Call",
+  "VIDEO_CALL_MUTE": "Mute",
+  "OTHER_WORLD_CHAT_WELCOME": "<system> Welcome to OtherWorld! Click on the arrows to navigate around our world. Some objects are special, so click around. Enjoy your time here :)",
+  "OTHER_WORLD_CHAT_CREATION": "<system> All of creation is at your fingertips. What will you dream up?",
+  "OTHER_WORLD_CHAT_NEXUS": "<system> The Nexus, home of all custom user worlds. Upload yours or check out the vast cosmos of worlds already uploaded!",
+  "OTHER_WORLD_CHAT_DISCO": "<system> This is Disco, the liveliest hangout spot in OtherWorld. Hit the dance floor and make yourself a friend or ten...?",
+  "OTHER_WORLD_CHAT_YOU_ARENT_LIZ": "[__orion__] u arent liz..."
+}
