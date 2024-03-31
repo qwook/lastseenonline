@@ -4,6 +4,9 @@
 {
   "FONT_FAMILY": "PixelArial11, MadouFutoMaruGothic, PixeloidSans",
   "TITLE_TEXT": "last seen online",
+  // INTRO_TEXT_1 and INTRO_TEXT_2 ideally should have the same
+  // letters as TITLE_TEXT but it's okay if not.
+  // I will program in a way for it to work without.
   "INTRO_TEXT_1": "you find an old computer at a garage sale.",
   "INTRO_TEXT_2": "so you decide to turn it on.",
   "CONTINUE_BUTTON": "continue",
@@ -197,6 +200,7 @@
   "VISUAL_NOVEL_THANKS_ILL_TRY_AGAIN": "thanks... i'll try again",
   "VISUAL_NOVEL_I_DONT_THINK_THATS_IT": "i don't think that's it...",
   "VISUAL_NOVEL_HMM_OKAY_I_BELIEVE_U_FOR_NOW_YOU_NEED_TO_REGISTER_A_NEW_ACCOUNT_THE_INVITE_CODE_IS_NEVERLAND": "hmm... okay i believe u. for now. you need to register a new account, the invite code is {0}",
+  "VISUAL_NOVEL_HMM_HEY_LIZ_IMMA_BRB": "hmm... hey liz.. imma brb haha... cya",
   "LYRICS_1": [
     {
       "start": "0:00:46",
