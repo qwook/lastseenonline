@@ -628,6 +628,10 @@
 
   "CLICK_TO_REPLAY": "Click to Replay from Beginning",
 
+  // April 23, additional lines:
+  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "Something in the door changes... You've done something, or part of something...",
+  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "The door unlocks.",
+
   // Ignore this last line, it's so each line can have a comma at the end.
   "": null
 }
