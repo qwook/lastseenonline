@@ -2,7 +2,9 @@
 // You don't have to translate everything, but I included
 // as much as I can just in case.
 {
+  "NAME": "English",
   "FONT_FAMILY": "PixelArial11, MadouFutoMaruGothic, PixeloidSans",
+  "TITLE_SPACING": 1.0,
   "TITLE_TEXT": "last seen online",
   // INTRO_TEXT_1 and INTRO_TEXT_2 ideally should have the same
   // letters as TITLE_TEXT but it's okay if not.
@@ -631,6 +633,27 @@
   // April 23, additional lines:
   "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "Something in the door changes... You've done something, or part of something...",
   "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "The door unlocks.",
+
+  // June 24
+  "ORION_IS_TYPING": "__orion__ is typing...",
+  "SCROLL_TO_TOP": "Scroll to Top",
+  "SERVERS_EMPTY": "EMPTY",
+  "SERVERS_UPLOAD": "click here to upload world",
+  "SERVERS_USER_WORLD": "<user world>",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_1": "house of",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_2": "baphomet",
+
+  "TRIBUTES_BOND_LINE_1": "whose bond",
+  "TRIBUTES_BOND_LINE_2": "do you trust",
+  "TRIBUTES_BOND_LINE_3": "the most?",
+
+  "TRIBUTES_UNREQUITED_LINE_1": "who is your",
+  "TRIBUTES_UNREQUITED_LINE_2": "unrequited",
+  "TRIBUTES_UNREQUITED_LINE_3": "desire?",
+
+  "TRIBUTES_FATE_LINE_1": "who is the",
+  "TRIBUTES_FATE_LINE_2": "sole controller",
+  "TRIBUTES_FATE_LINE_3": "of your fate?",
 
   // Ignore this last line, it's so each line can have a comma at the end.
   "": null
