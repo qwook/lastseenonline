@@ -610,7 +610,13 @@
   "CREDITS_TITLE": "Vietnamese Translation",
   // Put as many credits here as you want.
   // Please don't put a virus here :(
-  "CREDITS": [{ "name": "Cooxwh", "Website": "https://cooxwh.neocities.org/" }],
+  "CREDITS": [
+    {
+      "name": "Discord",
+      "website": "https://discord.com/channels/1183870459687743590/1255977005510426664"
+    },
+    { "name": "Cooxwh", "Website": "https://cooxwh.neocities.org/" }
+  ],
 
   "CLICK_TO_REPLAY": "Quay lại từ đầu",
 

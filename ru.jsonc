@@ -1,0 +1,699 @@
+{
+  "NAME": "Russian",
+  "FONT_FAMILY": "PixeloidSans, PixelArial11, MadouFutoMaruGothic",
+  "TITLE_SPACING": 1.0,
+  "TITLE_TEXT": "была в сети",
+  "INTRO_TEXT_1": "ты купил старый б/у компьютер на гаражной распродаже.",
+  "INTRO_TEXT_2": "и ты решил включить его.",
+  "CONTINUE_BUTTON": "продолжить",
+  "PASSWORD_TEXT": "Пароль:",
+  "PASSWORD_HINT": "Подсказка: имя пушистого маленького друга и год моего рождения.",
+  // Optional:
+  "LOGGING_IN": "вход...",
+  // Optional:
+  "WELCOME_BACK": "добро пожаловать...",
+  "DESKTOP_SHORTCUT_BUDDYLIST": "Друзья",
+  // Don't change LoseAmp Player name.
+  // Kept here for consistency.
+  "DESKTOP_SHORTCUT_LOSEAMP_PLAYER": "LoseAmp Player",
+  "DESKTOP_SHORTCUT_OTHER_WORLD": "Other World",
+  "DESKTOP_SHORTCUT_ZIP": "photos4em.zip",
+  "UNZIPPER_TITLE": "Распаковщик - photos4em.zip",
+  "UNZIPPER_TEXT": "Данный ZIP файл защищён четырёхзначным паролем.",
+  "UNZIPPER_UNLOCK_BUTTON": "Распаковать",
+  "UNZIPPER_INCORRECT_PASSWORD": "Неверный пароль. Попробуйте ещё раз.",
+  // Optional:
+  "BUDDYLIST_SIGN_ON": "Войти",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_1": "1. Использование сохранённого пароля...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_2": "2. Подключение...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_3": "3. Запуск служб...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_4": "4. Подключено.",
+  "BUDDYLIST_CHAT_WINDOW_TITLE": "{0} - Чат",
+  "USER_IS_OFFLINE": "данный пользователь не в сети, дождитесь, когда он войдёт в сеть.",
+  // <LIZ> colors the line of chat blue.
+  // <SYSTEM> colors the line of chat gray.
+  // <...ANYTHING ElSE> colors the line of chat red.
+  "LAWSON_CHATLOG": [
+    "<LAWSON>: привееет) как проходит твой день?",
+    "<LIZ>: хорошо",
+    "<LAWSON>: хорошо?? чем занимаешься?",
+    "<LIZ>: просто слушаю музыку иии играю.. тыы как??",
+    "<LAWSON>: тоже хорошо... собираюсь готовиться к тесту по алгебре, инааче мама убьет меня",
+    "<LIZ>: омг разве твоя мама не кричала на тебя в прошлый раз?",
+    "<LAWSON>: да... но я думаю я смогу лучше сдать тест в этот раз",
+    "<LIZ>: эхх((( ты точно справишься!! не расстраивайся насчет ситуации с мамой, моя тоже в последнее время злится на меня...",
+    "<LAWSON>: можешь рассказать почему??",
+    "<LIZ>: постоянно говорит что я похожа на своего папу... не моя же вина в том что он ушел от нее.... каждый день все кричит и кричит...",
+    "<LAWSON>: эхх это плохо... я тоже давно не видел своего отца.. интересно как он поживает...",
+    "<LAWSON>: мне так нравится с тобой общаться, но все же мне нужно идти! споки!!)",
+    "<SYSTEM>: aznL4ws0n вышел из сети.",
+    "<SYSTEM>: aznL4ws0n зашёл в сеть.",
+    "<LAWSON>: йо ты сделала уже дз по алгебре?",
+    "<SYSTEM>: aznL4ws0n вышел из сети.",
+    "<SYSTEM>: aznL4ws0n зашёл в сеть.",
+    "<LAWSON>: ээйй про тебя уже в школе говорят, все хорошо?",
+    "<SYSTEM>: aznL4ws0n вышел из сети.",
+    "<SYSTEM>: aznL4ws0n зашёл в сеть.",
+    "<LAWSON>: я знаю ты не хочешь говорить об этом но я хочу убедиться что у тебя все хорошо",
+    "<SYSTEM>: aznL4ws0n вышел из сети.",
+    "<SYSTEM>: aznL4ws0n зашёл в сеть.",
+    "<LAWSON>: я скучаю",
+    "<SYSTEM>: aznL4ws0n вышел из сети.",
+    "<SYSTEM>: aznL4ws0n зашёл в сеть.",
+    "<LAWSON>: у меня 3 по тесту с алгебры(",
+    "<SYSTEM>: aznL4ws0n вышел из сети.",
+    "<SYSTEM>: aznL4ws0n зашёл в сеть.",
+    "<LAWSON>: сегодня поссорился со своей мамой, но сейчас все ок.. надеюсь у тебя тоже.",
+    "<SYSTEM>: aznL4ws0n вышел из сети.",
+    "<SYSTEM>: aznL4ws0n зашёл в сеть.",
+    "<LAWSON>: я поступил в институт нашей мечты! <3",
+    "<SYSTEM>: aznL4ws0n вышел из сети.",
+    "<SYSTEM>: aznL4ws0n зашёл в сеть.",
+    "<LAWSON>: сегодня видел собачку, напомнила скотти)",
+    "<SYSTEM>: aznL4ws0n вышел из сети."
+  ],
+  "SCOTT_CHATLOG": [
+    "<SCOTT>: привет. это скотт, из other world. ты хотела добавить меня в друзья?",
+    "<LIZ>: даа!! (=^o^=) насчет того о чем мы говорили. ритуал.. я много думала о нем. он поможет мне уйти?",
+    "<SCOTT>: ах да. ритуал бафомета. я бы описал его, скорее, как код конами вселенной. он не поможет тебе уйти, но перенесет твое сознание.. твой код... в просветление. я могу показать тебе вечность.",
+    "<LIZ>: хмм окейй кстати у тебя такое же имя как у моей собаки зхавхзах",
+    "<SYSTEM>: scottNJ вышел из сети.",
+    "<SYSTEM>: scottNJ зашёл в сеть.",
+    "<SCOTT>: получила мою ссылку в игре?",
+    "<LIZ>: даа, но ты уверен что это работает???",
+    "<SCOTT>: ты та, кто попросила о моей помощи. путь к вечной святости лежит через нее. разве ты не стремишься к бесконечному счастью?",
+    "<SYSTEM>: scottNJ вышел из сети.",
+    "<SYSTEM>: scottNJ зашёл в сеть.",
+    "<SCOTT>: процесс начался, ты готова?",
+    "<LIZ>: даа.. хотя мне немножко страшно",
+    "<SCOTT>: не бойся, солнышко. скоро мы встретимся",
+    "<SYSTEM>: scottNJ вышел из сети.",
+    "<SYSTEM>: scottNJ зашёл в сеть.",
+    "<LIZ|CORRUPTED>: ТЫ ОБЕЩАЛ, ЧТО НЕ ОСТАВИШЬ МЕНЯ"
+  ],
+  "ETERNALJUICE_CHATLOG": [
+    "<ETERNAL_JUICE>: м/ж? сколько лет? откуда?",
+    "<LIZ>: мне 14",
+    "<ETERNAL_JUICE>: нектар молодости, не дождусь когда ты присоединишься к нам)",
+    "<LIZ>: что???"
+  ],
+  "EMMBER_CHATLOG": [
+    "<LIZ>: эххххх лоусон такой милыыыйй(((",
+    "<EMMBER>: пригласи уже его на свидание!!!",
+    "<LIZ>: я не могу ему нравиться... я некрасивая",
+    "<EMMBER>: чтооо?? ты же красивая......",
+    "<LIZ>: =.= мама говорит что у меня слишком большой нос от моего папы.! ненавижу",
+    "<EMMBER>: не слушай ее, ты прееееЕкрасннааа!!!) d(^_^)z",
+    "<LIZ>: я просто хочу сбежаатть... ненавижу все",
+    "<EMMBER>: эхх даже если лоусон не любит тебя то я всегда буду любить тебя!!! ЛП!!!",
+    "<SYSTEM>: xXemmberXx86 вышел из сети.",
+    "<SYSTEM>: xXemmberXx86 зашёл в сеть.",
+    "<LIZ>: мама забрала мой комп. но я нашла способ.",
+    "<EMMBER>: простии я была в школе, что произошло?? твоя мама такая странная!!",
+    "<SYSTEM>: xXemmberXx86 вышел из сети.",
+    "<SYSTEM>: xXemmberXx86 зашёл в сеть.",
+    "<EMMBER>: лиз мы не общались почти 2 недели, что у тебя случилось?",
+    "<LIZ>: простии!! просто веселилась с друзьями с other world!!",
+    "<SYSTEM>: xXemmberXx86 вышел из сети.",
+    "<SYSTEM>: xXemmberXx86 зашёл в сеть.",
+    "<LIZ>: я смогла. я нашла способ как выбраться отсюда навсегда.",
+    "<EMMBER>: лол куда ты собралась? париж?",
+    "<LIZ>: я отправила тебе фото они дошли?",
+    "<LIZ>: мы выполнили это вчера для ориона.. скоро я буду свободна.",
+    "<EMMBER>: файл ZIP? у него пароль из 4 цифр.",
+    "<LIZ>: -_- это 4 песни из моего плейлиста в LoseAmp!!",
+    "<EMMBER>: все равно не поняла.. у тебя в плейлисте их 8.",
+    "<LIZ>: у тебя же все еще стоят наши совместные <b>обои</b>?? закрой все окна кроме LoseAmp!!! обои покажут тебе порядок.",
+    "<EMMBER>: O_O !! омг <b>я просто перетащил это окно на обои.</b> окей что дальше??",
+    "<LIZ>: прислушайся к словам!!",
+    "<EMMBER>: оооООооо ТЫ капец умная ^_^",
+    "<EMMBER>: омг откуда у тебя фотка лоусона??",
+    "<LIZ>: НЕЕЕЕЕЕЕТт ЭТО СЛУЧАЙНО ПОПАЛО ТУДА!!",
+    "<EMMBER>: ... здесь странные фотки...",
+    "<LIZ>: и так, ты заинтересована?",
+    "<SYSTEM>: xXemmberXx86 вышел из сети.",
+    "<SYSTEM>: xXemmberXx86 зашёл в сеть.",
+    "<LIZ|CORRUPTED>: ЭМИЛИ ЭТО РАБОТАЕТ",
+    "<EMMBER>: кто это?",
+    "<LIZ|CORRUPTED>: ЭТО Я, ЛИЗ!! Я ВСЕ ЕЩЕ УЧУСЬ КОНТРОЛИРОВАТЬ ЭТО",
+    "<EMMBER>: слушай я не знаю что за больную шутку ты пытаешься разыграть, но это реально не смешно. я заблокирую тебя."
+  ],
+  "ORION_CHATLOG": [
+    "<LIZ>: привет, видел новый мир дженни??",
+    "<ORION>: даа он очень крутой. она вложила в него много сил и времени.",
+    "<LIZ>: однажды я сделаю такой же крутой мир",
+    "<ORION>: хаха возможно",
+    "<ORION>: оо смотри что я нашел: RED_HERRING_EXE",
+    "<LIZ>: что это?? это из other world???",
+    "<ORION>: нее это какой-то арт-проект, не думаю, что оно связано с игрой.",
+    "<SYSTEM>: __orion__ вышел из сети.",
+    "<SYSTEM>: __orion__ зашёл в сеть.",
+    "<ORION>: привет, ты пыталась написать /info в чат other world?? команда показывает сколько ты провела времени здесь",
+    "<LIZ>: омг так стыдно...... 849 часов... ",
+    "<SYSTEM>: __orion__ вышел из сети.",
+    "<SYSTEM>: __orion__ зашёл в сеть.",
+    "<ORION>: СРАБОТАЛО!!! ЗАЙДИ В OTHER WORLD СЕЙЧАС!!!",
+    "<SYSTEM>: __orion__ вышел из сети.",
+    "<SYSTEM>: __orion__ зашёл в сеть."
+  ],
+  "VISUAL_NOVEL_HEY_IS_THIS_LIZ": "эй??? это лиз??",
+  "VISUAL_NOVEL_YEAH_THIS_IS_LIZ": "да.. это лиз...",
+  "VISUAL_NOVEL_OH_INTERESTING_SO_STRANGE_TO_SEE_YOU_HERE": "интересно... необычно увидеть тебя...здесь...",
+  "VISUAL_NOVEL_UM_YEAH_JUST_TOOK_A_LONG_BREAK": "даа, просто решила передохнуть.",
+  "VISUAL_NOVEL_I_DONT_KNOW_WHAT_YOU_MEAN": "я не знаю, что ты имеешь ввиду...",
+  "VISUAL_NOVEL_WELL_GLAD_YOURE_BACK_IVE_MISSED_YOU": "ну. рад возвращению. я скучал.",
+  "VISUAL_NOVEL_IVE_MISSED_YOU_TOO": "я тоже скучала",
+  "VISUAL_NOVEL_CAN_YOU_REMIND_ME_WHO_THIS_IS": "можешь напомнить кто ты?",
+  "VISUAL_NOVEL_ITS_ORION_WE_USED_TO_BE_GOOD_FRIENDS_IM_SURPRISED_YOU_DONT_REMEMBER_ME_THATS_FINE": "это орион! мы были лучшими друзьями. я удивлен, что ты не помнишь меня. но ничего такого!",
+  "VISUAL_NOVEL_ANYTHING_I_CAN_HELP_YOU_WITH": "могу я тебе с чем-нибудь помочь?",
+  "VISUAL_NOVEL_DO_YOU_KNOW_THE_PASSCODE_FOR_PHOTOS4EMZIP": "случаем не знаешь пароль photos4em.zip?",
+  "VISUAL_NOVEL_HMM_I_DONT_REMEMBER_TRY_DIGGING_THROUGH_YOUR_OLD_CHATLOGS_MAYBE_YOU_SENT_IT_TO_SOMEONE": "хм... я не помню, попробуй полистать старые переписки. может ты кому-то его отправляла",
+  "VISUAL_NOVEL_OKAY_ILL_TRY_THAT_OUT": "окей.. я попробую",
+  "VISUAL_NOVEL_WHATS_OTHER_WORLD": "что такое Other World?",
+  "VISUAL_NOVEL_YOU_GOTTA_BE_JOKING_YOU_DONT_REMEMBER_ITS_THE_GAME_WE_PLAYED_WHEN_WE_WERE_KIDS_ARE_YOU_SURE_THIS_IS_LIZ": "ты шутишь! ты серьезно не помнишь? это игра нашего детства. это точно лиз?",
+  "VISUAL_NOVEL_YES_IM_SURE_HOW_DO_I_GET_IN": "да... точно. как мне войти в игру?",
+  "VISUAL_NOVEL_JUST_TO_MAKE_SURE_YOU_ARE_WHO_YOU_SAY_YOU_ARE_CAN_YOU_TELL_ME_THE_ORDER_OF_THE_FOUR_EVENTS_DURING_OUR_FINAL_RITUAL": "просто убедиться в том, что ты не врешь... можешь сказать очередь из 4 действий в нашем финальном ритуале?",
+  "VISUAL_NOVEL_ILL_TRY_TO_REMEMBER": "я постараюсь вспомнить",
+  "VISUAL_NOVEL_I_DONT_REMEMBER": "я не помню",
+  "VISUAL_NOVEL_THAT_S_OKAY_TAKE_YOUR_TIME": "все хорошо, не торопись",
+  "VISUAL_NOVEL_OKAY": "окей",
+  "VISUAL_NOVEL_SO_REMIND_ME_WHAT_HAPPENED": "напомни мне, что произошло сначала",
+  "VISUAL_NOVEL_THAT_MIGHT_BE_RIGHT_THAT_MIGHT_BE_WRONG_WHAT_NEXT": "может быть правильно, а может быть нет. что было дальше?",
+  "VISUAL_NOVEL_OK_COULD_BE_WHAT_HAPPENED_BUT_I_WONT_TELL_YOU_WHAT_THEN": "окей... возможно так и было, но я тебе не скажу. дальше?",
+  "VISUAL_NOVEL_AND_FINALLY": "и наконец?",
+  "VISUAL_NOVEL_WE_BLESSED_THE_STATUE": "мы благословили статую",
+  "VISUAL_NOVEL_WE_LIT_CANDLES_FOR_OUR_TRIBUTES": "мы зажгли свечи для подношения",
+  "VISUAL_NOVEL_WE_GAZED_UPON_THE_FOUNTAIN": "мы смотрели на фонтан",
+  "VISUAL_NOVEL_WE_FOUGHT_THE_LOST_BOYS": "мы дрались с потерянными мальчиками",
+  "VISUAL_NOVEL_WE_RESPECTED_THE_FOUR_FALLEN": "мы отдали честь четырем павшим",
+  "VISUAL_NOVEL_WE_SUNG_AWAY_OUR_AGE": "мы пропели наш век",
+  "VISUAL_NOVEL_HOLD_ON_MY_MEMORY_IS_JUST_FUZZY": "стой.. я плохо помню...",
+  "VISUAL_NOVEL_SURE_TAKE_YOUR_TIME_YOU_CAN_PROBABLY_FIND_SOMETHING_ON_YOUR_COMPUTER_TO_HELP_YOU_REFRESH_YOUR_MEMORY": "конечно. не торопись~ ты вполне можешь найти что-то на своем компьютере чтобы вспомнить",
+  "VISUAL_NOVEL_THANKS_ILL_TRY_AGAIN": "спасибо.. попробую еще раз",
+  "VISUAL_NOVEL_I_DONT_THINK_THATS_IT": "не думаю, что все было так...",
+  "VISUAL_NOVEL_HMM_OKAY_I_BELIEVE_U_FOR_NOW_YOU_NEED_TO_REGISTER_A_NEW_ACCOUNT_THE_INVITE_CODE_IS_NEVERLAND": "ага... окей я тебе верю. тебе нужно зарегистрировать новый аккаунт, инвайт-код: {0}",
+  "VISUAL_NOVEL_HMM_HEY_LIZ_IMMA_BRB": "кхэммм... хей лиз.. я скоро вернусь хаха... увидимся",
+  "LYRICS_1": [
+    {
+      "start": "0:00:68",
+      "lyric": "эта журчащая река,"
+    },
+    {
+      "start": "0:02:99",
+      "lyric": "этот светящийся пруд,"
+    },
+    {
+      "start": "0:05:38",
+      "lyric": "этот горячий фонтан"
+    },
+    {
+      "start": "0:06:77",
+      "lyric": "перепол-полняется"
+    },
+    {
+      "start": "0:10:24",
+      "lyric": "все три вещи, ох, я знаю"
+    },
+    {
+      "start": "0:13:92",
+      "lyric": "я знаю..."
+    }
+  ],
+  "LYRICS_2": [
+    {
+      "start": "0:00:67",
+      "lyric": "две руки"
+    },
+    {
+      "start": "0:02:48",
+      "lyric": "держат одну и ту же"
+    },
+    {
+      "start": "0:05:60",
+      "lyric": "старую историю,"
+    },
+    {
+      "start": "0:07:69",
+      "lyric": "плохо написанную"
+    },
+    {
+      "start": "0:09:85",
+      "lyric": "можем мы"
+    },
+    {
+      "start": "0:11:34",
+      "lyric": "взять под контроль?"
+    },
+    {
+      "start": "0:13:06",
+      "lyric": "я хочу оставить все это"
+    },
+    {
+      "start": "0:16:88",
+      "lyric": "позади"
+    }
+  ],
+  "LYRICS_3": [
+    {
+      "start": "0:00:68",
+      "lyric": "проснуться в семь утра"
+    },
+    {
+      "start": "0:03:97",
+      "lyric": "это снова как рай"
+    },
+    {
+      "start": "0:07:35",
+      "lyric": "увидимся счастливыми, мой друг"
+    },
+    {
+      "start": "0:10:79",
+      "lyric": "и я не хочу, чтобы это закончилось"
+    },
+    {
+      "start": "0:14:18",
+      "lyric": "настоящий момент пролетит"
+    },
+    {
+      "start": "0:17:68",
+      "lyric": "переполненные города и улицы"
+    },
+    {
+      "start": "0:21:08",
+      "lyric": "все, кого ты повстречаешь"
+    },
+    {
+      "start": "0:24:13",
+      "lyric": "однажды уйдут"
+    }
+  ],
+  "LYRICS_4": [
+    {
+      "start": "0:01:03",
+      "lyric": "я выпивка,"
+    },
+    {
+      "start": "0:03:62",
+      "lyric": "которую ты пьешь?"
+    },
+    {
+      "start": "0:05:43",
+      "lyric": "я закуска,"
+    },
+    {
+      "start": "0:07:88",
+      "lyric": "которую ты ешь?"
+    },
+    {
+      "start": "0:09:66",
+      "lyric": "я вещь,"
+    },
+    {
+      "start": "0:12:14",
+      "lyric": "которую ты потерял?"
+    },
+    {
+      "start": "0:15:00",
+      "lyric": "потерял давно"
+    }
+  ],
+  "LYRICS_5": [
+    {
+      "start": "0:00:62",
+      "lyric": "я не хочу быть похороненным"
+    },
+    {
+      "start": "0:04:88",
+      "lyric": "шестью футами под землёй"
+    },
+    {
+      "start": "0:08:49 ",
+      "lyric": "если тебя нет рядом"
+    },
+    {
+      "start": "0:12:28",
+      "lyric": "не хочу быть одна"
+    },
+    {
+      "start": "0:15:65",
+      "lyric": "я не хочу покидать мир"
+    },
+    {
+      "start": "0:20:01",
+      "lyric": "если ты не рядом со мной"
+    },
+    {
+      "start": "0:23:57",
+      "lyric": "нет, я не хочу умирать"
+    },
+    {
+      "start": "0:27:14",
+      "lyric": "без тебя"
+    }
+  ],
+  "LYRICS_6": [
+    {
+      "start": "0:00:00",
+      "lyric": "*бренчание гитары*"
+    },
+    {
+      "start": "0:03:93",
+      "lyric": "ох черт, эм..."
+    },
+    {
+      "start": "0:05:93",
+      "lyric": "*УДАР ПО СТРУНАМ*"
+    },
+    {
+      "start": "0:07:44",
+      "lyric": "(шепотом) так"
+    },
+    {
+      "start": "0:08:91",
+      "lyric": "только один шанс,"
+    },
+    {
+      "start": "0:11:73",
+      "lyric": "и один танец"
+    },
+    {
+      "start": "0:14:76",
+      "lyric": "ощущается как неловкий"
+    },
+    {
+      "start": "0:17:49",
+      "lyric": "подростковый роман"
+    },
+    {
+      "start": "0:19:98",
+      "lyric": "это звучит как конец,"
+    },
+    {
+      "start": "0:22:61",
+      "lyric": "хотя стоит написать начало"
+    }
+  ],
+  "LYRICS_7": [
+    {
+      "start": "0:00:76",
+      "lyric": "это так забавно, как когда-то"
+    },
+    {
+      "start": "0:03:92",
+      "lyric": "это очень ясное видение"
+    },
+    {
+      "start": "0:05:95",
+      "lyric": "так забавно, как ты"
+    },
+    {
+      "start": "0:08:26",
+      "lyric": "прячешь то, о чём"
+    },
+    {
+      "start": "0:09:28",
+      "lyric": "действительно думаешь"
+    },
+    {
+      "start": "0:11:34",
+      "lyric": "мои три глаза открыты"
+    },
+    {
+      "start": "0:16:44",
+      "lyric": "я пытался,"
+    },
+    {
+      "start": "0:18:44",
+      "lyric": "но ты не рядом"
+    }
+  ],
+  "LYRICS_8": [
+    {
+      "start": "0:00:25",
+      "lyric": "пожалуйста, не говори,"
+    },
+    {
+      "start": "0:01:41",
+      "lyric": "что всё кончено"
+    },
+    {
+      "start": "0:04:56",
+      "lyric": "я положил свою удачу"
+    },
+    {
+      "start": "0:07:21",
+      "lyric": "на четырёхлистный клевер"
+    },
+    {
+      "start": "0:11:19",
+      "lyric": "не говори, что это ностальгия"
+    },
+    {
+      "start": "0:16:26",
+      "lyric": "я лучше останусь в прошлом,"
+    },
+    {
+      "start": "0:19:13",
+      "lyric": "если захочу"
+    }
+  ],
+  "NOTES": [
+    "8/24 нашла свой старый дневник и вдохновилась сделать цифровую версию!! было странно его читать, куча вещей, через которые я проходила 4 года назад звучат, будто я продолжаю идти через те же проблемы снова и снова",
+    "8/27 упс, не смогла записать, ибо пришлось готовиться к тесту!!!....",
+    "8/28 в последнее время я провожу много времени за компом. мне реально нужно выходить чаще на улицу. еще я нашла себе нового друга по имени орион!!! сегодня он показал мне новую игру.",
+    "9/2 только что увидела пост на Zanga о том, что кев совсем недавно скончался. было странно это видеть... я чувствовала себя какой-то безчувственной. так оно и было. у поста была куча комментариев типа \"rip кев\" и все в таком духе. я не знала его. хз как себя чувствовать...",
+    "9/3 я забыла. шкафчик кева раньше был прямо под моим. мне приходилось отходить в сторону, когда он приходил, я слышала его голос: \"Привет, простите\". я так привыкла к этому. когда я закрыла шкафчик, сразу поняла, что не слышу его, и мне не нужно было отходить в сторону, а после я заплакала. я не могла перестать плакать. смерть так страшна для меня. просто.. как кто то может просто исчезнуть?? каждая мелочь, связанная с этим человеком, все, что он собирался сделать завтра, кев пойдет на занятия на следующий день или кев готовится к духовной неделе на следующей неделе. все просто исчезает.",
+    "9/4 лоусон, эм и я посетили сегодня съезд Landess с 680. кто то поставил белый крест на том месте, где разбился кев и его отец. я написала кеву письмо и оставила его.",
+    "9/5 мама узнала что лоусон отвез меня в Кевс-Грейв, и чертовски разозлилась. она сказала мне на своем дурацком ломаном английском, что я преступник. она сказала, что я разрушила ее красоту тем, что родилась, и самое меньшее, что я могу сделать, это быть хорошим ребенком. После школы я засиживалась допоздна в компьютерном классе библиотеки. я излила душу ориону. я пошла домой и зашла в свою комнату. мама молчала, не сказала мне ни слова.",
+    "9/6 моя мама вчера вызвала мусоров!! она сообщила о моем исчезновении. а потом СЕГОДНЯ она снова вызвала ебаных мусоров.. сказав им арестовать меня, потому что она сказала, что я принимала наркотики вчера??? ТЬФУ ВТФ!!!",
+    "9/13 извини, компьютер.... прошло пару дней... уезжала... я провела неделю у эм.. эм такая хороша подруга. мама эм позвонила моей маме. в конце концов мы с мамой разговорились. она отвезла меня в мое любимое китайское заведение с креветками и медовыми грецкими орехами. она рассказала мне, как тяжело делать все это в одиночку и как она не понимает, как это выдерживают... иногда я могу понять маму... но большую часть времени я не могу... иногда она просто говорит очень странные вещи..... я понимаю, что она любит меня и хочет, чтобы я хорошо росла... и я люблю её тоже. и мне нравится, какой глупой она иногда может быть... но она порой говорит самые гадкие вещи которые только могут быть...",
+    "10/13 мама в гостях у бабушки. поэтому я прогуляла занятия. орион прислал мне несколько манг ужасов, ибо сейчас хэллоуин. прошлой ночью мы были одержимы поиском историй о серийных убийцах. он познакомил меня со скоттом. возможно, я скоро присоединюсь к ним.",
+    "10/31 я не хочу покидать мир... если ты не рядом со мной....."
+  ],
+  "OTHER_WORLD_LOGIN": "Войти",
+  "OTHER_WORLD_REGISTER": "Регистрация",
+  "OTHER_WORLD_EXIT": "Выход",
+  "OTHER_WORLD_BACK": "Назад",
+  "OTHER_WORLD_INVITE_CODE": "Инвайт-код",
+  "OTHER_WORLD_CONTINUE": "Продолжить",
+  "OTHER_WORLD_USERNAME": "Никнейм",
+  "OTHER_WORLD_PASSWORD": "Пароль",
+  "OTHER_WORLD_CONNECTING": "Подключение к серверу...",
+  "OTHER_WORLD_LOGGING_IN": "Вход...",
+  "OTHER_WORLD_WELCOME": "мы приветствуем вас {0}",
+  "OTHER_WORLD_INVALID": "Неверный Никнейм или Пароль",
+  "OTHER_WORLD_WHATS_YOUR_NAME": "Как тебя зовут?",
+  "VIDEO_CALL_TITLE": "WebCam - __orion__",
+  "VIDEO_CALL_REQUEST": "<b>__orion__</b> позвонил вам по видеозвонку.",
+  "VIDEO_CALL_ACCEPT": "Принять",
+  "VIDEO_CALL_DECLINE": "Отклонить",
+  "VIDEO_CALL_CONNECTING": "Подключение к звонку с <b>__orion__</b> подождите.",
+  "VIDEO_CALL_CAMERA_ON": "ВАША КАМЕРА ВКЛЮЧЕНА",
+  "VIDEO_CALL_END_CALL": "Закончить звонок",
+  "VIDEO_CALL_MUTE": "Выключить микрофон",
+  "OTHER_WORLD_CHAT_WELCOME": "<system> Добро пожаловать в Other World! Нажмите на стрелочки для передвижения. Некоторые объекты необычные, попробуйте покликать на них. Наслаждайтесь :)",
+  "OTHER_WORLD_CHAT_CREATION": "<system> Все творения находятся у тебя под рукой. О чём ты мечтаешь?",
+  "OTHER_WORLD_CHAT_NEXUS": "<system> Nexus, дом всех пользовательских миров. Загрузите свой или ознакомьтесь с огромным количеством миров, которые уже загружены!",
+  "OTHER_WORLD_CHAT_DISCO": "<system> Это Диско, самое популярное место для отвисания в Other World. Зажги танцпол и заведи себе одного, а, может, и несколько друзей..?",
+  "OTHER_WORLD_CHAT_YOU_ARENT_LIZ": "[__orion__] ты не лиз...",
+  "OTHER_WORLD_CHAT_SPHERE": "<system> Сфера, отражающая Креативность. То, что поддерживает нашу жизнь.",
+  "OTHER_WORLD_CHAT_CUBE": "<system> Куб, отражающий Сообщество. То, что соединяет нас всех.",
+  "OTHER_WORLD_CHAT_PYRAMID": "<system> Пирамида, отражающая Структуру. То, что держит нас всех вместе.",
+  "OTHER_WORLD_CHAT_DISCO_BALL": "<system> Танцуй всю ночь! Other World всегда полон людьми для знакомств и танцев.",
+  "OTHER_WORLD_CHAT_STATUE": "<system> .акызум теарги адгесв ьседЗ",
+  "OTHER_WORLD_CHAT_CLOCK": "<system> Часы тикают!",
+  "OTHER_WORLD_CHAT_ALONEGURL_OH_HELLO_FRIEND": "[alonegurl15] привет... друг..",
+  "FILE_BROWSER_ME_JPG": "me.jpg",
+  "FILE_BROWSER_ME_AND_MY_BF_JPG": "me_and_best_friend.jpg",
+  "FILE_BROWSER_WALLPAPERS_FOLDER": "Обои",
+  "FILE_BROWSER_DESKTOP_FOLDER": "Рабочий стол",
+  "FILE_BROWSER_PICTURES_FOLDER": "Изображения",
+  "FILE_BROWSER_GO_BACK": "Назад",
+  "FILE_BROWSER_OPEN": "Открыть",
+  "FILE_BROWSER_CANCEL": "Отмена",
+  "FILE_BROWSER_TITLE_UPLOAD_WORLD": "Загрузи свой мир!",
+  "OTHER_WORLD_CHAT_UPLOAD_WORLD_ERROR": "<system> Только *.world файлы разрешены для загрузки.",
+  "OTHER_WORLD_CHAT_HOUSE_INTRO": "<system> Перед вами Дом Бафомета; Место, соединяющее миры внутри миров. Чтобы войти, вы должны следовать указаниям тех, кто был здесь до вас.",
+  "OTHER_WORLD_DOOR_PUZZLE_SHORT_KNOCK": "<system> *стук*",
+  "OTHER_WORLD_DOOR_PUZZLE_LONG_KNOCK": "<system> *СТУУУУУК!*",
+  "OTHER_WORLD_DOOR_PUZZLE_FOUR_PORTRAITS": "<system> Хоть мы и потеряли наших друзей во внешних мирах, они никогда не будут забыты здесь, в нашем виртуальном мире. Почтите их память, нажав на их портреты.",
+  "OTHER_WORLD_DOOR_PUZZLE_GREGG": "<system> RIP Грегг. 3 июля, 1956 - 11 сентября, 2001 \"Биты и байты всего лишь единицы и нули, два состояния бытия; включенное и выключенное, тихое и громкое, короткое и долгое. Но в этих двух состояниях они заключают в себе вечность.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_AURORA": "<system> RIP Аврора. 1 января, 1975 - 31 декабря, 1999 \"Посмотри, как сияют звезды. Посмотри на их мерцание.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_SAHRA": "<system> RIP Сахра. 4 апреля, 1978 - 13 марта, 2002 \"Возможность - это стук в дверь, но иногда требуется несколько стуков.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_JORDEN": "<system> RIP Джордан. 3 августа, 1988 - 11 сентября, 2001 \"Либо мы сдаёмся, либо держимся. Иногда, удерживая кнопку, можно получить результат, отличный от простого нажатия..\"",
+  "OTHER_WORLD_STATUE_PUZZLE_INTRO": "<system> Дверь за вами закрывается. Орден Бафомета предназначен только для тех, кому суждено сбежать из нашего смоделированного мира грёз. Все статуи должны быть благословлены в соответствии с требованиями Ордена. Одна статуя жадная и требует нескольких благословений.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_GOAT": "<system> Вы благословили козла.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_LION": "<system> Вы благословили льва.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_OX": "<system> Вы благословили быка.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_EAGLE": "<system> Вы благословили орла.",
+  "OTHER_WORLD_STATUE_PUZZLE_SOLVED": "<system> Вы достаточно разумны. Дверь открывается за статуей.",
+  // "Dreadfully distinct against the dark" is a reference to Blade Runner 2049: https://youtu.be/ZRcpnM26nJM?t=17
+  "OTHER_WORLD_FOUNTAIN_PUZZLE_INTRO": "<system> Мы продолжаем писать, и они отчетливо выделяются на фоне темноты. Каллиграфия кровью, фонтан пишет свой знак. Письма для наших любимых, буквы, которые формируются потоком. Мы нажимаем кирпичик за кирпичиком, и время мгновенно уходит.",
+  "OTHER_WORLD_FOUNTAIN_PUZZLE_SOLVED": "<system> Дверь появляется.",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_1": "Чьей связи вы доверяете больше всего?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_2": "Кто твое безответное желание?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_3": "Кто является единственным распорядителем вашей судьбы?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_FAILURE": "<system> Ничего не происходит. Может быть, твоя дань не отражает твоих истинных чувств?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_SUCCESS": "<system> Ваша дань уважения принята.",
+
+  "ENDING_WARNING": "ВНИМАНИЕ! Дань не соответствует ауре жизни. Перекрытие.",
+  // Liz:
+  "ENDING_HOW_LONG_HAS_IT_BEEN": "как... давно это было?",
+  "ENDING_THANK_U_FOR_UPLOADING_THOSE_PICTURES": "спасибо тебе за загрузку этих фотографий",
+  "ENDING_WONDERED_IF_I_WOULD_SEE_THEM": "я задавалась вопросом, увижу ли я когда-нибудь их лица снова",
+  "ENDING_I_EVEN_FORGOT_WHAT_I_USED_TO_LOOK_LIKE": "я даже забыла, как я выглядела раньше...",
+  "ENDING_HAVENT_SEEN_ANOTHER_PERSON": "я давно не видела здесь другого человека",
+  // Implies that some separate system has logged onto your account.
+  "ENDING_SYSTEM_ACTION_ERROR": "<system> Это действие не может быть выполнено, так как вы вошли в систему на другом компьютере.",
+  "ENDING_YOU_ARE_OFFLINE": "<system> Вы не в сети.",
+  "ENDING_YOU_ARE_ONLINE": "<system> Вы в сети.",
+  // Liz:
+  "ENDING_A_LONG_TIME_AGO_I_WAS_APPROACHED_BY_A_MAN": "давным-давно... ко мне подошел мужчина...",
+  "ENDING_HE_PROMISED_ME_FOREVER": "он обещал мне вечность.",
+  "ENDING_I_GOT_INTO_A_FIGHT_WITH_MY_MOTHER": "я поругалась с мамой",
+  "ENDING_SO_I_DECIDED_TO_UPLOAD_MYSELF_ONTO_THE_INTERNET": "поэтому я решила загрузить себя в интернет",
+  "ENDING_I_UPLOADED_MYSELF_ONTO_THIS_GAME": "я загрузила себя в эту... игру",
+  "ENDING_AT_FIRST_IT_WAS_GREAT": "сначала это было здорово",
+  "ENDING_WE_CREATED_SO_MANY_BEAUTIFUL_THINGS_HERE": "мы создали здесь столько прекрасного",
+  "ENDING_THE_WORLD_USED_TO_BE_CROWDED": "раньше этот мир был жив, и каждый день можно было встретить так много новых лиц",
+  "ENDING_BUT_NOW": "но сейчас...",
+  // Profiles that pop up.
+  "ENDING_POPUP_PROFILE_TITLE": "Профиль - {0}",
+  "ENDING_POPUP_LOADING": "Загрузка...",
+  "ENDING_POPUP_LAST_SEEN": "Был в сети {0} дней назад.",
+  "ENDING_POPUP_MESSAGE_BUTTON": "Сообщения",
+  "ENDING_POPUP_BLOCK_BUTTON": "Заблокировать",
+  // Liz:
+  "ENDING_THE_WORLD_OUT_THERE_CHANGES": "мир меняется",
+  "ENDING_PEOPLE_LEAVE_GROW_OLD": "люди уходят, стареют, меняют интересы",
+  "ENDING_OTHER_WORLD_STAYS_THE_SAME": "но other world остается прежним. навсегда",
+  // Server Browser
+  "ENDING_SERVER_BROWSER_TITLE": "Список серверов",
+  "ENDING_SERVER_BROWSER_REFRESH_BUTTON": "Обновить",
+  "ENDING_SERVER_BROWSER_CLOSE_BUTTON": "Закрыть",
+  "ENDING_SERVER_BROWSER_SERVER_NAME": "Название",
+  "ENDING_SERVER_BROWSER_PLAYERS_IN_SERVER": "Игроков",
+  "ENDING_SERVER_BROWSER_SERVER_PING": "Задержка",
+  // Liz:
+  "ENDING_WITHOUT_THE_PLAYERS_WORLDS_ARE_GONE": "без игроков все миры, созданные игроками, исчезнут",
+  "ENDING_EVERYONE_RITUAL_DELETED_THEMSELVES": "в конце концов, все, кто совершал ритуал, старались удалить себя",
+  "ENDING_HOW_IS_A_SOUL_STORED_IN_A_FILESYSTEM": "но как душа хранится в файловой системе?",
+  "ENDING_I_HEAR_THEM": "иногда я слышу, как они кричат. их сознание слилось с каким-то произвольным системным файлом",
+  "ENDING_THIS_PLACE_IS_ALL_I_HAVE_LEFT": "это место - все, что у меня осталось",
+  "ENDING_ALL_THINGS_DETERIORATE_EVEN_THIS": "все портится. даже это.",
+  "ENDING_HOW_COULD_WE_HAVE_KNOWN": "откуда мы могли знать?",
+  // Liz, now <system>, becomes part of Other World:
+  "ENDING_I_MISS_EMILY": "<system> я скучаю по эмили",
+  "ENDING_I_MISS_GOING_ON_THE_COMPUTER_WITH_HER": "<system> я скучаю по тому, как сидела с ней за компьютером и мы играли в флеш-игры",
+  "ENDING_SLEEPING_OVER_WATCHING_TV_SHOWS": "<system> ночевка, совместный просмотр сериалов",
+  "ENDING_I_WONDER_WHO_SHE_GREW_UP_TO_BECOME": "<system> интересно, кем она стала?",
+  "ENDING_I_MISS_LAWSON": "<system> я скучаю по лоусону",
+  "ENDING_I_MISS_TALKING_TO_HIM": "<system> я скучаю по разговорам о своих проблемах с ним",
+  "ENDING_I_MISS_HOW_COMFORTING_HE_WAS": "<system> я скучаю по тому, как он утешал меня",
+  "ENDING_I_DONT_WANT_HIM_TO_SEE_ME_LIKE_THIS": "<system> я не хочу, чтобы он видел меня такой.",
+  "ENDING_I_MISS_MY_MOM": "<system> я скучаю по своей маме",
+  "ENDING_I_MISS_OUR_STUPID_FIGHTS": "<system> я скучаю по нашим дурацким спорам",
+  "ENDING_ITS_ALL_SO_MEANINGLESS_NOW": "<system> теперь все это так бессмысленно. если бы я только могла понять, насколько это временно",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_BAD_GRADES": "<system> раньше я боялась получить плохие оценки",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_NOT_LOOKING_PRETTY": "<system> раньше я боялась выглядеть недостаточно красиво",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_DISAPPOINTING_PEOPLE": "<system> раньше я боялась разочаровать людей",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_DEATH": "<system> раньше я боялась смерти",
+  "ENDING_BUT_NOW_2": "<system> но сейчас..",
+  "ENDING_IM_AFRAID_OF_FOREVER": "<system> я боюсь вечности",
+  "ENDING_BUT_YOURE_HERE_NOW_ARENT_YOU": "<system> но... ты уже здесь, не так ли?",
+  "ENDING_YOU_PERFORMED_THE_RITUAL": "<system> ты провёл ритуал",
+  "ENDING_ONLY_A_FEW_MINUTES_UNTIL_YOU_JOIN_ME": "<system> осталось всего несколько минут до того, как ты присоединишься ко мне",
+  "ENDING_AND_THEN_I_WONT_BE_ALONE": "<system> и тогда я буду не одна",
+  "ENDING_FOREVER": "<system> навсегда.",
+
+  // Facegram
+  "ENDING_FACEGRAM_TITLE": "facegram - {0}",
+  "ENDING_FACEGRAM_POSTS_COUNT": "Публикации",
+  "ENDING_FACEGRAM_FOLLOWERS_COUNT": "Подписчики",
+  "ENDING_FACEGRAM_FOLLOWING_COUNT": "Подписки",
+  "ENDING_THIS_ACCOUNT_IS_PRIVATE": "Эта учетная запись закрыта. Подождите, пока ваш запрос на подписку не будет одобрен.",
+
+  // Lawson:
+  "ENDING_USER_IS_ONLINE": "{0} сейчас в сети",
+  "ENDING_HEY_LIZ": "эй лиз...",
+  "ENDING_I_KEEP_SEEING_YOUR_ACCOUNT_ONLINE_AND_OFFLINE": "я продолжаю видеть твой аккаунт онлайн и офлайн",
+  "ENDING_IVE_BEEN_MESSAGING_YOU_EVERY_YEAR": "я пишу тебе каждый год с тех пор как ты ушла, надеясь, что ты ответишь.",
+  "ENDING_I_VISITED_YOU_TODAY": "я посетил тебя сегодня. я оставил несколько цветов и немного мамбы.",
+  "ENDING_I_DECIDED_THAT_ITS_TIME_TO_MOVE_ON": "я решил, что пора двигаться дальше.",
+  "ENDING_YOURE_NOT_COMING_BACK_ARE_YOU_LIZ": "ты ведь не вернешься, не так ли, лиз?",
+  "ENDING_IVE_MISSED_YOU_SO_MUCH": "я очень скучаю по тебе.",
+  "ENDING_GOODBYE": "пока.",
+
+  // Liz ending popup spam:
+  "ENDING_NO": "НЕТ",
+  "ENDING_DONT_LEAVE_ME": "НЕ ОСТАВЛЯЙ МЕНЯ",
+  "ENDING_I_DONT_WANT_TO_BE_ALONE": "Я НЕ ХОЧУ БЫТЬ ОДНА",
+
+  // Error Messages
+  "ENDING_ERROR_MEMORYBOUNDS_EXCEEDED": "Ошибка: Недостаточно оперативной памяти.",
+  "ENDING_ERROR_SEGMENTATION_FAULT": "Проблема сегментации.",
+
+  // Task Manager
+  "ENDING_TASK_MANAGER_TITLE": "Диспетчер задач",
+  "ENDING_TASK_MANAGER_WARNING": "Предупреждение: Высокое использование ОЗУ",
+  "ENDING_TASK_MANAGER_PROGRAM": "Программа",
+  "ENDING_TASK_MANAGER_USAGE": "Исп.",
+
+  // Final Error Message
+  "ERROR_REPORT_OTHER_WORLD_HAS_ENCOUNTERED_A_PROBLEM": "Other World столкнулся с проблемой и должен быть закрыт. Приносим извинения за доставленные неудобства.",
+  "ERROR_REPORT_IF_YOU_WERE_IN_THE_MIDDLE_OF_SOMETHING": "Если вы работали над чем-то, то информация, над которой вы работали, могла быть утеряна.",
+  "ERROR_REPORT_PLEASE_TELL_OTHER_WORLD_ABOUT_THIS_PROBLEM": "Пожалуйста, сообщите Other World об этой проблеме.",
+  "ERROR_REPORT_WE_HAVE_CREATED_AN_ERROR_REPORT": "Мы создали отчет об ошибках, который вы можете отправить нам. Мы будем рассматривать этот отчет как конфиденциальный и анонимный.",
+  "ERROR_REPORT_BUTTON_1": "Сообщить об ошибке",
+  "ERROR_REPORT_BUTTON_2": "Закрыть",
+
+  // Translation Credits
+  "SHOW_TRANSLATION_CREDITS": true,
+  "CREDITS_TITLE": "Переведено на русский",
+  // Put as many credits here as you want.
+  // Please don't put a virus here :(
+  // NO VIRUS MY DEAR BRO!!! JUST LINK TO MY SOCIAL ACCOUNT!!! Thanks for this awesome game!!! <3
+  // JustKekc approves the message above
+  "CREDITS": [
+    {
+      "name": "Discord",
+      "website": "https://discord.com/channels/1183870459687743590/1255977059528872028"
+    },
+    { "name": "pxlus", "website": "https://vk.com/pxlus" },
+    { "name": "imnuclearimwild", "website": "https://vk.com/imnuclearimwild" }
+  ],
+
+  "CLICK_TO_REPLAY": "Нажмите, чтобы Начать с Начала",
+
+  // April 23, additional lines:
+  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "Что-то в двери меняется... Ты что-то сделал, или часть чего-то...",
+  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "Дверь открывается.",
+
+  // June 24
+  "ORION_IS_TYPING": "__orion__ печатает...",
+  "SCROLL_TO_TOP": "Наверх",
+  "SERVERS_EMPTY": "ПУСТО",
+  "SERVERS_UPLOAD": "Нажмите здесь, чтобы загрузить мир",
+  "SERVERS_USER_WORLD": "<user world>",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_1": "Дом",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_2": "Бафомета",
+
+  "TRIBUTES_BOND_LINE_1": "чьим узам",
+  "TRIBUTES_BOND_LINE_2": "ты доверяешь",
+  "TRIBUTES_BOND_LINE_3": "больше всего?",
+
+  "TRIBUTES_UNREQUITED_LINE_1": "какое твоё",
+  "TRIBUTES_UNREQUITED_LINE_2": "безответное",
+  "TRIBUTES_UNREQUITED_LINE_3": "желание?",
+
+  "TRIBUTES_FATE_LINE_1": "кто такой",
+  "TRIBUTES_FATE_LINE_2": "творец",
+  "TRIBUTES_FATE_LINE_3": "своей судьбы?",
+
+  // Ignore this last line, it's so each line can have a comma at the end.
+  "": null
+}

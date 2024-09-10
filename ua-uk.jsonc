@@ -615,9 +615,13 @@
   // Put as many credits here as you want.
   // Please don't put a virus here :(
   "CREDITS": [
+    {
+      "name": "Discord",
+      "website": "https://discord.com/channels/1183870459687743590/1256008114075865142"
+    },
     { "name": "koteika nik", "website": "https://koteika-nik.itch.io/" },
     { "name": "koteika nik", "website": "mr.magnifikent (discord)" }
-// Optional website.
+    // Optional website.
   ],
 
   "CLICK_TO_REPLAY": "Натисніть щоб Почати Знову",
