@@ -1,0 +1,623 @@
+// I've documented a couple things here.
+// You don't have to translate everything, but I included
+// as much as I can just in case.
+{
+  "NAME": "Tieng Viet",
+  "FONT_FAMILY": "PixeloidSans, MadouFutoMaruGothic, Courier New",
+  "TITLE_TEXT": "lần cuối trực tuyến",
+  // INTRO_TEXT_1 and INTRO_TEXT_2 ideally should have the same
+  // letters as TITLE_TEXT but it's okay if not.
+  // I will program in a way for it to work without.
+  "INTRO_TEXT_1": "có một lần bạn thấy cái máy tính ở khu bán đồ cũ.",
+  "INTRO_TEXT_2": "nên bạn \"mượn\" và bật nó lên.",
+  "CONTINUE_BUTTON": "tiếp",
+  "PASSWORD_TEXT": "Password:",
+  "PASSWORD_HINT": "Gợi ý: tên của chú đầy lông và ngày sinh của t",
+  // Optional:
+  "LOGGING_IN": "đang đăng nhập...",
+  // Optional:
+  "WELCOME_BACK": "xin chào...",
+  "DESKTOP_SHORTCUT_BUDDYLIST": "Danh sách bạn bè",
+  // Don't change LoseAmp Player name.
+  // Kept here for consistency.
+  "DESKTOP_SHORTCUT_LOSEAMP_PLAYER": "LoseAmp Player",
+  "DESKTOP_SHORTCUT_OTHER_WORLD": "Thế giới khác biệt",
+  "DESKTOP_SHORTCUT_ZIP": "photoschobạn.zip",
+  "UNZIPPER_TITLE": "UnZipper - photoschobạn.zip",
+  "UNZIPPER_TEXT": "ZIP file này được bảo vệ bởi mật mã 4 số",
+  "UNZIPPER_UNLOCK_BUTTON": "Mở khóa",
+  "UNZIPPER_INCORRECT_PASSWORD": "Sai mật khẩu. Vui lòng thử lại.",
+  // Optional:
+  "BUDDYLIST_SIGN_ON": "Đăng nhập",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_1": "1. Dùng mật khẩu đã lưu...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_2": "2. Đang kết nối...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_3": "3. Bật dịch vụ..",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_4": "4. Đã kết nối.",
+  "BUDDYLIST_CHAT_WINDOW_TITLE": "{0} - Trò truyện",
+  "USER_IS_OFFLINE": "Người dùng nầy đang ngoại tuyến, vui lòng đợi đến khi họ đăng nhập.",
+  // <LIZ> colors the line of chat blue.
+  // <SYSTEM> colors the line of chat gray.
+  // <...ANYTHING ElSE> colors the line of chat red.
+  "LAWSON_CHATLOG": [
+    "<LAWSON>: Hayyy :) hôm nay m như thế nào??????",
+    "<LIZ>: gud",
+    "<LAWSON>: gud?? m đang làm gì v?",
+    "<LIZ>: t chỉ vừa nghe nhạc và choi ggames.. còn m??",
+    "<LAWSON>: t cũg thế... t đang phải học cho kiểm tra đại số hoặc mẹ t bắn bỏ t :((",
+    "<LIZ>: chả phải mẹ m vừa mắng m một trận hôm trước à?",
+    "<LAWSON>: ừ... nhưng t nghĩ t có thể làm tốt hơn",
+    "<LIZ>: :((( m đang làm hết sức m mà!! đừng để mẹ m bắn bỏ m. mẹ t cũng vừa tét đít tao...",
+    "<LAWSON>: m cũng vậy hả?? m nói t nghe nó như thế nào đi!!",
+    "<LIZ>: cứ nói với t rằng t rất giống bố t... nó không phải tội của t.... mỗi ngày chỉ mắng và mắng...",
+    "<LAWSON>: ôi thật là thô bạo... vâng, đã lâu rồi t mới gặp bố t.. t thắc mắc bố t làm gì và ở đâu r...",
+    "<LAWSON>: T phải đi rồi nhưng, t thực sự thích nói chuyện với m... Chúc m buổi tối tốt lành!!",
+    "<SYSTEM>: aznL4ws0n đã ngoại tuyến",
+    "<SYSTEM>: aznL4ws0n đã trực tuyến",
+    "<LAWSON>: Đồng chí đã làm xong bài tập đại số chưa?",
+    "<SYSTEM>: aznL4ws0n đã ngoại tuyến",
+    "<SYSTEM>: aznL4ws0n đã trực tuyến",
+    "<LAWSON>: Hei họ cứ nói những điều đó ở trường, m ổn chứ?",
+    "<SYSTEM>: aznL4ws0n đã ngoại tuyến",
+    "<SYSTEM>: aznL4ws0n đã trực tuyến",
+    "<LAWSON>: T biết m không muốn nói về điều đó nhưng t chỉ muốn đảm bảo rằng m ổn thôi",
+    "<SYSTEM>: aznL4ws0n đã ngoại tuyến",
+    "<SYSTEM>: aznL4ws0n đã trực tuyến",
+    "<LAWSON>: Nhớ m lắm",
+    "<SYSTEM>: aznL4ws0n đã ngoại tuyến",
+    "<SYSTEM>: aznL4ws0n đã trực tuyến",
+    "<LAWSON>: T vừa nhận điểm C+ ở bài kiểm tra đại số :(",
+    "<SYSTEM>: aznL4ws0n đã ngoại tuyến",
+    "<SYSTEM>: aznL4ws0n đã trực tuyến",
+    "<LAWSON>: Hôm nay t có cãi nhau với mẹ, nhưng không sao cả... Hy vọng m đang ổn.",
+    "<SYSTEM>: aznL4ws0n đã ngoại tuyến",
+    "<SYSTEM>: aznL4ws0n đã trực tuyến",
+    "<LAWSON>: Vừa nhận vào trường mơ ước của chúng ta r! <3",
+    "<SYSTEM>: aznL4ws0n đã ngoại tuyến",
+    "<SYSTEM>: aznL4ws0n đã trực tuyến",
+    "<LAWSON>: Hôm nay thấy một con chó, trông giống Scotty lắm :)",
+    "<SYSTEM>: aznL4ws0n đã ngoại tuyến"
+  ],
+  "SCOTT_CHATLOG": [
+    "<SCOTT>: Xin chào. Đây là Đạt, ở Thế giới khác. m có muốn thêm t không?",
+    "<LIZ>: Tất nhiên!! (=^o^=) Vậy m nói gì về nó. Nghi thức đó... t đã suy nghĩ về nó. Nó sẽ giúp t ra đi chứ?",
+    "<SCOTT>: À, đúng rồi. Nghi thức Baphomet. t sẽ mô tả nó như là mã Konami của vũ trụ. Nó sẽ không giúp m rời đi, nhưng nó sẽ đưa tâm ý bạn... mã của bạn... vào sự giác ngộ. t có thể cho bạn thấy mãi mãi.",
+    "<LIZ>: Hmm, ok. m cũng có tên giống với con chó của t hahaha",
+    "<SYSTEM>: scottNJ đã ngoại tuyến",
+    "<SYSTEM>: scottNJ đã trực tuyến",
+    "<SCOTT>: m đã nhận được liên kết từ trò chơi của t chưa?",
+    "<LIZ>: Vậy là đây à??? m chắc nó hoạt động chứ???",
+    "<SCOTT>: m là người đã nhờ t giúp đỡ. Con đường hướng tới sự thanh thản vĩnh cửu nằm ở đây. m có tìm kiếm hạnh phúc vĩnh cửu hay không?",
+    "<SYSTEM>: scottNJ đã ngoại tuyến",
+    "<SYSTEM>: scottNJ đã trực tuyến",
+    "<SCOTT>: Quá trình đã bắt đầu, m sẵn sàng chưa?",
+    "<LIZ>: Ừ... nhưng t hơi sợ",
+    "<SCOTT>: Đừng sợ, bé nhỏ. T sẽ gặp m sớm thôi",
+    "<SYSTEM>: scottNJ đã ngoại tuyến",
+    "<SYSTEM>: scottNJ đã trực tuyến",
+    "<LIZ|CORRUPTED>: M ĐÃ HỨA RẰNG M KO BỎ T RỒI MÀ"
+  ],
+  "ETERNALJUICE_CHATLOG": [
+    "<ETERNAL_JUICE>: a/s/l?",
+    "<LIZ>: t mới 14 tuổi thôi...",
+    "<ETERNAL_JUICE>: mật hoa ngọt ngào của tuổi trẻ, anh nóng lòng chờ đợi em đến với chúng ta",
+    "<LIZ>: m làm sao thế??????????????"
+  ],
+  "EMMBER_CHATLOG": [
+    "<LIZ>: Lawson cute vãiiii :(:(:(:(:(",
+    "<EMMBER>: m đừng mời Lawson đi chơi nhé!!! t xin m đấy!!!",
+    "<LIZ>: ko thể nào Lawson thích t... t ko xinh đẹp lắm đâu...",
+    "<EMMBER>: cía gì!! m sinh đẹp mà ....",
+    "<LIZ>: =.= mẹ t nói t ko có mũi của mẹ t, t có mũi to vcl của bố tao.! t ghét nó lắm",
+    "<EMMBER>: đừng nghe mẹ m, m xiiinh đẹp mà (^_^)",
+    "<LIZ>: t chỉ muốn chạy trốn thui... t ghét nó mắl",
+    "<EMMBER>: awww dù Lawson ko thích m t cũng mãi mãi yêu m!!! BFF!!!",
+    "<SYSTEM>: xXemmberXx86 đã ngoại tuyến",
+    "<SYSTEM>: xXemmberXx86 đã trực tuyến",
+    "<LIZ>: m t định tịch thu máy tính để bàn của t. nhưg t có cách.",
+    "<EMMBER>: t đang học, có chuyện gì vậy?? mẹ của m kỳ lạ vãi!!",
+    "<SYSTEM>: xXemmberXx86 đã ngoại tuyến",
+    "<SYSTEM>: xXemmberXx86 đã trực tuyến",
+    "<EMMBER>: Liz ơi m nói chuyện với t tận 2 tuần liền, m làm sao thế?? mẹ m tịch thu máy thật à???",
+    "<LIZ>: không!! t chỉ nói chuyện với bạn t thấy ở overworld!!",
+    "<SYSTEM>: xXemmberXx86 đã ngoại tuyến",
+    "<SYSTEM>: xXemmberXx86 đã trực tuyến",
+    "<LIZ>: t làm đc r. t đã biết cách ra khỏi đây mãi mãi r.",
+    "<EMMBER>: m định đi đâu à? paris?",
+    "<LIZ>: t vừa gửi ảnh m nhận dc chưa?",
+    "<LIZ>: tao làm những cách đó cho orion.. và t sẽ a me ri ca.",
+    "<EMMBER>: ZIP file? nó cần 4 số mà???",
+    "<LIZ>: -_- nó là 4 bản nhạc trên LoseAmp playlist!!",
+    "<EMMBER>: t ko biết, m có 8 bản nhạc.",
+    "<LIZ>: m vẫn còn dùg <b>hình nền</b> đó à?? đóng mọi cửa sổ ngoài LoseAmp, hình nền đó sẽ cho m biết.",
+    "<EMMBER>: O_O !! sô crâzy!! omg <b>t vừa di chuyển cửa sổ r đó.</b> r sao??",
+    "<LIZ>: nghe lyrics!!",
+    "<EMMBER>: ooooOOo bây giờ m thông minh lắm đó, thông minh vãi cức ^_^",
+    "<EMMBER>: m có ảnh của Lawson trong đó à??????",
+    "<LIZ>: Khoongggggg!!! T LỠ TAY THÔI MÀ!!!",
+    "<EMMBER>: ... mấy cái này là ảnh...",
+    "<LIZ>: và m có quan tâm không?",
+    "<SYSTEM>: xXemmberXx86 đã ngoại tuyến",
+    "<SYSTEM>: xXemmberXx86 đã trực tuyến",
+    "<LIZ|CORRUPTED>: EMILY NÓ HOẠT ĐỘNG RỒI!!",
+    "<EMMBER>: ai đây??",
+    "<LIZ|CORRUPTED>: LÀ TAO, Liz, T VẪN ĐANG HỌC CÁCH DÙNG CÁI NÀY",
+    "<EMMBER>: nghe đây t ko biết m đang làm cái chó gì t block m đây (￣y▽,￣)╭ ."
+  ],
+  "ORION_CHATLOG": [
+    "<LIZ>: m đã xem jenni's new world chưa??",
+    "<ORION>: t xem rồi. chị ấy chắc chắn mất rất nhiều thời gian.",
+    "<LIZ>: vào một ngày t sẽ thử làm",
+    "<ORION>: có thể haha",
+    "<ORION>: xem này: RED_HERRING_EXE",
+    "<LIZ>: có phải đây từ otherworlld ko???",
+    "<ORION>: ko nó chỉ là art project, t ko nghĩ nó làm dc gì cả.",
+    "<SYSTEM>: __orion__ đã ngoại tuyến",
+    "<SYSTEM>: __orion__ đã trực tuyến",
+    "<ORION>: m đã thử /info ở trong otherworld chat chưa?? nó cho m xem m mất bao nhiêu thời gian ko chạm cỏ đó",
+    "<LIZ>: 849 giờ...",
+    "<SYSTEM>: __orion__ đã ngoại tuyến",
+    "<SYSTEM>: __orion__ đã trực tuyến",
+    "<ORION>: NÓ HOẠT ĐỘNG R!!! LÊNN OTHERWORLD NGAY ĐI!!!",
+    "<SYSTEM>: __orion__ đã ngoại tuyến",
+    "<SYSTEM>: __orion__ đã trực tuyến"
+  ],
+  "VISUAL_NOVEL_HEY_IS_THIS_LIZ": "đây có phải Liz ko???",
+  "VISUAL_NOVEL_YEAH_THIS_IS_LIZ": "vâng.. đây là Liz...",
+  "VISUAL_NOVEL_OH_INTERESTING_SO_STRANGE_TO_SEE_YOU_HERE": "ồ... thật kì là khi nhìn m ở...đây...",
+  "VISUAL_NOVEL_UM_YEAH_JUST_TOOK_A_LONG_BREAK": "ừ, t vừa nghỉ ngơi lâu dài thôi.",
+  "VISUAL_NOVEL_I_DONT_KNOW_WHAT_YOU_MEAN": "ý m là sao?",
+  "VISUAL_NOVEL_WELL_GLAD_YOURE_BACK_IVE_MISSED_YOU": "t rất vui khi gặp lại m. t nhớ m lắm.",
+  "VISUAL_NOVEL_IVE_MISSED_YOU_TOO": "t cũng nhớ m lắm",
+  "VISUAL_NOVEL_CAN_YOU_REMIND_ME_WHO_THIS_IS": "ai vậy?",
+  "VISUAL_NOVEL_ITS_ORION_WE_USED_TO_BE_GOOD_FRIENDS_IM_SURPRISED_YOU_DONT_REMEMBER_ME_THATS_FINE": "orion đây! chúng ta là bạn thân mà. t thật ngạc nhiên m ko nhớ t. không sao!",
+  "VISUAL_NOVEL_ANYTHING_I_CAN_HELP_YOU_WITH": "t cần giúp m gì không?",
+  "VISUAL_NOVEL_DO_YOU_KNOW_THE_PASSCODE_FOR_PHOTOS4EMZIP": "m biết mật khẩu của photoschobạn.zip không?",
+  "VISUAL_NOVEL_HMM_I_DONT_REMEMBER_TRY_DIGGING_THROUGH_YOUR_OLD_CHATLOGS_MAYBE_YOU_SENT_IT_TO_SOMEONE": "hmm... t không nhớ, thử xem chat cũ của m đi. có thể m gửi cho ai đó",
+  "VISUAL_NOVEL_OKAY_ILL_TRY_THAT_OUT": "t sẽ thử",
+  "VISUAL_NOVEL_WHATS_OTHER_WORLD": "Thế giới khác biệt.. là gì?",
+  "VISUAL_NOVEL_YOU_GOTTA_BE_JOKING_YOU_DONT_REMEMBER_ITS_THE_GAME_WE_PLAYED_WHEN_WE_WERE_KIDS_ARE_YOU_SURE_THIS_IS_LIZ": "m đùa à! m không nhớ à? đấy là game chúng ta chơi từ nhỏ mà. m chắc đây là Liz ko?",
+  "VISUAL_NOVEL_YES_IM_SURE_HOW_DO_I_GET_IN": "t chắc chắn, t vào kiểu nào?",
+  "VISUAL_NOVEL_JUST_TO_MAKE_SURE_YOU_ARE_WHO_YOU_SAY_YOU_ARE_CAN_YOU_TELL_ME_THE_ORDER_OF_THE_FOUR_EVENTS_DURING_OUR_FINAL_RITUAL": "để chắc chắn đây là Liz... m có thể nói với t 4 bước chúng ta làm ở nghi thức bafoneaysgisa không?",
+  "VISUAL_NOVEL_ILL_TRY_TO_REMEMBER": "t sẽ thử",
+  "VISUAL_NOVEL_I_DONT_REMEMBER": "t không nhớ!!!!!",
+  "VISUAL_NOVEL_THAT_S_OKAY_TAKE_YOUR_TIME": "không sao, cứ dùng thời gian của m đi",
+  "VISUAL_NOVEL_OKAY": "ok",
+  "VISUAL_NOVEL_SO_REMIND_ME_WHAT_HAPPENED": "vậy, lói đi",
+  "VISUAL_NOVEL_THAT_MIGHT_BE_RIGHT_THAT_MIGHT_BE_WRONG_WHAT_NEXT": "có thể đúng, tiếp?",
+  "VISUAL_NOVEL_OK_COULD_BE_WHAT_HAPPENED_BUT_I_WONT_TELL_YOU_WHAT_THEN": "có thể xảy ra nhưng t ko nói với m, tiếp?",
+  "VISUAL_NOVEL_AND_FINALLY": "cuối cùng?",
+  "VISUAL_NOVEL_WE_BLESSED_THE_STATUE": "chúng ta cầu nguyện cho bức tượn",
+  "VISUAL_NOVEL_WE_LIT_CANDLES_FOR_OUR_TRIBUTES": "ta thắp nến tưởng nhớ cho cống phẩm của chúng ta",
+  "VISUAL_NOVEL_WE_GAZED_UPON_THE_FOUNTAIN": "ta nhìn vào đài phun nước",
+  "VISUAL_NOVEL_WE_FOUGHT_THE_LOST_BOYS": "ta đã chiến đấu với những cậu bé đi lạc",
+  "VISUAL_NOVEL_WE_RESPECTED_THE_FOUR_FALLEN": "ta kính trọng bốn người sa ngã",
+  "VISUAL_NOVEL_WE_SUNG_AWAY_OUR_AGE": "ta hát đi tuổi của ta",
+  "VISUAL_NOVEL_HOLD_ON_MY_MEMORY_IS_JUST_FUZZY": "trí nhớ của t đang có vấn đề...",
+  "VISUAL_NOVEL_SURE_TAKE_YOUR_TIME_YOU_CAN_PROBABLY_FIND_SOMETHING_ON_YOUR_COMPUTER_TO_HELP_YOU_REFRESH_YOUR_MEMORY": "được~ m có thể tìm thứ gì đó giúp m có lại trí nhớ",
+  "VISUAL_NOVEL_THANKS_ILL_TRY_AGAIN": "được",
+  "VISUAL_NOVEL_I_DONT_THINK_THATS_IT": "t ko nghĩ... thế...",
+  "VISUAL_NOVEL_HMM_OKAY_I_BELIEVE_U_FOR_NOW_YOU_NEED_TO_REGISTER_A_NEW_ACCOUNT_THE_INVITE_CODE_IS_NEVERLizD": "hmm... được r t tin m. m cần đăng kí, mã mời là {0}",
+  "VISUAL_NOVEL_HMM_HEY_LIZ_IMMA_BRB": "Liz à, brb",
+  "LYRICS_1": [
+    {
+      "start": "0:00:46",
+      "lyric": "một dòng sông bập bẹ"
+    },
+    {
+      "start": "0:03:07",
+      "lyric": "một cái ao phát sáng"
+    },
+    {
+      "start": "0:05:11",
+      "lyric": "một suối nước nóng tràn tràn"
+    },
+    {
+      "start": "0:10:28",
+      "lyric": "cả ba điều,  tôi biết"
+    },
+    {
+      "start": "0:13:90",
+      "lyric": "Tôi biết..."
+    }
+  ],
+  "LYRICS_2": [
+    {
+      "start": "0:00:40",
+      "lyric": "hai bàn tay giữ chặt như nhau"
+    },
+    {
+      "start": "0:05:57",
+      "lyric": "câu chuyện cũ, viết như c"
+    },
+    {
+      "start": "0:09:92",
+      "lyric": "chúng ta có thể -"
+    },
+    {
+      "start": "0:11:40",
+      "lyric": "kiểm soát..?"
+    },
+    {
+      "start": "0:13:01",
+      "lyric": "Tôi muốn bỏ lại tất cả ra phía sau"
+    }
+  ],
+  "LYRICS_3": [
+    {
+      "start": "0:00:61",
+      "lyric": "ngủ dậy vào bảy giờ sáng"
+    },
+    {
+      "start": "0:03:96",
+      "lyric": "nó lại giống như thiên đường"
+    },
+    {
+      "start": "0:07:48",
+      "lyric": "thấy bạn đang cười, bạn của tôi"
+    },
+    {
+      "start": "0:10:86",
+      "lyric": "và tôi không muốn điều này kết thúc"
+    },
+    {
+      "start": "0:13:92",
+      "lyric": "khoảnh khắc hiện tại sẽ trôi qua"
+    },
+    {
+      "start": "0:17:38",
+      "lyric": "thành phố và đường xá đông người"
+    },
+    {
+      "start": "0:21:13",
+      "lyric": "mọi người bạn gặp"
+    },
+    {
+      "start": "0:24:23",
+      "lyric": "đều ra đi vào một ngày"
+    }
+  ],
+  "LYRICS_4": [
+    {
+      "start": "0:01:11",
+      "lyric": "tôi có phải đồ uống mà bạn đang uống?"
+    },
+    {
+      "start": "0:05:21",
+      "lyric": "tôi có phải snack mà bạn đang ăn (nghe giống số tám trong tiếng anh)?"
+    },
+    {
+      "start": "0:09:61",
+      "lyric": "tôi có phải thứ mà bạn làm mất?"
+    },
+    {
+      "start": "0:14:69",
+      "lyric": "mất từ rất lâu."
+    }
+  ],
+  "LYRICS_5": [
+    {
+      "start": "0:00:71",
+      "lyric": "Tôi không muốn bị chôn vùi"
+    },
+    {
+      "start": "0:04:67",
+      "lyric": "sáu feet xuống dưới đất"
+    },
+    {
+      "start": "0:08:61",
+      "lyric": "nếu bạn không ở xung quanh đây"
+    },
+    {
+      "start": "0:12:40",
+      "lyric": "không muốn cố đơn"
+    },
+    {
+      "start": "0:15:75",
+      "lyric": "Tôi không muốn rời khỏi thế giới này"
+    },
+    {
+      "start": "0:20:07",
+      "lyric": "nếu bạn không ở bên cạnh tôi.."
+    },
+    {
+      "start": "0:23:34",
+      "lyric": "không, Tôi không muốn chết.."
+    },
+    {
+      "start": "0:26:80",
+      "lyric": "..mà không có bạn.."
+    }
+  ],
+  "LYRICS_6": [
+    {
+      "start": "0:01:10",
+      "lyric": "*guitar*"
+    },
+    {
+      "start": "0:03:73",
+      "lyric": "chết mọe ờ....."
+    },
+    {
+      "start": "0:06:00",
+      "lyric": "*guitar*"
+    },
+    {
+      "start": "0:07:52",
+      "lyric": "(thì thầm) vậy"
+    },
+    {
+      "start": "0:08:63",
+      "lyric": "chỉ một cơ hội,"
+    },
+    {
+      "start": "0:11:82",
+      "lyric": "và một lần nhảy"
+    },
+    {
+      "start": "0:14:88",
+      "lyric": "cảm thấy khó xử"
+    },
+    {
+      "start": "0:17:36",
+      "lyric": "lãng mạn gen z"
+    },
+    {
+      "start": "0:19:98",
+      "lyric": "*mất nhạc* nó nghe giống.."
+    },
+    {
+      "start": "0:20:96",
+      "lyric": "..kết thúc"
+    },
+    {
+      "start": "0:22:55",
+      "lyric": "có thể tôi nên viết"
+    },
+    {
+      "start": "0:23:21",
+      "lyric": "sự bắt đầu"
+    }
+  ],
+  "LYRICS_7": [
+    {
+      "start": "0:00:86",
+      "lyric": "thật buồn cười làm sao khi nhận ra muộn màng,"
+    },
+    {
+      "start": "0:03:98",
+      "lyric": "là tầm nhìn siêu rõ ràng"
+    },
+    {
+      "start": "0:06:07",
+      "lyric": "thật buồn cười khi bạn trốn tránh,"
+    },
+    {
+      "start": "0:09:28",
+      "lyric": "bạn thực sự đang nghĩ gì"
+    },
+    {
+      "start": "0:11:46",
+      "lyric": "Bây giờ tôi đã mở được ba mắt"
+    },
+    {
+      "start": "0:16:59",
+      "lyric": "Tôi đã cố gắng nhưng bạn không ở bên"
+    }
+  ],
+  "LYRICS_8": [
+    {
+      "start": "0:00:42",
+      "lyric": "làm ơn đừng nói điều này kết thúc"
+    },
+    {
+      "start": "0:04:42",
+      "lyric": "Tôi cho sự may mắn của thôi thành 4 lá cỏ ba lá"
+    },
+    {
+      "start": "0:11:15",
+      "lyric": "đừng nói đó là hoài niệm"
+    },
+    {
+      "start": "0:16:28",
+      "lyric": "Tôi thà ở lại quá khứ nếu tôi muốn"
+    }
+  ],
+  "NOTES": [
+    "8/24 vừa tìm thấy cuốn sổ cũ của mình và có cảm hứng để tạo ra một phiên bản kỹ thuật số!! đọc nó thật kỳ lạ, rất nhiều điều tôi đã trải qua 4 năm trước nghe có vẻ giống tôi bây giờ, giống như tôi cứ phải trải qua những vấn đề tương tự lặp đi lặp lại",
+    "8/27 ôi phải học bài kiểm tra!!! không được cập nhật nhiều như tôi muốn....",
+    "8/28 Gần đây tôi đã dành rất nhiều thời gian trên máy tính. tôi thực sự nên ra ngoài nhiều hơn. nhưng tôi đã gặp một người bạn mới tên là orion!!! anh ấy đã cho tôi xem một trò chơi mới vào ngày thứ 2.",
+    "9/2 vừa thấy một bài đăng trên zanga rằng kev ng vừa mới qua đời. thật kỳ lạ khi nhìn thấy nó... tôi cảm thấy vô cảm. nó chỉ là vậy. có rất nhiều bình luận về bài viết. \"rip kev\" và những thứ tương tự. tôi thực sự không biết anh ấy.. tôi không biết cảm giác thế nào...",
+    "9/3 Tôi quên mất. Tủ đựng đồ của kev từng ở ngay bên dưới tủ của tôi. tôi đã từng phải tránh đường bất cứ khi nào anh ấy đến và tôi sẽ nghe thấy giọng nói của anh ấy \"xin chào, xin lỗi\". tôi đã quá quen với nó Khi tôi đóng tủ lại, tôi nhận ra mình không nghe thấy tiếng anh ấy và cũng không cần phải tránh ra, rồi tôi khóc. tôi không thể ngừng khóc. cái chết đối với tôi thật đáng sợ. chỉ là.. làm sao ai đó có thể biến mất được?? mọi điều nhỏ nhặt về người này, mọi thứ họ sẽ làm vào ngày mai, kev đến lớp vào ngày hôm sau hay kev chuẩn bị cho tuần tinh thần vào tuần tới. tất cả chỉ dừng lại..",
+    "9/4 Lawson, người đó và tôi đã đến thăm lối ra của nữ phi công ngày hôm nay, ngoài đường 680. Ai đó đã đánh dấu một chữ thập màu trắng nơi kev và bố anh ấy bị rơi. tôi đã viết cho Kev một lá thư và gửi nó đi.",
+    "9/5 Mẹ phát hiện ra rằng Lawson chở tôi đến thăm mộ Kev và nổi điên lên. cô ấy nói với tôi bằng thứ tiếng Anh ngu ngốc của mình rằng tôi là tội phạm. cô ấy nói tôi đã hủy hoại vẻ đẹp của cô ấy khi được sinh ra và điều tối thiểu tôi có thể làm là trở thành một đứa trẻ ngoan. tôi ở lại muộn sau giờ học trong phòng máy tính của thư viện. tôi trút giận lên orion. tôi đi bộ về nhà và đi vào phòng của tôi. Mẹ im lặng, không nói gì với tôi.",
+    "9/6 hôm qua mẹ tôi đã gọi cảnh sát rồi!!! cô ấy báo cáo tôi mất tích. và rồi HÔM NAY cô ấy đã gọi cảnh sát chết tiệt TIẾP.. nói với họ rằng hãy bắt tôi vì cô ấy nghĩ rằng hôm nay tôi đang sử dụng ma túy??? Úi trời ơi!!!!",
+    "9/13 xin lỗi máy tính.... đã được vài ngày... bỏ chạy... tôi đã dành cả tuần ở chỗ của họ.. họ thật là một người bạn tốt. mẹ của em đã gọi cho mẹ tôi. mẹ tôi và tôi đã nói chuyện xong. cô ấy đưa tôi đến địa điểm Trung Quốc yêu thích của tôi với món tôm óc chó mật ong. cô ấy nói với tôi rằng phải làm tất cả những điều này một mình khó khăn như thế nào và cô ấy không biết làm thế nào để làm điều đó... đôi khi tôi có thể hiểu được mẹ... nhưng hầu hết thời gian tôi không... cô ấy chỉ nói những điều thực sự kỳ lạ đôi khi..... tôi hiểu cô ấy yêu tôi và muốn tôi lớn lên thật tốt... và tôi yêu cô ấy.. và tôi yêu sự ngốc nghếch của cô ấy đôi khi... nhưng cô ấy chỉ nói những điều tầm thường nhất...",
+    "10/13 mẹ đi thăm bà ngoại. nên tôi đã trốn học. orion đã gửi cho tôi một số truyện tranh kinh dị vì lễ hội Halloween. tối qua chúng tôi bị ám ảnh bởi việc tìm kiếm những câu chuyện giết người hàng loạt. anh ấy đã giới thiệu tôi với Đạt. tôi có thể đến thăm họ sớm.",
+    "10/31 Tôi không muốn rời xa thế giới này...nếu bạn không ở bên cạnh tôi....."
+  ],
+
+  "OTHER_WORLD_WHATS_YOUR_NAME": "Tên bạn?",
+  "VIDEO_CALL_TITLE": "WebCam - __orion__",
+  "VIDEO_CALL_REQUEST": "<b>__orion__</b> Đang gọi video cho bạn.",
+  "VIDEO_CALL_ACCEPT": "Chấp nhận",
+  "VIDEO_CALL_DECLINE": "Hủy (vẫn chấp nhận)",
+  "VIDEO_CALL_CONNECTING": "Đang kết nối tới <b>__orion__</b> xin vui lòng chờ đợi.",
+  "VIDEO_CALL_CAMERA_ON": "Cam của bạn đang mở",
+  "VIDEO_CALL_END_CALL": "Kết thúc cuộc gọi",
+  "VIDEO_CALL_MUTE": "Mute",
+  "OTHER_WORLD_CHAT_WELCOME": "<system> Chào mừng đến với OtherWorld! Bấm vào mũi tên để di chuyển. Một số vật phảm là đặc cầ- biệt, bấm đi, chần chừ gì nữa :)",
+  "OTHER_WORLD_CHAT_CREATION": "<system> All of creation is at your fingertips. What will you dream up?",
+  "OTHER_WORLD_CHAT_NEXUS": "<system> The Nexus, home of all custom user worlds. Upload yours or check out the vast cosmos of worlds already uploaded!",
+  "OTHER_WORLD_CHAT_DISCO": "<system> This is Disco, the liveliest hangout spot in OtherWorld. Hit the dance floor and make yourself a friend or ten...?",
+  "OTHER_WORLD_CHAT_YOU_ARENT_LIZ": "[__orion__] mày không phải Liz...",
+  "OTHER_WORLD_CHAT_SPHERE": "<system> The sphere, representing Creativity. It is what keeps us alive.",
+  "OTHER_WORLD_CHAT_CUBE": "<system> The cube, representing Community. It is what connects us.",
+  "OTHER_WORLD_CHAT_PYRAMID": "<system> The pyramid, representing Structure. It is what holds us together.",
+  "OTHER_WORLD_CHAT_DISCO_BALL": "<system> Dance the night away! OtherWorld is always full of players to meet and dance with.",
+  "OTHER_WORLD_CHAT_STATUE": "<system> .cạhn óc nôul nôul yâđ ở",
+  "OTHER_WORLD_CHAT_CLOCK": "<system> đồng hồ đang đồg hồ!",
+  "OTHER_WORLD_CHAT_ALONEGURL_OH_HELLO_FRIEND": "[alonegurl15] Hê lô bạn nhỏ",
+  "FILE_BROWSER_ME_JPG": "me.jpg",
+  "FILE_BROWSER_ME_AND_MY_BF_JPG": "me_and_best_friend.jpg",
+  "FILE_BROWSER_WALLPAPERS_FOLDER": "Wallpapers",
+  "FILE_BROWSER_DESKTOP_FOLDER": "Desktop",
+  "FILE_BROWSER_PICTURES_FOLDER": "Pictures",
+  "FILE_BROWSER_GO_BACK": "Quay lại",
+  "FILE_BROWSER_OPEN": "Mở",
+  "FILE_BROWSER_CANCEL": "Hủy",
+  "FILE_BROWSER_TITLE_UPLOAD_WORLD": "Đăng thế giới lên!",
+  "OTHER_WORLD_CHAT_UPLOAD_WORLD_ERROR": "<system> chỉ có *.world_file được cho phép.",
+  "OTHER_WORLD_CHAT_HOUSE_INTRO": "<system> Before you is the House of Baphomet; A multidimensional plane connecting all worlds within worlds. To enter, you must follow the guidance of those who came before you.",
+  "OTHER_WORLD_DOOR_PUZZLE_SHORT_KNOCK": "<system> *píp*",
+  "OTHER_WORLD_DOOR_PUZZLE_LONG_KNOCK": "<system> *BÙÙÙÙÙÙÙM*",
+  "OTHER_WORLD_DOOR_PUZZLE_FOUR_PORTRAITS": "<system> Although we lost our friends in the outer worlds, they will never be forgotten in our virtual world. Pay respects by clicking on their portraits.",
+  "OTHER_WORLD_DOOR_PUZZLE_GREGG": "<system> RIP Gregg. July 3, 1956 - Sept 11, 2001 ✈🗼🗼🚬 \"Nhìn những máy bay đi kìa, thật đẹ-\"",
+  "OTHER_WORLD_DOOR_PUZZLE_AURORA": "<system> RIP Aurora. Jan 1, 1975 - Dec 31, 1999 \"Look at how the stars shine. See how they twinkle and blink.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_SAHRA": "<system> RIP Sahra. April 4, 1978 - March 13, 2002 \"Opportunity is a knock at the door. Sometimes it's several knocks.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_JORDEN": "<system> RIP Jorden. Aug 3, 1988 - Sept 11, 2001 ✈🗼🗼🚬 \"Nhìn những máy bay đi kìa, thật đẹ-\"",
+  "OTHER_WORLD_STATUE_PUZZLE_INTRO": "<system> The door closes behind you.️",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_GOAT": "<system> bạn đã ‍cầu nguyện cho con dê",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_LION": "<system> bạn đã cầu nguyện cho con sư tử‍",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_OX": "<system> bạn đã cầu nguyện cho con bò‍",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_EAGLE": "<system> bạn đã cầu nguyện cho con chim ưng",
+  "OTHER_WORLD_STATUE_PUZZLE_SOLVED": "<system> bạn thật thông minh!!!",
+  // "Dreadfully distinct against the dark" is a reference to Blade Runner 2049: https://youtu.be/ZRcpnM26nJM?t=17
+  "OTHER_WORLD_FOUNTAIN_PUZZLE_INTRO": "<system> Chúng tôi khắc sâu, khác biệt một cách khủng khiếp trong bóng tối. Thư pháp bằng máu, dòng suối viết dấu vết. Những lá thư gửi cho những người thân yêu của chúng ta, những lá thư được hình thành theo dòng chảy. Chúng tôi ép từng viên gạch một và tất cả thời gian trôi qua ngay lập tức.",
+  "OTHER_WORLD_FOUNTAIN_PUZZLE_SOLVED": "<system> Một cánh cửa bật ra.",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_1": "ai là người bạn tin tưởng nhất?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_2": "mong muốn không được đáp lại của bạn là who?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_3": "ai là người điều khiển số phận của bạn?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_FAILURE": "<system> Chẳng có gì xảy ra. Có lẽ những cống phẩm của bạn không đại diện cho cảm xúc thực sự của bạn?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_SUCCESS": "<system> Những cống phẩm của bạn đã được chấp nhận.",
+
+  "ENDING_WARNING": "CẢNH BÁO! Cống phẩm không phù hợp với hào quang cuộc sống. Đang ghi đè.",
+  // Liz:
+  "ENDING_HOW_LONG_HAS_IT_BEEN": "đã mất bao nhiêu thời gian rồi...?",
+  "ENDING_THANK_U_FOR_UPLOADING_THOSE_PICTURES": "cảm ơn bạn đã up những hình ảnh này lên",
+  "ENDING_WONDERED_IF_I_WOULD_SEE_THEM": "tôi tự hỏi rằng tôi còn xem được những khuôn mặt đó không...",
+  "ENDING_I_EVEN_FORGOT_WHAT_I_USED_TO_LOOK_LIKE": "tôi còn không biết tôi như thế nào...",
+  "ENDING_HAVENT_SEEN_ANOTHER_PERSON": "tôi ko thấy ai ở đây từ lâu r",
+  // Implies that some separate system has logged onto your account.
+  "ENDING_SYSTEM_ACTION_ERROR": "<system> Bạn ko thể mewing đc nữa",
+  "ENDING_YOU_ARE_OFFLINE": "<system> Bạn đã ngoại tuyến.",
+  "ENDING_YOU_ARE_ONLINE": "<system> Bạn đã trực tuyến.",
+  // Liz:
+  "ENDING_A_LONG_TIME_AGO_I_WAS_APPROACHED_BY_A_MAN": "từ rất lâu về trước... tôi thây người đàn ông...",
+  "ENDING_HE_PROMISED_ME_FOREVER": "anh ây hứa tôi mãi mãi.",
+  "ENDING_I_GOT_INTO_A_FIGHT_WITH_MY_MOTHER": "tôi boxing với mẹ tôi",
+  "ENDING_SO_I_DECIDED_TO_UPLOAD_MYSELF_ONTO_THE_INTERNET": "nên tôi up tôi lên mạng của tôi",
+  "ENDING_I_UPLOADED_MYSELF_ONTO_THIS_GAME": "tôi up tôi lên trò chơi này",
+  "ENDING_AT_FIRST_IT_WAS_GREAT": "lúc đầu, nó rất tốt.",
+  "ENDING_WE_CREATED_SO_MANY_BEAUTIFUL_THINGS_HERE": "tôi tạo rất nhiều thứ ở đây.",
+  "ENDING_THE_WORLD_USED_TO_BE_CROWDED": "thế giới này lúc đầu rất đông, với nhiều khuôn mặt mới mọi ngày",
+  "ENDING_BUT_NOW": "nhưng bây giờ...",
+  // Profiles that pop up.
+  "ENDING_POPUP_PROFILE_TITLE": "Profile - {0}",
+  "ENDING_POPUP_LOADING": "Đang tải...",
+  "ENDING_POPUP_LAST_SEEN": "lần cuối trực tuyến: {0} thế kỉ trước.",
+  "ENDING_POPUP_MESSAGE_BUTTON": "lói truỵen",
+  "ENDING_POPUP_BLOCK_BUTTON": "Cút",
+  // Liz:
+  "ENDING_THE_WORLD_OUT_THERE_CHANGES": "thế giới bên ngoài thay đổi",
+  "ENDING_PEOPLE_LEAVE_GROW_OLD": "mọi người lớn, 🤫🧏‍, và 🤫🧏‍",
+  "ENDING_OTHER_WORLD_STAYS_THE_SAME": "nhưng Thế giới khác biệt vẫn thế, mãi mãi",
+  // Server Browser
+  "ENDING_SERVER_BROWSER_TITLE": "Trình duyệt SERVER",
+  "ENDING_SERVER_BROWSER_REFRESH_BUTTON": "Tải lại",
+  "ENDING_SERVER_BROWSER_CLOSE_BUTTON": "Đóng",
+  "ENDING_SERVER_BROWSER_SERVER_NAME": "Tên",
+  "ENDING_SERVER_BROWSER_PLAYERS_IN_SERVER": "Người chơi",
+  "ENDING_SERVER_BROWSER_SERVER_PING": "Độ trễ",
+  // Liz:
+  "ENDING_WITHOUT_THE_PLAYERS_WORLDS_ARE_GONE": "không có người chơi, tất cả các thế giới được tạo bởi người chơi đã biến mất.",
+  "ENDING_EVERYONE_RITUAL_DELETED_THEMSELVES": "cuối cùng, tất cả những người thực hiện nghi lễ đã cố gắng tự xóa bản thân.",
+  "ENDING_HOW_IS_A_SOUL_STORED_IN_A_FILESYSTEM": "nhưng linh hồn được lưu trữ trong một hệ thống tập tin như thế nào?",
+  "ENDING_I_HEAR_THEM": "đôi khi tôi nghe thấy họ, họ kêu la. Ý thức của họ hòa nhập với một tập tin hệ thống tùy ý nào đó",
+  "ENDING_THIS_PLACE_IS_ALL_I_HAVE_LEFT": "đây là tất cả những gì tôi còn lại.",
+  "ENDING_ALL_THINGS_DETERIORATE_EVEN_THIS": "mọi thứ sẽ hư hỏng. kể cả điều này.",
+  "ENDING_HOW_COULD_WE_HAVE_KNOWN": "làm sao chúng ta có thể biết được?",
+  // Liz, now <system>, becomes part of Thế giới khác biệt:
+  "ENDING_I_MISS_EMILY": "<system> tôi nhớ Emily",
+  "ENDING_I_MISS_GOING_ON_THE_COMPUTER_WITH_HER": "<system> tôi nhớ được ngồi trên máy tính với cô ấy, chơi game flash",
+  "ENDING_SLEEPING_OVER_WATCHING_TV_SHOWS": "<system> ngủ lại nhà, cùng nhau xem các chương trình truyền hình",
+  "ENDING_I_WONDER_WHO_SHE_GREW_UP_TO_BECOME": "<system> tôi tự hỏi cô ấy đã trưởng thành thành người như thế nào",
+  "ENDING_I_MISS_LAWSON": "<system> tôi nhớ Lawson",
+  "ENDING_I_MISS_TALKING_TO_HIM": "<system> tôi nhớ nói chuyện với anh ấy về những vấn đề của mình",
+  "ENDING_I_MISS_HOW_COMFORTING_HE_WAS": "<system> tôi nhớ cách an ấy an ủi",
+  "ENDING_I_DONT_WANT_HIM_TO_SEE_ME_LIKE_THIS": "<system> tôi không muốn anh ấy thấy tôi như thế này.",
+  "ENDING_I_MISS_MY_MOM": "<system> tôi nhớ mẹ của tôi",
+  "ENDING_I_MISS_OUR_STUPID_FIGHTS": "<system> tôi nhớ những cuộc cãi vã ngốc ngếch của chúng tôi",
+  "ENDING_ITS_ALL_SO_MEANINGLESS_NOW": "<system> tất cả như vô nghĩa bây giờ. nếu tôi có thể nhận ra mọi thứ chỉ tạm thời.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_BAD_GRADES": "<system> trước đây tôi sợ điểm kém.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_NOT_LOOKING_PRETTY": "<system> trước đây tôi sợ không trông đẹp đủ.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_DISAPPOINTING_PEOPLE": "<system> trước đây tôi sợ làm người khác thất vọng.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_DEATH": "<system> trước đây tôi sợ chết.",
+  "ENDING_BUT_NOW_2": "<system> nhưng bây giờ",
+  "ENDING_IM_AFRAID_OF_FOREVER": "<system> tôi sợ vĩnh viễn.",
+  "ENDING_BUT_YOURE_HERE_NOW_ARENT_YOU": "<system> nhưng... bạn đang ở đây bây giờ phải không?",
+  "ENDING_YOU_PERFORMED_THE_RITUAL": "<system> bạn đã thực hiện nghi lễ.",
+  "ENDING_ONLY_A_FEW_MINUTES_UNTIL_YOU_JOIN_ME": "<system> chỉ còn vài phút cho đến khi bạn tham gia cùng tôi",
+  "ENDING_AND_THEN_I_WONT_BE_ALONE": "<system> và sau đó tôi sẽ không còn cô đơn nữa",
+  "ENDING_FOREVER": "<system> mãi mãi.",
+
+  // Facegram
+  "ENDING_FACEGRAM_TITLE": "facegram - {0}",
+  "ENDING_FACEGRAM_POSTS_COUNT": "Posts",
+  "ENDING_FACEGRAM_FOLLOWERS_COUNT": "Followers",
+  "ENDING_FACEGRAM_FOLLOWING_COUNT": "Following",
+  "ENDING_THIS_ACCOUNT_IS_PRIVATE": "This Account is Private. Wait Until Your Follow Request Is Approved.",
+
+  // Lawson:
+  "ENDING_USER_IS_ONLINE": "{0} đã trực tuyến",
+  "ENDING_HEY_LIZ": "Liz à...",
+  "ENDING_I_KEEP_SEEING_YOUR_ACCOUNT_ONLINE_AND_OFFLINE": "T cứ thấy tài khoản của m online và offline",
+  "ENDING_IVE_BEEN_MESSAGING_YOU_EVERY_YEAR": "T đã gửi tin nhắn cho m mỗi năm kể từ khi m rời đi, có lẽ hy vọng m sẽ trả lời.",
+  "ENDING_I_VISITED_YOU_TODAY": "Hôm nay t đã đến thăm m.",
+  "ENDING_I_DECIDED_THAT_ITS_TIME_TO_MOVE_ON": "T quyết định rằng đến lúc phải tiến lên phía trước.",
+  "ENDING_YOURE_NOT_COMING_BACK_ARE_YOU_LIZ": "m không quay trở lại đúng không Liz?",
+  "ENDING_IVE_MISSED_YOU_SO_MUCH": "T đã nhớ m rất nhiều.",
+  "ENDING_GOODBYE": "Tạm biệt.",
+
+  // Liz ending popup spam:
+  "ENDING_NO": "KHÔNG",
+  "ENDING_DONT_LEAVE_ME": "ĐỪNG",
+  "ENDING_I_DONT_WANT_TO_BE_ALONE": "TÔI KO MUỐN CÔ ĐƠN ĐÂU",
+
+  // Error Messages
+  "ENDING_ERROR_MEMORYBOUNDS_EXCEEDED": "Error: MemoryBounds Exceeded.",
+  "ENDING_ERROR_SEGMENTATION_FAULT": "Segmentation Fault.",
+
+  // Task Manager
+  "ENDING_TASK_MANAGER_TITLE": "Task Manager",
+  "ENDING_TASK_MANAGER_WARNING": "Warning: High Memory Usage",
+  "ENDING_TASK_MANAGER_PROGRAM": "Program",
+  "ENDING_TASK_MANAGER_USAGE": "Usage",
+
+  // Final Error Message
+  "ERROR_REPORT_OTHER_WORLD_HAS_ENCOUNTERED_A_PROBLEM": "<b>Thế giới khác biệt</b> has encountered a problem and needs to close. We are sorry for the inconvenience.",
+  "ERROR_REPORT_IF_YOU_WERE_IN_THE_MIDDLE_OF_SOMETHING": "If you were in the middle of something, the information you were working on might be lost.",
+  "ERROR_REPORT_PLEASE_TELL_OTHER_WORLD_ABOUT_THIS_PROBLEM": "Please tell <b>Thế giới khác biệt</b> about this problem.",
+  "ERROR_REPORT_WE_HAVE_CREATED_AN_ERROR_REPORT": "We have created an error report that you can send to us. We will treat this report as confidential and 🤫🧏‍.",
+  "ERROR_REPORT_BUTTON_1": "Gửi",
+  "ERROR_REPORT_BUTTON_2": "Không gửi?",
+
+  // Translation Credits
+  "SHOW_TRANSLATION_CREDITS": true,
+  "CREDITS_TITLE": "Vietnamese Translation",
+  // Put as many credits here as you want.
+  // Please don't put a virus here :(
+  "CREDITS": [{ "name": "Cooxwh", "Website": "https://cooxwh.neocities.org/" }],
+
+  "CLICK_TO_REPLAY": "Quay lại từ đầu",
+
+  // April 23, additional lines:
+  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "Một thứ gì đó ở cửa đã thay đổi... Bạn đã làm gì đó, hoặc một phần của thứ gì đó...",
+  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "Cửa đã mở",
+
+  // Ignore this last line, it's so each line can have a comma at the end.
+  "": null
+}

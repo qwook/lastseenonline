@@ -1,0 +1,627 @@
+{
+  "FONT_FAMILY": "PixelArial11, MadouFutoMaruGothic, PixeloidSans",
+  "TITLE_TEXT": "востаннє онлайн",
+  "INTRO_TEXT_1": "ти знаходиш старий комп'ютер на гаражному розпродажі.",
+  "INTRO_TEXT_2": "і ти вирішуєш його ввімкнути.",
+  "CONTINUE_BUTTON": "продовжити",
+  "PASSWORD_TEXT": "Пароль:",
+  "PASSWORD_HINT": "Підказка: ім'я пухнастого хлопчика і мій рік народження",
+  // Optional:
+  "LOGGING_IN": "вхід...",
+  // Optional:
+  "WELCOME_BACK": "з поверненням...",
+  "DESKTOP_SHORTCUT_BUDDYLIST": "СписокДрузяк",
+  // Don't change LoseAmp Player name.
+  // Kept here for consistency.
+  "DESKTOP_SHORTCUT_LOSEAMP_PLAYER": "LoseAmp Player",
+  "DESKTOP_SHORTCUT_OTHER_WORLD": "Інший Світ",
+  "DESKTOP_SHORTCUT_ZIP": "фоткиДляЕмі.zip",
+  "UNZIPPER_TITLE": "РозАрхівовувач - фоткиДляЕмі.zip",
+  "UNZIPPER_TEXT": "Цей зіп-файл є захишеним паролем з 4 символів.",
+  "UNZIPPER_UNLOCK_BUTTON": "Розблокувати",
+  "UNZIPPER_INCORRECT_PASSWORD": "Неправильний пароль. Спробуйте ще раз.",
+  // Optional:
+  "BUDDYLIST_SIGN_ON": "Увійти",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_1": "1. Вставлення збереженого пароля...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_2": "2. Підключення...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_3": "3. Запуск сервісів...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_4": "4. Під'єднано.",
+  "BUDDYLIST_CHAT_WINDOW_TITLE": "{0} - Чат",
+  "USER_IS_OFFLINE": "користувач не в мережі, дочекайтесь їхнього повернення.",
+  // <LIZ> colors the line of chat blue.
+  // <SYSTEM> colors the line of chat gray.
+  // <...ANYTHING ElSE> colors the line of chat red.
+  "LAWSON_CHATLOG": [
+    "<LAWSON>: геййй :) як в тебе справи?",
+    "<LIZ>: норм",
+    "<LAWSON>: просто норм?? що вже збираєшся робити?",
+    "<LIZ>: нічого такого!! просто музику слухаю граю ігрии.. а ти як??",
+    "<LAWSON>: теж норм... треб готуватись до кр з алгебри інакше мама приб'є менее",
+    "<LIZ>: божечки це ж минулого разу вона кричала на тебе?",
+    "<LAWSON>: та... але я думаю цього разу краще вийде",
+    "<LIZ>: :((( ти справді робиш чудово!! не давай їй тебе загнобити. в мене мама теж, як причіпка...",
+    "<LAWSON>: теж??? розкажи про це!!",
+    "<LIZ>: далі каже що я як мій тато... це не моя вина що він її покинув то.... кожен день лиш крики й крики.. хотіла б я бути кращою...",
+    "<LAWSON>: йой це грубо... так я теж давно не бачився зі своїм.. цікаво як він там...",
+    "<LAWSON>: треба йти, але справді класно було поговорити... бб!!",
+    "<SYSTEM>: aznL4ws0n тепер офлайн",
+    "<SYSTEM>: aznL4ws0n тепер онлайн",
+    "<LAWSON>: хай ти закінчила дз алгебри?",
+    "<SYSTEM>: aznL4ws0n тепер офлайн",
+    "<SYSTEM>: aznL4ws0n тепер онлайн",
+    "<LAWSON>: гейй там в школі різне кажуть, все ок?",
+    "<SYSTEM>: aznL4ws0n тепер офлайн",
+    "<SYSTEM>: aznL4ws0n тепер онлайн",
+    "<LAWSON>: я знаю що ти не хочеш про це говорити але справді хочу знати що ти ок",
+    "<SYSTEM>: aznL4ws0n тепер офлайн",
+    "<SYSTEM>: aznL4ws0n тепер онлайн",
+    "<LAWSON>: сумую за тобою",
+    "<SYSTEM>: aznL4ws0n тепер офлайн",
+    "<SYSTEM>: aznL4ws0n тепер онлайн",
+    "<LAWSON>: щойно отримав 6 з кр з алгебри :(",
+    "<SYSTEM>: aznL4ws0n тепер офлайн",
+    "<SYSTEM>: aznL4ws0n тепер онлайн",
+    "<LAWSON>: сьогодні з мамою посварились, але це ок.. сподіваюсь в тебе все добре.",
+    "<SYSTEM>: aznL4ws0n тепер офлайн",
+    "<SYSTEM>: aznL4ws0n тепер онлайн",
+    "<LAWSON>: тільки що потрапив в нашу школу мрії! <3",
+    "<SYSTEM>: aznL4ws0n тепер офлайн",
+    "<SYSTEM>: aznL4ws0n тепер онлайн",
+    "<LAWSON>: сьогодні песика бачив. прям як скотті :)",
+    "<SYSTEM>: aznL4ws0n тепер офлайн"
+  ],
+  "SCOTT_CHATLOG": [
+    "<SCOTT>: привіт. це скот, з Іншого Світу. хотіла додати мене?",
+    "<LIZ>: так!! (=^o^=) то про що ти казав. ритуал.. я думала про це. це допоможе мені піти?",
+    "<SCOTT>: а так. ритуал бафомет. я б це більше описав як конамі код всесвіту. це не допоможе тобі піти, але це принесе твою свідомість.. твій код... у просвітництво. я можу показати тобі вічність.",
+    "<LIZ>: хмм ок ще в тебе ім'я як в мого пса хахахаха",
+    "<SYSTEM>: scottNJ тепер офлайн",
+    "<SYSTEM>: scottNJ тепер онлайн",
+    "<SCOTT>: ти отримала мій лінк з гри?",
+    "<LIZ>: то це то??? ти певен що це спрацює???",
+    "<SCOTT>: ти та хто просила моєї допомоги. шлях вічної святості лежить тут. ти шукаєш вічне щастя чи ні?",
+    "<SYSTEM>: scottNJ тепер офлайн",
+    "<SYSTEM>: scottNJ тепер онлайн",
+    "<SCOT>: процес почався, ти готова?",
+    "<LIZ>: та... але трохи страшно",
+    "<SCOTT>: не бійся, малечо. ми скоро зустрінемось",
+    "<SYSTEM>: scottNJ тепер офлайн",
+    "<SYSTEM>: scottNJ тепер онлайн",
+    "<LIZ|CORRUPTED>: ТИ ОБІЦЯВ МЕНІ ЩО НЕ ПОКИНЕШ МЕНЕ"
+  ],
+  "ETERNALJUICE_CHATLOG": [
+    "<ETERNAL_JUICE>: в/с/м?",
+    "<LIZ>: мені тіки 14",
+    "<ETERNAL_JUICE>: солодкий нектар молодості, не можу дочекатися коли ти приєднаєшся до нас",
+    "<LIZ>: що???"
+  ],
+  "EMMBER_CHATLOG": [
+    "<LIZ>: охххх лоусон такииий милий :(:(:(:(:(",
+    "<EMMBER>: чо ти його не запросиш!!!",
+    "<LIZ>: я йому точно не подобаюсь... не гарна я",
+    "<EMMBER>: лол що!! ти така гарна......",
+    "<LIZ>: =.= мама кажа що в мене не її ніс, в мене великий татовий ніс.! ненавиджу",
+    "<EMMBER>: не слухай її, ти пРеКрРсНаА d(^_^)z",
+    "<LIZ>: я просто хочу втекти емііііі... ненавиджу це на землі",
+    "<EMMBER>: оууу навіть якщо лоусон не любить тебе я завжди любитиму тебе!!! БФФ!!!",
+    "<SYSTEM>: xXemmberXx86 тепер офлайн",
+    "<SYSTEM>: xXemmberXx86 тепер онлайн",
+    "<LIZ>: ма забирає комп'ютер. але я знайшла шлях ем.",
+    "<EMMBER>: сорі я вчилась, що таке?? твоя мама така дивна!!",
+    "<SYSTEM>: xXemmberXx86 тепер офлайн",
+    "<SYSTEM>: xXemmberXx86 тепер онлайн",
+    "<EMMBER>: ліз ми не говорили вже як 2 тижні, що ти робила??",
+    "<LIZ>: а сорі!! просто розважалась з друзями яких зустріла в іншогосвіту!!",
+    "<SYSTEM>: xXemmberXx86 тепер офлайн",
+    "<SYSTEM>: xXemmberXx86 тепер онлайн",
+    "<LIZ>: я зробила це. я знайшла як вибратись звідси назавжди.",
+    "<EMMBER>: хд де ти їдеш? житомир?",
+    "<LIZ>: я кидала тобі фотки, ти їх отримала?",
+    "<LIZ>: ми виконали ці кроки вчора для orion.. скоро я буду вільна.",
+    "<EMMBER>: так зіп-файл? але там 4-значний пароль.",
+    "<LIZ>: -_- це 4 мої пісні в моєму плейлисті в LoseAmp!!",
+    "<EMMBER>: о... не розумію.. в тебе 8 пісень.",
+    "<LIZ>: в тебе ще стоять наші бфф <b>шпалери</b>?? тобі треба закрити всі вікна окрім LoseAmp!!! шпалери покажуть тобі порядок.",
+    "<EMMBER>: O_O !! капсець!! божечки <b>я щойно перетягнула вікно.</b> ок що далі??",
+    "<LIZ>: прислухайся до слів!!",
+    "<EMMBER>: ооооОООоОоо тепер ти розумна як ну ^_^",
+    "<EMMBER>: божечки нашо тобі фото лоусона??",
+    "<LIZ>: НІІІі ТО ВИПАДКОВІСТЬ!!!",
+    "<EMMBER>: ... якісь стрьомні фото...",
+    "<LIZ>: то ти зацікавлена?",
+    "<SYSTEM>: xXemmberXx86 тепер офлайн",
+    "<SYSTEM>: xXemmberXx86 тепер онлайн",
+    "<LIZ|CORRUPTED>: ЕМІЛІ ЦЕ СПРАЦЮВАЛО",
+    "<EMMBER>: це хто?",
+    "<LIZ|CORRUPTED>: ЦЕ Я, ЛІЗ!! Я ВСЕ ЩЕ ВЧУСЬ КЕРУВАТИ ЦИМ",
+    "<EMMBER>: слухай я не розумію що за дибільний жарт це, але це серйозно дурість. я тебе блокаю."
+  ],
+  "ORION_CHATLOG": [
+    "<LIZ>: ти бачив новий світ джені??",
+    "<ORION>: та, це було так круто. вона справді гарно постараль.",
+    "<LIZ>: одного дня я зроблю світ такий же крутий",
+    "<ORION>: хаха може",
+    "<ORION>: о та подивись що я знайшов: RED_HERRING_EXE",
+    "<LIZ>: о вау?? це з іншого світу???",
+    "<ORION>: ні це деякий проєкт з мистецтва, не думаю що це щось пов'язане з грою.",
+    "<SYSTEM>: __orion__ тепер офлайн",
+    "<SYSTEM>: __orion__ тепер онлайн",
+    "<ORION>: гей ти пробувала писати /info в чат іншогосвіту?? це показує скільки ти була в онлайн",
+    "<LIZ>: божечки такий сором...... 849 годин...",
+    "<SYSTEM>: __orion__ тепер офлайн",
+    "<SYSTEM>: __orion__ тепер онлайн",
+    "<ORION>: ЦЕ СПРАЦЮВАЛО!!! ЗАХОДЬ В ІНШИЙСВІТ ВЖЕ!!!",
+    "<SYSTEM>: __orion__ тепер офлайн",
+    "<SYSTEM>: __orion__ тепер онлайн"
+  ],
+  "VISUAL_NOVEL_HEY_IS_THIS_LIZ": "гей?? це ліз???",
+  "VISUAL_NOVEL_YEAH_THIS_IS_LIZ": "так.. це ліз...",
+  "VISUAL_NOVEL_OH_INTERESTING_SO_STRANGE_TO_SEE_YOU_HERE": "о цікаво... так дивно бачити тебе...тут...",
+  "VISUAL_NOVEL_UM_YEAH_JUST_TOOK_A_LONG_BREAK": "ее так, просто взяла довгу перерву.",
+  "VISUAL_NOVEL_I_DONT_KNOW_WHAT_YOU_MEAN": "не розумію про що ти...",
+  "VISUAL_NOVEL_WELL_GLAD_YOURE_BACK_IVE_MISSED_YOU": "ну. радий що ти вернулась. я скучив за тобою.",
+  "VISUAL_NOVEL_IVE_MISSED_YOU_TOO": "я теж за тобою скучила",
+  "VISUAL_NOVEL_CAN_YOU_REMIND_ME_WHO_THIS_IS": "можеш нагадати хто це?",
+  "VISUAL_NOVEL_ITS_ORION_WE_USED_TO_BE_GOOD_FRIENDS_IM_SURPRISED_YOU_DONT_REMEMBER_ME_THATS_FINE": "це оріон! ми колись були чудовими друзями. здивований що ти не пам'ятаєш мене. це добре!",
+  "VISUAL_NOVEL_ANYTHING_I_CAN_HELP_YOU_WITH": "потрібна з чимось допомога?",
+  "VISUAL_NOVEL_DO_YOU_KNOW_THE_PASSCODE_FOR_PHOTOS4EMZIP": "ти знаєш пароль для фоткиДляЕмі.zip?",
+  "VISUAL_NOVEL_HMM_I_DONT_REMEMBER_TRY_DIGGING_THROUGH_YOUR_OLD_CHATLOGS_MAYBE_YOU_SENT_IT_TO_SOMEONE": "хмм... не згадаю, пошукай в старих чатах. можливо ти комусь скинула",
+  "VISUAL_NOVEL_OKAY_ILL_TRY_THAT_OUT": "добре.. я спробую",
+  "VISUAL_NOVEL_WHATS_OTHER_WORLD": "що Інший Світ?",
+  "VISUAL_NOVEL_YOU_GOTTA_BE_JOKING_YOU_DONT_REMEMBER_ITS_THE_GAME_WE_PLAYED_WHEN_WE_WERE_KIDS_ARE_YOU_SURE_THIS_IS_LIZ": "чим чорт не шуткує! ти не пам'ятаєш? це гра, в яку ми грали малими. це точно ліз?",
+  "VISUAL_NOVEL_YES_IM_SURE_HOW_DO_I_GET_IN": "так... точно. як мені зайти?",
+  "VISUAL_NOVEL_JUST_TO_MAKE_SURE_YOU_ARE_WHO_YOU_SAY_YOU_ARE_CAN_YOU_TELL_ME_THE_ORDER_OF_THE_FOUR_EVENTS_DURING_OUR_FINAL_RITUAL": "просто щоб впевнитись що ти та, хто ти кажеш... можеш сказати порядок чотирьох подій під час нашого фінального ритуалу?",
+  "VISUAL_NOVEL_ILL_TRY_TO_REMEMBER": "спробую згадати",
+  "VISUAL_NOVEL_I_DONT_REMEMBER": "не пригадую",
+  "VISUAL_NOVEL_THAT_S_OKAY_TAKE_YOUR_TIME": "все добре, не поспішай",
+  "VISUAL_NOVEL_OKAY": "гаразд",
+  "VISUAL_NOVEL_SO_REMIND_ME_WHAT_HAPPENED": "тож нагадай мені, що сталось",
+  "VISUAL_NOVEL_THAT_MIGHT_BE_RIGHT_THAT_MIGHT_BE_WRONG_WHAT_NEXT": "можливо так, можливо ні. що далі?",
+  "VISUAL_NOVEL_OK_COULD_BE_WHAT_HAPPENED_BUT_I_WONT_TELL_YOU_WHAT_THEN": "ок... можливо й було але я не скажу. потім що?",
+  "VISUAL_NOVEL_AND_FINALLY": "і наостанок?",
+  "VISUAL_NOVEL_WE_BLESSED_THE_STATUE": "ми благословили статую",
+  "VISUAL_NOVEL_WE_LIT_CANDLES_FOR_OUR_TRIBUTES": "ми запалили свічки за нашу данину",
+  "VISUAL_NOVEL_WE_GAZED_UPON_THE_FOUNTAIN": "ми дивилися на фонтан",
+  "VISUAL_NOVEL_WE_FOUGHT_THE_LOST_BOYS": "ми билися з заблудшими хлопцями",
+  "VISUAL_NOVEL_WE_RESPECTED_THE_FOUR_FALLEN": "ми вшанували чотирьох полеглих",
+  "VISUAL_NOVEL_WE_SUNG_AWAY_OUR_AGE": "ми відспівали наш вік",
+  "VISUAL_NOVEL_HOLD_ON_MY_MEMORY_IS_JUST_FUZZY": "почекай.. моя пам'ять просто туманна...",
+  "VISUAL_NOVEL_SURE_TAKE_YOUR_TIME_YOU_CAN_PROBABLY_FIND_SOMETHING_ON_YOUR_COMPUTER_TO_HELP_YOU_REFRESH_YOUR_MEMORY": "звісно. не поспішай~ може знайдеш щось на своєму комп'ютері, що відновить твою пам'ять",
+  "VISUAL_NOVEL_THANKS_ILL_TRY_AGAIN": "дякую... я спробую ще раз",
+  "VISUAL_NOVEL_I_DONT_THINK_THATS_IT": "я не думаю що це так...",
+  "VISUAL_NOVEL_HMM_OKAY_I_BELIEVE_U_FOR_NOW_YOU_NEED_TO_REGISTER_A_NEW_ACCOUNT_THE_INVITE_CODE_IS_NEVERLAND": "хмм... добре я вірю тобі. поки що. тобі потрібно зареєструвати новий акаунт, код запрошення є {0}",
+  "VISUAL_NOVEL_HMM_HEY_LIZ_IMMA_BRB": "цей... агов ліз.. зара буду... бай",
+  "LYRICS_1": [
+    {
+      "start": "0:00:46",
+      "lyric": "дзюркотлива річка"
+    },
+    {
+      "start": "0:03:07",
+      "lyric": "ставок, що світиться"
+    },
+    {
+      "start": "0:05:11",
+      "lyric": "гаряче джерело пере-переливається"
+    },
+    {
+      "start": "0:10:28",
+      "lyric": "усі три речі ох, ох я знаю"
+    },
+    {
+      "start": "0:13:90",
+      "lyric": "я знаю..."
+    }
+  ],
+  "LYRICS_2": [
+    {
+      "start": "0:00:40",
+      "lyric": "дві руки тримаються за ту саму"
+    },
+    {
+      "start": "0:05:57",
+      "lyric": "стару історію, написану погано"
+    },
+    {
+      "start": "0:09:92",
+      "lyric": "можем ми -"
+    },
+    {
+      "start": "0:11:40",
+      "lyric": "взяти контроль?"
+    },
+    {
+      "start": "0:13:01",
+      "lyric": "я хочу покинути це все позаду"
+    }
+  ],
+  "LYRICS_3": [
+    {
+      "start": "0:00:61",
+      "lyric": "у сім ранку проснувся"
+    },
+    {
+      "start": "0:03:96",
+      "lyric": "це знову як рай"
+    },
+    {
+      "start": "0:07:48",
+      "lyric": "тебе друже усміхеним бачу"
+    },
+    {
+      "start": "0:10:86",
+      "lyric": "і я не хочу цьому кінець"
+    },
+    {
+      "start": "0:13:92",
+      "lyric": "теперішнє скоро мине"
+    },
+    {
+      "start": "0:17:38",
+      "lyric": "натовпи вулиць і міст"
+    },
+    {
+      "start": "0:21:13",
+      "lyric": "кожен, кого зустрінеш ти"
+    },
+    {
+      "start": "0:24:23",
+      "lyric": "якось дня підуть"
+    }
+  ],
+  "LYRICS_4": [
+    {
+      "start": "0:01:11",
+      "lyric": "чи я напій що ти випила?"
+    },
+    {
+      "start": "0:05:21",
+      "lyric": "чи я закуска що ти з'їла?"
+    },
+    {
+      "start": "0:09:61",
+      "lyric": "чи я річ що ти втратила?"
+    },
+    {
+      "start": "0:14:69",
+      "lyric": "втратила так давно"
+    }
+  ],
+  "LYRICS_5": [
+    {
+      "start": "0:00:71",
+      "lyric": "не хочу бути похованою"
+    },
+    {
+      "start": "0:04:67",
+      "lyric": "6 футів під землею"
+    },
+    {
+      "start": "0:08:61",
+      "lyric": "якщо ти не поруч"
+    },
+    {
+      "start": "0:12:40",
+      "lyric": "не хочу бути самою"
+    },
+    {
+      "start": "0:15:75",
+      "lyric": "я не хочу покидати це світ"
+    },
+    {
+      "start": "0:20:07",
+      "lyric": "якщо ти не зі мною"
+    },
+    {
+      "start": "0:23:34",
+      "lyric": "ні, я не хочу помирати"
+    },
+    {
+      "start": "0:26:80",
+      "lyric": "без тебе"
+    }
+  ],
+  "LYRICS_6": [
+    {
+      "start": "0:01:10",
+      "lyric": "*гітара грає*"
+    },
+    {
+      "start": "0:03:73",
+      "lyric": "от лайно емм..."
+    },
+    {
+      "start": "0:06:00",
+      "lyric": "*ГІТАРА БРИНЬКАЄ*"
+    },
+    {
+      "start": "0:07:52",
+      "lyric": "(пошепки) тож"
+    },
+    {
+      "start": "0:08:63",
+      "lyric": "лиш один шанс,"
+    },
+    {
+      "start": "0:11:82",
+      "lyric": "і один танок"
+    },
+    {
+      "start": "0:14:88",
+      "lyric": "відчуття як незграбний"
+    },
+    {
+      "start": "0:17:36",
+      "lyric": "підлітковий роман"
+    },
+    {
+      "start": "0:19:98",
+      "lyric": "*музика зупиняється* якось звучить"
+    },
+    {
+      "start": "0:20:96",
+      "lyric": "як кінцівка"
+    },
+    {
+      "start": "0:22:55",
+      "lyric": "та, я краще напишу"
+    },
+    {
+      "start": "0:23:21",
+      "lyric": "початок"
+    }
+  ],
+  "LYRICS_7": [
+    {
+      "start": "0:00:86",
+      "lyric": "це так смішно як заднім числом,"
+    },
+    {
+      "start": "0:03:98",
+      "lyric": "дуже супер видно"
+    },
+    {
+      "start": "0:06:07",
+      "lyric": "це так смішно як ти ховаєш,"
+    },
+    {
+      "start": "0:09:28",
+      "lyric": "що маєш ти на думці"
+    },
+    {
+      "start": "0:11:46",
+      "lyric": "тепер в мене три розплющені ока"
+    },
+    {
+      "start": "0:16:59",
+      "lyric": "я намагалась але ти не поруч"
+    }
+  ],
+  "LYRICS_8": [
+    {
+      "start": "0:00:42",
+      "lyric": "будь-ласка не кажи що це кінець"
+    },
+    {
+      "start": "0:04:42",
+      "lyric": "я поклав свою вдачу на чотирилисту конюшину"
+    },
+    {
+      "start": "0:11:15",
+      "lyric": "не кажи це ностальгія"
+    },
+    {
+      "start": "0:16:28",
+      "lyric": "я б краще залишився в минулому якщо захотів би"
+    }
+  ],
+  "NOTES": [
+    "8/24 щойно знайшла свій старий щоденник і надихнулась зробити електронну версію!! було дивно читати це, багато речей крізь які я пройшла 4 роки тому звучать як я зараз наче я постійно наштовхуюсь і одні й ті самі проблеми знов і знов",
+    "8/27 уупс треба підготуватись до тесту!!! не вийшло писати часто, як я хотіла....",
+    "8/28 останнім часом багато часу проводжу за комп’ютером. мені справді треба частіше виходити гуляти. все ж я познайомилась з новим другом на ім’я оріон!! сьогодні він показав мені гру.",
+    "9/2 щойно побачила пост на занґа що кев нг нещодавно помер. було дивно бачити це... я відчувала якусь беземоційність. це просто було. було багато коментів під постом. “спочивай з миром кев” і таке інше. я не дуже його знала... не знаю як реагувати...",
+    "9/3 забула. шафка Кева була прямо під моєю. мені доводилось посунутись коли він приходив, і я чула його голос \"привіт перепрошую\". я так звикла до цього. коли я закрила шафку, я зрозуміла що не чую його і мені не потрібно було посуватися, і тоді я заплакала. я не могла зупинитись. смерть так лякає мене. просто.. як хтось може просто зникнути?? кожна маленька деталь, все що вони збирались зробити завтра, Кев йде до класу чи Кев наступного тижня готується до духовного тижня. все просто зупиняється.",
+    "9/4 лоусон, ем і я відвідали земельний виїзд сьогодні, від 680. хтось поставив білий хрест де кев і його тато розбились. я написала кеву лист і поклала його.",
+    "9/5 мама дізналась що лоусон відвіз мене до могили кева і жахливо розізлилась. вона сказала мені в її тупій ламаній англійській що я злочинець. вона сказала що я зіпсувала її красу народившись і найменше що я можу зробити це бути гарною дитиною. я залишилась в шкільній комп’ютерній бібліотеці до пізна. я звернулась до оріон. я прийшла додому і зайшла в свою кімнату. мама була тиха, нічого не сказала мені.",
+    "9/6 моя мама викликала чортових копів!!! вона повідомила про моє зникнення. і сьогодні вона викликала йобаних копів ЗНОВУ.. кажучи їм заарештувати мене тому що вона думала що я вчора вживала наркоту??? АГХ ШЗХ!!!!",
+    "9/13 вибач коп’ютере... пройшло декілька днів... втекла... я провела тиждень у ем.. ем справді така хороша подруга. мама ем покликала мою маму. моя мама і я почали розмовляти. вона взяла мене до мого улюбленого китайського місця з медовими горіховими креветками. вона сказала мені як важко це все робити самій і те що вона не знає як це робити. інколи я можу зрозуміти маму... але більшість часу не можу... вона просто каже дійсно дивне лайно деколи...... я розумію вона любить мене і хоче щоб я добре виросла... і я люблю її.. і я люблю те, якою дивною вона може інколи бути... але вона просто каже найзліші речі...",
+    "10/13 мама поїхала відвідати бабусю. тож я пропустила клас. оріон надсилав мені деякі горрор манги бо гелловін. останньої ночі ми дуже захопились історіями про серійних вбивць. він познайомив мене з скотом. я мабуть скоро їх навідаю.",
+    "10/31 я не хочу покидати це світ... якщо ти не зі мною....."
+  ],
+  "OTHER_WORLD_LOGIN": "Логін",
+  "OTHER_WORLD_REGISTER": "Реєстрація",
+  "OTHER_WORLD_EXIT": "Вийти",
+  "OTHER_WORLD_BACK": "Назад",
+  "OTHER_WORLD_INVITE_CODE": "Код запрошення",
+  "OTHER_WORLD_CONTINUE": "Продовжити",
+  "OTHER_WORLD_USERNAME": "Ім'я",
+  "OTHER_WORLD_PASSWORD": "Пароль",
+  "OTHER_WORLD_CONNECTING": "Під'єднання до Серверу...",
+  "OTHER_WORLD_LOGGING_IN": "Вхід...",
+  "OTHER_WORLD_WELCOME": "вітаємо вас {0}",
+  "OTHER_WORLD_INVALID": "Неправильне Ім'я Користувача чи Пароль",
+  "OTHER_WORLD_WHATS_YOUR_NAME": "Ваше Ім'я",
+  "VIDEO_CALL_TITLE": "ВебКам - __orion__",
+  "VIDEO_CALL_REQUEST": "<b>__orion__</b> запрошує до відео-дзвінка.",
+  "VIDEO_CALL_ACCEPT": "Прийняти",
+  "VIDEO_CALL_DECLINE": "Відхилити",
+  "VIDEO_CALL_CONNECTING": "Під'єднуємось до дзвінка <b>__orion__</b> зачекайте будь-ласка.",
+  "VIDEO_CALL_CAMERA_ON": "ВАША КАМЕРА ВВІМКНЕНА",
+  "VIDEO_CALL_END_CALL": "Закінчити Дзвінок",
+  "VIDEO_CALL_MUTE": "Вимкнути мікрофон",
+  "OTHER_WORLD_CHAT_WELCOME": "<system> Вітаємо у ІншомуСвіті! Тисніть на стрілочки щоб гуляти нашим світом. Деякі елементи особливі, тож тисніть усюди. Насолоджуйтесь моментом тут :)",
+  "OTHER_WORLD_CHAT_CREATION": "<system> Усе створене у тебе на долоні. Що ти вигадаєш?",
+  "OTHER_WORLD_CHAT_NEXUS": "<system> Нексус, дім усіх світів користувачів. Завантаж свій або заскоч у величезний космос уже завантажених світів!",
+  "OTHER_WORLD_CHAT_DISCO": "<system> Це Диско, найжвавіше місце для відпочинку в ІншомуСвіті. Виходь на танцмайданчик і заведи друзів з десяток...?",
+  "OTHER_WORLD_CHAT_YOU_ARENT_LIZ": "[__orion__] ти не ліз...",
+  "OTHER_WORLD_CHAT_SPHERE": "<system> Сфера, представляє Креативність. Це те, що тримає нас живими.",
+  "OTHER_WORLD_CHAT_CUBE": "<system> Куб, представляє Спільноту. Це те, що єднає нас.",
+  "OTHER_WORLD_CHAT_PYRAMID": "<system> Піраміда, представляє Структуру. Це те, що тримає нас разом.",
+  "OTHER_WORLD_CHAT_DISCO_BALL": "<system> Відривайся всю ніч! ІншийСвіт завжди наповнений люду, з яким можна познайомитись та потанцювати.",
+  "OTHER_WORLD_CHAT_STATUE": "<system> .іртівоп у єатив онйітсоп тут акизуМ",
+  "OTHER_WORLD_CHAT_CLOCK": "<system> Годинник тікає!",
+  "OTHER_WORLD_CHAT_ALONEGURL_OH_HELLO_FRIEND": "[alonegurl15] о... привіт.. друже",
+  "FILE_BROWSER_ME_JPG": "я.jpg",
+  "FILE_BROWSER_ME_AND_MY_BF_JPG": "я_та_найкраща_подруга.jpg",
+  "FILE_BROWSER_WALLPAPERS_FOLDER": "Шпалери",
+  "FILE_BROWSER_DESKTOP_FOLDER": "Робочий стіл",
+  "FILE_BROWSER_PICTURES_FOLDER": "Картинки",
+  "FILE_BROWSER_GO_BACK": "Вернутись",
+  "FILE_BROWSER_OPEN": "Відкрити",
+  "FILE_BROWSER_CANCEL": "Відмінити",
+  "FILE_BROWSER_TITLE_UPLOAD_WORLD": "Завантаж свій світ!",
+  "OTHER_WORLD_CHAT_UPLOAD_WORLD_ERROR": "<system> Тільки *.world файли дозволені.",
+  "OTHER_WORLD_CHAT_HOUSE_INTRO": "<system> Узрійте Дім Бафомет; Багатовимірна площина, що з'єднуює всі світи всередині світів. Щоб увійти, ти повинен слідувати вказівкам тих, хто був перед тобою.",
+  "OTHER_WORLD_DOOR_PUZZLE_SHORT_KNOCK": "<system> *стук*",
+  "OTHER_WORLD_DOOR_PUZZLE_LONG_KNOCK": "<system> *СТУУУУК!*",
+  "OTHER_WORLD_DOOR_PUZZLE_FOUR_PORTRAITS": "<system> Попри нашу втрату друзів з зовнішнього світу, вони ніколи не будуть забуті у нашому віртуальному. Дай шану тиснучи на їхні портрети.",
+  "OTHER_WORLD_DOOR_PUZZLE_GREGG": "<system> Миру Ґреґу. Липень 3, 1956 - Вересень 11, 2001 \"Біти і байти лиш 1 та 0, два стани буття; включення й виключення, тихий й гучний, короткий й довгий. Але в цих двох станах, вони тримають вічність.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_AURORA": "<system> Миру Авроро. Січень 1, 1975 - Грудень 31, 1999 \"Поглянь як сяють зірки. Поглянь, як вони блимають і мерехтять.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_SAHRA": "<system> Миру Саро. Квітень 4, 1978 - Березень 13, 2002 \"Можливість це стук у двері. Інколи це декілька стуків.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_JORDEN": "<system> Миру Джордене. Серпень 3, 1988 - Вересень 11, 2001 \"Ми або вистукуєм, або затискаєм. Деколи затискати дає інший результат аніж вистукувати.\"",
+  "OTHER_WORLD_STATUE_PUZZLE_INTRO": "<system> За тобою зачиняються двері. Орден Бафомета лише для тих, кому судилося втекти від нашого мрійливого світу. Статуям усім помолись, так як наказав Орден. Одна статуя жадібна та бажає декілька молитв.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_GOAT": "<system> Ти помолився козлу.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_LION": "<system> Ти помолився леву.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_OX": "<system> Ти помолився волу.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_EAGLE": "<system> Ти помолився орлу.",
+  "OTHER_WORLD_STATUE_PUZZLE_SOLVED": "<system> Людина кмітлива ти є. Двері відчиняються позаду статуї.",
+  // "Dreadfully distinct against the dark" is a reference to Blade Runner 2049: https://youtu.be/ZRcpnM26nJM?t=17
+  "OTHER_WORLD_FOUNTAIN_PUZZLE_INTRO": "<system> В жахливій силі струм спалахнув фонтаном у пітьмі. Почерк у крові. Листи для наших коханих, листи, сформовані потоком. Цеглинка за цеглинкою тиснемо, і відразу весь час йде.",
+  "OTHER_WORLD_FOUNTAIN_PUZZLE_SOLVED": "<system> Відчиняються двері.",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_1": "кому ти довіряєш найбільше?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_2": "хто твоє нерозділене бажання?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_3": "хто є єдиним повелителем твоєї долі?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_FAILURE": "<system> Нічого не трапилось. Можливо, твої слова не відображають твоїх справжніх почуттів?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_SUCCESS": "<system> Ваша данина була прийнята.",
+
+  "ENDING_WARNING": "УВАГА! Данини не відповідають життєвій аурі. Перезапис.",
+  // Liz:
+  "ENDING_HOW_LONG_HAS_IT_BEEN": "як... довго це вже ?",
+  "ENDING_THANK_U_FOR_UPLOADING_THOSE_PICTURES": "дякую що загрузив ці фото",
+  "ENDING_WONDERED_IF_I_WOULD_SEE_THEM": "завжди гадала, чи побачу я їхні лиця знову",
+  "ENDING_I_EVEN_FORGOT_WHAT_I_USED_TO_LOOK_LIKE": "я навіть забула як сама виглядала...",
+  "ENDING_HAVENT_SEEN_ANOTHER_PERSON": "я давно не бачила іншу людину дуже довго",
+  // Implies that some separate system has logged onto your account.
+  "ENDING_SYSTEM_ACTION_ERROR": "<system> Цю дію неможливо виконати, оскільки ви ввійшли на інший комп’ютер.",
+  "ENDING_YOU_ARE_OFFLINE": "<system> Ти офлайн.",
+  "ENDING_YOU_ARE_ONLINE": "<system> Ти онлайн.",
+  // Liz:
+  "ENDING_A_LONG_TIME_AGO_I_WAS_APPROACHED_BY_A_MAN": "колись давно... до мене підійшов чоловік...",
+  "ENDING_HE_PROMISED_ME_FOREVER": "та пообіцяв мені нескінченність.",
+  "ENDING_I_GOT_INTO_A_FIGHT_WITH_MY_MOTHER": "я посварилася з мамою",
+  "ENDING_SO_I_DECIDED_TO_UPLOAD_MYSELF_ONTO_THE_INTERNET": "тому виришіла завантажити себе в інтернет",
+  "ENDING_I_UPLOADED_MYSELF_ONTO_THIS_GAME": "я завантажила себе в цю... гру",
+  "ENDING_AT_FIRST_IT_WAS_GREAT": "спочатку, це було чудово.",
+  "ENDING_WE_CREATED_SO_MANY_BEAUTIFUL_THINGS_HERE": "ми створювали стільки прекрасного.",
+  "ENDING_THE_WORLD_USED_TO_BE_CROWDED": "колись цей світ був таким людним, кожного дня були нові обличчя",
+  "ENDING_BUT_NOW": "але тепер...",
+  // Profiles that pop up.
+  "ENDING_POPUP_PROFILE_TITLE": "Профіль - {0}",
+  "ENDING_POPUP_LOADING": "Завантаження...",
+  "ENDING_POPUP_LAST_SEEN": "Востаннє {0} днів тому.",
+  "ENDING_POPUP_MESSAGE_BUTTON": "Написати",
+  "ENDING_POPUP_BLOCK_BUTTON": "Заблокувати",
+  // Liz:
+  "ENDING_THE_WORLD_OUT_THERE_CHANGES": "світ змінюється",
+  "ENDING_PEOPLE_LEAVE_GROW_OLD": "люди йдуть, старіють, рухаються далі",
+  "ENDING_OTHER_WORLD_STAYS_THE_SAME": "проте не ІншийСвіт. назавжди",
+  // Server Browser
+  "ENDING_SERVER_BROWSER_TITLE": "Браузер Сервера",
+  "ENDING_SERVER_BROWSER_REFRESH_BUTTON": "Оновити",
+  "ENDING_SERVER_BROWSER_CLOSE_BUTTON": "Закрити",
+  "ENDING_SERVER_BROWSER_SERVER_NAME": "Ім'я",
+  "ENDING_SERVER_BROWSER_PLAYERS_IN_SERVER": "Гравців",
+  "ENDING_SERVER_BROWSER_SERVER_PING": "Пінг",
+  // Liz:
+  "ENDING_WITHOUT_THE_PLAYERS_WORLDS_ARE_GONE": "без гравців, усі створені гравцями світи зникають.",
+  "ENDING_EVERYONE_RITUAL_DELETED_THEMSELVES": "з часом, усі хто проводили ритуал спробували видалитись.",
+  "ENDING_HOW_IS_A_SOUL_STORED_IN_A_FILESYSTEM": "але як душа зберігається у файловій системі?",
+  "ENDING_I_HEAR_THEM": "деколи я їх чую, їх крики. їхня свідомість злилась з деякими довільними системними файлами",
+  "ENDING_THIS_PLACE_IS_ALL_I_HAVE_LEFT": "це місце це моє все.",
+  "ENDING_ALL_THINGS_DETERIORATE_EVEN_THIS": "усе псується. навіть це.",
+  "ENDING_HOW_COULD_WE_HAVE_KNOWN": "як ми могли знати?",
+  // Liz, now <system>, becomes part of Other World:
+  "ENDING_I_MISS_EMILY": "<system> я скучила за емілі",
+  "ENDING_I_MISS_GOING_ON_THE_COMPUTER_WITH_HER": "<system> скучила бути з нею за копм'ютером, грати у флеш-ігри",
+  "ENDING_SLEEPING_OVER_WATCHING_TV_SHOWS": "<system> ночувати, разом дивитись серіали по телику",
+  "ENDING_I_WONDER_WHO_SHE_GREW_UP_TO_BECOME": "<system> мені цікаво, ким вона виросла",
+  "ENDING_I_MISS_LAWSON": "<system> скучила за лоусоном",
+  "ENDING_I_MISS_TALKING_TO_HIM": "<system> скучила говорити з ним про свої проблеми",
+  "ENDING_I_MISS_HOW_COMFORTING_HE_WAS": "<system> сумую за тим, яким він був приємним",
+  "ENDING_I_DONT_WANT_HIM_TO_SEE_ME_LIKE_THIS": "<system> не хочу, щоб він бачив мене такою.",
+  "ENDING_I_MISS_MY_MOM": "<system> сумую за мамою",
+  "ENDING_I_MISS_OUR_STUPID_FIGHTS": "<system> та нашими дурними сварками",
+  "ENDING_ITS_ALL_SO_MEANINGLESS_NOW": "<system> тепер це немає сенсу. якщо б я могла зрозуміти, що це все таке тимчасове.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_BAD_GRADES": "<system> я боялась отримати погану оцінку.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_NOT_LOOKING_PRETTY": "<system> боялась не мати досить гарного вигляду.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_DISAPPOINTING_PEOPLE": "<system> боялась розчарувати людей.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_DEATH": "<system> я боялась смерті.",
+  "ENDING_BUT_NOW_2": "<system> але зараз",
+  "ENDING_IM_AFRAID_OF_FOREVER": "<system> я боюсь вічності.",
+  "ENDING_BUT_YOURE_HERE_NOW_ARENT_YOU": "<system> але... тепер ти тут, так?",
+  "ENDING_YOU_PERFORMED_THE_RITUAL": "<system> ти провів ритуал.",
+  "ENDING_ONLY_A_FEW_MINUTES_UNTIL_YOU_JOIN_ME": "<system> лиш декілька хвилин і ти приєднаєшся до мене",
+  "ENDING_AND_THEN_I_WONT_BE_ALONE": "<system> і тоді я не буду самотньою",
+  "ENDING_FOREVER": "<system> назавжди.",
+
+  // Facegram
+  "ENDING_FACEGRAM_TITLE": "фейсграм - {0}",
+  "ENDING_FACEGRAM_POSTS_COUNT": "Пости",
+  "ENDING_FACEGRAM_FOLLOWERS_COUNT": "Підписники",
+  "ENDING_FACEGRAM_FOLLOWING_COUNT": "Слідкує",
+  "ENDING_THIS_ACCOUNT_IS_PRIVATE": "Цей Акаунт Приватний. Зачекайте Доки Ваш Запит Буде Прийнятим.",
+
+  // Lawson:
+  "ENDING_USER_IS_ONLINE": "{0} тепер онлайн",
+  "ENDING_HEY_LIZ": "гей ліз...",
+  "ENDING_I_KEEP_SEEING_YOUR_ACCOUNT_ONLINE_AND_OFFLINE": "я далі бачу твій акаунт офлайн і онлайн",
+  "ENDING_IVE_BEEN_MESSAGING_YOU_EVERY_YEAR": "Кожного року я тобі писав з того часу як ти пішла, мабуть сподіваюсь що ти відповісиш.",
+  "ENDING_I_VISITED_YOU_TODAY": "я тебе сьогодні навідував. я залишив квіти і деякі прив-жуйки.",
+  "ENDING_I_DECIDED_THAT_ITS_TIME_TO_MOVE_ON": "я вирішив, що час іти далі.",
+  "ENDING_YOURE_NOT_COMING_BACK_ARE_YOU_LIZ": "ти не вертаєшся ліз?",
+  "ENDING_IVE_MISSED_YOU_SO_MUCH": "я так за тобою скучив.",
+  "ENDING_GOODBYE": "бувай.",
+
+  // Liz ending popup spam:
+  "ENDING_NO": "НІ",
+  "ENDING_DONT_LEAVE_ME": "НЕ ЗАЛИШАЙ МЕНЕ",
+  "ENDING_I_DONT_WANT_TO_BE_ALONE": "Я НЕ ХОЧУ БУТИ САМОЮ",
+
+  // Error Messages
+  "ENDING_ERROR_MEMORYBOUNDS_EXCEEDED": "Помилка: МежіПам'яті Перевищено.",
+  "ENDING_ERROR_SEGMENTATION_FAULT": "Помилка Сегментації.",
+
+  // Task Manager
+  "ENDING_TASK_MANAGER_TITLE": "Диспетчер Завдань",
+  "ENDING_TASK_MANAGER_WARNING": "Увага: Велике Використання Пам'яті",
+  "ENDING_TASK_MANAGER_PROGRAM": "Програма",
+  "ENDING_TASK_MANAGER_USAGE": "Пам'ять",
+
+  // Final Error Message
+  "ERROR_REPORT_OTHER_WORLD_HAS_ENCOUNTERED_A_PROBLEM": "Інший Світ стикнувся з проблемою та повинен закритись. Вибачте за незручності.",
+  "ERROR_REPORT_IF_YOU_WERE_IN_THE_MIDDLE_OF_SOMETHING": "Якщо ви щось робили, інформацію над якою ви працювали може бути втрачено.",
+  "ERROR_REPORT_PLEASE_TELL_OTHER_WORLD_ABOUT_THIS_PROBLEM": "Будь-ласка повідомте Інший Світ про цю проблему.",
+  "ERROR_REPORT_WE_HAVE_CREATED_AN_ERROR_REPORT": "Ми створили звіт про помилку, який ви можете надіслати нам. Ми розглядатимемо цей звіт як конфіденційний та анонімний.",
+  "ERROR_REPORT_BUTTON_1": "Надіслати <b><u>Це</u></b>й Звіт",
+  "ERROR_REPORT_BUTTON_2": "Не звітувати <b><u>кінцеву</u></b> помилку?",
+
+  // Translation Credits
+  "SHOW_TRANSLATION_CREDITS": true,
+  "CREDITS_TITLE": "Український Переклад",
+  // Put as many credits here as you want.
+  // Please don't put a virus here :(
+  "CREDITS": [
+    { "name": "koteika nik", "website": "https://koteika-nik.itch.io/" },
+    { "name": "koteika nik", "website": "mr.magnifikent (discord)" }
+// Optional website.
+  ],
+
+  "CLICK_TO_REPLAY": "Натисніть щоб Почати Знову",
+
+  // Ignore this last line, it's so each line can have a comma at the end.
+  "": null
+}

@@ -1,0 +1,655 @@
+// I've documented a couple things here.
+// You don't have to translate everything, but I included
+// as much as I can just in case.
+{
+  "NAME": "Čeština",
+  "FONT_FAMILY": "PixeloidSans",
+  "TITLE_TEXT": "last seen online",
+  "INTRO_TEXT_1": "Na garážovém výprodeji jsi našel starý počítac.",
+  "INTRO_TEXT_2": "Rozhodl ses ho zapnout.",
+  "CONTINUE_BUTTON": "pokračovat",
+  "PASSWORD_TEXT": "Heslo:",
+  "PASSWORD_HINT": "Nápověda: Jméno psa a můj rok narození",
+  // Optional:
+  "LOGGING_IN": "přihlašování...",
+  // Optional:
+  "WELCOME_BACK": "Vítej zpět...",
+  "DESKTOP_SHORTCUT_BUDDYLIST": "Buddy List",
+  // Don't change LoseAmp Player name.
+  // Kept here for consistency.
+  "DESKTOP_SHORTCUT_LOSEAMP_PLAYER": "LoseAmp Player",
+  "DESKTOP_SHORTCUT_OTHER_WORLD": "Other World",
+  "DESKTOP_SHORTCUT_ZIP": "photos4em.zip",
+  "UNZIPPER_TITLE": "UnZipper - photos4em.zip",
+  "UNZIPPER_TEXT": "Tento ZIP soubor je chráněný 4 místným kódem.",
+  "UNZIPPER_UNLOCK_BUTTON": "Odemknout",
+  "UNZIPPER_INCORRECT_PASSWORD": "Nesprávné heslo.",
+  // Optional:
+  "BUDDYLIST_SIGN_ON": "Přihlásit se",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_1": "1. Používání uloženého hesla...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_2": "2. Připojování...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_3": "3. Zapínání sluzeb...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_4": "4. Připojeno.",
+  "BUDDYLIST_CHAT_WINDOW_TITLE": "{0} - Chat",
+  "USER_IS_OFFLINE": "tento užvatel je offline, počkejte, než se zase přihlásí.",
+  // <LIZ> colors the line of chat blue.
+  // <SYSTEM> colors the line of chat gray.
+  // <...ANYTHING ElSE> colors the line of chat red.
+  "LAWSON_CHATLOG": [
+    "<LAWSON>: Ahooj :) Jak se máš?",
+    "<LIZ>: Dá se",
+    "<LAWSON>: Jen se dá? Co právě děláš?",
+    "<LIZ>: nic extra, jen poslouchám hudbu a hraju hry, co ty?",
+    "<LAWSON>: taky dobrý... musím se učit na zítřejší test z matematiky, nebo mě máma zabije",
+    "<LIZ>: omg nekřičela na tebe máma minule?",
+    "<LAWSON>: jop.. ale snad se to tentokrát povede líp",
+    "<LIZ>: :((( vím že se snažíš!! nenech ji ti zničit náladu. moje máma mě taky štve poslední dobou...",
+    "<LAWSON>: tebe taky??? povídej!!",
+    "<LIZ>: furt mi říká že jsem přesně jak můj otec... není moje chyba že jí opustil.... každý den furt jen křičí a křičí.. nejsem dost dobrá...",
+    "<LAWSON>: aww to mě mrzí... jo už je to taky nějaká doba co jsem viděl tátu.. zajímá mě jak se má...",
+    "<LAWSON>: už musím jít, ale rád jsem si s tebou pokecal... gn!!",
+    "<SYSTEM>: aznL4ws0n je offline",
+    "<SYSTEM>: aznL4ws0n je online",
+    "<LAWSON>: ahoj, máš ten úkol z matematiky?",
+    "<SYSTEM>: aznL4ws0n je offline",
+    "<SYSTEM>: aznL4ws0n je online",
+    "<LAWSON>: hej, něco se o tobě říká ve škole, je všechno v poho?",
+    "<SYSTEM>: aznL4ws0n je offline",
+    "<SYSTEM>: aznL4ws0n je online",
+    "<LAWSON>: vím že nechceš mluvit, ale chci se ujistit, že je všechno v pohodě",
+    "<SYSTEM>: aznL4ws0n je offline",
+    "<SYSTEM>: aznL4ws0n is je online",
+    "<LAWSON>: chybíš mi",
+    "<SYSTEM>: aznL4ws0n je offline",
+    "<SYSTEM>: aznL4ws0n je online",
+    "<LAWSON>: mám 3 z matiky :(",
+    "<SYSTEM>: aznL4ws0n je offline",
+    "<SYSTEM>: aznL4ws0n je online",
+    "<LAWSON>: pohádal jsem se s matkou, ale je to v pohodě.. snad se máš fajn.",
+    "<SYSTEM>: aznL4ws0n je offline",
+    "<SYSTEM>: aznL4ws0n je online",
+    "<LAWSON>: dostal jsem se na vysněnou školu! <3",
+    "<SYSTEM>: aznL4ws0n je offline",
+    "<SYSTEM>: aznL4ws0n je online",
+    "<LAWSON>: viděl jsem dneska psa. vypadal dost jako Scotty :)",
+    "<SYSTEM>: aznL4ws0n je offline"
+  ],
+  "SCOTT_CHATLOG": [
+    "<SCOTT>: Ahoj, tady Scott, ten z Other World. chtěla sis mě přidat?",
+    "<LIZ>: ano!! (=^o^=) to o čem jsi mluvil. ten rituál.. přemýšlela jsem o tom. pomůže mi to odejít?",
+    "<SCOTT>: ano. baphometův rituál. popsal bych to jako konami kód vesmíru. nepomůže ti odejít, ale přenese tvoje vědomí.. tvůj kód... k osvícení. ukážu ti věčnost.",
+    "<LIZ>: hmm ok, btw jmenuješ se stejně jako můj pes hahahaha",
+    "<SYSTEM>: scottNJ je offline",
+    "<SYSTEM>: scottNJ je online",
+    "<SCOTT>: máš ten link co jsem ti dal?",
+    "<LIZ>: to je ono??? fakt to funguje???",
+    "<SCOTT>: tys chtěla mojí pomoc. je tam cesta k věčné posvátnosti. hledáš věčné štěstí nebo ne?",
+    "<SYSTEM>: scottNJ je offline",
+    "<SYSTEM>: scottNJ je online",
+    "<SCOTT>: proces již začal, jsi připravená?",
+    "<LIZ>: ano... trochu se bojím",
+    "<SCOTT>: neboj se maličká. přijdu za tebou brzy",
+    "<SYSTEM>: scottNJ je offline",
+    "<SYSTEM>: scottNJ je online",
+    "<LIZ|CORRUPTED>: SLIBIL JSI ZE NEODEJDES"
+  ],
+  "ETERNALJUICE_CHATLOG": [
+    "<ETERNAL_JUICE>: a/s/l?",
+    "<LIZ>: je mi 14",
+    "<ETERNAL_JUICE>: sladký nektar mládí, těším se až se k nám přidáš",
+    "<LIZ>: co???"
+  ],
+  "EMMBER_CHATLOG": [
+    "<LIZ>: aaahhh lawson je tak pěknej :(:(:(:(:(",
+    "<EMMBER>: proč ho někam nepozveš?",
+    "<LIZ>: pochybuju, že se mu líbím... nejsem zrovna pěkná",
+    "<EMMBER>: lmao cože, jsi nádherná......",
+    "<LIZ>: =.= máma říká že nemám nos po ní, mám velký nos po tátovi.! nesnáším to",
+    "<EMMBER>: neposlouchej ji, jsi kraaasná d(^_^)z",
+    "<LIZ>: chci někam utýct emmmm... nechci žít na této planetě",
+    "<EMMBER>: awww i pokud tě nebude milovat lawson, já tě budu milovat vždycky!!! BFF!!!",
+    "<SYSTEM>: xXemmberXx86 je offline",
+    "<SYSTEM>: xXemmberXx86 je online",
+    "<LIZ>: máma mi chce sebrat počítač. ale našla jsem způsob em.",
+    "<EMMBER>: promiň učila jsem se, co se děje?? tvoje máma je divná!!",
+    "<SYSTEM>: xXemmberXx86 je offline",
+    "<SYSTEM>: xXemmberXx86 je online",
+    "<EMMBER>: liz nemluvili jsme spolu 2 týdny, co děláš??",
+    "<LIZ>: romiň!! jen jsme se bavila s přáteli z OtherWorld!!",
+    "<SYSTEM>: xXemmberXx86 je offline",
+    "<SYSTEM>: xXemmberXx86 je online",
+    "<LIZ>: zvládla jsem to. našla jsem způsob jak odejít napořád.",
+    "<EMMBER>: lol kam mizíš? do paříže?",
+    "<LIZ>: poslala jsem ti fotky, máš je?",
+    "<LIZ>: splnili jsme všechny kroky pro oriona.. brzy budu svobodná.",
+    "<EMMBER>: jo ten ZIP soubor? je zaheslovaný.",
+    "<LIZ>: -_- jsou to 4 písničky z mého playlistu!!",
+    "<EMMBER>: oh... to nechápu.. máš 8 písniček.",
+    "<LIZ>: máš pořád naší bff <b>tapetu</b>?? musíš zavřít všechny okna kromě LoseAmp!!! tapeta ti ukáže pořadí.",
+    "<EMMBER>: O_O !! to je hustý!! omg <b>prostě jsem přesunula okno.</b> ok co dál??",
+    "<LIZ>: poslouchej text!!",
+    "<EMMBER>: ooooOOo ty jsi chytrá ^_^",
+    "<EMMBER>: omg proč máš fotku lawsona??",
+    "<LIZ>: NEE TO BYLO OMYLEM!!!",
+    "<EMMBER>: ... to jsou divný fotky...",
+    "<LIZ>: takžeee, máš zájem?",
+    "<SYSTEM>: xXemmberXx86 je offline",
+    "<SYSTEM>: xXemmberXx86 je online",
+    "<LIZ|CORRUPTED>: EMILY FUNGOVALO TO",
+    "<EMMBER>: kdo jsi?",
+    "<LIZ|CORRUPTED>: TO JSEM JA, LIZ!! FURT SE UCIM TO OVLADAT",
+    "<EMMBER>: poslouchej nevím co za debilní vtip tohle je, ale je to fakt hnusý. blokuju si tě."
+  ],
+  "ORION_CHATLOG": [
+    "<LIZ>: ahoj, viděl jsi nový svět od jenni??",
+    "<ORION>: jop, je vážně super. dala do toho hodně času.",
+    "<LIZ>: jednou udělám taky nějaký cool svět",
+    "<ORION>: haha uvidíme",
+    "<ORION>: hele koukej co jsem našel: RED_HERRING_EXE",
+    "<LIZ>: oh wow?? to je z otherworld???",
+    "<ORION>: nope, jen nějaká kresba, nemyslím si, že to má něco společného se hrou.",
+    "<SYSTEM>: __orion__ je offline",
+    "<SYSTEM>: __orion__ je online",
+    "<ORION>: ahoj, zkusila jsi napsat /info do chatu v otherworld?? ukáže ti to kolik máš nahráno",
+    "<LIZ>: omg tohle je trapný...... 849 hodin...",
+    "<SYSTEM>: __orion__ je offline",
+    "<SYSTEM>: __orion__ je online",
+    "<ORION>: FUNGOVALO TO!!! GPŘIPOJ SE HNED TEĎ!!!",
+    "<SYSTEM>: __orion__ je offline",
+    "<SYSTEM>: __orion__ je online"
+  ],
+  "VISUAL_NOVEL_HEY_IS_THIS_LIZ": "ahoj?? jsi to ty liz???",
+  "VISUAL_NOVEL_YEAH_THIS_IS_LIZ": "ano.. tady liz...",
+  "VISUAL_NOVEL_OH_INTERESTING_SO_STRANGE_TO_SEE_YOU_HERE": "oh zajímavé... zvláštní tě vidět...tady...",
+  "VISUAL_NOVEL_UM_YEAH_JUST_TOOK_A_LONG_BREAK": "um jo, dala jsem si dlouhou přestávku.",
+  "VISUAL_NOVEL_I_DONT_KNOW_WHAT_YOU_MEAN": "nevím o čem mluvíš...",
+  "VISUAL_NOVEL_WELL_GLAD_YOURE_BACK_IVE_MISSED_YOU": "no. jsem rád že jsi zpátky. chybělas mi.",
+  "VISUAL_NOVEL_IVE_MISSED_YOU_TOO": "taky jsi mi chyběl",
+  "VISUAL_NOVEL_CAN_YOU_REMIND_ME_WHO_THIS_IS": "kdo že vlastně jsi?",
+  "VISUAL_NOVEL_ITS_ORION_WE_USED_TO_BE_GOOD_FRIENDS_IM_SURPRISED_YOU_DONT_REMEMBER_ME_THATS_FINE": "to jsem já orion! byli jsme dobří přátelé. divím se, že si nevzpomínáě. ale to je v poho!",
+  "VISUAL_NOVEL_ANYTHING_I_CAN_HELP_YOU_WITH": "můžu ti s něčím pomoct?",
+  "VISUAL_NOVEL_DO_YOU_KNOW_THE_PASSCODE_FOR_PHOTOS4EMZIP": "nevíš heslo od photos4em.zip?",
+  "VISUAL_NOVEL_HMM_I_DONT_REMEMBER_TRY_DIGGING_THROUGH_YOUR_OLD_CHATLOGS_MAYBE_YOU_SENT_IT_TO_SOMEONE": "hmm... nepamatuju si, podívej se do starých chatů. možná jsi o tom někomu psala",
+  "VISUAL_NOVEL_OKAY_ILL_TRY_THAT_OUT": "okay.. zkusím",
+  "VISUAL_NOVEL_WHATS_OTHER_WORLD": "co je to Other World?",
+  "VISUAL_NOVEL_YOU_GOTTA_BE_JOKING_YOU_DONT_REMEMBER_ITS_THE_GAME_WE_PLAYED_WHEN_WE_WERE_KIDS_ARE_YOU_SURE_THIS_IS_LIZ": "to si děláš srandu! nepamatuješ si? je to hra našeho dětství. fakt jsi to ty liz?",
+  "VISUAL_NOVEL_YES_IM_SURE_HOW_DO_I_GET_IN": "ano... jsem. jak se tam dostanu?",
+  "VISUAL_NOVEL_JUST_TO_MAKE_SURE_YOU_ARE_WHO_YOU_SAY_YOU_ARE_CAN_YOU_TELL_ME_THE_ORDER_OF_THE_FOUR_EVENTS_DURING_OUR_FINAL_RITUAL": "jen pro ujištění že jsi to ty... řekneš mi postup našeho finálního rituálu?",
+  "VISUAL_NOVEL_ILL_TRY_TO_REMEMBER": "zkusím si vzpomenout",
+  "VISUAL_NOVEL_I_DONT_REMEMBER": "nepamatuju si",
+  "VISUAL_NOVEL_THAT_S_OKAY_TAKE_YOUR_TIME": "to je v pohodě, dej si na čas",
+  "VISUAL_NOVEL_OKAY": "okay",
+  "VISUAL_NOVEL_SO_REMIND_ME_WHAT_HAPPENED": "tak mi přpomeň, co se stalo",
+  "VISUAL_NOVEL_THAT_MIGHT_BE_RIGHT_THAT_MIGHT_BE_WRONG_WHAT_NEXT": "možná ano, možná ne. co dál?",
+  "VISUAL_NOVEL_OK_COULD_BE_WHAT_HAPPENED_BUT_I_WONT_TELL_YOU_WHAT_THEN": "ok... tohle může být správně, ale to ti neřeknu. co potom?",
+  "VISUAL_NOVEL_AND_FINALLY": "a nakonec?",
+  "VISUAL_NOVEL_WE_BLESSED_THE_STATUE": "poctili jsme sochu",
+  "VISUAL_NOVEL_WE_LIT_CANDLES_FOR_OUR_TRIBUTES": "zapálili jsme svíčky za naše holdy",
+  "VISUAL_NOVEL_WE_GAZED_UPON_THE_FOUNTAIN": "sešli jsme se u fontány",
+  "VISUAL_NOVEL_WE_FOUGHT_THE_LOST_BOYS": "bojovali jsme se ztracenýma dušema",
+  "VISUAL_NOVEL_WE_RESPECTED_THE_FOUR_FALLEN": "uctili jsme padlé",
+  "VISUAL_NOVEL_WE_SUNG_AWAY_OUR_AGE": "odzpívali jsme náš věk",
+  "VISUAL_NOVEL_HOLD_ON_MY_MEMORY_IS_JUST_FUZZY": "moment.. nemůžu si vzpomenout...",
+  "VISUAL_NOVEL_SURE_TAKE_YOUR_TIME_YOU_CAN_PROBABLY_FIND_SOMETHING_ON_YOUR_COMPUTER_TO_HELP_YOU_REFRESH_YOUR_MEMORY": "v pohodě. máš čas~ určitě najdeš v počítači něco, co ti pomůže si vzpomenout",
+  "VISUAL_NOVEL_THANKS_ILL_TRY_AGAIN": "díky... zkusím to znovu",
+  "VISUAL_NOVEL_I_DONT_THINK_THATS_IT": "nemyslím si, že to je správně...",
+  "VISUAL_NOVEL_HMM_OKAY_I_BELIEVE_U_FOR_NOW_YOU_NEED_TO_REGISTER_A_NEW_ACCOUNT_THE_INVITE_CODE_IS_NEVERLAND": "hmm... fajn věřím ti. prozatím. musíš si zaregistrovat nový účet, pozvánkový kód je {0}",
+  "LYRICS_1": [
+    {
+      "start": "0:00:46",
+      "lyric": "a babbling river"
+    },
+    {
+      "start": "0:03:07",
+      "lyric": "a pond that glows"
+    },
+    {
+      "start": "0:05:11",
+      "lyric": "a hot spring over-overflows"
+    },
+    {
+      "start": "0:10:28",
+      "lyric": "all three things oh, oh I know"
+    },
+    {
+      "start": "0:13:90",
+      "lyric": "I know..."
+    }
+  ],
+  "LYRICS_2": [
+    {
+      "start": "0:00:40",
+      "lyric": "two hands holding on to the same"
+    },
+    {
+      "start": "0:05:57",
+      "lyric": "old story, written poorly"
+    },
+    {
+      "start": "0:09:92",
+      "lyric": "can we -"
+    },
+    {
+      "start": "0:11:40",
+      "lyric": "take control?"
+    },
+    {
+      "start": "0:13:01",
+      "lyric": "I wanna leave this all behind"
+    }
+  ],
+  "LYRICS_3": [
+    {
+      "start": "0:00:61",
+      "lyric": "wake at seven A.M."
+    },
+    {
+      "start": "0:03:96",
+      "lyric": "it's like heaven again"
+    },
+    {
+      "start": "0:07:48",
+      "lyric": "see you smiling my friend"
+    },
+    {
+      "start": "0:10:86",
+      "lyric": "and I don't want this to end"
+    },
+    {
+      "start": "0:13:92",
+      "lyric": "the present moment will fleet"
+    },
+    {
+      "start": "0:17:38",
+      "lyric": "crowded city and streets"
+    },
+    {
+      "start": "0:21:13",
+      "lyric": "everybody you meet"
+    },
+    {
+      "start": "0:24:23",
+      "lyric": "will go away someday"
+    }
+  ],
+  "LYRICS_4": [
+    {
+      "start": "0:01:11",
+      "lyric": "am I a drink that you drank?"
+    },
+    {
+      "start": "0:05:21",
+      "lyric": "am I a snack that you eight?"
+    },
+    {
+      "start": "0:09:61",
+      "lyric": "am I a thing that you lost?"
+    },
+    {
+      "start": "0:14:69",
+      "lyric": "lost long ago"
+    }
+  ],
+  "LYRICS_5": [
+    {
+      "start": "0:00:71",
+      "lyric": "I don't want to be buried"
+    },
+    {
+      "start": "0:04:67",
+      "lyric": "six feet under the ground"
+    },
+    {
+      "start": "0:08:61",
+      "lyric": "if you are not around"
+    },
+    {
+      "start": "0:12:40",
+      "lyric": "don't want to be alone"
+    },
+    {
+      "start": "0:15:75",
+      "lyric": "I don't want to leave this world"
+    },
+    {
+      "start": "0:20:07",
+      "lyric": "if you're not by my side"
+    },
+    {
+      "start": "0:23:34",
+      "lyric": "no, I don't want to die"
+    },
+    {
+      "start": "0:26:80",
+      "lyric": "without you"
+    }
+  ],
+  "LYRICS_6": [
+    {
+      "start": "0:01:10",
+      "lyric": "*guitar noodling*"
+    },
+    {
+      "start": "0:03:73",
+      "lyric": "oh shit uhm..."
+    },
+    {
+      "start": "0:06:00",
+      "lyric": "*GUITAR STRUM*"
+    },
+    {
+      "start": "0:07:52",
+      "lyric": "(whispers) so"
+    },
+    {
+      "start": "0:08:63",
+      "lyric": "just one chance,"
+    },
+    {
+      "start": "0:11:82",
+      "lyric": "and one dance"
+    },
+    {
+      "start": "0:14:88",
+      "lyric": "feels like awkward"
+    },
+    {
+      "start": "0:17:36",
+      "lyric": "teenage romance"
+    },
+    {
+      "start": "0:19:98",
+      "lyric": "*music stops* it kinda sounds like"
+    },
+    {
+      "start": "0:20:96",
+      "lyric": "the end though"
+    },
+    {
+      "start": "0:22:55",
+      "lyric": "maybe i should write"
+    },
+    {
+      "start": "0:23:21",
+      "lyric": "the beginning"
+    }
+  ],
+  "LYRICS_7": [
+    {
+      "start": "0:00:86",
+      "lyric": "it's so funny how hindsight,"
+    },
+    {
+      "start": "0:03:98",
+      "lyric": "is super clear vision"
+    },
+    {
+      "start": "0:06:07",
+      "lyric": "it's so funny how you hide,"
+    },
+    {
+      "start": "0:09:28",
+      "lyric": "what you're really thinking"
+    },
+    {
+      "start": "0:11:46",
+      "lyric": "I have three eyes open now"
+    },
+    {
+      "start": "0:16:59",
+      "lyric": "I tried but you are not around"
+    }
+  ],
+  "LYRICS_8": [
+    {
+      "start": "0:00:42",
+      "lyric": "please don't say that it's over"
+    },
+    {
+      "start": "0:04:42",
+      "lyric": "I put my luck on a four-leaf clover"
+    },
+    {
+      "start": "0:11:15",
+      "lyric": "don't say it's nostalgia"
+    },
+    {
+      "start": "0:16:28",
+      "lyric": "I'd rather stay in the past if I want to"
+    }
+  ],
+  "NOTES": [
+    "8/24 našla jsem starý deník a rozhodla jsem se udělat digitální verzi!! bylo divné to číst, za 4 roky jsem si prošla fakt hodně věcma a vypadá to, že se potýkám se stejnými problémy znovu a znovu",
+    "8/27 woops musela jsem se učit na test!!! nenapsala jsem toho tolik co jsem chtěla....",
+    "8/28 poslední dobou trávím moc času na počítači. měla bych chodit víc ven. našla jsem si nového kamaráda, jmenuje se orion!!! ukázal mi novou hru.",
+    "9/2 viděla jsem post na zanga že kev ng nedávno zemřel. bylo zvláštní to vidět... byla jsem kinda bez emocí. prostě se to stalo. bylo tam dost komentářů. \"rip kev\" apod.. neznala jsem ho moc.. nevím jak se cítit...",
+    "9/3 zapomněla jsem. kevova skříňka byla hned pod mojí. musela jsem mu uhnout pokaždý co přišel, slýchávala jsem jeho hlas \"s dovolením prosím\". zvykla jsem si na to. když jsem zavírala skříňku, uvědomila jsem si, že už tam nebyl a že už jsem mu nemusela uhýbat, rozplakalo mě to. nemohla jsem přestat plakat. smrt je tak strašně děsivá. prostě.. jak může někdo prostě zmizet?? každá malá věc ohledně toho člověka, všechny jeho plány na další den, jeho příchod do třídy další den, jeho přípravy na zkoušky, všechno prostě zmizelo.",
+    "9/4 lawson, em a já jsme navštívili místo kde zemřel. někdo na místo kde se svým otcem nabourali dal bílí kříž. napsala jsem mu dopis a nechala ho tam, třeba ho v posmrtném životě uvidí.",
+    "9/5 máma zjistila, že mě lawson odvezl a byla děsně naštvaná. řekla mi ve svojí zkurveně špatné češtině, že jsem kriminálník. řekla, že jsem zničila její krásu tím, že jsem se narodila a že můžu být aspoň hodné dítě. zůstala jsem pak dlouho ve škole na počítači v laborkách. o všem jsem řekla orionovi. šla jsem domů a hned šla do svého pokoje. máma byla ticho, neřekla mi vůbec nic",
+    "9/6 máma zavolala zkurvený policisty!!! že jsem prý nezvěstná. a DNESKA zavolala policisty ZNOVU.. že mě prý mají zatknout, protože beru drogy??? UGH WTF!!!!",
+    "9/13 omlouvám se.... bylo to pár dní... utekla jsem... trávila jsem týden u emily.. em je úžasná kamarádka. její máma zavolala mojí mámě. nakonec jsme si promluvili. vzala mě do mojí oblíbený čínský restaurace. říkala, že je to pro ní strašně těžký a že je na všechno sama... občas ji i chápu... ale většinou ne... občas prostě říká strašně divný sračky..... chápu že mě miluje a že chce, abych vyrostla v pořádku... a miluju jí.. více než cokoliv... ale občas dokáže být tak hnusná...",
+    "10/13 máma jela navštívit babičku. vykašlala jsem se na školu. orion mi na halloween poslal nějaké horrorové mangy. minulou noc jsme trávili koukáním na dokumenty o sériových vrazích. taky mě seznámil se scottem. brzy je navštívím.",
+    "10/31 nechci opustit tento svět... pokud po mém boku nebudeš....."
+  ],
+  "OTHER_WORLD_LOGIN": "Přihlášení",
+  "OTHER_WORLD_REGISTER": "Registrace",
+  "OTHER_WORLD_EXIT": "Odejít",
+  "OTHER_WORLD_BACK": "Zpět",
+  "OTHER_WORLD_INVITE_CODE": "Pozvánkovy kód",
+  "OTHER_WORLD_CONTINUE": "Pokračovat",
+  "OTHER_WORLD_USERNAME": "Uživatelské jméno",
+  "OTHER_WORLD_PASSWORD": "Heslo",
+  "OTHER_WORLD_CONNECTING": "Připojuji na server...",
+  "OTHER_WORLD_LOGGING_IN": "Přihlašování...",
+  "OTHER_WORLD_WELCOME": "Vítáme tě {0}",
+  "OTHER_WORLD_INVALID": "Nesprávné jméno nebo heslo",
+  "OTHER_WORLD_WHATS_YOUR_NAME": "Jaké je tvé jméno?",
+  "VIDEO_CALL_TITLE": "Videokamera - __orion__",
+  "VIDEO_CALL_REQUEST": "<b>__orion__</b> vyžádal videohovor.",
+  "VIDEO_CALL_ACCEPT": "Přijmout",
+  "VIDEO_CALL_DECLINE": "Odmítnout",
+  "VIDEO_CALL_CONNECTING": "Připojuji k hovoru s <b>__orion__</b> čekejte prosím.",
+  "VIDEO_CALL_CAMERA_ON": "VAŠE KAMERA JE ZAPNUTA",
+  "VIDEO_CALL_END_CALL": "Ukončit hovor",
+  "VIDEO_CALL_MUTE": "Ztlumit",
+  "OTHER_WORLD_CHAT_WELCOME": "<system> Vítejte v OtherWorld! Klikni na šipky pro pohyb po světě. Některé objekty jsou speciální, tak neváhej vše proklikat. Užij si pobyt zde :)",
+  "OTHER_WORLD_CHAT_CREATION": "<system> Všechny výtvory jsou na dosah tvých rukou. O čem budeš snít?",
+  "OTHER_WORLD_CHAT_NEXUS": "<system> Nexus, domov uživatelských světů. Nahraj svůj, nebo se připoj na svět již vytvořený!",
+  "OTHER_WORLD_CHAT_DISCO": "<system> Toto je diskotéka, nejživější místo v OtherWorld. Vstup na parket a najdi si nějaké prátele...!",
+  "OTHER_WORLD_CHAT_YOU_ARENT_LIZ": "[__orion__] ty nejsi liz...",
+  "OTHER_WORLD_CHAT_SPHERE": "<system> Koule, reprezentuje Kreativitu. To nás drží nživu.",
+  "OTHER_WORLD_CHAT_CUBE": "<system> Krychle, reprezentuje Komunitu. To nás všechny spojuje.",
+  "OTHER_WORLD_CHAT_PYRAMID": "<system> Jehlan, reprezentuje Strukturu. To nás drží pohromadě.",
+  "OTHER_WORLD_CHAT_DISCO_BALL": "<system> Protanči celou noc! OtherWorld je vždy plný hráčů na seznámení a na tanec.",
+  "OTHER_WORLD_CHAT_STATUE": "<system> .akizum ­ínz uhcudzv eV",
+  "OTHER_WORLD_CHAT_CLOCK": "<system> Hodiny tikají!",
+  "OTHER_WORLD_CHAT_ALONEGURL_OH_HELLO_FRIEND": "[alonegurl15] oh... ahoj.. kamaráde",
+  "FILE_BROWSER_ME_JPG": "já.jpg",
+  "FILE_BROWSER_ME_AND_MY_BF_JPG": "já_a_moje_bestie.jpg",
+  "FILE_BROWSER_WALLPAPERS_FOLDER": "Tapety",
+  "FILE_BROWSER_DESKTOP_FOLDER": "Plocha",
+  "FILE_BROWSER_PICTURES_FOLDER": "Obrázky",
+  "FILE_BROWSER_GO_BACK": "Zpět",
+  "FILE_BROWSER_OPEN": "Otevřít",
+  "FILE_BROWSER_CANCEL": "Zrušit",
+  "FILE_BROWSER_TITLE_UPLOAD_WORLD": "Nahraj svůj svět!",
+  "OTHER_WORLD_CHAT_UPLOAD_WORLD_ERROR": "<system> Pouze *.world soubory jsou povoleny.",
+  "OTHER_WORLD_CHAT_HOUSE_INTRO": "<system> Před tebou je baphometův dům; Multidimenzionální místo spojující všechny světy mezi světy. Abys vstoupil, následuj stopy těch před tebou.",
+  "OTHER_WORLD_DOOR_PUZZLE_SHORT_KNOCK": "<system> *ťuk*",
+  "OTHER_WORLD_DOOR_PUZZLE_LONG_KNOCK": "<system> *ŤUUUUUK!*",
+  "OTHER_WORLD_DOOR_PUZZLE_FOUR_PORTRAITS": "<system> Přestože jsme ztratili přátele v jiných světech, nikdy nebudou zapomenuty ve virtuálním světě. Ucti památku kliknutím na portrét.",
+  "OTHER_WORLD_DOOR_PUZZLE_GREGG": "<system> RIP Gregg. July 3, 1956 - Sept 11, 2001 \"Bity a byty jsou jen 1 a 0, dva stavy bytí; zapnuto a vypnuto, měkké a tvrdé, krátké a dlouhé. Ale v těchto dvou stavech drží věčnost.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_AURORA": "<system> RIP Aurora. Jan 1, 1975 - Dec 31, 1999 \"Koukej na hvězdy jak svítí. Sleduj jak blikají a mrkají.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_SAHRA": "<system> RIP Sahra. April 4, 1978 - March 13, 2002 \"Příležitost klepe na dveře. SObčas je to více zaklepání.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_JORDEN": "<system> RIP Jorden. Aug 3, 1988 - Sept 11, 2001 \"Občas pustíme, občas držíme. Občas držení přinese jiné výsledky než puštění.\"",
+  "OTHER_WORLD_STATUE_PUZZLE_INTRO": "<system> Dvře za tebou se zavírají. Baphometův Řád je jen pro odhodlané utéct ze snové krajiny. Všechny sochy musí být poctěny, pořadí je definováno Řádem. Jedna socha je chamtivá a vyžaduje více poctění.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_GOAT": "<system> Poctil jsi kozu.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_LION": "<system> Poctil jsi lva.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_OX": "<system> Poctil jsi býka.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_EAGLE": "<system> Poctil jsi orla.",
+  "OTHER_WORLD_STATUE_PUZZLE_SOLVED": "<system> Jsi inteligentní jedinec. Za sochou se otevírají dveře.",
+  // "Dreadfully distinct against the dark" is a reference to Blade Runner 2049: https://youtu.be/ZRcpnM26nJM?t=17
+  "OTHER_WORLD_FOUNTAIN_PUZZLE_INTRO": "<system> Leptáme dál, úmorně naproti temnotám. Kaligrafie v krvi, fontána nakreslí svůj znak. Dopisy pro milované, dopisy formované tokem. Cihlu za cihlou mačkáme, dokud čas neuplyne.",
+  "OTHER_WORLD_FOUNTAIN_PUZZLE_SOLVED": "<system> Objeví se dveře.",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_1": "kterému poutu nejvíce věříš?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_2": "kdo je tvá nenaplněná touh?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_3": "kdo jako jediný vlastní tvůj osud?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_FAILURE": "<system> Nic se nestalo. Možná tvůj hold nereprezentuje tvé pravé pocity?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_SUCCESS": "<system> Tvůj hold byl přijat.",
+
+  "ENDING_WARNING": "VAROVÁNÍ! Hold se neshoduje s životní aurou. Přehřívání.",
+  // Liz:
+  "ENDING_HOW_LONG_HAS_IT_BEEN": "jak... je to dlouho ?",
+  "ENDING_THANK_U_FOR_UPLOADING_THOSE_PICTURES": "díky žes nahrál ty obrázky",
+  "ENDING_WONDERED_IF_I_WOULD_SEE_THEM": "zajímalo mě, jestli ještě uvidím jejich obličeje",
+  "ENDING_I_EVEN_FORGOT_WHAT_I_USED_TO_LOOK_LIKE": "už si ani nevzpomínám jak jsem já sama vypadala...",
+  "ENDING_HAVENT_SEEN_ANOTHER_PERSON": "už dlouho jsem tu neviděla dalšího člověka",
+  // Implies that some separate system has logged onto your account.
+  "ENDING_SYSTEM_ACTION_ERROR": "<system> Tato akce nemůže býát provedena z důvodu přihlášení z jiného zařízení.",
+  "ENDING_YOU_ARE_OFFLINE": "<system> Jste offline.",
+  "ENDING_YOU_ARE_ONLINE": "<system> Jste online.",
+  // Liz:
+  "ENDING_A_LONG_TIME_AGO_I_WAS_APPROACHED_BY_A_MAN": "před dlouhou dobou... jsem byla oslovena mužem...",
+  "ENDING_HE_PROMISED_ME_FOREVER": "slíbil mi věčnost.",
+  "ENDING_I_GOT_INTO_A_FIGHT_WITH_MY_MOTHER": "pohádala jsem se s matkou",
+  "ENDING_SO_I_DECIDED_TO_UPLOAD_MYSELF_ONTO_THE_INTERNET": "tak jsem se rozhodla se nahrát na internet",
+  "ENDING_I_UPLOADED_MYSELF_ONTO_THIS_GAME": "nahrála jsem se do této... hry",
+  "ENDING_AT_FIRST_IT_WAS_GREAT": "ze začátku vše bylo krásné.",
+  "ENDING_WE_CREATED_SO_MANY_BEAUTIFUL_THINGS_HERE": "stvořili jsme spoustu nádherných věcí.",
+  "ENDING_THE_WORLD_USED_TO_BE_CROWDED": "tento svět byl plný, se spoustou lidmi na seznámení",
+  "ENDING_BUT_NOW": "ale teď...",
+  // Profiles that pop up.
+  "ENDING_POPUP_PROFILE_TITLE": "Profil - {0}",
+  "ENDING_POPUP_LOADING": "Načítání...",
+  "ENDING_POPUP_LAST_SEEN": "Naposledy online před {0} dny.",
+  "ENDING_POPUP_MESSAGE_BUTTON": "Zpráva",
+  "ENDING_POPUP_BLOCK_BUTTON": "Blokovat",
+  // Liz:
+  "ENDING_THE_WORLD_OUT_THERE_CHANGES": "svět tam venku se mění",
+  "ENDING_PEOPLE_LEAVE_GROW_OLD": "lidi odchází, stárnou, přesunou se na jiné věci",
+  "ENDING_OTHER_WORLD_STAYS_THE_SAME": "ale Other World zůstane stejný. napořád",
+  // Server Browser
+  "ENDING_SERVER_BROWSER_TITLE": "Serverový prohlížeč",
+  "ENDING_SERVER_BROWSER_REFRESH_BUTTON": "Načíst znovu",
+  "ENDING_SERVER_BROWSER_CLOSE_BUTTON": "Zavřít",
+  "ENDING_SERVER_BROWSER_SERVER_NAME": "Jméno",
+  "ENDING_SERVER_BROWSER_PLAYERS_IN_SERVER": "Hráči",
+  "ENDING_SERVER_BROWSER_SERVER_PING": "Ping",
+  // Liz:
+  "ENDING_WITHOUT_THE_PLAYERS_WORLDS_ARE_GONE": "bez hráčů všechny světy zmizeli.",
+  "ENDING_EVERYONE_RITUAL_DELETED_THEMSELVES": "nakonec se každý, kdo podstoupil rituál zkusil vymazat.",
+  "ENDING_HOW_IS_A_SOUL_STORED_IN_A_FILESYSTEM": "ale jakým způsobem se duše uloží v souborech?",
+  "ENDING_I_HEAR_THEM": "občas slyším jejich křičení. jejich vědomí propojené s nějakým systémem",
+  "ENDING_THIS_PLACE_IS_ALL_I_HAVE_LEFT": "toto místo je vše co mi zbylo.",
+  "ENDING_ALL_THINGS_DETERIORATE_EVEN_THIS": "všechno se zhoršuje.",
+  "ENDING_HOW_COULD_WE_HAVE_KNOWN": "jak jsme to měli vědět?",
+  // Liz, now <system>, becomes part of Other World:
+  "ENDING_I_MISS_EMILY": "<system> chybí mi emily",
+  "ENDING_I_MISS_GOING_ON_THE_COMPUTER_WITH_HER": "<system> chybí mi, když jsme na počítači hráli flashovky",
+  "ENDING_SLEEPING_OVER_WATCHING_TV_SHOWS": "<system> přespávali u sebe, koukali na seriály",
+  "ENDING_I_WONDER_WHO_SHE_GREW_UP_TO_BECOME": "<system> zajímá mě, jak se jí teď žije",
+  "ENDING_I_MISS_LAWSON": "<system> chybí mi lawson",
+  "ENDING_I_MISS_TALKING_TO_HIM": "<system> chybí mi mluvit s ním o svých problémech",
+  "ENDING_I_MISS_HOW_COMFORTING_HE_WAS": "<system> chybí mi jak mě vždy dokázal utěšit",
+  "ENDING_I_DONT_WANT_HIM_TO_SEE_ME_LIKE_THIS": "<system> nechci aby mě viděl v tomhle stavu.",
+  "ENDING_I_MISS_MY_MOM": "<system> chybí mi máma",
+  "ENDING_I_MISS_OUR_STUPID_FIGHTS": "<system> chybí mi naše hloupé hádky",
+  "ENDING_ITS_ALL_SO_MEANINGLESS_NOW": "<system> vše je bezvýznamné. kdybych si uvědomila, jak dočasné to je.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_BAD_GRADES": "<system> bála jsem se mít špatné známky.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_NOT_LOOKING_PRETTY": "<system> bála jsem se, že nebudu dost krásná.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_DISAPPOINTING_PEOPLE": "<system> bála jsem se, že zklamu své okolí.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_DEATH": "<system> bála jsem se smrti.",
+  "ENDING_BUT_NOW_2": "<system> ale teď",
+  "ENDING_IM_AFRAID_OF_FOREVER": "<system> se bojím věčnosti.",
+  "ENDING_BUT_YOURE_HERE_NOW_ARENT_YOU": "<system> ale... teď jsi tu, že?",
+  "ENDING_YOU_PERFORMED_THE_RITUAL": "<system> provedl jsi rituál.",
+  "ENDING_ONLY_A_FEW_MINUTES_UNTIL_YOU_JOIN_ME": "<system> již za pár minut se ke mně připojíš",
+  "ENDING_AND_THEN_I_WONT_BE_ALONE": "<system> pak už nebudu sama",
+  "ENDING_FOREVER": "<system> napořád.",
+
+  // Facegram
+  "ENDING_FACEGRAM_TITLE": "facegram - {0}",
+  "ENDING_FACEGRAM_POSTS_COUNT": "Příspěvky",
+  "ENDING_FACEGRAM_FOLLOWERS_COUNT": "Sledující",
+  "ENDING_FACEGRAM_FOLLOWING_COUNT": "Sleduji",
+  "ENDING_THIS_ACCOUNT_IS_PRIVATE": "Tento účet je soukromý. Počkejte na schválení žádosti.",
+
+  // Lawson:
+  "ENDING_USER_IS_ONLINE": "{0} je online",
+  "ENDING_HEY_LIZ": "ahoj liz...",
+  "ENDING_I_KEEP_SEEING_YOUR_ACCOUNT_ONLINE_AND_OFFLINE": "vidím tvůj účet jak je furt online a offline",
+  "ENDING_IVE_BEEN_MESSAGING_YOU_EVERY_YEAR": "každý rok jsem ti psal, doufal jsem, že třeba odepíšeš.",
+  "ENDING_I_VISITED_YOU_TODAY": "byl jsem u tvého domu, nechal jsem ti tam květiny a nějakou čokoládu.",
+  "ENDING_I_DECIDED_THAT_ITS_TIME_TO_MOVE_ON": "rozhodl jsem se, že je čas se posunout dál.",
+  "ENDING_YOURE_NOT_COMING_BACK_ARE_YOU_LIZ": "ty už se nevrátíš, že?",
+  "ENDING_IVE_MISSED_YOU_SO_MUCH": "tak moc jsi mi chyběla.",
+  "ENDING_GOODBYE": "sbohem.",
+
+  // Liz ending popup spam:
+  "ENDING_NO": "NE",
+  "ENDING_DONT_LEAVE_ME": "NEOPOUŠTĚJ MĚ",
+  "ENDING_I_DONT_WANT_TO_BE_ALONE": "NECHCI BÝT SAMA",
+
+  // Error Messages
+  "ENDING_ERROR_MEMORYBOUNDS_EXCEEDED": "Error: MemoryBounds Exceeded.",
+  "ENDING_ERROR_SEGMENTATION_FAULT": "Segmentation Fault.",
+
+  // Task Manager
+  "ENDING_TASK_MANAGER_TITLE": "Task Manager",
+  "ENDING_TASK_MANAGER_WARNING": "Warning: High Memory Usage",
+  "ENDING_TASK_MANAGER_PROGRAM": "Program",
+  "ENDING_TASK_MANAGER_USAGE": "Usage",
+
+  // Final Error Message
+  "ERROR_REPORT_OTHER_WORLD_HAS_ENCOUNTERED_A_PROBLEM": "Other World has encountered a problem and needs to close. We are sorry for the inconvenience.",
+  "ERROR_REPORT_IF_YOU_WERE_IN_THE_MIDDLE_OF_SOMETHING": "If you were in the middle of something, the information you were working on might be lost.",
+  "ERROR_REPORT_PLEASE_TELL_OTHER_WORLD_ABOUT_THIS_PROBLEM": "Please tell Other World about this problem.",
+  "ERROR_REPORT_WE_HAVE_CREATED_AN_ERROR_REPORT": "We have created an error report that you can send to us. We will treat this report as confidential and anonymous.",
+  "ERROR_REPORT_BUTTON_1": "Send <b><u>The</u></b> Report",
+  "ERROR_REPORT_BUTTON_2": "Don't S<b><u>end</u></b>?",
+
+  // Translation Credits
+  "SHOW_TRANSLATION_CREDITS": false,
+  "CREDITS_TITLE": "English Translation",
+  // Put as many credits here as you want.
+  // Please don't put a virus here :(
+  "CREDITS": [
+    { "name": "Henry", "website": "https://lastseenonline.com/" },
+    { "name": "Henry2", "website": "https://lastseenonline.com/" },
+    { "name": "Henry3" } // Optional website.
+  ],
+
+  "CLICK_TO_REPLAY": "Click to Replay from Beginning",
+
+  // April 23, additional lines:
+  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "Something in the door changes... You've done something, or part of something...",
+  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "The door unlocks.",
+
+  // June 24
+  "ORION_IS_TYPING": "__orion__ is typing...",
+  "SCROLL_TO_TOP": "Scroll to Top",
+  "SERVERS_EMPTY": "EMPTY",
+  "SERVERS_UPLOAD": "click here to upload world",
+  "SERVERS_USER_WORLD": "<user world>",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_1": "house of",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_2": "baphomet",
+
+  "TRIBUTES_BOND_LINE_1": "whose bond",
+  "TRIBUTES_BOND_LINE_2": "do you trust",
+  "TRIBUTES_BOND_LINE_3": "the most?",
+
+  "TRIBUTES_UNREQUITED_LINE_1": "who is your",
+  "TRIBUTES_UNREQUITED_LINE_2": "unrequited",
+  "TRIBUTES_UNREQUITED_LINE_3": "desire?",
+
+  "TRIBUTES_FATE_LINE_1": "who is the",
+  "TRIBUTES_FATE_LINE_2": "sole controller",
+  "TRIBUTES_FATE_LINE_3": "of your fate?",
+
+  // Ignore this last line, it's so each line can have a comma at the end.
+  "": null
+}

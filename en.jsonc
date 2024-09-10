@@ -655,6 +655,11 @@
   "TRIBUTES_FATE_LINE_2": "sole controller",
   "TRIBUTES_FATE_LINE_3": "of your fate?",
 
+  // June 27
+  "VIDEO_CALL_INCOMING_CALL": "Incoming Call",
+  "CONSCIOUSNESS_TRIANGULATION": "Consciousness Triangulation",
+  "ENDING_POPUP_OFFLINE": "Offline",
+
   // Ignore this last line, it's so each line can have a comma at the end.
   "": null
 }
