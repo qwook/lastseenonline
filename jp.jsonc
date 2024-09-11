@@ -3,7 +3,7 @@
 // as much as I can just in case.
 {
   "NAME": "日本語",
-  "FONT_FAMILY": "PixelArial11, MadouFutoMaruGothic, PixeloidSans",
+  "FONT_FAMILY": "Fusion Pixel, PixelArial11, MadouFutoMaruGothic, PixeloidSans",
   "TITLE_SPACING": 1.5,
   "TITLE_TEXT": "last seen online",
   // IRO_TEXT_1 and INTRO_TEXT_2 ideally should have the same

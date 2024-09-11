@@ -3,7 +3,7 @@
 // as much as I can just in case.
 {
   "NAME": "简体中文",
-  "FONT_FAMILY": "zpix, PixelArial11, MadouFutoMaruGothic, PixeloidSans",
+  "FONT_FAMILY": "Fusion Pixel, PixelArial11, MadouFutoMaruGothic, PixeloidSans",
   "TITLE_SPACING": 2.0, // Some languages make the letters too close together.
   "TITLE_TEXT": "最终在线时",
   // INTRO_TEXT_1 and INTRO_TEXT_2 ideally should have the same

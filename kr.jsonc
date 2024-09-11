@@ -3,7 +3,7 @@
 // as much as I can just in case.
 {
   "NAME": "한국인",
-  "FONT_FAMILY": "fusion-pixel-font, MadouFutoMaruGothic, PixeloidSans",
+  "FONT_FAMILY": "Fusion Pixel, MadouFutoMaruGothic, PixeloidSans",
   "TITLE_TEXT": "마지막으로 접속함",
   // INTRO_TEXT_1 and INTRO_TEXT_2 ideally should have the same
   // letters as TITLE_TEXT but it's okay if not.

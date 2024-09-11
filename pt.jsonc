@@ -1,0 +1,631 @@
+// I've documented a couple things here.
+// You don't have to translate everything, but I included
+// as much as I can just in case.
+{
+  "NAME": "Português (Brasileiro)",
+  "FONT_FAMILY": "PixelArial11, MadouFutoMaruGothic, PixeloidSans",
+  "TITLE_SPACING": 1.0,
+  "TITLE_TEXT": "última vez online",
+  "INTRO_TEXT_1": "você encontra um computador velho numa venda de garagem.",
+  "INTRO_TEXT_2": "e você decide ligá-lo.",
+  "CONTINUE_BUTTON": "continuar",
+  "PASSWORD_TEXT": "Senha:",
+  "PASSWORD_HINT": "Dica: nome do meu amiguinho e meu ano de nascimento",
+  "LOGGING_IN": "entrando...",
+  "WELCOME_BACK": "bem vindo(a)...",
+  "DESKTOP_SHORTCUT_BUDDYLIST": "Buddy List",
+  "DESKTOP_SHORTCUT_LOSEAMP_PLAYER": "LoseAmp Player",
+  "DESKTOP_SHORTCUT_OTHER_WORLD": "Other World",
+  "DESKTOP_SHORTCUT_ZIP": "photos4em.zip",
+  "UNZIPPER_TITLE": "UnZipper - photos4em.zip",
+  "UNZIPPER_TEXT": "Este arquivo zip é protegido com uma senha de 4 digitos.",
+  "UNZIPPER_UNLOCK_BUTTON": "Abrir",
+  "UNZIPPER_INCORRECT_PASSWORD": "Senha incorreta. Tente novamente.",
+  "BUDDYLIST_SIGN_ON": "Entrar",
+  "BUDDYLIST_SIGN_ON_STEP_1": "1. Usando senha guardada...",
+  "BUDDYLIST_SIGN_ON_STEP_2": "2. Conectando...",
+  "BUDDYLIST_SIGN_ON_STEP_3": "3. Iniciando serviços...",
+  "BUDDYLIST_SIGN_ON_STEP_4": "4. Conectado.",
+  "BUDDYLIST_CHAT_WINDOW_TITLE": "{0} - Chat",
+  "USER_IS_OFFLINE": "esta pessoa está offline, aguarde que ela entre.",
+  "LAWSON_CHATLOG": [
+    "<LAWSON>: oii:) como ta o seu dia?",
+    "<LIZ>: ta bom",
+    "<LAWSON>: so bom?? ta fazendo oq?",
+    "<LIZ>: nada demais!! ouvindo msc e jogando.. e vc??",
+    "<LAWSON>: td de boas aki tbm... tenho q estudar pra uma prova de algebra senao minha mae me maaata",
+    "<LIZ>: mds mas a sua mae ja n gritou com vc da ultima vez?",
+    "<LAWSON>: ja... mas eu acho q vou bem dessa vez",
+    "<LIZ>: :((( vc ta dando o seu melhor!! nao deixa ela te por pra baixo. minha mae tbm tem pegado no meu pe recentemente",
+    "<LAWSON>: vc tbm??? nem me fale!!",
+    "<LIZ>: fica falando que sou como o meu pai... n eh culpa minha que ele foi embora.... todo dia eh so gritaria.... eu n sou suficiente...",
+    "<LAWSON>: poxa isso eh duro... faz tempo que nao vejo meu pai tbm... me pergunto como ele tem estado",
+    "<LAWSON>: tenho q ir, mas eu adorei cvs contigo... boa noite!!",
+    "<SYSTEM>: aznL4ws0n saiu",
+    "<SYSTEM>: aznL4ws0n entrou",
+    "<LAWSON>: ei ja terminou o trabalho de algebra?",
+    "<SYSTEM>: aznL4ws0n saiu",
+    "<SYSTEM>: aznL4ws0n entrou",
+    "<LAWSON>: ei eles tao falando umas coisas na escola, vc ta bem?",
+    "<SYSTEM>: aznL4ws0n saiu",
+    "<SYSTEM>: aznL4ws0n entrou",
+    "<LAWSON>: eu sei q vc n quer conversar mas eu so quero saber se vc ta bem",
+    "<SYSTEM>: aznL4ws0n saiu",
+    "<SYSTEM>: aznL4ws0n entrou",
+    "<LAWSON>: sdds",
+    "<SYSTEM>: aznL4ws0n saiu",
+    "<SYSTEM>: aznL4ws0n entrou",
+    "<LAWSON>: tirei um C+ na prova de algebra :(",
+    "<SYSTEM>: aznL4ws0n saiu",
+    "<SYSTEM>: aznL4ws0n entrou",
+    "<LAWSON>: briguei com minha mae hj, mas tirando isso td bem... espero q vc esteja bem tb.",
+    "<SYSTEM>: aznL4ws0n saiu",
+    "<SYSTEM>: aznL4ws0n entrou",
+    "<LAWSON>: eu entrei pra nossa escola dos sonhos! <3",
+    "<SYSTEM>: aznL4ws0n saiu",
+    "<SYSTEM>: aznL4ws0n entrou",
+    "<LAWSON>: eu vi um cachorro hj, ele parecia mt o scotty :)",
+    "<SYSTEM>: aznL4ws0n saiu"
+  ],
+  "SCOTT_CHATLOG": [
+    "<SCOTT>: olá. é o scott, do Other World. vc queria me add?",
+    "<LIZ>: siiim!! entao... sobre oq vc disse, o ritual.. eu estive pensando... isso vai me ajudar a sair mesmo?",
+    "<SCOTT>: ah isso. O ritual do baphomet. eu diria que é mais como um codigo konami do universo. nao vai te ajudar a sair, mas vai levar a sua consciencia.. o seu codigo... para o plano iluminado. eu posso te mostrar o eterno.",
+    "<LIZ>: hmm okay, alias vc tem o mesmo nome do meu cachorro kkkkkk",
+    "<SYSTEM>: scottNJ saiu",
+    "<SYSTEM>: scottNJ entrou",
+    "<SCOTT>: recebeu o meu link pelo jogo?",
+    "<LIZ>: eh so isso mesmo??? tem certeza que funciona???",
+    "<SCOTT>: vc é quem pediu a minha ajuda. o caminho para a santidade eterna está aqui. vc procura felicidade eterna ou nao?",
+    "<SYSTEM>: scottNJ saiu",
+    "<SYSTEM>: scottNJ entrou",
+    "<SCOTT>: o processo começou. está pronta?",
+    "<LIZ>: s... mas to com um pouco de medo",
+    "<SCOTT>: nao tenha medo, pequena. em breve te encontrarei",
+    "<SYSTEM>: scottNJ saiu",
+    "<SYSTEM>: scottNJ entrou",
+    "<LIZ|CORRUPTED>: VOCE PROMETEU QUE NAO ME DEIXARIA"
+  ],
+  "ETERNALJUICE_CHATLOG": [
+    "<ETERNAL_JUICE>: M ou F?",
+    "<LIZ>: eu so tenho 14 anos",
+    "<ETERNAL_JUICE>: ah o doce nectar da juventude, eu mal posso esperar para você se juntar a nós",
+    "<LIZ>: q???"
+  ],
+  "EMMBER_CHATLOG": [
+    "<LIZ>: aaahhh o lawson eh tao fofo :(:(:(:(:(",
+    "<EMMBER>: pq vc n chama ele pra sair!!!",
+    "<LIZ>: sem chance que ele gosta de mim... eu n sou bonita",
+    "<EMMBER>: q kkkk vc eh bonita sim.....",
+    "<LIZ>: =.= minha mae fala q n tenho o nariz dela, tenho o nariz grande do meu pai! odeio",
+    "<EMMBER>: nao escuta oq ela falar, vc eh lindo0ona d(^_^)z",
+    "<LIZ>: eu so quero fugir emmmmb... odeio mais que tudo",
+    "<EMMBER>: aff mesmo se o lawson nao gostar de vc, eu vou sempre te amar!!! BFF!!!",
+    "<SYSTEM>: xXemmberXx86 saiu",
+    "<SYSTEM>: xXemmberXx86 entrou",
+    "<LIZ>: minha mae vai tirar o computador de mim. mas eu achei um jeito, emb.",
+    "<EMMBER>: mals eu tava estudando, oq ta acontecendo? sua mae eh mt estranha!!",
+    "<SYSTEM>: xXemmberXx86 saiu",
+    "<SYSTEM>: xXemmberXx86 entrou",
+    "<EMMBER>: liz a gente n se fala tem umas 2 semanas, oq vc tem feito??",
+    "<LIZ>: mals!! eu so tenho jogado com uns amigos q eu fiz no otherworld!!",
+    "<SYSTEM>: xXemmberXx86 saiu",
+    "<SYSTEM>: xXemmberXx86 entrou",
+    "<LIZ>: eu consegui. achei um jeito de sair daqui pra sempre.",
+    "<EMMBER>: kkkk ta indo pra onde? paris?",
+    "<LIZ>: te mandei as fotos, chegou ai?",
+    "<LIZ>: a gente fez os passos para o orion ontem... em breve estarei livre.",
+    "<EMMBER>: o zip? sim mas tem uma senha de 4 numeros.",
+    "<LIZ>: -_- é 4 das minhas musicas da minha playlist do LoseAmp!!!",
+    "<EMMBER>: oh.... n entendi.. tem 8 musicas la.",
+    "<LIZ>: vc ainda usa nosso <b>papel de parede</b> de melhores amigas?? vc tem q ter soh a janela do LoseAmp aberta!!! a imagem vai te mostrar a ordem.",
+    "<EMMBER>: O_O que doido!!! mds <b>eu arrastei a janela pra cima.</b> ok e agora??",
+    "<LIZ>: ouve as letras!!",
+    "<EMMBER>: oooooOOO vc eh genio pra k7 ^_^",
+    "<EMMBER>: mds vc tem uma foto do lawson??",
+    "<LIZ>: NAAOO  FOI SEM QUERER!!!",
+    "<EMMBER>: .... essas fts sao estranhas...",
+    "<LIZ>: enfim vc ta interessada?",
+    "<SYSTEM>: xXemmberXx86 saiu",
+    "<SYSTEM>: xXemmberXx86 entrou",
+    "<LIZ|CORRUPTED>: EMILY FUNCIONOU",
+    "<EMMBER>: quem é?",
+    "<LIZ|CORRUPTED>: SOU EU, A LIZ!! EU AINDA TO APRENDENDO A CONTROLAR ISSO",
+    "<EMMBER>: olha eu n sei q piada de merda é essa, mas isso é muito perturbador. vou te bloquear."
+  ],
+  "ORION_CHATLOG": [
+    "<LIZ>: ei vc viu o mundo novo da jenni?",
+    "<ORION>: sim ficou daora.ela realmente se dedicou pra fazer aquilo.",
+    "<LIZ>: um dia eu vou fazer um mundo massa como o dela",
+    "<ORION>: kkkk talvez",
+    "<ORION>: alias olha essa coisa q eu achei: RED_HERRING_EXE",
+    "<LIZ>: oh wow?? isso eh do other world???",
+    "<ORION>: nn, eh so um projeto de arte ai, nada a ver com o jogo eu acho.",
+    "<SYSTEM>: __orion__ saiu",
+    "<SYSTEM>: __orion__ entrou",
+    "<ORION>: ei vc ja tentou digitar /info no chat do otherworld?? ele mostra quanto tempo vc teve online",
+    "<LIZ>: mds q vergonha..... eu tenho 849 horas...",
+    "<SYSTEM>: __orion__ saiu",
+    "<SYSTEM>: __orion__ entrou",
+    "<ORION>: FUNCIONOU!!! ENTRA NO OTHERWORLD AGORA!!!",
+    "<SYSTEM>: __orion__ saiu",
+    "<SYSTEM>: __orion__ entrou"
+  ],
+  "VISUAL_NOVEL_HEY_IS_THIS_LIZ": "o?? é a liz???",
+  "VISUAL_NOVEL_YEAH_THIS_IS_LIZ": "sim.. sou a liz...",
+  "VISUAL_NOVEL_OH_INTERESTING_SO_STRANGE_TO_SEE_YOU_HERE": "oh interessante... muito estranho te ver... aqui",
+  "VISUAL_NOVEL_UM_YEAH_JUST_TOOK_A_LONG_BREAK": "hmm é, eu só tava de férias.",
+  "VISUAL_NOVEL_I_DONT_KNOW_WHAT_YOU_MEAN": "não entendo oq voce quer dizer...",
+  "VISUAL_NOVEL_WELL_GLAD_YOURE_BACK_IVE_MISSED_YOU": "bem. fico feliz que voce voltou. tava com saudades.",
+  "VISUAL_NOVEL_IVE_MISSED_YOU_TOO": "também senti a sua falta",
+  "VISUAL_NOVEL_CAN_YOU_REMIND_ME_WHO_THIS_IS": "pode me lembrar quem vc é?",
+  "VISUAL_NOVEL_ITS_ORION_WE_USED_TO_BE_GOOD_FRIENDS_IM_SURPRISED_YOU_DONT_REMEMBER_ME_THATS_FINE": "é o orion! nós eramos muito amigos. to surpreso que voce nao se lembra de mim. mas tudo bem!",
+  "VISUAL_NOVEL_ANYTHING_I_CAN_HELP_YOU_WITH": "posso te ajudar em algo?",
+  "VISUAL_NOVEL_DO_YOU_KNOW_THE_PASSCODE_FOR_PHOTOS4EMZIP": "voce sabe a senha do photos4em.zip?",
+  "VISUAL_NOVEL_HMM_I_DONT_REMEMBER_TRY_DIGGING_THROUGH_YOUR_OLD_CHATLOGS_MAYBE_YOU_SENT_IT_TO_SOMEONE": "hmm... nao lembro. tenta ler as suas conversas antigas, provavelmente vc mandou pra alguem",
+  "VISUAL_NOVEL_OKAY_ILL_TRY_THAT_OUT": "ok... vou tentar isso",
+  "VISUAL_NOVEL_WHATS_OTHER_WORLD": "o que é Other World?",
+  "VISUAL_NOVEL_YOU_GOTTA_BE_JOKING_YOU_DONT_REMEMBER_ITS_THE_GAME_WE_PLAYED_WHEN_WE_WERE_KIDS_ARE_YOU_SURE_THIS_IS_LIZ": "ta brincando? voce nao lembra? é o jogo que a gente jogava quando eramos crianças... voce realmente é a liz?",
+  "VISUAL_NOVEL_YES_IM_SURE_HOW_DO_I_GET_IN": "sim... confia. como que eu entro la?",
+  "VISUAL_NOVEL_JUST_TO_MAKE_SURE_YOU_ARE_WHO_YOU_SAY_YOU_ARE_CAN_YOU_TELL_ME_THE_ORDER_OF_THE_FOUR_EVENTS_DURING_OUR_FINAL_RITUAL": "so pra ter certeza de que voce é realmente quem voce diz ser... me diga a ordem dos 4 eventos durante o ritual final.",
+  "VISUAL_NOVEL_ILL_TRY_TO_REMEMBER": "vou tentar lembrar",
+  "VISUAL_NOVEL_I_DONT_REMEMBER": "nao lembro",
+  "VISUAL_NOVEL_THAT_S_OKAY_TAKE_YOUR_TIME": "tudo bem, leve o seu tempo",
+  "VISUAL_NOVEL_OKAY": "okay",
+  "VISUAL_NOVEL_SO_REMIND_ME_WHAT_HAPPENED": "entao vai, me conta como foi",
+  "VISUAL_NOVEL_THAT_MIGHT_BE_RIGHT_THAT_MIGHT_BE_WRONG_WHAT_NEXT": "talvez tenha acertado, talvez tenha errado. proximo?",
+  "VISUAL_NOVEL_OK_COULD_BE_WHAT_HAPPENED_BUT_I_WONT_TELL_YOU_WHAT_THEN": "ok... talvez tenha sido isso, mas nao conto. e então?",
+  "VISUAL_NOVEL_AND_FINALLY": "e por fim?",
+  "VISUAL_NOVEL_WE_BLESSED_THE_STATUE": "saudamos a estátua",
+  "VISUAL_NOVEL_WE_LIT_CANDLES_FOR_OUR_TRIBUTES": "acendemos as velas para os tributos",
+  "VISUAL_NOVEL_WE_GAZED_UPON_THE_FOUNTAIN": "comtemplamos a fonte",
+  "VISUAL_NOVEL_WE_FOUGHT_THE_LOST_BOYS": "batalhamos contra os meninos perdidos",
+  "VISUAL_NOVEL_WE_RESPECTED_THE_FOUR_FALLEN": "respeitamos os quatro caídos",
+  "VISUAL_NOVEL_WE_SUNG_AWAY_OUR_AGE": "cantamos a nossa era",
+  "VISUAL_NOVEL_HOLD_ON_MY_MEMORY_IS_JUST_FUZZY": "calma... minha memoria está me falhando...",
+  "VISUAL_NOVEL_SURE_TAKE_YOUR_TIME_YOU_CAN_PROBABLY_FIND_SOMETHING_ON_YOUR_COMPUTER_TO_HELP_YOU_REFRESH_YOUR_MEMORY": "claro, leve o tempo que precisar~ provavelmente tem algo no seu pc que pode te refrescar a memória",
+  "VISUAL_NOVEL_THANKS_ILL_TRY_AGAIN": "obrigada... vou tentar de novo",
+  "VISUAL_NOVEL_I_DONT_THINK_THATS_IT": "acho que nao foi assim nao...",
+  "VISUAL_NOVEL_HMM_OKAY_I_BELIEVE_U_FOR_NOW_YOU_NEED_TO_REGISTER_A_NEW_ACCOUNT_THE_INVITE_CODE_IS_NEVERLAND": "hmm... tá, eu acredito em voce, por agora. voce tem que registrar uma conta nova, o codigo de convite é {0}",
+  "VISUAL_NOVEL_HMM_HEY_LIZ_IMMA_BRB": "hmm.. ei liz... eu ja volto haha... flw",
+  "LYRICS_1": [
+    {
+      "start": "0:00:46",
+      "lyric": "a babbling river"
+    },
+    {
+      "start": "0:03:07",
+      "lyric": "a pond that glows"
+    },
+    {
+      "start": "0:05:11",
+      "lyric": "a hot spring over-overflows"
+    },
+    {
+      "start": "0:10:28",
+      "lyric": "all 3 things oh, oh I know"
+    },
+    {
+      "start": "0:13:90",
+      "lyric": "I know..."
+    }
+  ],
+  "LYRICS_2": [
+    {
+      "start": "0:00:40",
+      "lyric": "2 hands holding on to the same"
+    },
+    {
+      "start": "0:05:57",
+      "lyric": "old story, written poorly"
+    },
+    {
+      "start": "0:09:92",
+      "lyric": "can we -"
+    },
+    {
+      "start": "0:11:40",
+      "lyric": "take control?"
+    },
+    {
+      "start": "0:13:01",
+      "lyric": "I wanna leave this all behind"
+    }
+  ],
+  "LYRICS_3": [
+    {
+      "start": "0:00:61",
+      "lyric": "wake at 7 A.M."
+    },
+    {
+      "start": "0:03:96",
+      "lyric": "it's like heaven again"
+    },
+    {
+      "start": "0:07:48",
+      "lyric": "see you smiling my friend"
+    },
+    {
+      "start": "0:10:86",
+      "lyric": "and I don't want this to end"
+    },
+    {
+      "start": "0:13:92",
+      "lyric": "the present moment will fleet"
+    },
+    {
+      "start": "0:17:38",
+      "lyric": "crowded city and streets"
+    },
+    {
+      "start": "0:21:13",
+      "lyric": "everybody you meet"
+    },
+    {
+      "start": "0:24:23",
+      "lyric": "will go away someday"
+    }
+  ],
+  "LYRICS_4": [
+    {
+      "start": "0:01:11",
+      "lyric": "am I a drink that you drank?"
+    },
+    {
+      "start": "0:05:21",
+      "lyric": "am I a snack that you 8?"
+    },
+    {
+      "start": "0:09:61",
+      "lyric": "am I a thing that you lost?"
+    },
+    {
+      "start": "0:14:69",
+      "lyric": "lost long ago"
+    }
+  ],
+  "LYRICS_5": [
+    {
+      "start": "0:00:71",
+      "lyric": "I don't want to be buried"
+    },
+    {
+      "start": "0:04:67",
+      "lyric": "6 feet under the ground"
+    },
+    {
+      "start": "0:08:61",
+      "lyric": "if you are not around"
+    },
+    {
+      "start": "0:12:40",
+      "lyric": "don't want to be alone"
+    },
+    {
+      "start": "0:15:75",
+      "lyric": "I don't want to leave this world"
+    },
+    {
+      "start": "0:20:07",
+      "lyric": "if you're not by my side"
+    },
+    {
+      "start": "0:23:34",
+      "lyric": "no, I don't want to die"
+    },
+    {
+      "start": "0:26:80",
+      "lyric": "without you"
+    }
+  ],
+  "LYRICS_6": [
+    {
+      "start": "0:01:10",
+      "lyric": "*guitar noodling*"
+    },
+    {
+      "start": "0:03:73",
+      "lyric": "oh shit uhm..."
+    },
+    {
+      "start": "0:06:00",
+      "lyric": "*GUITAR STRUM*"
+    },
+    {
+      "start": "0:07:52",
+      "lyric": "(whispers) so"
+    },
+    {
+      "start": "0:08:63",
+      "lyric": "just 1 chance,"
+    },
+    {
+      "start": "0:11:82",
+      "lyric": "and 1 dance"
+    },
+    {
+      "start": "0:14:88",
+      "lyric": "feels like awkward"
+    },
+    {
+      "start": "0:17:36",
+      "lyric": "teenage romance"
+    },
+    {
+      "start": "0:19:98",
+      "lyric": "*music stops* it kinda sounds like"
+    },
+    {
+      "start": "0:20:96",
+      "lyric": "the end though"
+    },
+    {
+      "start": "0:22:55",
+      "lyric": "maybe i should write"
+    },
+    {
+      "start": "0:23:21",
+      "lyric": "the beginning"
+    }
+  ],
+  "LYRICS_7": [
+    {
+      "start": "0:00:86",
+      "lyric": "it's so funny how hindsight,"
+    },
+    {
+      "start": "0:03:98",
+      "lyric": "is super clear vision"
+    },
+    {
+      "start": "0:06:07",
+      "lyric": "it's so funny how you hide,"
+    },
+    {
+      "start": "0:09:28",
+      "lyric": "what you're really thinking"
+    },
+    {
+      "start": "0:11:46",
+      "lyric": "I have 3 eyes open now"
+    },
+    {
+      "start": "0:16:59",
+      "lyric": "I tried but you are not around"
+    }
+  ],
+  "LYRICS_8": [
+    {
+      "start": "0:00:42",
+      "lyric": "please don't say that it's over"
+    },
+    {
+      "start": "0:04:42",
+      "lyric": "I put my luck on a 4-leaf clover"
+    },
+    {
+      "start": "0:11:15",
+      "lyric": "don't say it's nostalgia"
+    },
+    {
+      "start": "0:16:28",
+      "lyric": "I'd rather stay in the past if I want to"
+    }
+  ],
+  "NOTES": [
+    "8/24 finalmente encontrei o meu caderno e me inspirei para fazer uma versao digital!! foi estranho de ler, varias coisas de 4 anos atras parecem ser sobre mim atualmente, como se estivesse passando pelos mesmos problemas de novo e de novo",
+    "8/27 oops tive q estudar pra um quiz!!! por isso nao pude escrever tanto quanto queria....",
+    "8/28 tenho passado muito tempo no pc ultimamente. tenho que sair do quarto mais vezes. msm assim eu fiz um amigo chamado orion!!! ele me mostrou um jogo hj.",
+    "9/2 acabei de ver um post no zanga que o kev morreu recentemente. foi estranho ver aquilo... n senti nenhuma emoçao. so era aquilo. tinha varios comentarios no post. \"rip kev\" e tals. eu n conhecia ele de vdd... n sei como me sentir...",
+    "9/3 tinha esquecido. o armario do kev era o debaixo do meu. eu costumava me afastar para dar licença quando ele vinha, e eu ouvia ele dizer \"oi licença\". eu tava acostumada a aquilo. quando eu fechei meu armario, eu percebi que nao o ouvi dessa vez, e eu nao tive que me afastar pra ele, e ai eu chorei. nao consegui parar de chorar. a morte é muito assustadora para mim. como... como que alguem pode simplesmente ir embora? todas as coisas daquela pessoa, tudo que elas iam fazer amanha, ir para as aulas ou se ajeitar pra semana da fantasia. tudo isso acaba.",
+    "9/4 lawson, em e eu visiamos a saida da estrada 680 hoje. alguem pos uma cruz branca onde o pai do kev bateu o carro. eu escrevi uma carta e deixei la.",
+    "9/5 mae descobriu que o lawson me deu uma carona pra visitar o kev e ficou puta da vida. ela começou a me xingar falando tudo errado que eu era uma criminosa. ela disse que eu arruinei a beleza dela por ter nascido e que o minimo que eu podia fazer era ser uma boa filha. eu fiquei ate tarde no pc da biblioteca da escola. eu desabafei pro orion. eu andei pra casa e fui pro meu quarto. mae tava quieta, nao disse nada pra mim.",
+    "9/6 minha mae ligou pra merda da policia ontem!!! ela me reportou como desaparecida. e depois HOJE ela ligou pra eles DE NOVO.. falando pra me prenderem pq ela pensou q eu tava usando drogas??? WTF??!!!",
+    "9/13 desculpa computador... faz uns dias... eu fugi de casa... passei uma semana na casa da em.. ela é uma boa amiga. a mae dela ligou pra minha. minha mae e eu nos falamos. ela me levou pro meu restaurante chines favorito com camarão caramelizado. ela me disse que é muito dificil fazer tudo sozinha e nao sabe oq fazer... as vezes eu entendo ela... mas na maioria das vezes nao... ela so fala umas coisas bizarras as vezes...... eu sei que ela me ama e quer q eu cresça bem... e eu amo ela... e eu amo o quao boba ela possa ser as vezes... mas ela fala as merdas mais maldosas pra mim...",
+    "10/13 mae ta sempre visitando a vó. entao eu matei aula. orion tem me mandado uns mangas de terror por causa do halloween. ontem a noite a gente ficou obssecado procurando historias de serial killers. ele me introduziu ao scott. talvez eu va visita-los em breve.",
+    "10/31 eu n quero sair desse mundo....... se vc n tiver do meu lado...."
+  ],
+  "OTHER_WORLD_LOGIN": "Login",
+  "OTHER_WORLD_REGISTER": "Registrar",
+  "OTHER_WORLD_EXIT": "Sair",
+  "OTHER_WORLD_BACK": "Voltar",
+  "OTHER_WORLD_INVITE_CODE": "Código de Convite",
+  "OTHER_WORLD_CONTINUE": "Continuar",
+  "OTHER_WORLD_USERNAME": "Username",
+  "OTHER_WORLD_PASSWORD": "Senha",
+  "OTHER_WORLD_CONNECTING": "Conectando ao Servidor...",
+  "OTHER_WORLD_LOGGING_IN": "Entrando...",
+  "OTHER_WORLD_WELCOME": "boas vindas, {0}",
+  "OTHER_WORLD_INVALID": "Usuário ou Senha inválidos",
+  "OTHER_WORLD_WHATS_YOUR_NAME": "Qual é o seu Nome",
+  "VIDEO_CALL_TITLE": "WebCam - __orion__",
+  "VIDEO_CALL_REQUEST": "<b>__orion__</b> pediu uma chamada por vídeo.",
+  "VIDEO_CALL_ACCEPT": "Aceitar",
+  "VIDEO_CALL_DECLINE": "Recusar",
+  "VIDEO_CALL_CONNECTING": "Conectando à chamada com <b>__orion__</b> por favor aguarde.",
+  "VIDEO_CALL_CAMERA_ON": "SUA CAMERA ESTA LIGADA",
+  "VIDEO_CALL_END_CALL": "Terminar Chamada",
+  "VIDEO_CALL_MUTE": "Mute",
+  "OTHER_WORLD_CHAT_WELCOME": "<system> Bem vindo ao OtherWorld! Clique nas setas para navegar pelo nosso mundo. Alguns objetos são especiais, então clique à vontade. Aproveite o seu tempo aqui :)",
+  "OTHER_WORLD_CHAT_CREATION": "<system> Toda a criação está na ponta dos seus dedos. O que você sonhará?",
+  "OTHER_WORLD_CHAT_NEXUS": "<system> O Nexus, central de todos os mundos criados por usuários. Suba o seu mundo ou confira o vasto cosmos de mundo publicados!",
+  "OTHER_WORLD_CHAT_DISCO": "<system> Esta é a Discoteca, o lugar mais animado no OtherWorld. Entre na pista de dança e faça um amigo ou dez...?",
+  "OTHER_WORLD_CHAT_YOU_ARENT_LIZ": "[__orion__] vc n eh a liz...",
+  "OTHER_WORLD_CHAT_SPHERE": "<system> A esfera, representa Criatividade. É o que nos mantem vivos.",
+  "OTHER_WORLD_CHAT_CUBE": "<system> O cubo, representa Comunidade. É o que nos connecta.",
+  "OTHER_WORLD_CHAT_PYRAMID": "<system> A pirâmide, representa Estrutura. É o que nos matém juntos.",
+  "OTHER_WORLD_CHAT_DISCO_BALL": "<system> Dance a noite toda! OtherWorld está sempre cheio de jogadores para conhecer e dançar.",
+  "OTHER_WORLD_CHAT_STATUE": "<system> .ra on erpmes àtse acisùm A",
+  "OTHER_WORLD_CHAT_CLOCK": "<system> O relógio está andando!",
+  "OTHER_WORLD_CHAT_ALONEGURL_OH_HELLO_FRIEND": "[alonegurl15] oh... olá... amiga",
+  "FILE_BROWSER_ME_JPG": "me.jpg",
+  "FILE_BROWSER_ME_AND_MY_BF_JPG": "eu_e_melhor_amiga.jpg",
+  "FILE_BROWSER_WALLPAPERS_FOLDER": "Papéis de Parede",
+  "FILE_BROWSER_DESKTOP_FOLDER": "Area de Trabalho",
+  "FILE_BROWSER_PICTURES_FOLDER": "Fotos",
+  "FILE_BROWSER_GO_BACK": "Voltar",
+  "FILE_BROWSER_OPEN": "Abrir",
+  "FILE_BROWSER_CANCEL": "Cancelar",
+  "FILE_BROWSER_TITLE_UPLOAD_WORLD": "Suba o seu mundo!",
+  "OTHER_WORLD_CHAT_UPLOAD_WORLD_ERROR": "<system> Apenas arquivos do tipo *.world são suportados.",
+  "OTHER_WORLD_CHAT_HOUSE_INTRO": "<system> Antes de entrar na casa do Baphomet; Um plano multidimensional que conecta todos os mundo. Para entrar, você deve seguir o guia daqueles que vieram antes de você.",
+  "OTHER_WORLD_DOOR_PUZZLE_SHORT_KNOCK": "<system> *knock*",
+  "OTHER_WORLD_DOOR_PUZZLE_LONG_KNOCK": "<system> *KNOOOOCK!*",
+  "OTHER_WORLD_DOOR_PUZZLE_FOUR_PORTRAITS": "<system> Apesar de termos perdido os nossos amigos no mundo de fora, eles não serão esquecidos no mundo virtual. Preste o seu respeito a eles clicando em suas fotos.",
+  "OTHER_WORLD_DOOR_PUZZLE_GREGG": "<system> RIP Gregg. 3 de Jul, 1956 - 11 de Set, 2001 \" Bits e Bytes são só 1s e 0s, dois estados do ser; ligado e desligado, quieto e barulhento, curto e longo. Mas dentre esses dois estados, eles seguram a eternidade.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_AURORA": "<system> RIP Aurora. 1 de Jan, 1975 - 31 de Dec, 1999 \"Veja como as estrelas brilham. Veja como elas piscam e piscam.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_SAHRA": "<system> RIP Sahra. 4 de Abr, 1978 - 13 de Mar, 2002 \"Oportunidade vem com uma batida na porta. Mas às vezes podem ser varias batidas.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_JORDEN": "<system> RIP Jorden. 3 de Ago, 1988 - 11 de Set, 2001 \"Ou a gente bate de frente, ou a gente se segura. Algumas vezes, segurar vai te dar um resultado diferente do que só bater.\"",
+  "OTHER_WORLD_STATUE_PUZZLE_INTRO": "<system> A porta fecha atrás de você. A Ordem de Baphomet é destinada a aqueles destinados a escapar a nossa paisagem onírica simulada. Todas as estátuas devem ser abençoadas na sequência definida pela Ordem. Uma estátua é gananciosa, e requer várias benções.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_GOAT": "<system> Você abençoa o Bode.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_LION": "<system> Você abençoa o Leão.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_OX": "<system> Você abençoa o Boi.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_EAGLE": "<system> Você abençoa a Aguia.",
+  "OTHER_WORLD_STATUE_PUZZLE_SOLVED": "<system> Um sujeito inteligente és. A porta atrás da estátua se abre.",
+  "OTHER_WORLD_FOUNTAIN_PUZZLE_INTRO": "<system> Nós recordamos, um desespero distindo num fundo escuro. A tinta em sangue, a pena escreve a sua marca. Cartas para nossos entes queridos, formadas a partir de fluidez. Um passo de cada vez caminhamos, e de uma vez só o tempo anda.",
+  "OTHER_WORLD_FOUNTAIN_PUZZLE_SOLVED": "<system> Uma porta aparece.",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_1": "qual laço voce mais confia?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_2": "quem é o seu desejo não correspondido?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_3": "quem é o único controlador do seu destino?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_FAILURE": "<system> Nada acontece. Tem certeza de que seus tributos são os seus sentimentos mais sinceros?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_SUCCESS": "<system> Os seus tributos foram aceitos.",
+  "ENDING_WARNING": "AVISO! Tributos não correspondem à aura de vida. Substituindo.",
+  // Liz:
+  "ENDING_HOW_LONG_HAS_IT_BEEN": "há... quanto tempo  ?",
+  "ENDING_THANK_U_FOR_UPLOADING_THOSE_PICTURES": "obrigada por enviar aquelas fotos",
+  "ENDING_WONDERED_IF_I_WOULD_SEE_THEM": "achei que nunca mais veria os rostos deles",
+  "ENDING_I_EVEN_FORGOT_WHAT_I_USED_TO_LOOK_LIKE": "eu até me esqueci como eu era...",
+  "ENDING_HAVENT_SEEN_ANOTHER_PERSON": "eu não via mais ninguém por aqui faz um bom tempo",
+  // Implies that some separate system has logged onto your account.
+  "ENDING_SYSTEM_ACTION_ERROR": "<system> Esta ação não pode ser feita pois você já entrou em outro computador.",
+  "ENDING_YOU_ARE_OFFLINE": "<system> Você está offline.",
+  "ENDING_YOU_ARE_ONLINE": "<system> Você está online.",
+  // Liz:
+  "ENDING_A_LONG_TIME_AGO_I_WAS_APPROACHED_BY_A_MAN": "há muito tempo atrás... um homem veio falar comigo...",
+  "ENDING_HE_PROMISED_ME_FOREVER": "ele me prometeu a eternidade.",
+  "ENDING_I_GOT_INTO_A_FIGHT_WITH_MY_MOTHER": "eu briguei com a minha mãe",
+  "ENDING_SO_I_DECIDED_TO_UPLOAD_MYSELF_ONTO_THE_INTERNET": "então eu decidi enviar eu mesma para a internet",
+  "ENDING_I_UPLOADED_MYSELF_ONTO_THIS_GAME": "eu me enviei para esse... jogo",
+  "ENDING_AT_FIRST_IT_WAS_GREAT": "no início foi legal.",
+  "ENDING_WE_CREATED_SO_MANY_BEAUTIFUL_THINGS_HERE": "nós criamos um monte de coisas bonitas aqui.",
+  "ENDING_THE_WORLD_USED_TO_BE_CROWDED": "esse mundo era cheio de gente, com muita gente nova pra conhecer a cada novo dia",
+  "ENDING_BUT_NOW": "mas agora...",
+  // Profiles that pop up.
+  "ENDING_POPUP_PROFILE_TITLE": "Perfil - {0}",
+  "ENDING_POPUP_LOADING": "Carregando...",
+  "ENDING_POPUP_LAST_SEEN": "Offline há {0} dias.",
+  "ENDING_POPUP_MESSAGE_BUTTON": "Conversar",
+  "ENDING_POPUP_BLOCK_BUTTON": "Bloquear",
+  // Liz:
+  "ENDING_THE_WORLD_OUT_THERE_CHANGES": "o mundo de fora muda",
+  "ENDING_PEOPLE_LEAVE_GROW_OLD": "pessoas se vão embora, crescem, vão para a próxima moda da vez",
+  "ENDING_OTHER_WORLD_STAYS_THE_SAME": "mas o Other World continua igual. pra sempre",
+  // Server Browser
+  "ENDING_SERVER_BROWSER_TITLE": "Server Browser",
+  "ENDING_SERVER_BROWSER_REFRESH_BUTTON": "Recarregar",
+  "ENDING_SERVER_BROWSER_CLOSE_BUTTON": "Fechar",
+  "ENDING_SERVER_BROWSER_SERVER_NAME": "Nome",
+  "ENDING_SERVER_BROWSER_PLAYERS_IN_SERVER": "Jogadores",
+  "ENDING_SERVER_BROWSER_SERVER_PING": "Ping",
+  // Liz:
+  "ENDING_WITHOUT_THE_PLAYERS_WORLDS_ARE_GONE": "sem os jogadores, todos os mundos criados foram deletados.",
+  "ENDING_EVERYONE_RITUAL_DELETED_THEMSELVES": "eventualmente, todos que fizeram o ritual tentaram se deletar.",
+  "ENDING_HOW_IS_A_SOUL_STORED_IN_A_FILESYSTEM": "mas como que uma alma é guardada como um arquivo?",
+  "ENDING_I_HEAR_THEM": "eu os escuto as vezes, agonizando. as suas consciências fundidas com algum outro arquivo do sistema.",
+  "ENDING_THIS_PLACE_IS_ALL_I_HAVE_LEFT": "esse lugar é tudo o que tenho.",
+  "ENDING_ALL_THINGS_DETERIORATE_EVEN_THIS": "tudo apodrece. até mesmo isso.",
+  "ENDING_HOW_COULD_WE_HAVE_KNOWN": "como iamos saber?",
+  // Liz, now <system>, becomes part of Other World:
+  "ENDING_I_MISS_EMILY": "<system> tenho saudades da emily",
+  "ENDING_I_MISS_GOING_ON_THE_COMPUTER_WITH_HER": "<system> tenho saudades de jogar com ela, aqueles jogos flash",
+  "ENDING_SLEEPING_OVER_WATCHING_TV_SHOWS": "<system> dormir na casa dela, ver programas de tv com ela",
+  "ENDING_I_WONDER_WHO_SHE_GREW_UP_TO_BECOME": "<system> me pergunto como ela está agora, crescida",
+  "ENDING_I_MISS_LAWSON": "<system> tenho saudades do lawson",
+  "ENDING_I_MISS_TALKING_TO_HIM": "<system> tenho saudades de falar dos meus problemas pra ele",
+  "ENDING_I_MISS_HOW_COMFORTING_HE_WAS": "<system> do quão confortante ele era comigo",
+  "ENDING_I_DONT_WANT_HIM_TO_SEE_ME_LIKE_THIS": "<system> nao quero que ele me veja assim.",
+  "ENDING_I_MISS_MY_MOM": "<system> tenho saudades da minha mãe",
+  "ENDING_I_MISS_OUR_STUPID_FIGHTS": "<system> as nossas brigas idiotas",
+  "ENDING_ITS_ALL_SO_MEANINGLESS_NOW": "<system> nada importa mais. se eu soubesse que tudo isso ia passar.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_BAD_GRADES": "<system> eu tinha medo de tirar notas baixas.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_NOT_LOOKING_PRETTY": "<system> tinha medo de nao ser bonita o suficiente.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_DISAPPOINTING_PEOPLE": "<system> medo de desapontar as pessoas.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_DEATH": "<system> eu tinha medo de morrer.",
+  "ENDING_BUT_NOW_2": "<system> mas agora",
+  "ENDING_IM_AFRAID_OF_FOREVER": "<system> eu tenho medo da eternidade.",
+  "ENDING_BUT_YOURE_HERE_NOW_ARENT_YOU": "<system> mas... você ta aqui, não é?",
+  "ENDING_YOU_PERFORMED_THE_RITUAL": "<system> você fez o ritual.",
+  "ENDING_ONLY_A_FEW_MINUTES_UNTIL_YOU_JOIN_ME": "<system> só mais uns minutos para você se juntar a mim",
+  "ENDING_AND_THEN_I_WONT_BE_ALONE": "<system> e aí eu não estarei mais sozinha",
+  "ENDING_FOREVER": "<system> nunca mais.",
+  // Facegram
+  "ENDING_FACEGRAM_TITLE": "facegram - {0}",
+  "ENDING_FACEGRAM_POSTS_COUNT": "Postagens",
+  "ENDING_FACEGRAM_FOLLOWERS_COUNT": "Seguidores",
+  "ENDING_FACEGRAM_FOLLOWING_COUNT": "Seguindo",
+  "ENDING_THIS_ACCOUNT_IS_PRIVATE": "Esta Conta é Privada. Aguarde que a sua solicitação seja Aprovada.",
+  // Lawson:
+  "ENDING_USER_IS_ONLINE": "{0} entrou",
+  "ENDING_HEY_LIZ": "ola liz...",
+  "ENDING_I_KEEP_SEEING_YOUR_ACCOUNT_ONLINE_AND_OFFLINE": "sua conta nao para de ficar online e offline",
+  "ENDING_IVE_BEEN_MESSAGING_YOU_EVERY_YEAR": "eu mandei mensagens todo ano desde que você se foi, esperando que voce respondesse.",
+  "ENDING_I_VISITED_YOU_TODAY": "eu te visitei hoje. eu deixei umas flores e o chiclete que voce gostava.",
+  "ENDING_I_DECIDED_THAT_ITS_TIME_TO_MOVE_ON": "eu decidi que é hora de te deixar ir",
+  "ENDING_YOURE_NOT_COMING_BACK_ARE_YOU_LIZ": "voce nao vai voltar, ne liz?",
+  "ENDING_IVE_MISSED_YOU_SO_MUCH": "tenho muitas saudades suas.",
+  "ENDING_GOODBYE": "adeus.",
+  // Liz ending popup spam:
+  "ENDING_NO": "NAO",
+  "ENDING_DONT_LEAVE_ME": "NAO ME DEIXE",
+  "ENDING_I_DONT_WANT_TO_BE_ALONE": "EU NAO QUERO FICAR SOZINHA",
+  // Error Messages
+  "ENDING_ERROR_MEMORYBOUNDS_EXCEEDED": "Erro: Limites de Memória excedidos.",
+  "ENDING_ERROR_SEGMENTATION_FAULT": "Falha de Segmentação.",
+  // Task Manager
+  "ENDING_TASK_MANAGER_TITLE": "Gerenciador de Tarefas",
+  "ENDING_TASK_MANAGER_WARNING": "Aviso: Uso de Memória Alta",
+  "ENDING_TASK_MANAGER_PROGRAM": "Programa",
+  "ENDING_TASK_MANAGER_USAGE": "Uso",
+  // Final Error Message
+  "ERROR_REPORT_OTHER_WORLD_HAS_ENCOUNTERED_A_PROBLEM": "Other World encontrou um problema e precisa ser terminado. Pedimos desculpas pela inconveninência.",
+  "ERROR_REPORT_IF_YOU_WERE_IN_THE_MIDDLE_OF_SOMETHING": "Se você estava fazendo alguma coisa, a informação editada pode ser perdida.",
+  "ERROR_REPORT_PLEASE_TELL_OTHER_WORLD_ABOUT_THIS_PROBLEM": "Por favor, contacte-nos sobre este problema.",
+  "ERROR_REPORT_WE_HAVE_CREATED_AN_ERROR_REPORT": "Nós geramos um formulário de erro que você pode nos enviar. Todas as informações são confidenciais e anônimas.",
+  "ERROR_REPORT_BUTTON_1": "Send <b><u>The</u></b> Report",
+  "ERROR_REPORT_BUTTON_2": "Don't S<b><u>end</u></b>?",
+  // Translation Credits
+  "SHOW_TRANSLATION_CREDITS": true,
+  "CREDITS_TITLE": "Portuguese Translation",
+  "CREDITS": [
+    {
+      "name": "Discord",
+      "website": "https://discord.com/channels/1183870459687743590/1256369871911125093"
+    },
+    {
+      "name": "Lucas 'Klausbdl' Mattos",
+      "website": "https://klausbdl.itch.io/"
+    }
+  ],
+  "CLICK_TO_REPLAY": "Clique para jogar do Inicio",
+  // April 23, additional lines:
+  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "Algo na porta mudou... Você ativou algo, ou parte de algo...",
+  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "A porta destranca.",
+  // June 24
+  "ORION_IS_TYPING": "__orion__ está digitando...",
+  "SCROLL_TO_TOP": "Rolar para o inicio",
+  "SERVERS_EMPTY": "VAZIO",
+  "SERVERS_UPLOAD": "clique aqui para enviar mundo",
+  "SERVERS_USER_WORLD": "<user world>",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_1": "casa de",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_2": "baphomet",
+  "TRIBUTES_BOND_LINE_1": "qual laço",
+  "TRIBUTES_BOND_LINE_2": "voce mais",
+  "TRIBUTES_BOND_LINE_3": "confia?",
+  "TRIBUTES_UNREQUITED_LINE_1": "quem é o seu",
+  "TRIBUTES_UNREQUITED_LINE_2": "desejo não",
+  "TRIBUTES_UNREQUITED_LINE_3": "correspondido?",
+  "TRIBUTES_FATE_LINE_1": "quem é o",
+  "TRIBUTES_FATE_LINE_2": "único controlador",
+  "TRIBUTES_FATE_LINE_3": "do seu destino?",
+  "": null
+}

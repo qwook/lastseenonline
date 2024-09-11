@@ -660,6 +660,15 @@
   "CONSCIOUSNESS_TRIANGULATION": "Consciousness Triangulation",
   "ENDING_POPUP_OFFLINE": "Offline",
 
+  "SETTINGS_TITLE": "Settings",
+  "SETTINGS_FULLSCREEN": "Fullscreen",
+  "SETTINGS_MASTER_VOLUME": "Master Volume",
+  "SETTINGS_SFX_VOLUME": "SFX Volume",
+  "SETTINGS_MUSIC_VOLUME": "Music Volume",
+  "SETTINGS_LANGUAGE": "Language",
+  "SETTINGS_DELETE_SAVE": "Delete Save",
+  "SETTINGS_QUIT_GAME": "Quit Game",
+
   // Ignore this last line, it's so each line can have a comma at the end.
   "": null
 }
