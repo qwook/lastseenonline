@@ -1,0 +1,668 @@
+// I've documented a couple things here.
+// You don't have to translate everything, but I included
+// as much as I can just in case.
+{
+  "NAME": "日本語",
+  "FONT_FAMILY": "PixelArial11, MadouFutoMaruGothic, PixeloidSans",
+  "TITLE_SPACING": 1.5,
+  "TITLE_TEXT": "last seen online",
+  // IRO_TEXT_1 and INTRO_TEXT_2 ideally should have the same
+  // letters as TITLE_TEXT but it's okay if not.
+  // I will program in a way for it to work without.
+  "INTRO_TEXT_1": "ガレージセールで古いパソコンを見つけました。",
+  "INTRO_TEXT_2": " さっそく起動してみましょう。 ",
+  "CONTINUE_BUTTON": "次へ",
+  "PASSWORD_TEXT": "パスワードを入力",
+  "PASSWORD_HINT": "ヒント: ふわふわな男の子の名前と私の誕生日",
+  // Optional:
+  "LOGGING_IN": "ログインしています。",
+  // Optional:
+  "WELCOME_BACK": "ようこそ",
+  "DESKTOP_SHORTCUT_BUDDYLIST": "Buddy List",
+  // Don't change LoseAmp Player name.
+  // Kept here for consistency.
+  // なんなら他のアプリ名も翻訳しない
+  "DESKTOP_SHORTCUT_LOSEAMP_PLAYER": "LoseAmp Player",
+  "DESKTOP_SHORTCUT_OTHER_WORLD": "Other World",
+  "DESKTOP_SHORTCUT_ZIP": "photos4em.zip",
+  "UNZIPPER_TITLE": "UnZipper - photos4em.zip",
+  "UNZIPPER_TEXT": "ファイルはパスワードで保護されています。　　　　　　　　　　4桁の数字を半角で入力してください。",
+  "UNZIPPER_UNLOCK_BUTTON": "解除",
+  "UNZIPPER_INCORRECT_PASSWORD": "パスワードが違います。もう一度お試しください。",
+  // Optional:
+  "BUDDYLIST_SIGN_ON": "サインイン",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_1": "1. 保存されたパスワードを使用。",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_2": "2. 接続しています。　　　　　",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_3": "3. サービスを開始しています。",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_4": "4. 接続されました。　　　　　",
+  "BUDDYLIST_CHAT_WINDOW_TITLE": "{0} - チャット",
+  "USER_IS_OFFLINE": "このユーザーはオフラインです。復帰するまでお待ち下さい。",
+  // <LIZ> colors the line of chat blue.
+  // <SYSTEM> colors the line of chat gray.
+  // <...ANYTHING ElSE> colors the line of chat red.
+  "LAWSON_CHATLOG": [
+    "<LAWSON>: やほ！ 調子はどう？",
+    "<LIZ>: 良いかんじ。",
+    "<LAWSON>: ほんとに？ 今なにしてる？",
+    "<LIZ>: 何もしてない！ 音楽聴いたりゲームしてるだけ！ そっちは何してるの？",
+    "<LAWSON>: ここの居心地が良くてね、何もしてない！ でも、そろそろ二次方程式のテスト勉強しないと...ママに殺されちゃう...。",
+    "<LIZ>: それは大変だね...。 この前もママに怒られてなかった？",
+    "<LAWSON>: うん...でも、今回はもっとうまくやれると思う。",
+    "<LIZ>: 私のママも最近、色々急かしてくるんだ...あなたは頑張ってるよ、ママに負けないで！！",
+    "<LAWSON>: 君も？？？ 詳しく聞かせてよ！！",
+    "<LIZ>: 私はパパにそっくりだって！ パパがママを捨てたのは私のせいじゃないのに...。毎日毎日怒鳴って...私じゃ不十分だって...。",
+    "<LAWSON>: それは...大変だね...。ああ、僕も父に会うのは久しぶりだ...どうしてるんだろう...。",
+    "<LAWSON>: またね。君と話すのは本当に楽しいよ...おやすみ！",
+    "<SYSTEM>: aznL4ws0n は現在オフラインです。",
+    "<SYSTEM>: aznL4ws0n は現在オンラインです。",
+    "<LAWSON>: やぁ、二次方程式の宿題はもう終わった？",
+    "<SYSTEM>: aznL4ws0n は現在オフラインです。",
+    "<SYSTEM>: aznL4ws0n は現在オンラインです。",
+    "<LAWSON>: 学校でいろいろ言われてるけど、大丈夫？",
+    "<SYSTEM>: aznL4ws0n は現在オフラインです。",
+    "<SYSTEM>: aznL4ws0n は現在オンラインです。",
+    "<LAWSON>: そのことを話したくないのはわかるけど、君の無事を確かめたいんだ。",
+    "<SYSTEM>: aznL4ws0n は現在オフラインです。",
+    "<SYSTEM>: aznL4ws0n は現在オンラインです。",
+    "<LAWSON>: 心配だよ...。",
+    "<SYSTEM>: aznL4ws0n は現在オフラインです。",
+    "<SYSTEM>: aznL4ws0n は現在オンラインです。",
+    "<LAWSON>: 二次方程式のテストはC+だったよ...。",
+    "<SYSTEM>: aznL4ws0n は現在オフラインです。",
+    "<SYSTEM>: aznL4ws0n は現在オンラインです。",
+    "<LAWSON>: 今日、ママとケンカしたんだ。でも、僕は大丈夫だよ...。君が元気でいることを願ってる。",
+    "<SYSTEM>: aznL4ws0n は現在オフラインです。",
+    "<SYSTEM>: aznL4ws0n は現在オンラインです。",
+    "<LAWSON>: 私たちが目指していた学校に合格しました♡",
+    "<SYSTEM>: aznL4ws0n は現在オフラインです。",
+    "<SYSTEM>: aznL4ws0n は現在オンラインです。",
+    "<LAWSON>: 今日、犬を見たんだ。スコッティによく似ていたよ！！",
+    "<SYSTEM>: aznL4ws0n は現在オフラインです。"
+  ],
+  "SCOTT_CHATLOG": [
+    "<SCOTT>: こんにちは。Other Worldにいたscottだよ。僕を追加したい？",
+    "<LIZ>: もちろん！！ それで、あなたが言っていた...儀式について考えていたんだけど、この世から消えるために使える？",
+    "<SCOTT>: あー、バフォメットの儀式ね。もちろん。宇宙のコナミコードとでも表現しようかな。この世から消えることはないけど...。でも、コードで...あなたの意識を...悟りへと導く...永遠に...。",
+    "<LIZ>: うーん..わかった。あとあなたは、私の飼ってる犬と同じ名前だね。ははは！",
+    "<SYSTEM>: scottNJ は現在オフラインです。",
+    "<SYSTEM>: scottNJ は現在オンラインです。",
+    "<SCOTT>: ゲームでリンクを手に入れた？",
+    "<LIZ>: これでいいの？？？ 本当にできるんだよね？？？",
+    "<SCOTT>: あなたは私の助けを求めた人だ。永遠の神聖への道はここにある。あなたは永遠の幸福を求めるのか、求めないのか？",
+    "<SYSTEM>: scottNJ は現在オフラインです。",
+    "<SYSTEM>: scottNJ は現在オンラインです。",
+    "<SCOTT>: プロセスは既に始まっている。準備はいい？",
+    "<LIZ>: うん...でも、ちょっと怖い",
+    "<SCOTT>: 怖がることはない。早く会いたいよ。",
+    "<SYSTEM>: scottNJ は現在オフラインです。",
+    "<SYSTEM>: scottNJ は現在オンラインです。",
+    "<LIZ|CORRUPTED>: 私を置いていかないって約束したのに"
+  ],
+  "ETERNALJUICE_CHATLOG": [
+    "<ETERNAL_JUICE>: 年齢/性別/住所を教えて？",
+    "<LIZ>: 14です。",
+    "<ETERNAL_JUICE>: 青春だね。あなたが私たちに加わるのが待ちきれない。",
+    "<LIZ>: どういう意味ですか？"
+  ],
+  "EMMBER_CHATLOG": [
+    "<LIZ>: あぁ～～～lawsonかわいすぎ！！",
+    "<EMMBER>:  どうして彼に伝えないの！！！！",
+    "<LIZ>: 私じゃむりだよ...かわいくないし。",
+    "<EMMBER>: なんで笑！！ とってもかわいいのに......。",
+    "<LIZ>: ママが言うんだ、私の鼻はママのじゃないって。私のはパパと同じでっかい鼻！ 嫌い！",
+    "<EMMBER>: ママの言うことは気にしないで！ とおぉぉぉってもかわいいよ！！",
+    "<LIZ>: うぅ......逃げ出したい...この世界が嫌い...。",
+    "<EMMBER>: ふふ、lawsonがもし愛さなかったとしても、私はいつでも愛してるからね！！！ ズッ友だよ！！！",
+    "<SYSTEM>: xXemmberXx86 は現在オフラインです。",
+    "<SYSTEM>: xXemmberXx86 は現在オンラインです。",
+    "<LIZ>: ママが私のパソコンを取り上げるんだ。でも、抜け道を見つけたよ。",
+    "<EMMBER>: ごめん！！ 勉強してた！！ どうしたの？ あなたのママは変だね！！",
+    "<SYSTEM>: xXemmberXx86 現在オフラインです。",
+    "<SYSTEM>: xXemmberXx86 現在オンラインです。",
+    "<EMMBER>: liz、2週間くらい話してないけど、最近どうしてる？",
+    "<LIZ>: あ、ごめん！！ otherworldで知り合った友人たちと遊んでたんだ！！",
+    "<SYSTEM>: xXemmberXx86 現在オフラインです。",
+    "<SYSTEM>: xXemmberXx86 現在オンラインです。",
+    "<LIZ>: やった、ここから永遠に逃れる方法を見つけた。",
+    "<EMMBER>: 笑 どこに行くの？ パリ？",
+    "<LIZ>: 写真を送ったんだけど、届いた？",
+    "<LIZ>: 私達は昨日、orionのためにこの手順を実行したんだ...。もうすぐ自由になれる。",
+    "<EMMBER>: うん、このzipファイルだよね? でも4桁の数字が必要みたい。",
+    "<LIZ>: それは...LoseAmpにある私のプレイリストの中の4曲だよ！",
+    "<EMMBER>: えっと...わかんない。8曲あるよ？",
+    "<LIZ>: 私達ズッ友の<b>デスクトップの壁紙</b>はまだ使ってる？？ LoseAmp以外のすべてのウィンドウを閉じて！ 壁紙が順番を示してくれるよ！！！",
+    "<EMMBER>: すごい！！ <b>ウィンドウをドラッグしたよ。</b>次はどうすればいい？",
+    "<LIZ>: 歌詞を聞いて！！",
+    "<EMMBER>:おぉぉぉ、最高にかっこいい！！",
+    "<EMMBER>: えっ！！ このlawsonの写真は？？",
+    "<LIZ>: まって、それは間違えた！！！",
+    "<EMMBER>: ......変な写真だね。",
+    "<LIZ>: 興味ある？",
+    "<SYSTEM>: xXemmberXx86 は現在オフラインです。",
+    "<SYSTEM>: xXemmberXx86 は現在オンラインです。",
+    "<LIZ|CORRUPTED>: EMILY...うまくいった。",
+    "<EMMBER>: 誰ですか？",
+    "<LIZ|CORRUPTED>:  LIZだよ！！ 私はまだこれを操る方法を学んでる。",
+    "<EMMBER>: どんなふざけたことをやっているのかわからない、でも、これは本当におかしいよ。ブロックするね。"
+  ],
+  "ORION_CHATLOG": [
+    "<LIZ>: jenniの新しい世界は見た？",
+    "<ORION>: みたよ。めっちゃくちゃかっこよかった。本当に多くの時間を使っていたみたいだ。",
+    "<LIZ>: いつか、私も同じようにクールな世界を作ってみせる。",
+    "<ORION>: ははは、そうかい。",
+    "<ORION>: そうそう、こんなものを見つけた: RED_HERRING_EXE",
+    "<LIZ>: なになに？？ other worldの話？？？",
+    "<ORION>: ただのアートプロジェクトだよ、 ゲームとは関係ないと思う。",
+    "<SYSTEM>: __orion__ は現在オフラインです。",
+    "<SYSTEM>: __orion__ は現在オンラインです。",
+    "<ORION>: other worldのチャットで/infoって打ってみた？ オンラインになってからの時間が表示されるよ。",
+    "<LIZ>: あー、恥ずかしい......849時間...",
+    "<SYSTEM>: __orion__ は現在オフラインです。",
+    "<SYSTEM>: __orion__ は現在オンラインです。",
+    "<ORION>: うまくいった！ 今すぐ異世界に行こう！！！",
+    "<SYSTEM>: __orion__ は現在オフラインです。",
+    "<SYSTEM>: __orion__ は現在オンラインです。"
+  ],
+  "VISUAL_NOVEL_HEY_IS_THIS_LIZ": "えぇ！？ liz？？？",
+  "VISUAL_NOVEL_YEAH_THIS_IS_LIZ": "あー、はい...lizです...。",
+  "VISUAL_NOVEL_OH_INTERESTING_SO_STRANGE_TO_SEE_YOU_HERE": "ああ、面白い...こんなところで会うなんて...とても不思議だ...。",
+  "VISUAL_NOVEL_UM_YEAH_JUST_TOOK_A_LONG_BREAK": "あー、実は、すこし長い休みを取っていたんです。",
+  "VISUAL_NOVEL_I_DONT_KNOW_WHAT_YOU_MEAN": "何を言っているのか分からない...。",
+  "VISUAL_NOVEL_WELL_GLAD_YOURE_BACK_IVE_MISSED_YOU": "会いたかったよ。戻ってきてくれて嬉しいな。",
+  "VISUAL_NOVEL_IVE_MISSED_YOU_TOO": "私も会いたかったよ。",
+  "VISUAL_NOVEL_CAN_YOU_REMIND_ME_WHO_THIS_IS": "誰ですか？",
+  "VISUAL_NOVEL_ITS_ORION_WE_USED_TO_BE_GOOD_FRIENDS_IM_SURPRISED_YOU_DONT_REMEMBER_ME_THATS_FINE": "ほら、親友のorionだよ！ 僕を覚えていないとは驚いた！",
+  "VISUAL_NOVEL_ANYTHING_I_CAN_HELP_YOU_WITH": "なにか困ってることはある？",
+  "VISUAL_NOVEL_DO_YOU_KNOW_THE_PASSCODE_FOR_PHOTOS4EMZIP": "photos4em.zipのパスワードを知っていますか？",
+  "VISUAL_NOVEL_HMM_I_DONT_REMEMBER_TRY_DIGGING_THROUGH_YOUR_OLD_CHATLOGS_MAYBE_YOU_SENT_IT_TO_SOMEONE": "うーん...わかんないな。昔のチャットログを探ってみて。もしかしたら、誰かに送ってるかも。",
+  "VISUAL_NOVEL_OKAY_ILL_TRY_THAT_OUT": "わかりました...試してみます。",
+  "VISUAL_NOVEL_WHATS_OTHER_WORLD": "Other Worldってなんですか？",
+  "VISUAL_NOVEL_YOU_GOTTA_BE_JOKING_YOU_DONT_REMEMBER_ITS_THE_GAME_WE_PLAYED_WHEN_WE_WERE_KIDS_ARE_YOU_SURE_THIS_IS_LIZ": "ふざけてる？ 本当に覚えてないの？ 子供の頃の遊び。え、lizだよね？",
+  "VISUAL_NOVEL_YES_IM_SURE_HOW_DO_I_GET_IN": "もちろんlizです...。どうすればログインできますか？",
+  "VISUAL_NOVEL_JUST_TO_MAKE_SURE_YOU_ARE_WHO_YOU_SAY_YOU_ARE_CAN_YOU_TELL_ME_THE_ORDER_OF_THE_FOUR_EVENTS_DURING_OUR_FINAL_RITUAL": "わかった。本物のlizなのか、念のために確認する...。儀式の手順を4つ教えて。",
+  "VISUAL_NOVEL_ILL_TRY_TO_REMEMBER": "思い出してみます。",
+  "VISUAL_NOVEL_I_DONT_REMEMBER": "思い出せないです...。",
+  "VISUAL_NOVEL_THAT_S_OKAY_TAKE_YOUR_TIME": "大丈夫だ。のんびり待つよ。",
+  "VISUAL_NOVEL_OKAY": "わかった。",
+  "VISUAL_NOVEL_SO_REMIND_ME_WHAT_HAPPENED": "では早速。最初に何をする？",
+  "VISUAL_NOVEL_THAT_MIGHT_BE_RIGHT_THAT_MIGHT_BE_WRONG_WHAT_NEXT": "正解かどうかは教えない。次は？",
+  "VISUAL_NOVEL_OK_COULD_BE_WHAT_HAPPENED_BUT_I_WONT_TELL_YOU_WHAT_THEN": "ふ～ん...何をしたかかは教えないけど、次は？",
+  "VISUAL_NOVEL_AND_FINALLY": "最後に？",
+  "VISUAL_NOVEL_WE_BLESSED_THE_STATUE": "石像を崇拝する。",
+  "VISUAL_NOVEL_WE_LIT_CANDLES_FOR_OUR_TRIBUTES": "捧げ物へキャンドルを灯す。",
+  "VISUAL_NOVEL_WE_GAZED_UPON_THE_FOUNTAIN": "噴水を見つめる。",
+  "VISUAL_NOVEL_WE_FOUGHT_THE_LOST_BOYS": "迷子の少年たちと戦う。",
+  "VISUAL_NOVEL_WE_RESPECTED_THE_FOUR_FALLEN": "4人の亡き人へ敬意を表す。",
+  "VISUAL_NOVEL_WE_SUNG_AWAY_OUR_AGE": "年齢を忘れて歌う。",
+  "VISUAL_NOVEL_HOLD_ON_MY_MEMORY_IS_JUST_FUZZY": "待って、すみません...記憶が曖昧で...。",
+  "VISUAL_NOVEL_SURE_TAKE_YOUR_TIME_YOU_CAN_PROBABLY_FIND_SOMETHING_ON_YOUR_COMPUTER_TO_HELP_YOU_REFRESH_YOUR_MEMORY": "のんびり待つよ。パソコンで何か見つけたら、思い出せるかもしれないからね。",
+  "VISUAL_NOVEL_THANKS_ILL_TRY_AGAIN": "すみません...少しあとに後にまたお願いします。",
+  "VISUAL_NOVEL_I_DONT_THINK_THATS_IT": "間違ってるね...。",
+  "VISUAL_NOVEL_HMM_OKAY_I_BELIEVE_U_FOR_NOW_YOU_NEED_TO_REGISTER_A_NEW_ACCOUNT_THE_INVITE_CODE_IS_NEVERLAND": "うーん...わかった。lizだって信じることにするよ。とりあえず、新しいアカウントを作る必要がある。招待コードは、{0} だよ。",
+  "VISUAL_NOVEL_HMM_HEY_LIZ_IMMA_BRB": "あー...こんにちは、liz...ちょっと失礼する。またすぐ戻るよ。",
+  "LYRICS_1": [
+    {
+      "start": "0:00:46",
+      "lyric": "a babbling river"
+    },
+    {
+      "start": "0:03:07",
+      "lyric": "a pond that glows"
+    },
+    {
+      "start": "0:05:11",
+      "lyric": "a hot spring over-overflows"
+    },
+    {
+      "start": "0:10:28",
+      "lyric": "all three things oh, oh I know"
+    },
+    {
+      "start": "0:13:90",
+      "lyric": "I know..."
+    }
+  ],
+  "LYRICS_2": [
+    {
+      "start": "0:00:40",
+      "lyric": "two handss holding on to the same"
+    },
+    {
+      "start": "0:05:57",
+      "lyric": "old story, written poorly"
+    },
+    {
+      "start": "0:09:92",
+      "lyric": "can we -"
+    },
+    {
+      "start": "0:11:40",
+      "lyric": "take control?"
+    },
+    {
+      "start": "0:13:01",
+      "lyric": "I wanna leave this all behind"
+    }
+  ],
+  "LYRICS_3": [
+    {
+      "start": "0:00:61",
+      "lyric": "wake at seven A.M."
+    },
+    {
+      "start": "0:03:96",
+      "lyric": "it's like heaven again"
+    },
+    {
+      "start": "0:07:48",
+      "lyric": "see you smiling my friend"
+    },
+    {
+      "start": "0:10:86",
+      "lyric": "and I don't want this to end"
+    },
+    {
+      "start": "0:13:92",
+      "lyric": "the present moment will fleet"
+    },
+    {
+      "start": "0:17:38",
+      "lyric": "crowded city and streets"
+    },
+    {
+      "start": "0:21:13",
+      "lyric": "everybody you meet"
+    },
+    {
+      "start": "0:24:23",
+      "lyric": "will go away someday"
+    }
+  ],
+  "LYRICS_4": [
+    {
+      "start": "0:01:11",
+      "lyric": "am I a drink that you drank?"
+    },
+    {
+      "start": "0:05:21",
+      "lyric": "am I a snack that you eight?"
+    },
+    {
+      "start": "0:09:61",
+      "lyric": "am I a thing that you lost?"
+    },
+    {
+      "start": "0:14:69",
+      "lyric": "lost long ago"
+    }
+  ],
+  "LYRICS_5": [
+    {
+      "start": "0:00:71",
+      "lyric": "I don't want to be buried"
+    },
+    {
+      "start": "0:04:67",
+      "lyric": "six feet under the ground"
+    },
+    {
+      "start": "0:08:61",
+      "lyric": "if you are not around"
+    },
+    {
+      "start": "0:12:40",
+      "lyric": "don't want to be alone"
+    },
+    {
+      "start": "0:15:75",
+      "lyric": "I don't want to leave this world"
+    },
+    {
+      "start": "0:20:07",
+      "lyric": "if you're not by my side"
+    },
+    {
+      "start": "0:23:34",
+      "lyric": "no, I don't want to die"
+    },
+    {
+      "start": "0:26:80",
+      "lyric": "without you"
+    }
+  ],
+  "LYRICS_6": [
+    {
+      "start": "0:01:10",
+      "lyric": "*guitar noodling*"
+    },
+    {
+      "start": "0:03:73",
+      "lyric": "oh shit uhm..."
+    },
+    {
+      "start": "0:06:00",
+      "lyric": "*GUITAR STRUM*"
+    },
+    {
+      "start": "0:07:52",
+      "lyric": "(whispers) so"
+    },
+    {
+      "start": "0:08:63",
+      "lyric": "just one chance,"
+    },
+    {
+      "start": "0:11:82",
+      "lyric": "and one dance"
+    },
+    {
+      "start": "0:14:88",
+      "lyric": "feels like awkward"
+    },
+    {
+      "start": "0:17:36",
+      "lyric": "teenage romance"
+    },
+    {
+      "start": "0:19:98",
+      "lyric": "*music stops* it kinda sounds like"
+    },
+    {
+      "start": "0:20:96",
+      "lyric": "the end though"
+    },
+    {
+      "start": "0:22:55",
+      "lyric": "maybe i should write"
+    },
+    {
+      "start": "0:23:21",
+      "lyric": "the beginning"
+    }
+  ],
+  "LYRICS_7": [
+    {
+      "start": "0:00:86",
+      "lyric": "it's so funny how hindsight,"
+    },
+    {
+      "start": "0:03:98",
+      "lyric": "is super clear vision"
+    },
+    {
+      "start": "0:06:07",
+      "lyric": "it's so funny how you hide,"
+    },
+    {
+      "start": "0:09:28",
+      "lyric": "what you're really thinking"
+    },
+    {
+      "start": "0:11:46",
+      "lyric": "I have three eyes open now"
+    },
+    {
+      "start": "0:16:59",
+      "lyric": "I tried but you are not around"
+    }
+  ],
+  "LYRICS_8": [
+    {
+      "start": "0:00:42",
+      "lyric": "please don't say that it's over"
+    },
+    {
+      "start": "0:04:42",
+      "lyric": "I put my luck on a four-leaf clover"
+    },
+    {
+      "start": "0:11:15",
+      "lyric": "don't say it's nostalgia"
+    },
+    {
+      "start": "0:16:28",
+      "lyric": "I'd rather stay in the past if I want to"
+    }
+  ],
+  "NOTES": [
+    "8/24 昔のノートを見つけて、デジタル版を作ろうと思った！ 読んでいて変な感じだったな。4年前に経験したことが、今の私と同じように思えて、同じことを何度も繰り返しているみたい。",
+    "8/27 小テストの勉強をしなきゃいけなかった！ だから思うように更新できなかったな...。",
+    "8/28 最近パソコンに向かう時間が長かった。もっと外に出るべきだね。でもorionっていう新しい友達に会ったよ！ 2日前に新しいゲームを見せてくれたんだ。",
+    "9/2 今、zangaでkev ngが亡くなったという投稿を見た。 それを見て変な感じだった...感情が動かなかった。その投稿にはたくさんのコメントがあった。\"rip kev\" とかそんな感じ。 私はそのことを本当に知らなかったから...どう感じたらいいのか...。",
+    "9/3 kevのロッカーは私のロッカーの真下にあった。kevが来るたびにそこをどいた。\"失礼、\"って声が聞こえてきた。私はそれにとても慣れていた。ロッカーを閉めたとき、いつもの声が聞こえなかったし、どかなくてもよかったことに気づいた。死はとても怖い。だけど......どうして人がいなくなってしまうの？ その人に関するすべての些細なこと、明日やろうと思っていたこと、次の日の授業に行くkev、来週のスピリット・ウィークに備えるkev。すべてが止まってしまう。",
+    "9/4 lawsonとemと私は今日、高速道路の680号線の出口を訪れた。kevと彼の父親が衝突した場所に、誰かが白い十字架を立てたみたい。 私はkevに手紙を書いて届けた。",
+    "9/5 lawsonの車でkevの墓参りに行ったことを知ったママは、ひどく怒った。ママはバカみたいなカタコトで私にこう言ったんだ。犯罪者！あなたが生まれたせいでママは美しくなくなったの！せめて良い子でいなさい！って、私は放課後遅くまで図書館のパソコン室にいた。orionに吐き出した。家に帰り、自分の部屋に入った。 ママは黙っていて、何も言わなかった。",
+    "9/6 昨日、捜索願を出された。ママが警察に電話したんだ！！！ 今日も！！ ドラッグを使ってるから逮捕しろって言ってきた！！ ふざけないでよ！！！！！！",
+    "9/13 パソコン、ごめんね...数日ぶり...家出しちゃって...今週はemのところで過ごしたんだ。emはすごくいい友達。emのお母さんが私のママに電話してくれたんだ。 私とママは話すことになった。ママは私が好きな中華料理屋に連れて行ってくれて、ハニーウォールナッツシュリンプを食べた。ママは、一人で子育てをするのがどんなに大変か、どうしたらいいかわからないって言ってた...ママのことを理解できるときもあるけど...たいていは理解できないんだ...ママは時々、本当に変なことを言うんだ...ママは私のことを愛しているし、私に立派に育ってほしいって思ってるのはわかるよ...ママのことは大好きだし...どこか抜けているところも、大好きだよ...。でも、ママは意地悪なことばかり言う。",
+    "10/13 ママはおばあちゃんのところに行ってるから、授業はサボった。oroinがハロウィンのために怖いマンガを送ってくれた。昨夜は連続殺人犯の話を調べるのに夢中になった。他に、scottを紹介してくれた。近いうちに2人を訪ねてみる。",
+    "10/31 この世界から消えたくない...もしあなたが私の側にいないなら...。"
+  ],
+  "OTHER_WORLD_LOGIN": "ログイン",
+  "OTHER_WORLD_REGISTER": "登録",
+  "OTHER_WORLD_EXIT": "終了",
+  "OTHER_WORLD_BACK": "戻る",
+  "OTHER_WORLD_INVITE_CODE": "招待コードを入力",
+  "OTHER_WORLD_CONTINUE": "続行",
+  "OTHER_WORLD_USERNAME": "ユーザー名",
+  "OTHER_WORLD_PASSWORD": "パスワード",
+  "OTHER_WORLD_CONNECTING": "サーバーに接続しています...",
+  "OTHER_WORLD_LOGGING_IN": "ログインしています...",
+  "OTHER_WORLD_WELCOME": "{0}さん、歓迎いたします。",
+  "OTHER_WORLD_INVALID": "ユーザー名またはパスワードが違います。",
+  "OTHER_WORLD_WHATS_YOUR_NAME": "名前を入力してください。",
+  "VIDEO_CALL_TITLE": "WebCam - __orion__",
+  "VIDEO_CALL_REQUEST": "<b>__orion__</b> がビデオ通話をリクエストしています。",
+  "VIDEO_CALL_ACCEPT": "承諾",
+  "VIDEO_CALL_DECLINE": "拒否",
+  "VIDEO_CALL_CONNECTING": "<b>__orion__</b>  が通話に接続しています。お待ち下さい。",
+  "VIDEO_CALL_CAMERA_ON": "あなたのカメラは現在オンになっています。",
+  "VIDEO_CALL_END_CALL": "通話終了",
+  "VIDEO_CALL_MUTE": "ミュート",
+  "OTHER_WORLD_CHAT_WELCOME": "<system> OtherWorldにようこそ！ 矢印をクリックして、この世界を探索してください！ 周りに特殊なオブジェクトがいくつも存在します！ クリックしてみてください！ 楽しんで！！",
+  "OTHER_WORLD_CHAT_CREATION": "<system> 創造のすべてはあなたの指先にある。あなたは何を夢見るだろうか？",
+  "OTHER_WORLD_CHAT_NEXUS": "<system> Nexusはユーザーのホームです！ ユーザーによる個性豊かなワールドがいくつもあります！ あなたのワールドをアップロードするか、すでにアップロードされている広大なワールドを見ることが出来ます！！",
+  "OTHER_WORLD_CHAT_DISCO": "<system> ここはDiscoです！！ OtherWorldで最も賑やかな場所！ ダンスフロアで友達を作ろう！！",
+  "OTHER_WORLD_CHAT_YOU_ARENT_LIZ": "[__orion__] lizじゃない...",
+  "OTHER_WORLD_CHAT_SPHERE": "<system> 創造性を表す球体。それは私たちを生かすもの。",
+  "OTHER_WORLD_CHAT_CUBE": "<system> コミュニティを象徴する立方体。それは私たちを繋ぐもの。",
+  "OTHER_WORLD_CHAT_PYRAMID": "<system> 構造を表すピラミッド。それは私たちを支えるもの。",
+  "OTHER_WORLD_CHAT_DISCO_BALL": "<system> 夜を踊り明かそう！ OtherWorldはいつも、一緒に踊ってくれるプレイヤーでいっぱいです！",
+  "OTHER_WORLD_CHAT_STATUE": "<system> .ria eht ni cisum syawla s'erehT (たいれて流が楽音もつい)",
+  "OTHER_WORLD_CHAT_CLOCK": "<system> 時間が進んでいく！",
+  "OTHER_WORLD_CHAT_ALONEGURL_OH_HELLO_FRIEND": "[alonegurl15] あぁ...こんにちは...友よ。",
+  "FILE_BROWSER_ME_JPG": "me.jpg",
+  "FILE_BROWSER_ME_AND_MY_BF_JPG": "me_and_best_friend.jpg",
+  "FILE_BROWSER_WALLPAPERS_FOLDER": "壁紙",
+  "FILE_BROWSER_DESKTOP_FOLDER": "デスクトップ",
+  "FILE_BROWSER_PICTURES_FOLDER": "写真",
+  "FILE_BROWSER_GO_BACK": "戻る",
+  "FILE_BROWSER_OPEN": "開く",
+  "FILE_BROWSER_CANCEL": "キャンセル",
+  "FILE_BROWSER_TITLE_UPLOAD_WORLD": "ワールドをアップロード！",
+  "OTHER_WORLD_CHAT_UPLOAD_WORLD_ERROR": "<system> *.world のみ許可されています。",
+  "OTHER_WORLD_CHAT_HOUSE_INTRO": "<system> 目の前にあるのは、バフォメットの家。世界中のすべての世界をつなぐ多次元平面だ。そこに入るには、先達の導きに従わなければならない。",
+  "OTHER_WORLD_DOOR_PUZZLE_SHORT_KNOCK": "<system> *ｺﾝｯ*",
+  "OTHER_WORLD_DOOR_PUZZLE_LONG_KNOCK": "<system> *コォォォォォォン*",
+  "OTHER_WORLD_DOOR_PUZZLE_FOUR_PORTRAITS": "<system> 外の世界では友人を失ったが、バーチャルな世界では決して忘れ去られることはない。彼らの肖像画をクリックして敬意を表せ。",
+  "OTHER_WORLD_DOOR_PUZZLE_GREGG": "<system> RIP Gregg 1956年7月3日～2001年9月11日 \"ビットとバイトは単なる1と0であり、オンとオフ、ソフトとラウド、ショートとロングという2つの状態である。しかし、その2つの状態には永遠がある。\"",
+  "OTHER_WORLD_DOOR_PUZZLE_AURORA": "<system> RIP Aurora 1975年1月1日～1999年12月31日 \"星の輝き。星がどのように瞬いているか見てみよう。\"",
+  "OTHER_WORLD_DOOR_PUZZLE_SAHRA": "<system> RIP Sahra 1978年4月4日～2002年3月13日 \"チャンスは扉をノックする。何度もノックされることもある。\"",
+  "OTHER_WORLD_DOOR_PUZZLE_JORDEN": "<system> RIP Jorden 1988年8月3日～2001年9月11日 \"私たちは諦めるか、持ちこたえるかのどちらかだ。ただ続けるのとは違う結果が得られることもある。\"",
+  "OTHER_WORLD_STATUE_PUZZLE_INTRO": "<system> 背後の扉が閉まる。バフォメット騎士団は、模擬的な夢の世界から脱出することを運命づけられた者だけのものである。すべての彫像は、教団によって定められた崇拝をされなければならない。一つの像は貪欲であり、複数の祝福を必要とする。",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_GOAT": "<system> ヤギを崇める。",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_LION": "<system> ライオンを崇める。",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_OX": "<system> ウシを崇める。",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_EAGLE": "<system> ワシを崇める。.",
+  "OTHER_WORLD_STATUE_PUZZLE_SOLVED": "<system> 知的な人。石像の背後の扉が開く。",
+  // "Dreadfully distinct against the dark" is a reference to Blade Runner 2049: https://youtu.be/ZRcpnM26nJM?t=17
+  "OTHER_WORLD_FOUNTAIN_PUZZLE_INTRO": "<system> 私たちは暗闇の中で、恐ろしく鮮明に文字を刻み続ける。血の書道、噴水が印を書く。愛する人への手紙、流れが形作る文字。レンガをひとつひとつ押していく。",
+  "OTHER_WORLD_FOUNTAIN_PUZZLE_SOLVED": "<system> 扉が現れる。",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_1": "最も絆が強い人",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_2": "片思いの人",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_3": "運命を握る人",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_FAILURE": "<system> 何も起こらない。もしかしたら、これらの捧げ物はあなたの本当の気持ちを表せていないのかもしれない。",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_SUCCESS": "<system> あなたの捧げ物は受け入れられた。",
+
+  "ENDING_WARNING": "警告！ 捧げ物はあなたのオーラと一致しません！ 上書きを開始します。",
+  // Liz:
+  "ENDING_HOW_LONG_HAS_IT_BEEN": "何年ぶりかな...？",
+  "ENDING_THANK_U_FOR_UPLOADING_THOSE_PICTURES": "写真をアップしてくれてありがとう。",
+  "ENDING_WONDERED_IF_I_WOULD_SEE_THEM": "もう二度と皆の顔を見れないと思ってた...。",
+  "ENDING_I_EVEN_FORGOT_WHAT_I_USED_TO_LOOK_LIKE": "自分の姿さえ忘れてたからね。",
+  "ENDING_HAVENT_SEEN_ANOTHER_PERSON": "ここで他の人を見るのは久しぶり。",
+  // Implies that some separate system has logged onto your account.
+  "ENDING_SYSTEM_ACTION_ERROR": "<system> 別のコンピューターがログインしているため、その操作は受け入れられません。",
+  "ENDING_YOU_ARE_OFFLINE": "<system> あなた は現在オフラインです。",
+  "ENDING_YOU_ARE_ONLINE": "<system> あなた は現在オンラインです。",
+  // Liz:
+  "ENDING_A_LONG_TIME_AGO_I_WAS_APPROACHED_BY_A_MAN": "昔...ある男に声をかけられたの...。",
+  "ENDING_HE_PROMISED_ME_FOREVER": "そして、永遠を約束された。",
+  "ENDING_I_GOT_INTO_A_FIGHT_WITH_MY_MOTHER": "母親と喧嘩したんだ。",
+  "ENDING_SO_I_DECIDED_TO_UPLOAD_MYSELF_ONTO_THE_INTERNET": "だから、インターネットに自分をアップロードすることにした。",
+  "ENDING_I_UPLOADED_MYSELF_ONTO_THIS_GAME": "このゲームに...自分をアップロードしたんだ...。",
+  "ENDING_AT_FIRST_IT_WAS_GREAT": "最初は最高だったよ。",
+  "ENDING_WE_CREATED_SO_MANY_BEAUTIFUL_THINGS_HERE": "ここでたくさんの美しいものを創り上げることができた。",
+  "ENDING_THE_WORLD_USED_TO_BE_CROWDED": "この世界はかつて賑わっていた、毎日たくさんの新しい出会いがあった。",
+  "ENDING_BUT_NOW": "でも今は......",
+  // Profiles that pop up.
+  "ENDING_POPUP_PROFILE_TITLE": "プロフィール - {0}",
+  "ENDING_POPUP_LOADING": "読込中...",
+  "ENDING_POPUP_LAST_SEEN": "最終閲覧日、{0}日前。",
+  "ENDING_POPUP_MESSAGE_BUTTON": "メッセージ",
+  "ENDING_POPUP_BLOCK_BUTTON": "ブロック",
+  // Liz:
+  "ENDING_THE_WORLD_OUT_THERE_CHANGES": "外の世界は変り続ける。",
+  "ENDING_PEOPLE_LEAVE_GROW_OLD": "人は去り、老い、先へ進む。",
+  "ENDING_OTHER_WORLD_STAYS_THE_SAME": "でもOther Worldでは、永遠に変われない。",
+  // Server Browser
+  "ENDING_SERVER_BROWSER_TITLE": "Server Browser",
+  "ENDING_SERVER_BROWSER_REFRESH_BUTTON": "更新",
+  "ENDING_SERVER_BROWSER_CLOSE_BUTTON": "閉じる",
+  "ENDING_SERVER_BROWSER_SERVER_NAME": "名前",
+  "ENDING_SERVER_BROWSER_PLAYERS_IN_SERVER": "プレイヤー",
+  "ENDING_SERVER_BROWSER_SERVER_PING": "Ping",
+  // Liz:
+  "ENDING_WITHOUT_THE_PLAYERS_WORLDS_ARE_GONE": "遊ぶ人がいなければ、創られた世界は全てなくなってしまう。",
+  "ENDING_EVERYONE_RITUAL_DELETED_THEMSELVES": "結局、その儀式を行った者は、全員、自分自身を削除しようとした。",
+  "ENDING_HOW_IS_A_SOUL_STORED_IN_A_FILESYSTEM": "魂がどこに保存されているのかわかる？",
+  "ENDING_I_HEAR_THEM": "時々、皆の叫び声を聞く。皆の意識は、任意のシステムファイルと融合されているんだ。",
+  "ENDING_THIS_PLACE_IS_ALL_I_HAVE_LEFT": "ここが私に残された全て。",
+  "ENDING_ALL_THINGS_DETERIORATE_EVEN_THIS": "物事は全て劣化していく。",
+  "ENDING_HOW_COULD_WE_HAVE_KNOWN": "なぜ私達はそれを知ることができたのか？",
+  // Liz, now <system>, becomes part of Other World:
+  "ENDING_I_MISS_EMILY": "<system> emilyに会いたい...。",
+  "ENDING_I_MISS_GOING_ON_THE_COMPUTER_WITH_HER": "<system> 一緒にフラッシュゲームをしていたのが懐かしいよ。",
+  "ENDING_SLEEPING_OVER_WATCHING_TV_SHOWS": "<system> お泊りして、一緒にテレビ番組を見たりしたな。",
+  "ENDING_I_WONDER_WHO_SHE_GREW_UP_TO_BECOME": "<system> どんな人に成長したんだろう。",
+  "ENDING_I_MISS_LAWSON": "<system> lowsonに会いたい...。",
+  "ENDING_I_MISS_TALKING_TO_HIM": "<system> 悩みを打ち明けられなかった。",
+  "ENDING_I_MISS_HOW_COMFORTING_HE_WAS": "<system> 親切に慰めてくれたこと、懐かしいな。",
+  "ENDING_I_DONT_WANT_HIM_TO_SEE_ME_LIKE_THIS": "<system> こんな姿を見られたくないな。",
+  "ENDING_I_MISS_MY_MOM": "<system> ママに会いたい...。",
+  "ENDING_I_MISS_OUR_STUPID_FIGHTS": "<system> くだらない喧嘩が懐かしいな。",
+  "ENDING_ITS_ALL_SO_MEANINGLESS_NOW": "<system> 今のすべてが無意味だと思う。今までは、たった一瞬の時出来事だったんだから。",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_BAD_GRADES": "<system> 以前は、悪い成績を取ることが怖かった。",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_NOT_LOOKING_PRETTY": "<system> 自分がかわいくないことが怖かった。",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_DISAPPOINTING_PEOPLE": "<system> 人をがっかりさせることが怖かった。",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_DEATH": "<system> 死ぬことが怖かった。",
+  "ENDING_BUT_NOW_2": "<system> でも今は...",
+  "ENDING_IM_AFRAID_OF_FOREVER": "<system> 永遠が怖い。",
+  "ENDING_BUT_YOURE_HERE_NOW_ARENT_YOU": "<system> でも...あなたは今、ここにいる。",
+  "ENDING_YOU_PERFORMED_THE_RITUAL": "<system> あなたは儀式を行った。",
+  "ENDING_ONLY_A_FEW_MINUTES_UNTIL_YOU_JOIN_ME": "<system> あなたが私達に加わるまで、あと数分。",
+  "ENDING_AND_THEN_I_WONT_BE_ALONE": "<system> そうなれば、私は一人じゃない。",
+  "ENDING_FOREVER": "<system> 永遠に。",
+
+  // Facegram
+  "ENDING_FACEGRAM_TITLE": "facegram - {0}",
+  "ENDING_FACEGRAM_POSTS_COUNT": "投稿",
+  "ENDING_FACEGRAM_FOLLOWERS_COUNT": "フォロワー",
+  "ENDING_FACEGRAM_FOLLOWING_COUNT": "フォロー中",
+  "ENDING_THIS_ACCOUNT_IS_PRIVATE": "このアカウントは非公開です。フォローリクエストが承認されるまでお待ちください。",
+
+  // Lawson:
+  "ENDING_USER_IS_ONLINE": "{0} は現在オンラインです。",
+  "ENDING_HEY_LIZ": "やぁ...liz...。",
+  "ENDING_I_KEEP_SEEING_YOUR_ACCOUNT_ONLINE_AND_OFFLINE": "オフラインでもオンラインでも、君のアカウントを見続けてるよ",
+  "ENDING_IVE_BEEN_MESSAGING_YOU_EVERY_YEAR": "君が去ってから毎年、返信を期待してメッセージを送っていたんだ。",
+  "ENDING_I_VISITED_YOU_TODAY": "今日、君の家を訪ねてきたよ。花とハイチュウを置いてきたんだ。",
+  "ENDING_I_DECIDED_THAT_ITS_TIME_TO_MOVE_ON": "そして、前に進むときが来たと思った。",
+  "ENDING_YOURE_NOT_COMING_BACK_ARE_YOU_LIZ": "もう、君は、lizは戻ってこないんだろう？",
+  "ENDING_IVE_MISSED_YOU_SO_MUCH": "会いたかったよ。",
+  "ENDING_GOODBYE": "さよなら。",
+
+  // Liz ending popup spam:
+  "ENDING_NO": "やめて",
+  "ENDING_DONT_LEAVE_ME": "私を置いて行かないで、",
+  "ENDING_I_DONT_WANT_TO_BE_ALONE": "一人になりたくない。",
+
+  // Error Messages
+  "ENDING_ERROR_MEMORYBOUNDS_EXCEEDED": "Error: メモリ容量を超えています。",
+  "ENDING_ERROR_SEGMENTATION_FAULT": "分割 失敗。",
+
+  // Task Manager
+  "ENDING_TASK_MANAGER_TITLE": "タスクマネージャー",
+  "ENDING_TASK_MANAGER_WARNING": "警告:メモリ使用量 高",
+  "ENDING_TASK_MANAGER_PROGRAM": "プログラム",
+  "ENDING_TASK_MANAGER_USAGE": "使用率",
+
+  // Final Error Message
+  "ERROR_REPORT_OTHER_WORLD_HAS_ENCOUNTERED_A_PROBLEM": "Other Worldに問題が発生したため、終了されました。　　　　　　　　ご迷惑をおかけし、大変申し訳ございません。",
+  "ERROR_REPORT_IF_YOU_WERE_IN_THE_MIDDLE_OF_SOMETHING": "もし何かの作業中だった場合、保存していないデータは失われる可能性があります。",
+  "ERROR_REPORT_PLEASE_TELL_OTHER_WORLD_ABOUT_THIS_PROBLEM": "この問題をOther Worldに報告してください。",
+  "ERROR_REPORT_WE_HAVE_CREATED_AN_ERROR_REPORT": "エラーレポートを作成しました。この報告書は機密扱いとし、匿名で送信されます。",
+  "ERROR_REPORT_BUTTON_1": "送信",
+  "ERROR_REPORT_BUTTON_2": "<b><u>終</u></b>了",
+
+  // Translation Credits
+  "SHOW_TRANSLATION_CREDITS": true,
+  "CREDITS_TITLE": "Japanese Translation",
+  // Put as many credits here as you want.
+  // Please don't put a virus here :(
+  "CREDITS": [
+    {
+      "name": "Discord",
+      "website": "https://discord.com/channels/1183870459687743590/1265849700679159890"
+    },
+    {
+      "name": "魚です、",
+      "website": "https://sites.google.com/view/sakanadesu"
+    },
+    { "name": "(@iam_a_fish)", "website": "https://x.com/iam_a_fish" },
+    { "name": "あそんでいただきありがとうございます！！！" } // Optional website.
+  ],
+
+  "CLICK_TO_REPLAY": "最初からやり直す",
+
+  // April 23, additional lines:
+  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "扉の中の何かが変わる...あなたは何かをした......あるいは何かの...一部をした...。",
+  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "扉は開かれた。",
+
+  // June 24
+  "ORION_IS_TYPING": "__orion__ が入力中...",
+  "SCROLL_TO_TOP": "トップへ",
+  "SERVERS_EMPTY": "無",
+  "SERVERS_UPLOAD": "クリックしてアップロード",
+  "SERVERS_USER_WORLD": "<ﾕｰｻﾞ ﾜｰﾙﾄﾞ>",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_1": "ハウス オブ",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_2": "バフォメット",
+
+  "TRIBUTES_BOND_LINE_1": "　",
+  "TRIBUTES_BOND_LINE_2": "最も絆が強い人",
+  "TRIBUTES_BOND_LINE_3": "　",
+
+  "TRIBUTES_UNREQUITED_LINE_1": "　",
+  "TRIBUTES_UNREQUITED_LINE_2": "片思いの人",
+  "TRIBUTES_UNREQUITED_LINE_3": "　",
+
+  "TRIBUTES_FATE_LINE_1": "　",
+  "TRIBUTES_FATE_LINE_2": "運命を決める人",
+  "TRIBUTES_FATE_LINE_3": "　",
+
+  // Ignore this last line, it's so each line can have a comma at the end.
+  "": null
+}

@@ -2,7 +2,7 @@
 // You don't have to translate everything, but I included
 // as much as I can just in case.
 {
-  "NAME": "English",
+  "NAME": "Polski",
   "FONT_FAMILY": "PixelArial11POLSKA, MadouFutoMaruGothic, PixeloidSans",
   "TITLE_SPACING": 1.0,
   "TITLE_TEXT": "last seen online",
@@ -618,7 +618,7 @@
   "ERROR_REPORT_BUTTON_2": "Nie wysyłaj",
 
   // Translation Credits
-  "SHOW_TRANSLATION_CREDITS": false,
+  "SHOW_TRANSLATION_CREDITS": true,
   "CREDITS_TITLE": "Tłumaczenie polskie",
   // Put as many credits here as you want.
   // Please don't put a virus here :(

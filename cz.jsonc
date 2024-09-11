@@ -613,7 +613,7 @@
   "ERROR_REPORT_BUTTON_2": "Don't S<b><u>end</u></b>?",
 
   // Translation Credits
-  "SHOW_TRANSLATION_CREDITS": false,
+  "SHOW_TRANSLATION_CREDITS": true,
   "CREDITS_TITLE": "English Translation",
   // Put as many credits here as you want.
   // Please don't put a virus here :(
