@@ -3,8 +3,8 @@
   "FONT_FAMILY": "PixeloidSans, PixelArial11, MadouFutoMaruGothic",
   "TITLE_SPACING": 1.0,
   "TITLE_TEXT": "была в сети",
-  "INTRO_TEXT_1": "ты купил старый б/у компьютер на гаражной распродаже.",
-  "INTRO_TEXT_2": "и ты решил включить его.",
+  "INTRO_TEXT_1": "ты купил подержанный компьютер на гаражной распродаже.",
+  "INTRO_TEXT_2": "и затем ты решил включить его.",
   "CONTINUE_BUTTON": "продолжить",
   "PASSWORD_TEXT": "Пароль:",
   "PASSWORD_HINT": "Подсказка: имя пушистого маленького друга и год моего рождения.",
@@ -658,9 +658,10 @@
   // Please don't put a virus here :(
   // NO VIRUS MY DEAR BRO!!! JUST LINK TO MY SOCIAL ACCOUNT!!! Thanks for this awesome game!!! <3
   // JustKekc approves the message above
+  // imnuclearimwild also agree with the message above
   "CREDITS": [
     {
-      "name": "Discord",
+      "name": "Помочь с переводом (Discord)",
       "website": "https://discord.com/channels/1183870459687743590/1255977059528872028"
     },
     { "name": "pxlus", "website": "https://vk.com/pxlus" },
