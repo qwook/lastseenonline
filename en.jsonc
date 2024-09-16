@@ -669,6 +669,9 @@
   "SETTINGS_DELETE_SAVE": "Delete Save",
   "SETTINGS_QUIT_GAME": "Quit Game",
 
+  "OTHER_WORLD_CANDLES": "<system> Three candles... But how to light them?",
+  "OTHER_WORLD_DOOR_PUZZLE_FRAME_KNOCK": "<system> The door is too thick to make any decent sound with your hands. Perhaps you can use the door knockers.",
+
   // Ignore this last line, it's so each line can have a comma at the end.
   "": null
 }
