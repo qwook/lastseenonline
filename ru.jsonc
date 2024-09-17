@@ -3,8 +3,8 @@
   "FONT_FAMILY": "PixeloidSans, PixelArial11, MadouFutoMaruGothic",
   "TITLE_SPACING": 1.0,
   "TITLE_TEXT": "была в сети",
-  "INTRO_TEXT_1": "ты купил старый б/у компьютер на гаражной распродаже.",
-  "INTRO_TEXT_2": "и ты решил включить его.",
+  "INTRO_TEXT_1": "ты купил подержанный компьютер на гаражной распродаже.",
+  "INTRO_TEXT_2": "и затем ты решил включить его.",
   "CONTINUE_BUTTON": "продолжить",
   "PASSWORD_TEXT": "Пароль:",
   "PASSWORD_HINT": "Подсказка: имя пушистого маленького друга и год моего рождения.",
@@ -658,9 +658,10 @@
   // Please don't put a virus here :(
   // NO VIRUS MY DEAR BRO!!! JUST LINK TO MY SOCIAL ACCOUNT!!! Thanks for this awesome game!!! <3
   // JustKekc approves the message above
+  // imnuclearimwild also agree with the message above
   "CREDITS": [
     {
-      "name": "Discord",
+      "name": "Помочь с переводом (Discord)",
       "website": "https://discord.com/channels/1183870459687743590/1255977059528872028"
     },
     { "name": "pxlus", "website": "https://vk.com/pxlus" },
@@ -693,6 +694,23 @@
   "TRIBUTES_FATE_LINE_1": "кто такой",
   "TRIBUTES_FATE_LINE_2": "творец",
   "TRIBUTES_FATE_LINE_3": "своей судьбы?",
+
+  // June 27
+  "VIDEO_CALL_INCOMING_CALL": "Входящий звонок",
+  "CONSCIOUSNESS_TRIANGULATION": "Триангуляция Сознания",
+  "ENDING_POPUP_OFFLINE": "Не в сети",
+
+  "SETTINGS_TITLE": "Настройки",
+  "SETTINGS_FULLSCREEN": "Полный экран",
+  "SETTINGS_MASTER_VOLUME": "Общая громкость",
+  "SETTINGS_SFX_VOLUME": "Громкость звуков",
+  "SETTINGS_MUSIC_VOLUME": "Громкость музыки",
+  "SETTINGS_LANGUAGE": "Язык",
+  "SETTINGS_DELETE_SAVE": "Удалить сохранение",
+  "SETTINGS_QUIT_GAME": "Выйти из игры",
+
+  "OTHER_WORLD_CANDLES": "<system> Три свечи... но как зажечь их?",
+  "OTHER_WORLD_DOOR_PUZZLE_FRAME_KNOCK": "<system> Дверь слишком толста, чтобы через неё прошёл шум от ваших рук. Возможно, вы можете воспользоваться дверными кольцами.",
 
   // Ignore this last line, it's so each line can have a comma at the end.
   "": null
