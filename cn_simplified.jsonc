@@ -10,7 +10,7 @@
   // letters as TITLE_TEXT but it's okay if not.
   // I will program in a way for it to work without.
   "INTRO_TEXT_1": "你在逛跳蚤市场时淘到了台旧电脑，",
-  "INTRO_TEXT_2": "出于好奇，你决定打破底线，开机看看。",
+  "INTRO_TEXT_2": "出于好奇，你最终决定打破底线，开机看看。",
   "CONTINUE_BUTTON": "继续",
   "PASSWORD_TEXT": "密码:",
   "PASSWORD_HINT": "提示：毛孩子的姓名与我的出生年份",
@@ -31,7 +31,7 @@
   // Optional:
   "BUDDYLIST_SIGN_ON": "正在登陆",
   // Optional:
-  "BUDDYLIST_SIGN_ON_STEP_1": "1. 自动输入密码...",
+  "BUDDYLIST_SIGN_ON_STEP_1": "1. 输入已保存密码...",
   // Optional:
   "BUDDYLIST_SIGN_ON_STEP_2": "2. 正在连接...",
   // Optional:
@@ -115,7 +115,7 @@
     "<LIZ>: =.= 我妈说我没她的美人鼻，倒是长了个和我爹一样的蒜头鼻。！讨厌死了",
     "<EMMBER>: 别听她瞎讲，你超超超美的 d(^_^)z",
     "<LIZ>: 艾米我好想逃离这一切... 活着好难",
-    "<EMMBER>: 啊呀没事的，就算洛森不喜欢你，我也会一直陪着你的！！！我们是一辈子的好姐妹！！！",
+    "<EMMBER>: 啊呀没事的，就算洛森不喜欢你，我也会一直陪着你的！！！我们要做一辈子的好姐妹！！！",
     "<SYSTEM>: xXemmberXx86 已下线",
     "<SYSTEM>: xXemmberXx86 已上线",
     "<LIZ>: 艾米，我妈说她要没收我的电脑，但我已经找到方法了",
@@ -130,9 +130,9 @@
     "<EMMBER>: 草，你要去哪啊？去巴黎？",
     "<LIZ>: 发你的图片收到了吗？",
     "<LIZ>: 我们昨天为俄里翁举行了这场仪式.. 我很快就会自由了。",
-    "<EMMBER>: 哦哦那个压缩文件吗？要输个4位密码诶",
+    "<EMMBER>: 哦哦那个压缩文件吗？要输4位密码诶",
     "<LIZ>: -_- 就是我失真列表里的那四首歌啊！！",
-    "<EMMBER>: 啊... 我没看懂.. 你列表里有八首歌。",
+    "<EMMBER>: 啊... 我没搞懂.. 你列表里有八首歌啊。",
     "<LIZ>: 你还在用我们合拍的那张<b>桌面壁纸</b>吗？？你得确保只有失真一个窗口！！！壁纸上有标注对应的顺序。",
     "<EMMBER>: O_O ！！我草这也太酷了！！<b>我已经把窗口拖过去了。</b>然后呢？？",
     "<LIZ>: 注意歌词！！",
@@ -146,12 +146,12 @@
     "<LIZ|CORRUPTED>: 艾 米 仪 式 成 功 了",
     "<EMMBER>: 你是？",
     "<LIZ|CORRUPTED>: 是 我 莉 兹 啊 我 还 在 适 应 这 里 的 环 境",
-    "<EMMBER>: 听着，我不知道你他妈在搞什么鬼，但这一点都不好笑。去我黑名单里躺着吧。"
+    "<EMMBER>: 听着，我不知道你他妈在搞什么恶作剧，但这一点都不好笑。去我黑名单里躺着吧。"
   ],
   "ORION_CHATLOG": [
     "<LIZ>: 在吗，你看了珍妮新上传的世界了吗？？",
-    "<ORION>: 看了，做的很不错，她下了不少功夫啊。",
-    "<LIZ>: 以后我也能做个这么帅的世界",
+    "<ORION>: 看了，做的很不错，看得出来她花了不少功夫啊。",
+    "<LIZ>: 以后我也能做个这么酷的世界",
     "<ORION>: 啊哈哈，应该吧",
     "<ORION>: 哦对了，看看这个我刚找到的文件： RED_HERRING_EXE",
     "<LIZ>: 这啥？？ 从另世上扒下来的吗？？？",
@@ -169,11 +169,11 @@
   "VISUAL_NOVEL_HEY_IS_THIS_LIZ": "哈喽？？是莉兹吗？？？",
   "VISUAL_NOVEL_YEAH_THIS_IS_LIZ": "没错.. 就是莉兹...",
   "VISUAL_NOVEL_OH_INTERESTING_SO_STRANGE_TO_SEE_YOU_HERE": "嘶...怎么会在这...见到你...",
-  "VISUAL_NOVEL_UM_YEAH_JUST_TOOK_A_LONG_BREAK": "别管了，我给自己放了个长假。",
+  "VISUAL_NOVEL_UM_YEAH_JUST_TOOK_A_LONG_BREAK": "怎么了吗，我给自己放了个长假。",
   "VISUAL_NOVEL_I_DONT_KNOW_WHAT_YOU_MEAN": "什么意思...",
   "VISUAL_NOVEL_WELL_GLAD_YOURE_BACK_IVE_MISSED_YOU": "没什么。你能回来真是太好了，这段时间我很想你。",
   "VISUAL_NOVEL_IVE_MISSED_YOU_TOO": "我也很想你。",
-  "VISUAL_NOVEL_CAN_YOU_REMIND_ME_WHO_THIS_IS": "能给点提示吗？",
+  "VISUAL_NOVEL_CAN_YOU_REMIND_ME_WHO_THIS_IS": "请问您是？",
   "VISUAL_NOVEL_ITS_ORION_WE_USED_TO_BE_GOOD_FRIENDS_IM_SURPRISED_YOU_DONT_REMEMBER_ME_THATS_FINE": "我是俄里翁呀！我们以前关系可好了！没想到你连我也忘了，但不要紧！",
   "VISUAL_NOVEL_ANYTHING_I_CAN_HELP_YOU_WITH": "有什么事吗？",
   "VISUAL_NOVEL_DO_YOU_KNOW_THE_PASSCODE_FOR_PHOTOS4EMZIP": "你知道 给艾米的照片.zip 这个文件的密码吗？",
@@ -185,9 +185,9 @@
   "VISUAL_NOVEL_JUST_TO_MAKE_SURE_YOU_ARE_WHO_YOU_SAY_YOU_ARE_CAN_YOU_TELL_ME_THE_ORDER_OF_THE_FOUR_EVENTS_DURING_OUR_FINAL_RITUAL": "还是得确认下你的身份... 你能告诉我在最终仪式中分别需要哪四步吗？",
   "VISUAL_NOVEL_ILL_TRY_TO_REMEMBER": "我应该还记得",
   "VISUAL_NOVEL_I_DONT_REMEMBER": "我记不得了",
-  "VISUAL_NOVEL_THAT_S_OKAY_TAKE_YOUR_TIME": "没关系，想好了再来找我",
+  "VISUAL_NOVEL_THAT_S_OKAY_TAKE_YOUR_TIME": "没关系，想起来了再来找我",
   "VISUAL_NOVEL_OKAY": "好吧",
-  "VISUAL_NOVEL_SO_REMIND_ME_WHAT_HAPPENED": "请告诉我，仪式的第一步是？",
+  "VISUAL_NOVEL_SO_REMIND_ME_WHAT_HAPPENED": "那么请问，仪式的第一步是？",
   "VISUAL_NOVEL_THAT_MIGHT_BE_RIGHT_THAT_MIGHT_BE_WRONG_WHAT_NEXT": "就当你答对了，下一步是？",
   "VISUAL_NOVEL_OK_COULD_BE_WHAT_HAPPENED_BUT_I_WONT_TELL_YOU_WHAT_THEN": "嗯...或许是这个顺序。接下来呢？",
   "VISUAL_NOVEL_AND_FINALLY": "最后一步是？",
@@ -244,7 +244,7 @@
     },
     {
       "start": "0:13:01",
-      "lyric": "应如尘土，任我走过"
+      "lyric": "故如尘土，随风飘落"
     }
   ],
   "LYRICS_3": [
@@ -284,15 +284,15 @@
   "LYRICS_4": [
     {
       "start": "0:01:11",
-      "lyric": "我是否是你苦咽入喉的烈酒？"
+      "lyric": "我是否为你苦咽入喉的烈酒？"
     },
     {
       "start": "0:05:21",
-      "lyric": "我是否是你八入心底的毒瘤？"
+      "lyric": "我是否为你八入怀中的情愁？"
     },
     {
       "start": "0:09:61",
-      "lyric": "我是否是你无法释怀的愧疚？"
+      "lyric": "我是否为你无法释怀的愧疚？"
     },
     {
       "start": "0:14:69",
@@ -330,7 +330,7 @@
     },
     {
       "start": "0:26:80",
-      "lyric": "请允许我与你一同逃走"
+      "lyric": "请许我与你一同逃走"
     }
   ],
   "LYRICS_6": [
@@ -368,7 +368,7 @@
     },
     {
       "start": "0:19:98",
-      "lyric": "*停止演奏* 这听着跟"
+      "lyric": "*音乐中止* 这唱的跟"
     },
     {
       "start": "0:20:96",
@@ -376,11 +376,11 @@
     },
     {
       "start": "0:22:55",
-      "lyric": "我应该想想"
+      "lyric": "我得想想"
     },
     {
       "start": "0:23:21",
-      "lyric": "怎么写开头"
+      "lyric": "怎么唱开头"
     }
   ],
   "LYRICS_7": [
@@ -437,7 +437,7 @@
     "9/5 我妈对于洛森载我去探望凯文坟墓这件事很不高兴。她用她那蹩脚的英语指责说我就是罪魁祸首。她说她的美貌都因为怀上我而毁了，而我连她的话都不肯听。放学后我在图书馆的机房待了很久。我和俄里翁聊了很多。到家以后我就直接回了房间。老妈什么话都没对我说。",
     "9/6 我妈昨天竟然他妈报警了！！！她和警察说我失踪了。今天她 又 尼 玛 报警了..她认为我昨天是逃出去吸毒，并要求警察把我带回警局审问？？？脑子有问题吧！！！！",
     "9/13 电脑君对不起.... 好几天都没写...离家出走...上周我都住在艾米家.. 能有艾米这个朋友真是太好了。艾米的妈妈给我妈打了电话。我们最终还是决定好好聊聊。她带我去我最喜欢的中餐馆吃了蜜汁胡桃虾仁。她告诉我独自面对这一切是多么艰辛，她又是多么迷茫...说实话有时候我也能理解老妈...但很多情况下我真的无法明白她在想什么...她总是神神叨叨的.....我知道她很爱我，所做的一切是为了我好...我也爱她..犯傻的时候也是...但她说过的一些话真的很伤人...",
-    "10/13 老妈出门去看望奶奶了。我可不能放过这个翘课的大好机会。万圣节快到了，俄里翁最近和我分享了好多有意思的恐怖漫画。昨晚我们通宵看了好几篇连环凶杀案主题的短文。他还介绍我认识了斯科特。过段时间我说不定会去拜访他们。",
+    "10/13 老妈出门去看望奶奶了。我可不能放过这个翘课的大好机会。万圣节快到了，俄里翁最近和我分享了好多有意思的恐怖漫画。昨晚我们通宵看了好几篇以连环凶杀案为主题的短文。他还介绍我认识了斯科特。过段时间我说不定会去拜访他们。",
     "10/31 请勿带我离世... 独留形影单只....."
   ],
   "OTHER_WORLD_LOGIN": "登陆",
@@ -491,7 +491,7 @@
   "OTHER_WORLD_DOOR_PUZZLE_AURORA": "<系统> 愿 奥萝拉 安息。1975年1月1日 - 1999年12月31日 \"留意群星之光。记住它们的模样，不论是长久还是转瞬即逝的星芒。\"",
   "OTHER_WORLD_DOOR_PUZZLE_SAHRA": "<系统> 愿 萨拉 安息。1978年4月4日 - 2002年3月13日 \"寻求机遇就好似敲门，有时你得敲上几下，好运才会来访。\"",
   "OTHER_WORLD_DOOR_PUZZLE_JORDEN": "<系统> 愿 乔丹 安息。1988年8月3日 - 2001年9月11日 \"在名为人生的旅途中，我们有人匆匆到站，有人一往无前。相比短暂的尝试，长久的坚持往往会带来不一样的结果。\"",
-  "OTHER_WORLD_STATUE_PUZZLE_INTRO": "<系统> 身后石门已然关闭。巴风特之旨仅为那些注定超脱于凡世梦境之人降临。其旨意号令所有神像寻得护佑。其中一尊神像出于贪婪而渴求数次祈福。",
+  "OTHER_WORLD_STATUE_PUZZLE_INTRO": "<系统> 身后石门已然关闭。巴风特之旨仅为那些注定超脱于凡世梦境之人降临。其旨意号令所有神像寻得护佑。其中一尊神像因贪婪而渴求数次祈福。",
   "OTHER_WORLD_STATUE_PUZZLE_BLESS_GOAT": "<系统> 你向山羊敬奉祈福。",
   "OTHER_WORLD_STATUE_PUZZLE_BLESS_LION": "<系统> 你向雄狮敬奉祈福。",
   "OTHER_WORLD_STATUE_PUZZLE_BLESS_OX": "<系统> 你向公牛敬奉祈福。",
@@ -501,14 +501,14 @@
   "OTHER_WORLD_FOUNTAIN_PUZZLE_INTRO": "<系统> 我们以肉身抵抗黑暗，寻圣光为墨印于肝胆。不朽之血或显黯淡，然其信可领命定之人抵达彼岸。我们所爱之人筑起圣泉，无尽光阴使其旨意显现。永恒藏于石砖之间，寻得后方可将万世踏遍。",
   "OTHER_WORLD_FOUNTAIN_PUZZLE_SOLVED": "<系统> 通往最终仪式的大门已然出现。",
   "OTHER_WORLD_TRIBUTE_PUZZLE_1": "与谁的羁绊最得你信任？",
-  "OTHER_WORLD_TRIBUTE_PUZZLE_2": "谁代表着你求而不得的渴望？",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_2": "谁是你求而不得的渴望？",
   "OTHER_WORLD_TRIBUTE_PUZZLE_3": "谁是你命运唯一的主宰？",
   "OTHER_WORLD_TRIBUTE_PUZZLE_FAILURE": "<系统> 无事发生。或许所供奉的形象并不能反映你内心最真实的想法？",
   "OTHER_WORLD_TRIBUTE_PUZZLE_SUCCESS": "<系统> 无上旨意已接受你的供奉。",
 
   "ENDING_WARNING": "警告！供奉形象与现实经历不符，覆盖程序启动。",
   // Liz:
-  "ENDING_HOW_LONG_HAS_IT_BEEN": "这...已经过去了多久？",
+  "ENDING_HOW_LONG_HAS_IT_BEEN": "这...到底过去了多久？",
   "ENDING_THANK_U_FOR_UPLOADING_THOSE_PICTURES": "谢谢你能上传这些照片",
   "ENDING_WONDERED_IF_I_WOULD_SEE_THEM": "我曾想是否还能再看一次他们的模样",
   "ENDING_I_EVEN_FORGOT_WHAT_I_USED_TO_LOOK_LIKE": "我甚至已经忘了我自己的长相...",
@@ -521,7 +521,7 @@
   "ENDING_A_LONG_TIME_AGO_I_WAS_APPROACHED_BY_A_MAN": "很久以前...有人联系上了我...",
   "ENDING_HE_PROMISED_ME_FOREVER": "他承诺能带给我永恒。",
   "ENDING_I_GOT_INTO_A_FIGHT_WITH_MY_MOTHER": "当时我和我妈吵得天翻地覆",
-  "ENDING_SO_I_DECIDED_TO_UPLOAD_MYSELF_ONTO_THE_INTERNET": "因此我决定将自己上传到网上",
+  "ENDING_SO_I_DECIDED_TO_UPLOAD_MYSELF_ONTO_THE_INTERNET": "因此我决定将自己上传到网络之中",
   "ENDING_I_UPLOADED_MYSELF_ONTO_THIS_GAME": "我把自己上传到了...这个游戏里",
   "ENDING_AT_FIRST_IT_WAS_GREAT": "起初，一切都是那么美好。",
   "ENDING_WE_CREATED_SO_MANY_BEAUTIFUL_THINGS_HERE": "我们在这创造了许多美妙的事物与回忆。",
@@ -536,7 +536,7 @@
   // Liz:
   "ENDING_THE_WORLD_OUT_THERE_CHANGES": "屏幕外的世界总是变个不停",
   "ENDING_PEOPLE_LEAVE_GROW_OLD": "人们会退出游戏，会不断成长，会经历生命中不同的事物",
-  "ENDING_OTHER_WORLD_STAYS_THE_SAME": "但另世中的东西从未改变，也不会改变。",
+  "ENDING_OTHER_WORLD_STAYS_THE_SAME": "但另世从未改变。也永远不变",
   // Server Browser
   "ENDING_SERVER_BROWSER_TITLE": "服务器列表",
   "ENDING_SERVER_BROWSER_REFRESH_BUTTON": "刷新",
@@ -559,17 +559,17 @@
   "ENDING_I_WONDER_WHO_SHE_GREW_UP_TO_BECOME": "<系统> 不知道她的人生又是怎样",
   "ENDING_I_MISS_LAWSON": "<系统> 我想念洛森",
   "ENDING_I_MISS_TALKING_TO_HIM": "<系统> 我想念和他吐槽生活中的点点滴滴",
-  "ENDING_I_MISS_HOW_COMFORTING_HE_WAS": "<系统> 我想念和他聊天时的安全感",
+  "ENDING_I_MISS_HOW_COMFORTING_HE_WAS": "<系统> 我想念他带给我的安全感",
   "ENDING_I_DONT_WANT_HIM_TO_SEE_ME_LIKE_THIS": "<系统> 我不想让他看见我这幅模样。",
   "ENDING_I_MISS_MY_MOM": "<系统> 我想念我妈",
   "ENDING_I_MISS_OUR_STUPID_FIGHTS": "<系统> 我想念我们吵过的那些荒唐架",
   "ENDING_ITS_ALL_SO_MEANINGLESS_NOW": "<系统> 当时说的气话早就没了意义，我从没有意识到这一切是多么短暂。",
-  "ENDING_I_USED_TO_BE_AFRAID_OF_BAD_GRADES": "<系统> 曾经，我害怕因考试而受到批评。",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_BAD_GRADES": "<系统> 曾经，我害怕因成绩而受到批评。",
   "ENDING_I_USED_TO_BE_AFRAID_OF_NOT_LOOKING_PRETTY": "<系统> 曾经，我害怕因外貌而受人非议。",
   "ENDING_I_USED_TO_BE_AFRAID_OF_DISAPPOINTING_PEOPLE": "<系统> 曾经，我害怕因无能而令人失望。",
   "ENDING_I_USED_TO_BE_AFRAID_OF_DEATH": "<系统> 曾经，我恐惧死亡。",
   "ENDING_BUT_NOW_2": "<系统> 可现在",
-  "ENDING_IM_AFRAID_OF_FOREVER": "<系统> 我只想不再于无尽的永恒中彷徨。",
+  "ENDING_IM_AFRAID_OF_FOREVER": "<系统> 我害怕于无尽的永恒中独自彷徨。",
   "ENDING_BUT_YOURE_HERE_NOW_ARENT_YOU": "<系统> 但...现在还有你不是吗？",
   "ENDING_YOU_PERFORMED_THE_RITUAL": "<系统> 你也举行了仪式。",
   "ENDING_ONLY_A_FEW_MINUTES_UNTIL_YOU_JOIN_ME": "<系统> 再过几分钟，你就会变得像我一样",
@@ -586,8 +586,8 @@
   // Lawson:
   "ENDING_USER_IS_ONLINE": "{0} 已上线",
   "ENDING_HEY_LIZ": "在吗莉兹...",
-  "ENDING_I_KEEP_SEEING_YOUR_ACCOUNT_ONLINE_AND_OFFLINE": "我看你刚刚一直在上线下线",
-  "ENDING_IVE_BEEN_MESSAGING_YOU_EVERY_YEAR": "你消失后的每年我都在给你发消息，希望有哪天你能回复。",
+  "ENDING_I_KEEP_SEEING_YOUR_ACCOUNT_ONLINE_AND_OFFLINE": "我看你刚刚在不停上线下线",
+  "ENDING_IVE_BEEN_MESSAGING_YOU_EVERY_YEAR": "你消失后，我每年都在给你发消息，希望有哪天你能回复。",
   "ENDING_I_VISITED_YOU_TODAY": "我今天来你家了，在门口留了几束花，还有一罐口香糖。",
   "ENDING_I_DECIDED_THAT_ITS_TIME_TO_MOVE_ON": "我决定是时候从幻想中走出来了。",
   "ENDING_YOURE_NOT_COMING_BACK_ARE_YOU_LIZ": "莉兹，你真的抛下我们了对吗？",
@@ -636,23 +636,23 @@
   "CLICK_TO_REPLAY": "点击以再次游玩",
 
   // April 23, additional lines:
-  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "Something in the door changes... You've done something, or part of something...",
-  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "The door unlocks.",
+  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "大门的内部结构发生了变化...你解开了谜题，或是部分谜题...",
+  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "大门已解锁。",
 
   // June 24
-  "ORION_IS_TYPING": "__orion__ is typing...",
-  "SCROLL_TO_TOP": "Scroll to Top",
+  "ORION_IS_TYPING": "__俄里翁__ 正在打字...",
+  "SCROLL_TO_TOP": "返回顶部",
   "SERVERS_EMPTY": "空置",
-  "SERVERS_UPLOAD": "点击此处上传你的作品",
-  "SERVERS_USER_WORLD": "<用户上传>",
-  "SERVERS_HOUSE_OF_BAPHOMET_LINE_1": "魔鬼",
-  "SERVERS_HOUSE_OF_BAPHOMET_LINE_2": "之家",
+  "SERVERS_UPLOAD": "点击此处上传你的世界",
+  "SERVERS_USER_WORLD": "<用户世界>",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_1": "巴风特",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_2": "之宅",
 
   "TRIBUTES_BOND_LINE_1": "与谁的",
   "TRIBUTES_BOND_LINE_2": "羁绊最得",
   "TRIBUTES_BOND_LINE_3": "你信任?",
 
-  "TRIBUTES_UNREQUITED_LINE_1": "谁代表着",
+  "TRIBUTES_UNREQUITED_LINE_1": "谁是",
   "TRIBUTES_UNREQUITED_LINE_2": "你求而不",
   "TRIBUTES_UNREQUITED_LINE_3": "得的渴望?",
 
