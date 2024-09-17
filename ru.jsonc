@@ -695,6 +695,23 @@
   "TRIBUTES_FATE_LINE_2": "творец",
   "TRIBUTES_FATE_LINE_3": "своей судьбы?",
 
+  // June 27
+  "VIDEO_CALL_INCOMING_CALL": "Входящий звонок",
+  "CONSCIOUSNESS_TRIANGULATION": "Триангуляция Сознания",
+  "ENDING_POPUP_OFFLINE": "Не в сети",
+
+  "SETTINGS_TITLE": "Настройки",
+  "SETTINGS_FULLSCREEN": "Полный экран",
+  "SETTINGS_MASTER_VOLUME": "Общая громкость",
+  "SETTINGS_SFX_VOLUME": "Громкость звуков",
+  "SETTINGS_MUSIC_VOLUME": "Громкость музыки",
+  "SETTINGS_LANGUAGE": "Язык",
+  "SETTINGS_DELETE_SAVE": "Удалить сохранение",
+  "SETTINGS_QUIT_GAME": "Выйти из игры",
+
+  "OTHER_WORLD_CANDLES": "<system> Три свечи... но как зажечь их?",
+  "OTHER_WORLD_DOOR_PUZZLE_FRAME_KNOCK": "<system> Дверь слишком толста, чтобы через неё прошёл шум от ваших рук. Возможно, вы можете воспользоваться дверными кольцами.",
+
   // Ignore this last line, it's so each line can have a comma at the end.
   "": null
 }
