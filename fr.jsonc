@@ -629,8 +629,8 @@
   "CLICK_TO_REPLAY": "Cliquez pour Rejouer Depuis le Début",
 
   // April 23, additional lines:
-  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "Something in the door changes... You've done something, or part of something...",
-  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "The door unlocks.",
+  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "<système> Something in the door changes... You've done something, or part of something...",
+  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "<système> The door unlocks.",
 
   // June 24
   "ORION_IS_TYPING": "__orion__ is typing...",

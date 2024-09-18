@@ -621,8 +621,8 @@
   "CLICK_TO_REPLAY": "Quay lại từ đầu",
 
   // April 23, additional lines:
-  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "Một thứ gì đó ở cửa đã thay đổi... Bạn đã làm gì đó, hoặc một phần của thứ gì đó...",
-  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "Cửa đã mở",
+  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "<system> Một thứ gì đó ở cửa đã thay đổi... Bạn đã làm gì đó, hoặc một phần của thứ gì đó...",
+  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "<system> Cửa đã mở",
 
   // Ignore this last line, it's so each line can have a comma at the end.
   "": null
