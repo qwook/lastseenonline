@@ -639,8 +639,8 @@
   "CLICK_TO_REPLAY": "最初からやり直す",
 
   // April 23, additional lines:
-  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "扉の中の何かが変わる...あなたは何かをした......あるいは何かの...一部をした...。",
-  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "扉は開かれた。",
+  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "<system> 扉の中の何かが変わる...あなたは何かをした......あるいは何かの...一部をした...。",
+  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "<system> 扉は開かれた。",
 
   // June 24
   "ORION_IS_TYPING": "__orion__ が入力中...",

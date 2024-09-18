@@ -671,8 +671,8 @@
   "CLICK_TO_REPLAY": "Нажмите, чтобы Начать с Начала",
 
   // April 23, additional lines:
-  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "Что-то в двери меняется... Ты что-то сделал, или часть чего-то...",
-  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "Дверь открывается.",
+  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "<system> Что-то в двери меняется... Ты что-то сделал, или часть чего-то...",
+  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "<system> Дверь открывается.",
 
   // June 24
   "ORION_IS_TYPING": "__orion__ печатает...",

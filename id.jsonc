@@ -636,8 +636,8 @@
   "CLICK_TO_REPLAY": "Klik untuk Memutar Ulang dari Awal",
 
   // April 23, additional lines:
-  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "Ada sesuatu di pintu yang berubah... Kamu telah melakukan sesuatu, atau bagian dari sesuatu...",
-  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "Pintunya terbuka.",
+  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "<sistem> Ada sesuatu di pintu yang berubah... Kamu telah melakukan sesuatu, atau bagian dari sesuatu...",
+  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "<sistem> Pintunya terbuka.",
 
   // June 24
   "ORION_IS_TYPING": "__orion__ is typing...",

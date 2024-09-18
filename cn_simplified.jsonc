@@ -636,8 +636,8 @@
   "CLICK_TO_REPLAY": "点击以再次游玩",
 
   // April 23, additional lines:
-  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "大门的内部结构发生了变化...你解开了谜题，或是部分谜题...",
-  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "大门已解锁。",
+  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "<系统> 大门的内部结构发生了变化...你解开了谜题，或是部分谜题...",
+  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "<系统> 大门已解锁。",
 
   // June 24
   "ORION_IS_TYPING": "__俄里翁__ 正在打字...",

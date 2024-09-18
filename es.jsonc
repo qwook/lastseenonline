@@ -634,8 +634,8 @@
   "CLICK_TO_REPLAY": "Haz click para jugar desde el principio",
 
   // April 23, additional lines:
-  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "Algo en la puerta cambia... Has hecho algo, o parte de algo...",
-  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "La puerta se abrió.",
+  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "<sistema> Algo en la puerta cambia... Has hecho algo, o parte de algo...",
+  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "<sistema> La puerta se abrió.",
 
   // June 24
   "ORION_IS_TYPING": "__orion__ está escribiendo...",

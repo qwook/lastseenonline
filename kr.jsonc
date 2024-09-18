@@ -631,8 +631,8 @@
   "CLICK_TO_REPLAY": "처음부터 다시 시작하려면 누르세요",
 
   // April 23, additional lines:
-  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "문이 어딘가 달라졌습니다... 무언가 달성했거나, 그 일부를 수행한 것이겠지요...",
-  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "문이 열립니다.",
+  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "<system> 문이 어딘가 달라졌습니다... 무언가 달성했거나, 그 일부를 수행한 것이겠지요...",
+  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "<system> 문이 열립니다.",
   // June 24
   "ORION_IS_TYPING": "__orion__ 이 입력 중...",
   "SCROLL_TO_TOP": "상단 이동",
