@@ -660,6 +660,23 @@
   "TRIBUTES_FATE_LINE_2": "你命运",
   "TRIBUTES_FATE_LINE_3": "唯一的主宰?",
 
+  // June 27
+  "VIDEO_CALL_INCOMING_CALL": "通话请求",
+  "CONSCIOUSNESS_TRIANGULATION": "意识量度",
+  "ENDING_POPUP_OFFLINE": "离线",
+
+  "SETTINGS_TITLE": "设置",
+  "SETTINGS_FULLSCREEN": "全屏模式",
+  "SETTINGS_MASTER_VOLUME": "主音量",
+  "SETTINGS_SFX_VOLUME": "音效音量",
+  "SETTINGS_MUSIC_VOLUME": "音乐音量",
+  "SETTINGS_LANGUAGE": "语言",
+  "SETTINGS_DELETE_SAVE": "暂停游玩并删除存档",
+  "SETTINGS_QUIT_GAME": "退出游戏",
+
+  "OTHER_WORLD_CANDLES": "<系统> 三支蜡烛...该如何将其点亮？",
+  "OTHER_WORLD_DOOR_PUZZLE_FRAME_KNOCK": "<系统> 门板过于厚重，用手根本拍不出声音，或许可以走近敲击门环试试。",
+
   // Ignore this last line, it's so each line can have a comma at the end.
   "": null
 }
