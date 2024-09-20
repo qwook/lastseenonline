@@ -1,5 +1,5 @@
 {
-  "NAME": "українська",
+  "NAME": "Українська",
   "FONT_FAMILY": "PixeloidSans, PixelArial11, MadouFutoMaruGothic",
   "TITLE_SPACING": 1.0,
   "TITLE_TEXT": "востаннє в мережі",
@@ -625,12 +625,12 @@
   // Please don't put a virus here :(
   "CREDITS": [
     {
-      "name": "Discord",
+      "name": "Допомогти з перекладом (Discord)",
       "website": "https://discord.com/channels/1183870459687743590/1256008114075865142"
     },
-    { "name": "Nick", "website": "https://koteika-nik.itch.io/" },
-    { "name": "Nick", "website": "mr.magnifikent (discord)" },
-    { "name": "imnuclearimwild", "website": "" }
+    { "name": "koteika-nik", "website": "https://koteika-nik.itch.io/" },
+    { "name": "mr.magnifikent", "website": "mr.magnifikent (discord)" },
+    { "name": "imnuclearimwild", "website": "https://github.com/imnuclearimwild" }
     // Optional website.
   ],
 
@@ -656,6 +656,23 @@
   "TRIBUTES_FATE_LINE_1": "хто",
   "TRIBUTES_FATE_LINE_2": "керує твоєю",
   "TRIBUTES_FATE_LINE_3": "долею?",
+
+  // June 27
+  "VIDEO_CALL_INCOMING_CALL": "Вхідний дзвінок",
+  "CONSCIOUSNESS_TRIANGULATION": "Тріангуляція Свідомості",
+  "ENDING_POPUP_OFFLINE": "Не в мережі",
+
+  "SETTINGS_TITLE": "Налаштування",
+  "SETTINGS_FULLSCREEN": "Повний екран",
+  "SETTINGS_MASTER_VOLUME": "Загальна гучність",
+  "SETTINGS_SFX_VOLUME": "Гучність звуків",
+  "SETTINGS_MUSIC_VOLUME": "Гучність музики",
+  "SETTINGS_LANGUAGE": "Мова",
+  "SETTINGS_DELETE_SAVE": "Видалити збереження",
+  "SETTINGS_QUIT_GAME": "Вийти з гри",
+
+  "OTHER_WORLD_CANDLES": "<system> Три свічки... але як запалити їх?",
+  "OTHER_WORLD_DOOR_PUZZLE_FRAME_KNOCK": "<system> Двері надто товсті, щоб через неї пройшов шум від ваших рук. Можливо, ви можете користуватися дверними кільцями.",
 
   // Ignore this last line, it's so each line can have a comma at the end.
   "": null
