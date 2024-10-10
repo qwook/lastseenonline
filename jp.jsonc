@@ -459,7 +459,7 @@
   "VIDEO_CALL_ACCEPT": "承諾",
   "VIDEO_CALL_DECLINE": "拒否",
   "VIDEO_CALL_CONNECTING": "<b>__orion__</b>  が通話に接続しています。お待ち下さい。",
-  "VIDEO_CALL_CAMERA_ON": "カメラ：オン",
+  "VIDEO_CALL_CAMERA_ON": "カメラオン",
   "VIDEO_CALL_END_CALL": "通話終了",
   "VIDEO_CALL_MUTE": "ミュート",
   "OTHER_WORLD_CHAT_WELCOME": "<system> OtherWorldにようこそ！ 矢印をクリックして、この世界を探索してください！ 周りに特殊なオブジェクトがいくつも存在します！ クリックしてみてください！ 楽しんで！！",
