@@ -13,7 +13,7 @@
   "INTRO_TEXT_2": " さっそく起動してみましょう。 ",
   "CONTINUE_BUTTON": "次へ",
   "PASSWORD_TEXT": "パスワードを入力",
-  "PASSWORD_HINT": "ヒント: ふわふわな男の子の名前と私の誕生日",
+  "PASSWORD_HINT": "ヒント: ふわふわ男の子の名前と私の生まれた年",
   // Optional:
   "LOGGING_IN": "ログインしています。",
   // Optional:
@@ -86,7 +86,7 @@
   "SCOTT_CHATLOG": [
     "<SCOTT>: こんにちは。Other Worldにいたscottだよ。僕を追加したい？",
     "<LIZ>: もちろん！！ それで、あなたが言っていた...儀式について考えていたんだけど、この世から消えるために使える？",
-    "<SCOTT>: あー、バフォメットの儀式ね。もちろん。宇宙のコナミコードとでも表現しようかな。この世から消えることはないけど...。でも、コードで...あなたの意識を...悟りへと導く...永遠に...。",
+    "<SCOTT>: あー、バフォメットの儀式ね。もちろん。宇宙のコナミコマンドとでも表現しようかな。この世から消えることはないけど...。でも、コードで...あなたの意識を...悟りへと導く...永遠に...。",
     "<LIZ>: うーん..わかった。あとあなたは、私の飼ってる犬と同じ名前だね。ははは！",
     "<SYSTEM>: scottNJ は現在オフラインです。",
     "<SYSTEM>: scottNJ は現在オンラインです。",
@@ -110,7 +110,7 @@
   ],
   "EMMBER_CHATLOG": [
     "<LIZ>: あぁ～～～lawsonかわいすぎ！！",
-    "<EMMBER>:  どうして彼に伝えないの！！！！",
+    "<EMMBER>:  どうして彼に伝えないの！！",
     "<LIZ>: 私じゃむりだよ...かわいくないし。",
     "<EMMBER>: なんで笑！！ とってもかわいいのに......。",
     "<LIZ>: ママが言うんだ、私の鼻はママのじゃないって。私のはパパと同じでっかい鼻！ 嫌い！",
@@ -139,8 +139,8 @@
     "<LIZ>: 歌詞を聞いて！！",
     "<EMMBER>:おぉぉぉ、最高にかっこいい！！",
     "<EMMBER>: えっ！！ このlawsonの写真は？？",
-    "<LIZ>: まって、それは間違えた！！！",
-    "<EMMBER>: ......変な写真だね。",
+    "<LIZ>: まって！！！ 間違えた！！！！！",
+    "<EMMBER>: ......あとは変な写真だけだね。",
     "<LIZ>: 興味ある？",
     "<SYSTEM>: xXemmberXx86 は現在オフラインです。",
     "<SYSTEM>: xXemmberXx86 は現在オンラインです。",
@@ -187,13 +187,13 @@
   "VISUAL_NOVEL_ILL_TRY_TO_REMEMBER": "思い出してみます。",
   "VISUAL_NOVEL_I_DONT_REMEMBER": "思い出せないです...。",
   "VISUAL_NOVEL_THAT_S_OKAY_TAKE_YOUR_TIME": "大丈夫だ。のんびり待つよ。",
-  "VISUAL_NOVEL_OKAY": "わかった。",
+  "VISUAL_NOVEL_OKAY": "わかりました。",
   "VISUAL_NOVEL_SO_REMIND_ME_WHAT_HAPPENED": "では早速。最初に何をする？",
   "VISUAL_NOVEL_THAT_MIGHT_BE_RIGHT_THAT_MIGHT_BE_WRONG_WHAT_NEXT": "正解かどうかは教えない。次は？",
   "VISUAL_NOVEL_OK_COULD_BE_WHAT_HAPPENED_BUT_I_WONT_TELL_YOU_WHAT_THEN": "ふ～ん...何をしたかかは教えないけど、次は？",
   "VISUAL_NOVEL_AND_FINALLY": "最後に？",
   "VISUAL_NOVEL_WE_BLESSED_THE_STATUE": "石像を崇拝する。",
-  "VISUAL_NOVEL_WE_LIT_CANDLES_FOR_OUR_TRIBUTES": "捧げ物へキャンドルを灯す。",
+  "VISUAL_NOVEL_WE_LIT_CANDLES_FOR_OUR_TRIBUTES": "捧げ物にキャンドルを灯す。",
   "VISUAL_NOVEL_WE_GAZED_UPON_THE_FOUNTAIN": "噴水を見つめる。",
   "VISUAL_NOVEL_WE_FOUGHT_THE_LOST_BOYS": "迷子の少年たちと戦う。",
   "VISUAL_NOVEL_WE_RESPECTED_THE_FOUR_FALLEN": "4人の亡き人へ敬意を表す。",
@@ -459,7 +459,7 @@
   "VIDEO_CALL_ACCEPT": "承諾",
   "VIDEO_CALL_DECLINE": "拒否",
   "VIDEO_CALL_CONNECTING": "<b>__orion__</b>  が通話に接続しています。お待ち下さい。",
-  "VIDEO_CALL_CAMERA_ON": "あなたのカメラは現在オンになっています。",
+  "VIDEO_CALL_CAMERA_ON": "カメラオン",
   "VIDEO_CALL_END_CALL": "通話終了",
   "VIDEO_CALL_MUTE": "ミュート",
   "OTHER_WORLD_CHAT_WELCOME": "<system> OtherWorldにようこそ！ 矢印をクリックして、この世界を探索してください！ 周りに特殊なオブジェクトがいくつも存在します！ クリックしてみてください！ 楽しんで！！",
@@ -611,7 +611,7 @@
   "ENDING_TASK_MANAGER_USAGE": "使用率",
 
   // Final Error Message
-  "ERROR_REPORT_OTHER_WORLD_HAS_ENCOUNTERED_A_PROBLEM": "Other Worldに問題が発生したため、終了されました。　　　　　　　　ご迷惑をおかけし、大変申し訳ございません。",
+  "ERROR_REPORT_OTHER_WORLD_HAS_ENCOUNTERED_A_PROBLEM": "Other Worldに問題が発生したため、終了されました。　　　　　　　　　　　　ご迷惑をおかけし、大変申し訳ございません。",
   "ERROR_REPORT_IF_YOU_WERE_IN_THE_MIDDLE_OF_SOMETHING": "もし何かの作業中だった場合、保存していないデータは失われる可能性があります。",
   "ERROR_REPORT_PLEASE_TELL_OTHER_WORLD_ABOUT_THIS_PROBLEM": "この問題をOther Worldに報告してください。",
   "ERROR_REPORT_WE_HAVE_CREATED_AN_ERROR_REPORT": "エラーレポートを作成しました。この報告書は機密扱いとし、匿名で送信されます。",
@@ -662,6 +662,23 @@
   "TRIBUTES_FATE_LINE_1": "　",
   "TRIBUTES_FATE_LINE_2": "運命を決める人",
   "TRIBUTES_FATE_LINE_3": "　",
+
+  // June 27
+  "VIDEO_CALL_INCOMING_CALL": "着信",
+  "CONSCIOUSNESS_TRIANGULATION": "意識の三角測量",
+  "ENDING_POPUP_OFFLINE": "オフライン",
+
+  "SETTINGS_TITLE": "設定",
+  "SETTINGS_FULLSCREEN": "フルスクリーン",
+  "SETTINGS_MASTER_VOLUME": "Master Volume",
+  "SETTINGS_SFX_VOLUME": "SFX Volume",
+  "SETTINGS_MUSIC_VOLUME": "Music Volume",
+  "SETTINGS_LANGUAGE": "Language",
+  "SETTINGS_DELETE_SAVE": "セーブ消去",
+  "SETTINGS_QUIT_GAME": "ゲーム終了",
+
+  "OTHER_WORLD_CANDLES": "<system> 3本の蝋燭... いかにして火を灯す？",
+  "OTHER_WORLD_DOOR_PUZZLE_FRAME_KNOCK": "<system> 分厚いドアだ。手だけでは、まともな音を出すことができない。ドアノッカーを使うと良い。",
 
   // Ignore this last line, it's so each line can have a comma at the end.
   "": null
