@@ -13,7 +13,7 @@
   "INTRO_TEXT_2": " さっそく起動してみましょう。 ",
   "CONTINUE_BUTTON": "次へ",
   "PASSWORD_TEXT": "パスワードを入力",
-  "PASSWORD_HINT": "ヒント: ふわふわ男の子の名前と私の生まれた年",
+  "PASSWORD_HINT": "ヒント: もこもこな男の子の名前と私の生まれた年",
   // Optional:
   "LOGGING_IN": "ログインしています。",
   // Optional:
@@ -26,9 +26,9 @@
   "DESKTOP_SHORTCUT_OTHER_WORLD": "Other World",
   "DESKTOP_SHORTCUT_ZIP": "photos4em.zip",
   "UNZIPPER_TITLE": "UnZipper - photos4em.zip",
-  "UNZIPPER_TEXT": "ファイルはパスワードで保護されています。　　　　　　　　　　4桁の数字を半角で入力してください。",
+  "UNZIPPER_TEXT": "ファイルはパスコードで保護されています。　　　　　　　　　　4桁の数字を半角で入力してください。",
   "UNZIPPER_UNLOCK_BUTTON": "解除",
-  "UNZIPPER_INCORRECT_PASSWORD": "パスワードが違います。もう一度お試しください。",
+  "UNZIPPER_INCORRECT_PASSWORD": "パスコードが違います。もう一度お試しください。",
   // Optional:
   "BUDDYLIST_SIGN_ON": "サインイン",
   // Optional:
@@ -80,7 +80,7 @@
     "<LAWSON>: 私たちが目指していた学校に合格しました♡",
     "<SYSTEM>: aznL4ws0n は現在オフラインです。",
     "<SYSTEM>: aznL4ws0n は現在オンラインです。",
-    "<LAWSON>: 今日、犬を見たんだ。スコッティによく似ていたよ！！",
+    "<LAWSON>: 今日、犬を見たんだ。scottyによく似ていたよ！！",
     "<SYSTEM>: aznL4ws0n は現在オフラインです。"
   ],
   "SCOTT_CHATLOG": [
@@ -155,15 +155,15 @@
     "<LIZ>: いつか、私も同じようにクールな世界を作ってみせる。",
     "<ORION>: ははは、そうかい。",
     "<ORION>: そうそう、こんなものを見つけた: RED_HERRING_EXE",
-    "<LIZ>: なになに？？ other worldの話？？？",
+    "<LIZ>: なになに？？ other worlの話？？？",
     "<ORION>: ただのアートプロジェクトだよ、 ゲームとは関係ないと思う。",
     "<SYSTEM>: __orion__ は現在オフラインです。",
     "<SYSTEM>: __orion__ は現在オンラインです。",
-    "<ORION>: other worldのチャットで/infoって打ってみた？ オンラインになってからの時間が表示されるよ。",
+    "<ORION>: Other Worldのチャットで/infoって打ってみた？ オンラインになってからの時間が表示されるよ。",
     "<LIZ>: あー、恥ずかしい......849時間...",
     "<SYSTEM>: __orion__ は現在オフラインです。",
     "<SYSTEM>: __orion__ は現在オンラインです。",
-    "<ORION>: うまくいった！ 今すぐ異世界に行こう！！！",
+    "<ORION>: うまくいった！ 今すぐOther Worldに行こう！！！",
     "<SYSTEM>: __orion__ は現在オフラインです。",
     "<SYSTEM>: __orion__ は現在オンラインです。"
   ],
@@ -177,14 +177,14 @@
   "VISUAL_NOVEL_CAN_YOU_REMIND_ME_WHO_THIS_IS": "誰ですか？",
   "VISUAL_NOVEL_ITS_ORION_WE_USED_TO_BE_GOOD_FRIENDS_IM_SURPRISED_YOU_DONT_REMEMBER_ME_THATS_FINE": "ほら、親友のorionだよ！ 僕を覚えていないとは驚いた！",
   "VISUAL_NOVEL_ANYTHING_I_CAN_HELP_YOU_WITH": "なにか困ってることはある？",
-  "VISUAL_NOVEL_DO_YOU_KNOW_THE_PASSCODE_FOR_PHOTOS4EMZIP": "photos4em.zipのパスワードを知っていますか？",
-  "VISUAL_NOVEL_HMM_I_DONT_REMEMBER_TRY_DIGGING_THROUGH_YOUR_OLD_CHATLOGS_MAYBE_YOU_SENT_IT_TO_SOMEONE": "うーん...わかんないな。昔のチャットログを探ってみて。もしかしたら、誰かに送ってるかも。",
+  "VISUAL_NOVEL_DO_YOU_KNOW_THE_PASSCODE_FOR_PHOTOS4EMZIP": "photos4em.zipのパスコードを知っていますか？",
+  "VISUAL_NOVEL_HMM_I_DONT_REMEMBER_TRY_DIGGING_THROUGH_YOUR_OLD_CHATLOGS_MAYBE_YOU_SENT_IT_TO_SOMEONE": "うーん...わからないな。昔のチャットログを探ってみて。もしかしたら、誰かに送ってるかも。",
   "VISUAL_NOVEL_OKAY_ILL_TRY_THAT_OUT": "わかりました...試してみます。",
   "VISUAL_NOVEL_WHATS_OTHER_WORLD": "Other Worldってなんですか？",
   "VISUAL_NOVEL_YOU_GOTTA_BE_JOKING_YOU_DONT_REMEMBER_ITS_THE_GAME_WE_PLAYED_WHEN_WE_WERE_KIDS_ARE_YOU_SURE_THIS_IS_LIZ": "ふざけてる？ 本当に覚えてないの？ 子供の頃の遊び。え、lizだよね？",
   "VISUAL_NOVEL_YES_IM_SURE_HOW_DO_I_GET_IN": "もちろんlizです...。どうすればログインできますか？",
   "VISUAL_NOVEL_JUST_TO_MAKE_SURE_YOU_ARE_WHO_YOU_SAY_YOU_ARE_CAN_YOU_TELL_ME_THE_ORDER_OF_THE_FOUR_EVENTS_DURING_OUR_FINAL_RITUAL": "わかった。本物のlizなのか、念のために確認する...。儀式の手順を4つ教えて。",
-  "VISUAL_NOVEL_ILL_TRY_TO_REMEMBER": "思い出してみます。",
+  "VISUAL_NOVEL_ILL_TRY_TO_REMEMBER": "思い出してみます...。",
   "VISUAL_NOVEL_I_DONT_REMEMBER": "思い出せないです...。",
   "VISUAL_NOVEL_THAT_S_OKAY_TAKE_YOUR_TIME": "大丈夫だ。のんびり待つよ。",
   "VISUAL_NOVEL_OKAY": "わかりました。",
@@ -202,8 +202,8 @@
   "VISUAL_NOVEL_SURE_TAKE_YOUR_TIME_YOU_CAN_PROBABLY_FIND_SOMETHING_ON_YOUR_COMPUTER_TO_HELP_YOU_REFRESH_YOUR_MEMORY": "のんびり待つよ。パソコンで何か見つけたら、思い出せるかもしれないからね。",
   "VISUAL_NOVEL_THANKS_ILL_TRY_AGAIN": "すみません...少しあとに後にまたお願いします。",
   "VISUAL_NOVEL_I_DONT_THINK_THATS_IT": "間違ってるね...。",
-  "VISUAL_NOVEL_HMM_OKAY_I_BELIEVE_U_FOR_NOW_YOU_NEED_TO_REGISTER_A_NEW_ACCOUNT_THE_INVITE_CODE_IS_NEVERLAND": "うーん...わかった。lizだって信じることにするよ。とりあえず、新しいアカウントを作る必要がある。招待コードは、{0} だよ。",
-  "VISUAL_NOVEL_HMM_HEY_LIZ_IMMA_BRB": "あー...こんにちは、liz...ちょっと失礼する。またすぐ戻るよ。",
+  "VISUAL_NOVEL_HMM_OKAY_I_BELIEVE_U_FOR_NOW_YOU_NEED_TO_REGISTER_A_NEW_ACCOUNT_THE_INVITE_CODE_IS_NEVERLAND": "うーん...わかった。lizだって信じることにするよ。とりあえず、新しいアカウントを作る必要がある。招待コマンドは、{0} だよ。",
+  "VISUAL_NOVEL_HMM_HEY_LIZ_IMMA_BRB": "あー...久しぶり、liz...ちょっと離席する。またすぐ戻るよ。",
   "LYRICS_1": [
     {
       "start": "0:00:46",
@@ -229,7 +229,7 @@
   "LYRICS_2": [
     {
       "start": "0:00:40",
-      "lyric": "two handss holding on to the same"
+      "lyric": "two hands holding on to the same"
     },
     {
       "start": "0:05:57",
@@ -438,7 +438,7 @@
     "9/5 lawsonの車でkevの墓参りに行ったことを知ったママは、ひどく怒った。ママはバカみたいなカタコトで私にこう言ったんだ。犯罪者！あなたが生まれたせいでママは美しくなくなったの！せめて良い子でいなさい！って、私は放課後遅くまで図書館のパソコン室にいた。orionに吐き出した。家に帰り、自分の部屋に入った。 ママは黙っていて、何も言わなかった。",
     "9/6 昨日、捜索願を出された。ママが警察に電話したんだ！！！ 今日も！！ ドラッグを使ってるから逮捕しろって言ってきた！！ ふざけないでよ！！！！！！",
     "9/13 パソコン、ごめんね...数日ぶり...家出しちゃって...今週はemのところで過ごしたんだ。emはすごくいい友達。emのお母さんが私のママに電話してくれたんだ。 私とママは話すことになった。ママは私が好きな中華料理屋に連れて行ってくれて、ハニーウォールナッツシュリンプを食べた。ママは、一人で子育てをするのがどんなに大変か、どうしたらいいかわからないって言ってた...ママのことを理解できるときもあるけど...たいていは理解できないんだ...ママは時々、本当に変なことを言うんだ...ママは私のことを愛しているし、私に立派に育ってほしいって思ってるのはわかるよ...ママのことは大好きだし...どこか抜けているところも、大好きだよ...。でも、ママは意地悪なことばかり言う。",
-    "10/13 ママはおばあちゃんのところに行ってるから、授業はサボった。oroinがハロウィンのために怖いマンガを送ってくれた。昨夜は連続殺人犯の話を調べるのに夢中になった。他に、scottを紹介してくれた。近いうちに2人を訪ねてみる。",
+    "10/13 ママはおばあちゃんのところに行ってるから、授業はサボった。orionがハロウィンのために怖いマンガを送ってくれた。昨夜は連続殺人犯の話を調べるのに夢中になった。他に、scottを紹介してくれた。近いうちに2人を訪ねてみる。",
     "10/31 この世界から消えたくない...もしあなたが私の側にいないなら...。"
   ],
   "OTHER_WORLD_LOGIN": "ログイン",
