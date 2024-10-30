@@ -1,0 +1,699 @@
+// I've documented a couple things here.
+// You don't have to translate everything, but I included
+// as much as I can just in case.
+{
+  "NAME": "Esperanto",
+  "FONT_FAMILY": "PixelArial11, MadouFutoMaruGothic, PixeloidSans",
+  "TITLE_SPACING": 1.0,
+  "TITLE_TEXT": "laste ensalutinte",
+  // INTRO_TEXT_1 and INTRO_TEXT_2 ideally should have the same
+  // letters as TITLE_TEXT but it's okay if not.
+  // I will program in a way for it to work without.
+  "INTRO_TEXT_1": "vi trovis malnovan komputilon ĉe garaĝvendo.",
+  "INTRO_TEXT_2": "do vi decidis ŝalti ĝin.",
+  "CONTINUE_BUTTON": "daŭrigi",
+  "PASSWORD_TEXT": "Pasvorto:",
+  "PASSWORD_HINT": "Konsileto: La nomo de la besteto kaj la jaro de mia naskiĝo",
+  // Optional:
+  "LOGGING_IN": "ensalutado...",
+  // Optional:
+  "WELCOME_BACK": "bonrevenon...",
+  "DESKTOP_SHORTCUT_BUDDYLIST": "Listo de geamikoj",
+  // Don't change LoseAmp Player name.
+  // Kept here for consistency.
+  "DESKTOP_SHORTCUT_LOSEAMP_PLAYER": "LoseAmp Player",
+  "DESKTOP_SHORTCUT_OTHER_WORLD": "Alia Mondo",
+  "DESKTOP_SHORTCUT_ZIP": "fotojporem.zip",
+  "UNZIPPER_TITLE": "UnZipper - fotojporem.zip",
+  "UNZIPPER_TEXT": "Tiu ĉi ZIP-dosiero estas protektita per kvar-cifera ĉifro.",
+  "UNZIPPER_UNLOCK_BUTTON": "Malŝlosi",
+  "UNZIPPER_INCORRECT_PASSWORD": "Malĝusta pasvorto. Provu denove.",
+  // Optional:
+  "BUDDYLIST_SIGN_ON": "Ensaluti",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_1": "1. Usado de savita pasvorto...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_2": "2. Konektado...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_3": "3. Komencado de servoj...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_4": "4. Konektita.",
+  "BUDDYLIST_CHAT_WINDOW_TITLE": "{0} - Babilejo",
+  "USER_IS_OFFLINE": "Tiu ĉi uzanto estas malkonektita, esperu ĝis ri revenas.",
+  // <LIZ> colors the line of chat blue.
+  // <SYSTEM> colors the line of chat gray.
+  // <...ANYTHING ElSE> colors the line of chat red.
+  "LAWSON_CHATLOG": [
+    "<LAWSON>: salutooon :) kiel iras via tago?",
+    "<LIZ>: ĝi iras bone",
+    "<LAWSON>: ĉu nur bone?? kion vi faras?",
+    "<LIZ>: malmulte!! mi nur aŭskultas muzikon kaj ludas vvideoludojn.. kio pri vi??",
+    "<LAWSON>: nur bone iras mia tago ankaŭ... mi baldaŭ devas studi por la ekzameno de algebro por ke mia patrino ne mortigu miiiin",
+    "<LIZ>: ho mia dio, via patrino riproĉis vin lastfoje, ĉu ne?",
+    "<LAWSON>: jes... sed mi kredas ke mi povas fari ĝin pli bone ĉi-foje",
+    "<LIZ>: :((( vi provas kiel eble plej bone!! ne lasu ŝin malfeliĉigi vin. mia patrino ĉagrenas min lastatempe ankaŭ...",
+    "<LAWSON>: ĉu ankaŭ vi??? sciigu min!!",
+    "<LIZ>: ŝi diradas ke mi ege similas al mia patro... sed ne estas mia kulpo ke li forlasis ŝin.... ĉiutage nur estas kriado.. mi ne estas sufiĉa...",
+    "<LAWSON>: ho ve, estas malfacile... pasis iom da tempo edke kiam mi vidis mian patron ankaŭ.. mi scivolas kiel fartas li...",
+    "<LAWSON>: mi devas iri, sed mi vere ĝuas paroli kun vi... bonan nokton!!",
+    "<SYSTEM>: aznL4ws0n nun estas malkonektita",
+    "<SYSTEM>: aznL4ws0n nun estas konektita",
+    "<LAWSON>: he ĉu ankoraŭ vi finis la hejmtaskon de algebro?",
+    "<SYSTEM>: aznL4ws0n nun estas malkonektita",
+    "<SYSTEM>: aznL4ws0n nun estas konektita",
+    "<LAWSON>: he estas onidiro pri vi en la lernejo, ĉu vi bonfartas?",
+    "<SYSTEM>: aznL4ws0n nun estas malkonektita",
+    "<SYSTEM>: aznL4ws0n nun estas konektita",
+    "<LAWSON>: mi scias ke vi ne volas paroli pri ĝi, sed mi nur volas esti certa ke vi fartas bone",
+    "<SYSTEM>: aznL4ws0n nun estas malkonektita",
+    "<SYSTEM>: aznL4ws0n nun estas konektita",
+    "<LAWSON>: mi sopiras vin",
+    "<SYSTEM>: aznL4ws0n nun estas malkonektita",
+    "<SYSTEM>: aznL4ws0n nun estas konektita",
+    "<LAWSON>: mi ĵus ricevis C+ en mia ekzameno de algebro :(",
+    "<SYSTEM>: aznL4ws0n nun estas malkonektita",
+    "<SYSTEM>: aznL4ws0n nun estas konektita",
+    "<LAWSON>: mi disputis kun mia patrino hodiaŭ, sed estas bone.. mi esperas ke vi bonfartas.",
+    "<SYSTEM>: aznL4ws0n nun estas malkonektita",
+    "<SYSTEM>: aznL4ws0n nun estas konektita",
+    "<LAWSON>: akceptis min la universitato de niaj revoj!<3",
+    "<SYSTEM>: aznL4ws0n nun estas malkonektita",
+    "<SYSTEM>: aznL4ws0n nun estas konektita",
+    "<LAWSON>: mi vidis hundon hodiaŭ. ĝi ege similis al scotty :)",
+    "<SYSTEM>: aznL4ws0n nun estas malkonektita"
+  ],
+  "SCOTT_CHATLOG": [
+    "<SCOTT>: saluton. mi estas scott, de Alia Mondo. vi deziris paroli kun mi, ĉu ne?",
+    "<LIZ>: jes!! (=^o^=) pri kio ni parolis. la rito.. mi pensis pri ĝi. ĝi helpos min foriri de tie ĉi, ĉu ne?",
+    "<SCOTT>: ho jes. the rito de bafometo. laŭ mi ĝi estas pli kiel la konami-ĉifro de la universo. ĝi ne helpos vin foriri, sed ĝi portos vian konscion.. vian kodon... en kleriĝon. mi povas montri al vi la eternecon.",
+    "<LIZ>: hmm bone ankaŭ vi havas la saman nomon kiel mia hundo hahahaha",
+    "<SYSTEM>: scottNJ nun estas malkonektita",
+    "<SYSTEM>: scottNJ nun estas konektita",
+    "<SCOTT>: ĉu vi ricevis mian ligilon en la ludo?",
+    "<LIZ>: ĉu tio ĉi??? ĉu vi certas ke ĝi funkcias???",
+    "<SCOTT>: vi estas tiu, kiu petis mian helpon. la vojo al eterna sankteco restas en ĝi. ĉu vi serĉas eternan feliĉon aŭ ne?",
+    "<SYSTEM>: scottNJ nun estas malkonektita",
+    "<SYSTEM>: scottNJ nun estas konektita",
+    "<SCOTT>: la procedo komencis, ĉu vi estas preta?",
+    "<LIZ>: jes... sed mi timas iomete",
+    "<SCOTT>: ne timu, etulo. ni renkontiĝos baldaŭ",
+    "<SYSTEM>: scottNJ nun estas malkonektita",
+    "<SYSTEM>: scottNJ nun estas konektita",
+    "<LIZ|CORRUPTED>: VI PROMESIS KE VI NE FORLASUS MIN"
+  ],
+  "ETERNALJUICE_CHATLOG": [
+    "<ETERNAL_JUICE>: aĝo/sekso/loko?",
+    "<LIZ>: mi nur havas 14 jarojn",
+    "<ETERNAL_JUICE>: la dolĉa nektaro de junec'. mi apenaŭ povas atendi vian aliĝon kun ni",
+    "<LIZ>: kio???"
+  ],
+  "EMMBER_CHATLOG": [
+    "<LIZ>: hhhaaa lawson estas tiel beleta :(:(:(:(:(",
+    "<EMMBER>: kial vi ne petas amrendevuon kun li!!!",
+    "<LIZ>: ne povas esti ke li ŝatas min... mi ne estas bela",
+    "<EMMBER>: kio mdr!! vi estas tre bela.....",
+    "<LIZ>: =.= mia patrino diras ke mi ne havas ŝian nazon, mi havas la grandan nazon de mia patro.! mi malamas ĝin",
+    "<EMMBER>: ne aŭskutu ŝin, vi estas beleeeega d(^_^)z",
+    "<LIZ>: mi nur volas forkuri emmmm... mi malamas la vidon sur la tero",
+    "<EMMBER>: hooo eĉ se lawson ne amas vin mi ĉiam amos vin!!! ĉiam plej bonaj amikinoj!!!",
+    "<SYSTEM>: xXemmberXx86 nun estas malkonektita",
+    "<SYSTEM>: xXemmberXx86 nun estas konektita",
+    "<LIZ>: mia patrino konfiskas mian komputilon. sed mi trovis manieron em.",
+    "<EMMBER>: pardonon mi studis. kio okazas?? via patrino estas tiel stranga!!",
+    "<SYSTEM>: xXemmberXx86 nun estas malkonektita",
+    "<SYSTEM>: xXemmberXx86 nun estas konektita",
+    "<EMMBER>: liz ni ne parolis dum 2 semajnoj, kion vi faris lastatempe??",
+    "<LIZ>: ho pardonon!! mi pasigis tempon kun kelkaj geamikoj kiujn mi renkontis en AliaMondo!!",
+    "<SYSTEM>: xXemmberXx86 nun estas malkonektita",
+    "<SYSTEM>: xXemmberXx86 nun estas konektita",
+    "<LIZ>: mi faris ĝin. mi eltrovis kiel foriri de tie ĉi eterne.",
+    "<EMMBER>: mdr kien vi iras? ĉu al parizo?",
+    "<LIZ>: mi sendis al vi la bildojn, ĉu vi ricevis ilin?",
+    "<LIZ>: ni faris tiujn ĉi procedojn por orion hieraŭ.. baldaŭ mi estos libera.",
+    "<EMMBER>: jes, la ZIP-dosiero, ĉu ne? sed ĝi havas 4-ciferan pasvorton.",
+    "<LIZ>: -_- estas 4 el miaj kantoj en mia ludlisto de LoseAmp!!",
+    "<EMMBER>: ho... mi ne komprenas.. vi havas 8 kantojn.",
+    "<LIZ>: ĉu vi ankoraŭ uzas vian 'ĉiam plej bonaj amikinoj'-<b>ekranfono</b>?? vi devas malfermi ĉiun fenestron krom LoseAmp!!! la ekranfono montros al vi la ordon.",
+    "<EMMBER>: O_O !! nekredeble!! ho mia dio <b>mi nur movis la fenestron tien.</b> bone, kion mi faru nun??",
+    "<LIZ>: aŭskultu la tekston!!",
+    "<EMMBER>: hooooOOo vi estas ege inteligenta ^_^",
+    "<EMMBER>: ho mia dio kial vi havas foton de lawson??",
+    "<LIZ>: NEEEe ESTIS AKCIDENTO!!!",
+    "<EMMBER>: ... tiuj ĉi bildoj estas strangaj...",
+    "<LIZ>: do ĉu vi interesiĝas?",
+    "<SYSTEM>: xXemmberXx86 nun estas malkonektita",
+    "<SYSTEM>: xXemmberXx86 nun estas konektita",
+    "<LIZ|CORRUPTED>: EMILY ĜI FUNKCIIS",
+    "<EMMBER>: kiu estas vi?",
+    "<LIZ|CORRUPTED>: ESTAS MI, LIZ!! ANKORAŬ MI LERNAS KIEL REGI TION ĈI",
+    "<EMMBER>: aŭskultu, mi ne scias pri kian fian ŝercon vi faras, sed ĝi vere estas sensenta fekaĵo. Mi baros vin."
+  ],
+  "ORION_CHATLOG": [
+    "<LIZ>: he ĉu vi vidis la novan mondon de Jenni??",
+    "<ORION>: jes ĝi estis tre mojosa. ŝi vere prilaboris ĝin longe.",
+    "<LIZ>: iam mi faros mondon tiel mojosan",
+    "<ORION>: haha eble",
+    "<ORION>: ho jes, rigardu tion kion mi trovis: RED_HERRING_EXE",
+    "<LIZ>: ho ŭaŭ?? ĉu tio estas de alia mondo???",
+    "<ORION>: ne, ĝi nur estas ia artaĵo, mi ne kredas ke ĝi rilatas al la ludo.",
+    "<SYSTEM>: __orion__ nun estas malkonektita",
+    "<SYSTEM>: __orion__ nun estas konektita",
+    "<ORION>: he ĉu vi provis tajpi /info en la babilejo de aliamondo?? ĝi montras al vi kiom longe vi ludis",
+    "<LIZ>: ho mia dio, estas embarase...... 849 horojn...",
+    "<SYSTEM>: __orion__ nun estas malkonektita",
+    "<SYSTEM>: __orion__ nun estas konektita",
+    "<ORION>: ĜI FUNKCIIS!!! ENSALUTU AL ALIA MONDO TUJ!!!",
+    "<SYSTEM>: __orion__ nun estas malkonektita",
+    "<SYSTEM>: __orion__ nun estas konektita"
+  ],
+  "VISUAL_NOVEL_HEY_IS_THIS_LIZ": "saluton?? ĉu liz???",
+  "VISUAL_NOVEL_YEAH_THIS_IS_LIZ": "jes.. mi estas liz...",
+  "VISUAL_NOVEL_OH_INTERESTING_SO_STRANGE_TO_SEE_YOU_HERE": "ho interese... estas tiel strange vidi vin...tie ĉi...",
+  "VISUAL_NOVEL_UM_YEAH_JUST_TOOK_A_LONG_BREAK": "nu jes, min nur faris longan paŭzon.",
+  "VISUAL_NOVEL_I_DONT_KNOW_WHAT_YOU_MEAN": "mi ne scias pri kio vi parolas...",
+  "VISUAL_NOVEL_WELL_GLAD_YOURE_BACK_IVE_MISSED_YOU": "nu. mi feliĉas pri via reveno. mi sopiris vin.",
+  "VISUAL_NOVEL_IVE_MISSED_YOU_TOO": "ankaŭ mi sopiris vin",
+  "VISUAL_NOVEL_CAN_YOU_REMIND_ME_WHO_THIS_IS": "ĉu vi povus memorigi min pri kiu vi estas?",
+  "VISUAL_NOVEL_ITS_ORION_WE_USED_TO_BE_GOOD_FRIENDS_IM_SURPRISED_YOU_DONT_REMEMBER_ME_THATS_FINE": "mi estas orion! ni estis bonaj geamikoj. suprizas min ke vi ne memoras min. sed estas bone!",
+  "VISUAL_NOVEL_ANYTHING_I_CAN_HELP_YOU_WITH": "ĉu mi povas helpi vin pri io?",
+  "VISUAL_NOVEL_DO_YOU_KNOW_THE_PASSCODE_FOR_PHOTOS4EMZIP": "ĉu vi scias la pasvorton de fotojporem.zip?",
+  "VISUAL_NOVEL_HMM_I_DONT_REMEMBER_TRY_DIGGING_THROUGH_YOUR_OLD_CHATLOGS_MAYBE_YOU_SENT_IT_TO_SOMEONE": "hmm... mi ne memoras ĝin, provu esplori viajn malnovajn konversaciojn. eble vi sendis ĝin al iu",
+  "VISUAL_NOVEL_OKAY_ILL_TRY_THAT_OUT": "bone.. mi provos tion",
+  "VISUAL_NOVEL_WHATS_OTHER_WORLD": "kio estas Alia Mondo?",
+  "VISUAL_NOVEL_YOU_GOTTA_BE_JOKING_YOU_DONT_REMEMBER_ITS_THE_GAME_WE_PLAYED_WHEN_WE_WERE_KIDS_ARE_YOU_SURE_THIS_IS_LIZ": "certe vi ŝercas! ĉu vi ne memoras ĝin? ĝi estas la ludo kiun ni ludis kiam ni estis infanoj. ĉu vi certas ke vi estas liz?",
+  "VISUAL_NOVEL_YES_IM_SURE_HOW_DO_I_GET_IN": "jes... mi certas. kiel mi ensalutus?",
+  "VISUAL_NOVEL_JUST_TO_MAKE_SURE_YOU_ARE_WHO_YOU_SAY_YOU_ARE_CAN_YOU_TELL_ME_THE_ORDER_OF_THE_FOUR_EVENTS_DURING_OUR_FINAL_RITUAL": "Por esti certe ke vi estas tiu kiun vi diras ke vi estas... ĉu vi povas diri al mi la ordon de la kvar eventoj dum nia fina rito?",
+  "VISUAL_NOVEL_ILL_TRY_TO_REMEMBER": "mi provos memori",
+  "VISUAL_NOVEL_I_DONT_REMEMBER": "mi ne memoras",
+  "VISUAL_NOVEL_THAT_S_OKAY_TAKE_YOUR_TIME": "estas bone, ne hastu",
+  "VISUAL_NOVEL_OKAY": "bone",
+  "VISUAL_NOVEL_SO_REMIND_ME_WHAT_HAPPENED": "do memorigu min, kio okazis?",
+  "VISUAL_NOVEL_THAT_MIGHT_BE_RIGHT_THAT_MIGHT_BE_WRONG_WHAT_NEXT": "eble vi pravas, eble ne. kion ni faris poste?",
+  "VISUAL_NOVEL_OK_COULD_BE_WHAT_HAPPENED_BUT_I_WONT_TELL_YOU_WHAT_THEN": "nu... tio eble okazis, sed mi ne malkovros ĝin. Kio okazis poste?",
+  "VISUAL_NOVEL_AND_FINALLY": "kaj finfine?",
+  "VISUAL_NOVEL_WE_BLESSED_THE_STATUE": "ni benis la statuon",
+  "VISUAL_NOVEL_WE_LIT_CANDLES_FOR_OUR_TRIBUTES": "ni lumigis la kandelojn por niaj tributoj",
+  "VISUAL_NOVEL_WE_GAZED_UPON_THE_FOUNTAIN": "ni fiskrigardis la fonton",
+  "VISUAL_NOVEL_WE_FOUGHT_THE_LOST_BOYS": "ni batalis kontraŭ la perditaj knaboj",
+  "VISUAL_NOVEL_WE_RESPECTED_THE_FOUR_FALLEN": "ni respektis la kvar pereintajn",
+  "VISUAL_NOVEL_WE_SUNG_AWAY_OUR_AGE": "ni forkantis nian aĝon",
+  "VISUAL_NOVEL_HOLD_ON_MY_MEMORY_IS_JUST_FUZZY": "momenton.. mia memoro estas iom malklara...",
+  "VISUAL_NOVEL_SURE_TAKE_YOUR_TIME_YOU_CAN_PROBABLY_FIND_SOMETHING_ON_YOUR_COMPUTER_TO_HELP_YOU_REFRESH_YOUR_MEMORY": "kompreneble. ne hastu~ probable vi povus trovi ion en via komputilo por memorigi vin",
+  "VISUAL_NOVEL_THANKS_ILL_TRY_AGAIN": "dankon... mi provos denove",
+  "VISUAL_NOVEL_I_DONT_THINK_THATS_IT": "mi ne pensas ke tio ĝustas...",
+  "VISUAL_NOVEL_HMM_OKAY_I_BELIEVE_U_FOR_NOW_YOU_NEED_TO_REGISTER_A_NEW_ACCOUNT_THE_INVITE_CODE_IS_NEVERLAND": "hmm... bone mi kredas vin. dum tiu ĉi momento. vi devas registri novan konton, la invitĉifro estas {0}",
+  "VISUAL_NOVEL_HMM_HEY_LIZ_IMMA_BRB": "hmm... he liz.. mi revenos baldaŭ haha... ĝis",
+  "LYRICS_1": [
+    {
+      "start": "0:00:46",
+      "lyric": "rivero kiu lirlas"
+    },
+    {
+      "start": "0:03:07",
+      "lyric": "lageto kiu brilas"
+    },
+    {
+      "start": "0:05:11",
+      "lyric": "termofonto kiu super-superfluas"
+    },
+    {
+      "start": "0:10:28",
+      "lyric": "mi scias ĉiujn tri aferojn ho, ho"
+    },
+    {
+      "start": "0:13:90",
+      "lyric": "Mi scias..."
+    }
+  ],
+  "LYRICS_2": [
+    {
+      "start": "0:00:40",
+      "lyric": "du manoj tenante la saman"
+    },
+    {
+      "start": "0:05:57",
+      "lyric": "malnovan malbone"
+    },
+    {
+      "start": "0:07:97",
+      "lyric": "verkitan rakonton,"
+    },
+    {
+      "start": "0:09:92",
+      "lyric": "ĉu ni povas -"
+    },
+    {
+      "start": "0:11:40",
+      "lyric": "preni la regon?"
+    },
+    {
+      "start": "0:13:01",
+      "lyric": "mi volas forlasi ĉion ĉi"
+    }
+  ],
+  "LYRICS_3": [
+    {
+      "start": "0:00:61",
+      "lyric": "mi vekiĝas je la sepa matene"
+    },
+    {
+      "start": "0:03:96",
+      "lyric": "ĝi estas kiel paradizo denove"
+    },
+    {
+      "start": "0:07:48",
+      "lyric": "mi vidas vin rideti, mia amiko"
+    },
+    {
+      "start": "0:10:86",
+      "lyric": "kaj mi ne volas ke tio ĉi finiĝu"
+    },
+    {
+      "start": "0:13:92",
+      "lyric": "la nuntempo malaperos"
+    },
+    {
+      "start": "0:17:38",
+      "lyric": "homplenaj urbo kaj stratoj"
+    },
+    {
+      "start": "0:21:13",
+      "lyric": "ĉiuj kiujn vi renkontas"
+    },
+    {
+      "start": "0:24:23",
+      "lyric": "foriros iam"
+    }
+  ],
+  "LYRICS_4": [
+    {
+      "start": "0:01:11",
+      "lyric": "ĉu mi estas trinkaĵo kiun vi trinkis?"
+    },
+    {
+      "start": "0:05:21",
+      "lyric": "ĉu mi estas manĝeto"
+    },
+   {
+      "start": "0:08:21",
+      "lyric": "kiun vi manĝis? (8)"
+    },
+    {
+      "start": "0:09:61",
+      "lyric": "ĉu mi estas io, kion vi perdis?"
+    },
+    {
+      "start": "0:14:69",
+      "lyric": "jam delonge perdita"
+    }
+  ],
+  "LYRICS_5": [
+    {
+      "start": "0:00:71",
+      "lyric": "mi ne volas esti enterigita"
+    },
+    {
+      "start": "0:04:67",
+      "lyric": "ses futojn sub la tero"
+    },
+    {
+      "start": "0:08:61",
+      "lyric": "se vi ne estas proksima"
+    },
+    {
+      "start": "0:12:40",
+      "lyric": "mi ne volas esti sola"
+    },
+    {
+      "start": "0:15:75",
+      "lyric": "mi ne volas forlasi tiun ĉi mondon"
+    },
+    {
+      "start": "0:20:07",
+      "lyric": "se vi ne estas apud mi"
+    },
+    {
+      "start": "0:23:34",
+      "lyric": "ne, mi ne volas morti"
+    },
+    {
+      "start": "0:26:80",
+      "lyric": "sen vi"
+    }
+  ],
+  "LYRICS_6": [
+    {
+      "start": "0:01:10",
+      "lyric": "*gitaro*"
+    },
+    {
+      "start": "0:03:73",
+      "lyric": "ho fek em..."
+    },
+    {
+      "start": "0:06:00",
+      "lyric": "*GITARO*"
+    },
+    {
+      "start": "0:07:52",
+      "lyric": "(flustro) do"
+    },
+    {
+      "start": "0:08:63",
+      "lyric": "nur unu okazo,"
+    },
+    {
+      "start": "0:11:82",
+      "lyric": "kaj unu danco"
+    },
+    {
+      "start": "0:14:88",
+      "lyric": "ĝi sentas kiel malgracia"
+    },
+    {
+      "start": "0:17:36",
+      "lyric": "adoleska amo"
+    },
+    {
+      "start": "0:19:98",
+      "lyric": "*muziko ĉesas* kvankam tio sonas"
+    },
+    {
+      "start": "0:20:96",
+      "lyric": "iomete kiel la fino"
+    },
+    {
+      "start": "0:22:55",
+      "lyric": "eble mi devus verki"
+    },
+    {
+      "start": "0:23:21",
+      "lyric": "la komencon"
+    }
+  ],
+  "LYRICS_7": [
+    {
+      "start": "0:00:86",
+      "lyric": "estas amuze ke postkompreno,"
+    },
+    {
+      "start": "0:03:98",
+      "lyric": "estas ege klara vido"
+    },
+    {
+      "start": "0:06:07",
+      "lyric": "estas amuze ke vi kaŝas tion,"
+    },
+    {
+      "start": "0:09:28",
+      "lyric": "kion vi vere pensas"
+    },
+    {
+      "start": "0:11:46",
+      "lyric": "nun mi havas tri okulojn malfermitaj"
+    },
+    {
+      "start": "0:16:59",
+      "lyric": "mi provis, sed vi ne estas proksima"
+    }
+  ],
+  "LYRICS_8": [
+    {
+      "start": "0:00:42",
+      "lyric": "bonvolu ne diri ke ĝi finiĝis"
+    },
+    {
+      "start": "0:04:42",
+      "lyric": "mi metis mian bonŝancon "
+    },
+    {
+      "start": "0:07:82",
+      "lyric": "sur kvar-folian trifolion"
+    },
+    {
+      "start": "0:11:15",
+      "lyric": "ne diru ke ĝi estas nostalgio"
+    },
+    {
+      "start": "0:16:28",
+      "lyric": "mi preferus resti en la pasinteco "
+    },
+ {
+      "start": "0:19:28",
+      "lyric": "se mi volas"
+    }
+  ],
+  "NOTES": [ 
+    "8/24 mi ĵus trovis mian malnovan kajeron kaj inspiriĝis pri fari ciferecan version!! estis strange legi ĝin, mi ankoraŭ povas kompreni multajn malfacilaĵojn kiujn mi havis antaŭ kvar jaroj, estas kvazaŭ mi daŭre havos la samajn problemojn denove kaj denove",
+    "8/27 ups mi devis prepari por ekzameno!!! mi ne havis tempon por skribi tiom kiom mi volis....",
+    "8/28 mi pasigas multan tempon per komputilo lastatempe. mi vere devus eliri el mia domo pli ofte. tamen mi renkontis novan amikon kiu nomiĝas orion!!! li montris al mi novan ludon hodiaŭ.",
+    "9/2 mi ĵus vidis afiŝon en zanga ke kev ng lastatempe forpasis. estis strange vidi ĝin... mi sentis min iomete senemocia. ĝi simple estis. estis amaso da komentoj en la afiŝo. \"ripozu pace kev\" kaj similaj aferoj. mi ne vere konis lin.. mi ne certas kia senti min...",
+    "9/3 mi forgesis ion. la ŝranko de kev estis rekte sub la mia. mi devis formoviĝi kiam li alvenis, kaj mi aŭdis lian voĉo \"saluton pardonu min\". mi alkutimiĝis al ĝi. kiam mi malfermis la ŝrankon, mi rimarkis ke mi ne aŭdis lin, kaj mi ne bezonis formoviĝi, kaj mi ploris. mi ne povis ĉesi plori. la morto ege timas min. kiel oni simple povas foriri?? ĉiu eta detalo de tiu ĉi homo, ĉio kion li farus morgaŭ, kev irus al siaj klasoj la sekvan tagon aŭ preparus por la semajno de lerneja spirito la sekvan semajnon. ĉio ĉi simple ĉesas.",
+    "9/4 lawson, em kaj mi vizitis la elirejo al landess sur ŝoseo 680 hodiaŭ. iu metis blankan krucon tie kie kev kaj lia patro kraŝis. mi skribis leteron al kev, kaj lasis ĝin tie..",
+    "9/5 panjo eksciis ke lawson veturigis min por viziti la tombon de kev kaj iĝis tre kolera. ŝi diris al mi per sia stulta malbona angla ke mi estis krimulo. ŝi diris ke mi fuŝis sian belecon pro mia naskiĝo, do almenaŭ mi povus esti bona infano. mi restis malfrue post miaj klasoj en la komputilejo de la biblioteko. mi parolis al orion pri ĉio. mi marŝis hejmen kaj eniris mian ĉambron. panjo estis silenta, ŝi ne diris ion ajn al mi.",
+    "9/6 mia patrino telefonis la policon hieraŭ!!! ŝi raportis ke mi estis netrovebla. kaj HODIAŬ ŝi telefonis la policon DENOVE.. ŝi postulis ke ili arestu min ĉar ŝi pensis ke mi uzis drogojn hieraŭ??? AAAĤ KIO DIABLE!!!!",
+    "9/13 pardonu min komputilo.... pasis kelkaj tagoj... mi forkuris... mi restis ĉe em dum semajno.. em vere estas tre bona amikino. la patrino de em telefonis mian patrinon. mia patrino kaj mi poste parolis. ŝi alkondukis min al mia plej ŝatata ĉina restoracio kiu havas salikokojn kun mielo kaj juglandoj. ŝi diras al mi ke estas tiel malfacile devi fari tion ĉi sole kaj ŝi ne certas kiel fari ĝin... kelkfoje mi povas kompreni panjon... sed plejofte ne... ŝi simple diras tre strangajn aferojn fojfoje..... mi komprenas ke ŝi amas min kaj volas ke mi kresku bone... kaj mi amas ŝin... kaj mi amas ke ŝi estas amuza fojfoje... sed ŝi diras la plej malafablajn aferojn...",
+    "10/13 panjo vizitas avinjon. do mi decidis ne ĉeesti miajn klasojn. orion sendas al mi kelkajn mangaojn de hororo pro haloveno. hieraŭ nokte nin obsedis legi rakontojn pri seriaj murdistoj rete. li prezentis al mi scott. mi eble vizitos ilin baldaŭ.",
+    "10/31 mi ne volas forlasi tiun ĉi mondon... se vi ne estas apud mi....."
+  ],
+  "OTHER_WORLD_LOGIN": "Ensaluti",
+  "OTHER_WORLD_REGISTER": "Registri",
+  "OTHER_WORLD_EXIT": "Eliri",
+  "OTHER_WORLD_BACK": "Reveni",
+  "OTHER_WORLD_INVITE_CODE": "Invitĉifro",
+  "OTHER_WORLD_CONTINUE": "Daŭrigi",
+  "OTHER_WORLD_USERNAME": "Uzantnomo",
+  "OTHER_WORLD_PASSWORD": "Pasvorto",
+  "OTHER_WORLD_CONNECTING": "Konektado al la servilo...",
+  "OTHER_WORLD_LOGGING_IN": "Ensalutado...",
+  "OTHER_WORLD_WELCOME": "ni bonvenigas vin {0}",
+  "OTHER_WORLD_INVALID": "Nevalida uzantnomo aŭ pasvorto",
+  "OTHER_WORLD_WHATS_YOUR_NAME": "Kiel vi nomiĝas?",
+  "VIDEO_CALL_TITLE": "Retkamerao - __orion__",
+  "VIDEO_CALL_REQUEST": "<b>__orion__</b> petis videovokon.",
+  "VIDEO_CALL_ACCEPT": "Akcepti",
+  "VIDEO_CALL_DECLINE": "Rifuzi",
+  "VIDEO_CALL_CONNECTING": "Konektado al alvoko kun <b>__orion__</b> bonvolu atendi.",
+  "VIDEO_CALL_CAMERA_ON": "VIA KAMERAO ESTAS ŜALTITA",
+  "VIDEO_CALL_END_CALL": "Fini alvokon",
+  "VIDEO_CALL_MUTE": "Silentigi mikrofonon",
+  "OTHER_WORLD_CHAT_WELCOME": "<sistemo> Bonvenon al AliaMondo! Alklaku la montrilojn por navigi tra nia mondo. Kelkaj aĵoj estas specialaj, do ĉirkaŭklaku. Ĝuu vian tempon tie ĉi :)",
+  "OTHER_WORLD_CHAT_CREATION": "<sistemo> Absoluta krepovo estas en viaj manoj. Kion vi elrevigos?",
+  "OTHER_WORLD_CHAT_NEXUS": "<sistemo> La Ligejo, la hejmo de ĉiuj propraj mondoj de uzantoj. Alŝutu vian propran aŭ esploru la vastan kosmon de mondoj jam alŝutitaj!",
+  "OTHER_WORLD_CHAT_DISCO": "<sistemo> Tio ĉi estas Diskoteko, la plej vigla loko en AliaMondo. Iru al la dancejo kaj amikiĝi kun iu, aŭ kun dek...?",
+  "OTHER_WORLD_CHAT_YOU_ARENT_LIZ": "[__orion__] vi ne estas liz...",
+  "OTHER_WORLD_CHAT_SPHERE": "<sistemo> La sfero, kiu reprezentas Kreemecon. Ĝi vivtenas nin.",
+  "OTHER_WORLD_CHAT_CUBE": "<sistemo> La kubo, kiu reprezentas Komunumon. Ĝi konektas nin.",
+  "OTHER_WORLD_CHAT_PYRAMID": "<sistemo> La piramido, kiu reprezentas Strukturon. Ĝi kuntenas nin.",
+  "OTHER_WORLD_CHAT_DISCO_BALL": "<sistemo> Dancu tra la nokto! AliaMondo ĉiam estas plena je aliaj ludantoj kun kiuj vi povas renkontiĝi kaj danci.",
+  "OTHER_WORLD_CHAT_STATUE": "<sistemo> .orea al ne okizum satse miaĈ",
+  "OTHER_WORLD_CHAT_CLOCK": "<sistemo> Tiktakas la horloĝo!", 
+  "OTHER_WORLD_CHAT_ALONEGURL_OH_HELLO_FRIEND": "[alonegurl15] ho... saluton.. amiko",
+  "FILE_BROWSER_ME_JPG": "mi.jpg",
+  "FILE_BROWSER_ME_AND_MY_BF_JPG": "mi_kaj_mia_plej_bona_amikino.jpg",
+  "FILE_BROWSER_WALLPAPERS_FOLDER": "Ekranfonoj",
+  "FILE_BROWSER_DESKTOP_FOLDER": "Labortablo",
+  "FILE_BROWSER_PICTURES_FOLDER": "Bildoj",
+  "FILE_BROWSER_GO_BACK": "Reveni",
+  "FILE_BROWSER_OPEN": "Uzi",
+  "FILE_BROWSER_CANCEL": "Forgesi",
+  "FILE_BROWSER_TITLE_UPLOAD_WORLD": "Alŝutu vian mondon!",
+  "OTHER_WORLD_CHAT_UPLOAD_WORLD_ERROR": "<sistemo> Nur *.world-dosieroj estas permesataj.",
+  "OTHER_WORLD_CHAT_HOUSE_INTRO": "<sistemo> Antaŭ vi estas la Domo de Bafometo; multdimensia ebeno kiu ligas ĉiujn mondojn en mondoj. Por eniri, oni devas sekvi la konsilon de tiuj antaŭ vi.",
+  "OTHER_WORLD_DOOR_PUZZLE_SHORT_KNOCK": "<sistemo> *frap*",
+  "OTHER_WORLD_DOOR_PUZZLE_LONG_KNOCK": "<sistemo> *FRAAAAP!*", 
+  "OTHER_WORLD_DOOR_PUZZLE_FOUR_PORTRAITS": "<sistemo> Kvankam ni perdis niajn geamikojn en la eksteraj mondoj, ili neniam estos forgesitaj en nia virtuala mondo. Doni respekton alklakante iliajn portretojn.",
+  "OTHER_WORLD_DOOR_PUZZLE_GREGG": "<sistemo> Ripozu Pace Gregg. Jul 3, 1956 - Sept 11, 2001 \"Bitoj kaj bajtoj estas nur 1-j kaj 0-j, du statoj de estado; ŝaltita kaj malŝaltita, laŭta kaj mallaŭta, mallonga kaj longa, sed tiuj du statoj tenas eternecon.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_AURORA": "<sistemo> Ripozu Pace Aurora. Jan 1, 1975 - Dec 31, 1999 \"Rimarku kiel brilas la steloj. Vidu kiel ili glimas kaj pulsas.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_SAHRA": "<sistemo> Ripozu Pace Sahra. Apr 4, 1978 - Mar 13, 2002 \"Ebleco estas frapo sur la pordo. Fojfoje ĝi estas kelkaj frapoj.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_JORDEN": "<sistemo> Ripozu Pace Jorden. Aŭg 3, 1988 - Sept 11, 2001 \"Ni aŭ frapetas aŭ tenas ĝin. Fojfoje teni ĝin havas malsimilan rezulton ol nur frapeti\"",
+  "OTHER_WORLD_STATUE_PUZZLE_INTRO": "<sistemo> La pordo fermiĝas malantaŭ vi. La Ordo de Bafometo estas nur por tiuj kies destino estas eskapi nian simulitan sonĝejon. Ĉiu statuo devas esti benita, en la maniero difinita de La Ordo. Unu statuo estas avara kaj bezonas kelkajn benojn.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_GOAT": "<sistemo> Vi benis la kapron.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_LION": "<sistemo> Vi benis la leonon.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_OX": "<sistemo> Vi benis la okson.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_EAGLE": "<sistemo> Vi benis la aglon.",
+  "OTHER_WORLD_STATUE_PUZZLE_SOLVED": "<sistemo> Inteligentulo vi estas. Pordo malfermiĝas malantaŭ la statuo.",
+  // "Dreadfully distinct against the dark" is a reference to Blade Runner 2049: https://youtu.be/ZRcpnM26nJM?t=17
+  "OTHER_WORLD_FOUNTAIN_PUZZLE_INTRO": "<sistemo> Ni iradas, terure klare kontraŭ la malhelo. Kaligrafio per sango, fonto skribas sian markon. Leteroj por niaj karaj, literoj formitaj per la fluo. Brikon kaj brikon ni premas, kaj subite pasas ĉiom da tempo.",
+  "OTHER_WORLD_FOUNTAIN_PUZZLE_SOLVED": "<sistemo> Pordo aperas.",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_1": "Kies amikecon vi plej fidas?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_2": "kiu estas via nereciproka deziro?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_3": "kiu estas la sola mastro de via sorto?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_FAILURE": "<sistemo> Nenio okazas. Ĉu eble viaj tributoj ne reprezentas viajn verajn sentojn?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_SUCCESS": "<sistemo> Viaj tributoj estis akceptitaj.",
+
+  "ENDING_WARNING": "AVERTO! Tributoj ne kongruas kun viva aŭro. Superregado.",
+  // Liz:
+  "ENDING_HOW_LONG_HAS_IT_BEEN": "kiom... kiom da tempo pasis ?",
+  "ENDING_THANK_U_FOR_UPLOADING_THOSE_PICTURES": "dankon por alŝuti tiujn bildojn",
+  "ENDING_WONDERED_IF_I_WOULD_SEE_THEM": "mi scivolis ĉu mi iam vidus iliajn vizaĝojn denove",
+  "ENDING_I_EVEN_FORGOT_WHAT_I_USED_TO_LOOK_LIKE": "mi eĉ forgesis kiel aspektis mi...",
+  "ENDING_HAVENT_SEEN_ANOTHER_PERSON": "mi ne vidis alian homon tie ĉi dum longe",
+  // Implies that some separate system has logged onto your account.
+  "ENDING_SYSTEM_ACTION_ERROR": "<sistemo> Tiu ĉi ago estas malpermesita ĉar vi estas ensalutinta per alia komputilo.",
+  "ENDING_YOU_ARE_OFFLINE": "<sistemo> Vi estas malkonektita.",
+  "ENDING_YOU_ARE_ONLINE": "<sistemo> Vi estas konektita.",
+  // Liz:
+  "ENDING_A_LONG_TIME_AGO_I_WAS_APPROACHED_BY_A_MAN": "antaŭ longa tempo... alproksimiĝis al mi viro...",
+  "ENDING_HE_PROMISED_ME_FOREVER": "li promesis al mi eternon.",
+  "ENDING_I_GOT_INTO_A_FIGHT_WITH_MY_MOTHER": "mi havis disputon kun mia patrino",
+  "ENDING_SO_I_DECIDED_TO_UPLOAD_MYSELF_ONTO_THE_INTERNET": "do mi decidis alŝuti min en la interreton",
+  "ENDING_I_UPLOADED_MYSELF_ONTO_THIS_GAME": "mi alŝutis min en tiun ĉi... ludon",
+  "ENDING_AT_FIRST_IT_WAS_GREAT": "unue, estis bonege.",
+  "ENDING_WE_CREATED_SO_MANY_BEAUTIFUL_THINGS_HERE": "ni kreis tiom da belaj aferoj tie ĉi .",
+  "ENDING_THE_WORLD_USED_TO_BE_CROWDED": "tiu ĉi mondo estis homplena, kun tiom da novaj homoj por renkonti ĉiutage",
+  "ENDING_BUT_NOW": "sed nun...",
+  // Profiles that pop up.
+  "ENDING_POPUP_PROFILE_TITLE": "Profilo - {0}",
+  "ENDING_POPUP_LOADING": "Ŝarĝado...",
+  "ENDING_POPUP_LAST_SEEN": "Laste ensalutinte antaŭ {0} tagoj.",
+  "ENDING_POPUP_MESSAGE_BUTTON": "Mesaĝi",
+  "ENDING_POPUP_BLOCK_BUTTON": "Bari",
+  // Liz:
+  "ENDING_THE_WORLD_OUT_THERE_CHANGES": "la mondo esktera ŝanĝiĝas",
+  "ENDING_PEOPLE_LEAVE_GROW_OLD": "homoj foriras, maljuniĝas, trovas ion alian",
+  "ENDING_OTHER_WORLD_STAYS_THE_SAME": "sed Alia Mondo daŭras same. ĉiam.",
+  // Server Browser
+  "ENDING_SERVER_BROWSER_TITLE": "Servila esplorilo",
+  "ENDING_SERVER_BROWSER_REFRESH_BUTTON": "Aktualigi",
+  "ENDING_SERVER_BROWSER_CLOSE_BUTTON": "Malfermi",
+  "ENDING_SERVER_BROWSER_SERVER_NAME": "Nomo",
+  "ENDING_SERVER_BROWSER_PLAYERS_IN_SERVER": "Ludantoj",
+  "ENDING_SERVER_BROWSER_SERVER_PING": "Lanteco",
+  // Liz:
+  "ENDING_WITHOUT_THE_PLAYERS_WORLDS_ARE_GONE": "sen la ludantoj, ĉiu uzanto-kreita mondo malaperis.",
+  "ENDING_EVERYONE_RITUAL_DELETED_THEMSELVES": "je la fino, ĉiu kiu faris la riton provis forigi sin.",
+  "ENDING_HOW_IS_A_SOUL_STORED_IN_A_FILESYSTEM": "sed kiel animo estas savita en dosiersistemo?",
+  "ENDING_I_HEAR_THEM": "mi aŭdas ilin fojfoje, kriantaj. iliaj konscioj estas kunigitaj kun ia sistemdosiero.",
+  "ENDING_THIS_PLACE_IS_ALL_I_HAVE_LEFT": "tiu ĉi loko estas ĉio kiun mi havas nun.",
+  "ENDING_ALL_THINGS_DETERIORATE_EVEN_THIS": "ĉio degeneras. eĉ tio ĉi.",
+  "ENDING_HOW_COULD_WE_HAVE_KNOWN": "kiel ni povintus scii?",
+  // Liz, now <SYSTEM>, becomes part of Other World:
+  "ENDING_I_MISS_EMILY": "<sistemo> mi sopiras al emily",
+  "ENDING_I_MISS_GOING_ON_THE_COMPUTER_WITH_HER": "<sistemo> mi sopiras komputilumi kun ŝi, ludante Flash-ludojn",
+  "ENDING_SLEEPING_OVER_WATCHING_TV_SHOWS": "<sistemo> piĵamofestoj, spektante televidprogramojn kune",
+  "ENDING_I_WONDER_WHO_SHE_GREW_UP_TO_BECOME": "<sistemo> mi scivolas kiu ŝi fariĝis",
+  "ENDING_I_MISS_LAWSON": "<sistemo> mi sopiras al lawson",
+  "ENDING_I_MISS_TALKING_TO_HIM": "<sistemo> mi sopiras paroli kun li pri miaj problemoj",
+  "ENDING_I_MISS_HOW_COMFORTING_HE_WAS": "<sistemo> mi sopiras lian konsolon",
+  "ENDING_I_DONT_WANT_HIM_TO_SEE_ME_LIKE_THIS": "<sistemo> mi ne volas ke li vidu min tiel",
+  "ENDING_I_MISS_MY_MOM": "<sistemo> mi sopiras mian patrinon",
+  "ENDING_I_MISS_OUR_STUPID_FIGHTS": "<sistemo> mi sopiras niajn stultajn disputojn",
+  "ENDING_ITS_ALL_SO_MEANINGLESS_NOW": "<sistemo> ĉiu de tio estas sensignifa nun. se nur mi povintus rimarki ke ĝi estis dumtempa.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_BAD_GRADES": "<sistemo> antaŭe mi timis pri ricevi malbonajn notojn.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_NOT_LOOKING_PRETTY": "<sistemo> mi timis pri ne aspekti sufiĉe bela",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_DISAPPOINTING_PEOPLE": "<sistemo> mi timis pri desaponti homojn.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_DEATH": "<sistemo> mi timis pri la morto.",
+  "ENDING_BUT_NOW_2": "<sistemo> sed nun",
+  "ENDING_IM_AFRAID_OF_FOREVER": "<sistemo> mi timas pri la eterneco.",
+  "ENDING_BUT_YOURE_HERE_NOW_ARENT_YOU": "<sistemo> sed... nun vi estas tie ĉi, ĉu ne?",
+  "ENDING_YOU_PERFORMED_THE_RITUAL": "<sistemo> vi faris la riton.",
+  "ENDING_ONLY_A_FEW_MINUTES_UNTIL_YOU_JOIN_ME": "<SISTEMOM> nur restas kelkaj minutoj ĝis vi estos kun mi",
+  "ENDING_AND_THEN_I_WONT_BE_ALONE": "<sistemo> kaj mi ne estos sola",
+  "ENDING_FOREVER": "<sistemo> ĉiam.",
+
+  // Facegram
+  "ENDING_FACEGRAM_TITLE": "facegram - {0}",
+  "ENDING_FACEGRAM_POSTS_COUNT": "Afiŝoj",
+  "ENDING_FACEGRAM_FOLLOWERS_COUNT": "Sekvantoj",
+  "ENDING_FACEGRAM_FOLLOWING_COUNT": "Geamikoj",
+  "ENDING_THIS_ACCOUNT_IS_PRIVATE": "Tiu ĉi konto estas privata. Bonvolu atendi ĝis via amikiĝpeto estas akceptita.",
+
+  // Lawson:
+  "ENDING_USER_IS_ONLINE": "{0} nun estas konektita",
+  "ENDING_HEY_LIZ": "saluton liz...",
+  "ENDING_I_KEEP_SEEING_YOUR_ACCOUNT_ONLINE_AND_OFFLINE": "mi vidadas vian konton konekti kaj malkonekti",
+  "ENDING_IVE_BEEN_MESSAGING_YOU_EVERY_YEAR": "mi mesaĝis vin ĉiujare ekde vi foriris, eble esperante ke vi respondus.",
+  "ENDING_I_VISITED_YOU_TODAY": "mi vizitis vin hodiaŭ. mi forlasis florojn kaj iom da hi-chew.",
+  "ENDING_I_DECIDED_THAT_ITS_TIME_TO_MOVE_ON": "mi decidis ke estas la tempo por rezignacii.",
+  "ENDING_YOURE_NOT_COMING_BACK_ARE_YOU_LIZ": "vi ne revenos liz, ĉu ne?",
+  "ENDING_IVE_MISSED_YOU_SO_MUCH": "mi ege sopiris vin.",
+  "ENDING_GOODBYE": "adiaŭ.",
+
+  // Liz ending popup spam:
+  "ENDING_NO": "NE",
+  "ENDING_DONT_LEAVE_ME": "NE FORLASU MIN",
+  "ENDING_I_DONT_WANT_TO_BE_ALONE": "MI NE VOLAS ESTI SOLA",
+
+  // Error Messages
+  "ENDING_ERROR_MEMORYBOUNDS_EXCEEDED": "Eraro: MemoroLimo Transpasita.",
+  "ENDING_ERROR_SEGMENTATION_FAULT": "Paneo De Segmentado.",
+
+  // Task Manager
+  "ENDING_TASK_MANAGER_TITLE": "TaskAdministrilo",
+  "ENDING_TASK_MANAGER_WARNING": "Averto: Alta Memoruzado",
+  "ENDING_TASK_MANAGER_PROGRAM": "Programo",
+  "ENDING_TASK_MANAGER_USAGE": "Usado",
+
+  // Final Error Message
+  "ERROR_REPORT_OTHER_WORLD_HAS_ENCOUNTERED_A_PROBLEM": "Alia Mondo trovis problemon kaj devas fermiĝi. Ni bedaŭras pro la maloportunaĵo.",
+  "ERROR_REPORT_IF_YOU_WERE_IN_THE_MIDDLE_OF_SOMETHING": "Se vi prilaboris ion, la informo kiun vi prilaboris eble estas perdita.",
+  "ERROR_REPORT_PLEASE_TELL_OTHER_WORLD_ABOUT_THIS_PROBLEM": "Bonvolu diri al Alia Mondo pri tiu ĉi problemo.",
+  "ERROR_REPORT_WE_HAVE_CREATED_AN_ERROR_REPORT": "Ni kreis erarraporton ke vi povas sendi al ni. Tiu raporto estos konfidenca kaj sennoma.",
+  "ERROR_REPORT_BUTTON_1": "Sendu la Raporton",
+  "ERROR_REPORT_BUTTON_2": "Ne Sendu ĝin",
+
+ 
+  // Translation Credits
+  "SHOW_TRANSLATION_CREDITS": true,
+  "CREDITS_TITLE": "Esperanto Translation",
+  // Put as many credits here as you want.
+  // Please don't put a virus here :(
+  "CREDITS": [
+    {
+      "name": "Discord",
+      "website": "https://discord.com/channels/1183870459687743590/1297443009721270342"
+    },
+    {
+      "name": "KeiJayGib",
+      "website": "https://www.instagram.com/kj.gibb/" }
+ 
+  ],
+
+  "CLICK_TO_REPLAY": "Alklaku por reludi je la komenco",
+
+  // April 23, additional lines:
+  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "<sistemo> Io ŝanĝiĝas en la pordo... Vi faris ion, aŭ parton de io...",
+  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "<sistemo> La pordo malŝlosiĝis.",
+
+  // June 24
+  "ORION_IS_TYPING": "__orion__ tajpas...",
+  "SCROLL_TO_TOP": "Reveni al komenco",
+  "SERVERS_EMPTY": "MALPLENA",
+  "SERVERS_UPLOAD": "alklaku tie ĉi por alŝuti mondon",
+  "SERVERS_USER_WORLD": "<mondo de uzanto>",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_1": "domo of",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_2": "bafometo",
+
+  "TRIBUTES_BOND_LINE_1": "kies amikecon",
+  "TRIBUTES_BOND_LINE_2": "vi plej",
+  "TRIBUTES_BOND_LINE_3": "fidas?",
+
+  "TRIBUTES_UNREQUITED_LINE_1": "kiu estas via",
+  "TRIBUTES_UNREQUITED_LINE_2": "nereciproka",
+  "TRIBUTES_UNREQUITED_LINE_3": "deziro?",
+
+  "TRIBUTES_FATE_LINE_1": "kiu estas la",
+  "TRIBUTES_FATE_LINE_2": "sola mastro",
+  "TRIBUTES_FATE_LINE_3": "de via sorto?",
+
+  // June 27
+  "VIDEO_CALL_INCOMING_CALL": "Alvenanta alvoko",
+  "CONSCIOUSNESS_TRIANGULATION": "Konscia triangulado",
+  "ENDING_POPUP_OFFLINE": "Malkonektita",
+
+  "SETTINGS_TITLE": "Agordoj",
+  "SETTINGS_FULLSCREEN": "Plena ekrano",
+  "SETTINGS_MASTER_VOLUME": "Ĉefa laŭteco",
+  "SETTINGS_SFX_VOLUME": "Sonefika laŭteco",
+  "SETTINGS_MUSIC_VOLUME": "Muzika laŭteco",
+  "SETTINGS_LANGUAGE": "Lingvo",
+  "SETTINGS_DELETE_SAVE": "Forigi savon",
+  "SETTINGS_QUIT_GAME": "Malfermi ludon",
+
+  "OTHER_WORLD_CANDLES": "<sistemo> Tri kandeloj... Sed kiel lumigi ilin?",
+  "OTHER_WORLD_DOOR_PUZZLE_FRAME_KNOCK": "<sistemo> La pordo estas tro dika por fari bruon per viaj manoj. Eble vi povus uzi la pordfrapilojn.",
+
+  // Ignore this last line, it's so each line can have a comma at the end.
+  "": null
+}

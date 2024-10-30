@@ -31,7 +31,7 @@
   // Optional:
   "BUDDYLIST_SIGN_ON_STEP_2": "2. Připojování...",
   // Optional:
-  "BUDDYLIST_SIGN_ON_STEP_3": "3. Zapínání sluzeb...",
+  "BUDDYLIST_SIGN_ON_STEP_3": "3. Zapínání služeb...",
   // Optional:
   "BUDDYLIST_SIGN_ON_STEP_4": "4. Připojeno.",
   "BUDDYLIST_CHAT_WINDOW_TITLE": "{0} - Chat",
@@ -158,7 +158,7 @@
     "<LIZ>: omg tohle je trapný...... 849 hodin...",
     "<SYSTEM>: __orion__ je offline",
     "<SYSTEM>: __orion__ je online",
-    "<ORION>: FUNGOVALO TO!!! GPŘIPOJ SE HNED TEĎ!!!",
+    "<ORION>: FUNGOVALO TO!!! PŘIPOJ SE HNED TEĎ!!!",
     "<SYSTEM>: __orion__ je offline",
     "<SYSTEM>: __orion__ je online"
   ],
@@ -198,6 +198,7 @@
   "VISUAL_NOVEL_THANKS_ILL_TRY_AGAIN": "díky... zkusím to znovu",
   "VISUAL_NOVEL_I_DONT_THINK_THATS_IT": "nemyslím si, že to je správně...",
   "VISUAL_NOVEL_HMM_OKAY_I_BELIEVE_U_FOR_NOW_YOU_NEED_TO_REGISTER_A_NEW_ACCOUNT_THE_INVITE_CODE_IS_NEVERLAND": "hmm... fajn věřím ti. prozatím. musíš si zaregistrovat nový účet, pozvánkový kód je {0}",
+  "VISUAL_NOVEL_HMM_HEY_LIZ_IMMA_BRB": "hmmm.. hele liz, musím jít, promluvíme si potom.. zatím",
   "LYRICS_1": [
     {
       "start": "0:00:46",
@@ -509,7 +510,7 @@
   "ENDING_I_EVEN_FORGOT_WHAT_I_USED_TO_LOOK_LIKE": "už si ani nevzpomínám jak jsem já sama vypadala...",
   "ENDING_HAVENT_SEEN_ANOTHER_PERSON": "už dlouho jsem tu neviděla dalšího člověka",
   // Implies that some separate system has logged onto your account.
-  "ENDING_SYSTEM_ACTION_ERROR": "<system> Tato akce nemůže býát provedena z důvodu přihlášení z jiného zařízení.",
+  "ENDING_SYSTEM_ACTION_ERROR": "<system> Tato akce nemůže být provedena z důvodu přihlášení z jiného zařízení.",
   "ENDING_YOU_ARE_OFFLINE": "<system> Jste offline.",
   "ENDING_YOU_ARE_ONLINE": "<system> Jste online.",
   // Liz:
@@ -559,7 +560,7 @@
   "ENDING_I_MISS_MY_MOM": "<system> chybí mi máma",
   "ENDING_I_MISS_OUR_STUPID_FIGHTS": "<system> chybí mi naše hloupé hádky",
   "ENDING_ITS_ALL_SO_MEANINGLESS_NOW": "<system> vše je bezvýznamné. kdybych si uvědomila, jak dočasné to je.",
-  "ENDING_I_USED_TO_BE_AFRAID_OF_BAD_GRADES": "<system> bála jsem se mít špatné známky.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_BAD_GRADES": "<system> bála jsem, že budu mít špatné známky.",
   "ENDING_I_USED_TO_BE_AFRAID_OF_NOT_LOOKING_PRETTY": "<system> bála jsem se, že nebudu dost krásná.",
   "ENDING_I_USED_TO_BE_AFRAID_OF_DISAPPOINTING_PEOPLE": "<system> bála jsem se, že zklamu své okolí.",
   "ENDING_I_USED_TO_BE_AFRAID_OF_DEATH": "<system> bála jsem se smrti.",
