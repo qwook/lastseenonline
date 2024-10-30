@@ -13,7 +13,7 @@
   "INTRO_TEXT_2": " さっそく起動してみましょう。 ",
   "CONTINUE_BUTTON": "次へ",
   "PASSWORD_TEXT": "パスワードを入力",
-  "PASSWORD_HINT": "ヒント: ふわふわな男の子の名前と私の誕生日",
+  "PASSWORD_HINT": "ヒント: もこもこな男の子の名前と私の生まれた年",
   // Optional:
   "LOGGING_IN": "ログインしています。",
   // Optional:
@@ -26,9 +26,9 @@
   "DESKTOP_SHORTCUT_OTHER_WORLD": "Other World",
   "DESKTOP_SHORTCUT_ZIP": "photos4em.zip",
   "UNZIPPER_TITLE": "UnZipper - photos4em.zip",
-  "UNZIPPER_TEXT": "ファイルはパスワードで保護されています。　　　　　　　　　　4桁の数字を半角で入力してください。",
+  "UNZIPPER_TEXT": "ファイルはパスコードで保護されています。　　　　　　　　　　4桁の数字を半角で入力してください。",
   "UNZIPPER_UNLOCK_BUTTON": "解除",
-  "UNZIPPER_INCORRECT_PASSWORD": "パスワードが違います。もう一度お試しください。",
+  "UNZIPPER_INCORRECT_PASSWORD": "パスコードが違います。もう一度お試しください。",
   // Optional:
   "BUDDYLIST_SIGN_ON": "サインイン",
   // Optional:
@@ -80,13 +80,13 @@
     "<LAWSON>: 私たちが目指していた学校に合格しました♡",
     "<SYSTEM>: aznL4ws0n は現在オフラインです。",
     "<SYSTEM>: aznL4ws0n は現在オンラインです。",
-    "<LAWSON>: 今日、犬を見たんだ。スコッティによく似ていたよ！！",
+    "<LAWSON>: 今日、犬を見たんだ。scottyによく似ていたよ！！",
     "<SYSTEM>: aznL4ws0n は現在オフラインです。"
   ],
   "SCOTT_CHATLOG": [
     "<SCOTT>: こんにちは。Other Worldにいたscottだよ。僕を追加したい？",
     "<LIZ>: もちろん！！ それで、あなたが言っていた...儀式について考えていたんだけど、この世から消えるために使える？",
-    "<SCOTT>: あー、バフォメットの儀式ね。もちろん。宇宙のコナミコードとでも表現しようかな。この世から消えることはないけど...。でも、コードで...あなたの意識を...悟りへと導く...永遠に...。",
+    "<SCOTT>: あー、バフォメットの儀式ね。もちろん。宇宙のコナミコマンドとでも表現しようかな。この世から消えることはないけど...。でも、コードで...あなたの意識を...悟りへと導く...永遠に...。",
     "<LIZ>: うーん..わかった。あとあなたは、私の飼ってる犬と同じ名前だね。ははは！",
     "<SYSTEM>: scottNJ は現在オフラインです。",
     "<SYSTEM>: scottNJ は現在オンラインです。",
@@ -110,7 +110,7 @@
   ],
   "EMMBER_CHATLOG": [
     "<LIZ>: あぁ～～～lawsonかわいすぎ！！",
-    "<EMMBER>:  どうして彼に伝えないの！！！！",
+    "<EMMBER>:  どうして彼に伝えないの！！",
     "<LIZ>: 私じゃむりだよ...かわいくないし。",
     "<EMMBER>: なんで笑！！ とってもかわいいのに......。",
     "<LIZ>: ママが言うんだ、私の鼻はママのじゃないって。私のはパパと同じでっかい鼻！ 嫌い！",
@@ -124,7 +124,7 @@
     "<SYSTEM>: xXemmberXx86 現在オフラインです。",
     "<SYSTEM>: xXemmberXx86 現在オンラインです。",
     "<EMMBER>: liz、2週間くらい話してないけど、最近どうしてる？",
-    "<LIZ>: あ、ごめん！！ otherworldで知り合った友人たちと遊んでたんだ！！",
+    "<LIZ>: あ、ごめん！！ other worldで知り合った友人たちと遊んでたんだ！！",
     "<SYSTEM>: xXemmberXx86 現在オフラインです。",
     "<SYSTEM>: xXemmberXx86 現在オンラインです。",
     "<LIZ>: やった、ここから永遠に逃れる方法を見つけた。",
@@ -139,8 +139,8 @@
     "<LIZ>: 歌詞を聞いて！！",
     "<EMMBER>:おぉぉぉ、最高にかっこいい！！",
     "<EMMBER>: えっ！！ このlawsonの写真は？？",
-    "<LIZ>: まって、それは間違えた！！！",
-    "<EMMBER>: ......変な写真だね。",
+    "<LIZ>: まって！！！ 間違えた！！！！！",
+    "<EMMBER>: ......あとは変な写真だけだね。",
     "<LIZ>: 興味ある？",
     "<SYSTEM>: xXemmberXx86 は現在オフラインです。",
     "<SYSTEM>: xXemmberXx86 は現在オンラインです。",
@@ -155,15 +155,15 @@
     "<LIZ>: いつか、私も同じようにクールな世界を作ってみせる。",
     "<ORION>: ははは、そうかい。",
     "<ORION>: そうそう、こんなものを見つけた: RED_HERRING_EXE",
-    "<LIZ>: なになに？？ other worldの話？？？",
+    "<LIZ>: なになに？？ other worlの話？？？",
     "<ORION>: ただのアートプロジェクトだよ、 ゲームとは関係ないと思う。",
     "<SYSTEM>: __orion__ は現在オフラインです。",
     "<SYSTEM>: __orion__ は現在オンラインです。",
-    "<ORION>: other worldのチャットで/infoって打ってみた？ オンラインになってからの時間が表示されるよ。",
+    "<ORION>: Other Worldのチャットで/infoって打ってみた？ オンラインになってからの時間が表示されるよ。",
     "<LIZ>: あー、恥ずかしい......849時間...",
     "<SYSTEM>: __orion__ は現在オフラインです。",
     "<SYSTEM>: __orion__ は現在オンラインです。",
-    "<ORION>: うまくいった！ 今すぐ異世界に行こう！！！",
+    "<ORION>: うまくいった！ 今すぐOther Worldに行こう！！！",
     "<SYSTEM>: __orion__ は現在オフラインです。",
     "<SYSTEM>: __orion__ は現在オンラインです。"
   ],
@@ -177,23 +177,23 @@
   "VISUAL_NOVEL_CAN_YOU_REMIND_ME_WHO_THIS_IS": "誰ですか？",
   "VISUAL_NOVEL_ITS_ORION_WE_USED_TO_BE_GOOD_FRIENDS_IM_SURPRISED_YOU_DONT_REMEMBER_ME_THATS_FINE": "ほら、親友のorionだよ！ 僕を覚えていないとは驚いた！",
   "VISUAL_NOVEL_ANYTHING_I_CAN_HELP_YOU_WITH": "なにか困ってることはある？",
-  "VISUAL_NOVEL_DO_YOU_KNOW_THE_PASSCODE_FOR_PHOTOS4EMZIP": "photos4em.zipのパスワードを知っていますか？",
-  "VISUAL_NOVEL_HMM_I_DONT_REMEMBER_TRY_DIGGING_THROUGH_YOUR_OLD_CHATLOGS_MAYBE_YOU_SENT_IT_TO_SOMEONE": "うーん...わかんないな。昔のチャットログを探ってみて。もしかしたら、誰かに送ってるかも。",
+  "VISUAL_NOVEL_DO_YOU_KNOW_THE_PASSCODE_FOR_PHOTOS4EMZIP": "photos4em.zipのパスコードを知っていますか？",
+  "VISUAL_NOVEL_HMM_I_DONT_REMEMBER_TRY_DIGGING_THROUGH_YOUR_OLD_CHATLOGS_MAYBE_YOU_SENT_IT_TO_SOMEONE": "うーん...わからないな。昔のチャットログを探ってみて。もしかしたら、誰かに送ってるかも。",
   "VISUAL_NOVEL_OKAY_ILL_TRY_THAT_OUT": "わかりました...試してみます。",
   "VISUAL_NOVEL_WHATS_OTHER_WORLD": "Other Worldってなんですか？",
   "VISUAL_NOVEL_YOU_GOTTA_BE_JOKING_YOU_DONT_REMEMBER_ITS_THE_GAME_WE_PLAYED_WHEN_WE_WERE_KIDS_ARE_YOU_SURE_THIS_IS_LIZ": "ふざけてる？ 本当に覚えてないの？ 子供の頃の遊び。え、lizだよね？",
   "VISUAL_NOVEL_YES_IM_SURE_HOW_DO_I_GET_IN": "もちろんlizです...。どうすればログインできますか？",
   "VISUAL_NOVEL_JUST_TO_MAKE_SURE_YOU_ARE_WHO_YOU_SAY_YOU_ARE_CAN_YOU_TELL_ME_THE_ORDER_OF_THE_FOUR_EVENTS_DURING_OUR_FINAL_RITUAL": "わかった。本物のlizなのか、念のために確認する...。儀式の手順を4つ教えて。",
-  "VISUAL_NOVEL_ILL_TRY_TO_REMEMBER": "思い出してみます。",
+  "VISUAL_NOVEL_ILL_TRY_TO_REMEMBER": "思い出してみます...。",
   "VISUAL_NOVEL_I_DONT_REMEMBER": "思い出せないです...。",
   "VISUAL_NOVEL_THAT_S_OKAY_TAKE_YOUR_TIME": "大丈夫だ。のんびり待つよ。",
-  "VISUAL_NOVEL_OKAY": "わかった。",
+  "VISUAL_NOVEL_OKAY": "わかりました。",
   "VISUAL_NOVEL_SO_REMIND_ME_WHAT_HAPPENED": "では早速。最初に何をする？",
   "VISUAL_NOVEL_THAT_MIGHT_BE_RIGHT_THAT_MIGHT_BE_WRONG_WHAT_NEXT": "正解かどうかは教えない。次は？",
   "VISUAL_NOVEL_OK_COULD_BE_WHAT_HAPPENED_BUT_I_WONT_TELL_YOU_WHAT_THEN": "ふ～ん...何をしたかかは教えないけど、次は？",
   "VISUAL_NOVEL_AND_FINALLY": "最後に？",
   "VISUAL_NOVEL_WE_BLESSED_THE_STATUE": "石像を崇拝する。",
-  "VISUAL_NOVEL_WE_LIT_CANDLES_FOR_OUR_TRIBUTES": "捧げ物へキャンドルを灯す。",
+  "VISUAL_NOVEL_WE_LIT_CANDLES_FOR_OUR_TRIBUTES": "捧げ物にキャンドルを灯す。",
   "VISUAL_NOVEL_WE_GAZED_UPON_THE_FOUNTAIN": "噴水を見つめる。",
   "VISUAL_NOVEL_WE_FOUGHT_THE_LOST_BOYS": "迷子の少年たちと戦う。",
   "VISUAL_NOVEL_WE_RESPECTED_THE_FOUR_FALLEN": "4人の亡き人へ敬意を表す。",
@@ -202,230 +202,230 @@
   "VISUAL_NOVEL_SURE_TAKE_YOUR_TIME_YOU_CAN_PROBABLY_FIND_SOMETHING_ON_YOUR_COMPUTER_TO_HELP_YOU_REFRESH_YOUR_MEMORY": "のんびり待つよ。パソコンで何か見つけたら、思い出せるかもしれないからね。",
   "VISUAL_NOVEL_THANKS_ILL_TRY_AGAIN": "すみません...少しあとに後にまたお願いします。",
   "VISUAL_NOVEL_I_DONT_THINK_THATS_IT": "間違ってるね...。",
-  "VISUAL_NOVEL_HMM_OKAY_I_BELIEVE_U_FOR_NOW_YOU_NEED_TO_REGISTER_A_NEW_ACCOUNT_THE_INVITE_CODE_IS_NEVERLAND": "うーん...わかった。lizだって信じることにするよ。とりあえず、新しいアカウントを作る必要がある。招待コードは、{0} だよ。",
-  "VISUAL_NOVEL_HMM_HEY_LIZ_IMMA_BRB": "あー...こんにちは、liz...ちょっと失礼する。またすぐ戻るよ。",
+  "VISUAL_NOVEL_HMM_OKAY_I_BELIEVE_U_FOR_NOW_YOU_NEED_TO_REGISTER_A_NEW_ACCOUNT_THE_INVITE_CODE_IS_NEVERLAND": "うーん...わかった。lizだって信じることにするよ。とりあえず、新しいアカウントを作る必要がある。招待コマンドは、{0} だよ。",
+  "VISUAL_NOVEL_HMM_HEY_LIZ_IMMA_BRB": "あー...久しぶり、liz...ちょっと離席する。またすぐ戻るよ。",
   "LYRICS_1": [
     {
       "start": "0:00:46",
-      "lyric": "a babbling river"
+      "lyric": "川のせせらぎ"
     },
     {
       "start": "0:03:07",
-      "lyric": "a pond that glows"
+      "lyric": "光り輝く池"
     },
     {
       "start": "0:05:11",
-      "lyric": "a hot spring over-overflows"
+      "lyric": "溢れ漏れる温泉"
     },
     {
       "start": "0:10:28",
-      "lyric": "all three things oh, oh I know"
+      "lyric": "3拍子揃っている あぁ、わかってる"
     },
     {
       "start": "0:13:90",
-      "lyric": "I know..."
+      "lyric": "わかってるよ..."
     }
   ],
   "LYRICS_2": [
     {
       "start": "0:00:40",
-      "lyric": "two handss holding on to the same"
+      "lyric": "2本の腕で同じものにしがみついている"
     },
     {
       "start": "0:05:57",
-      "lyric": "old story, written poorly"
+      "lyric": "幼稚な昔話だ"
     },
     {
       "start": "0:09:92",
-      "lyric": "can we -"
+      "lyric": "私達は"
     },
     {
       "start": "0:11:40",
-      "lyric": "take control?"
+      "lyric": "制御できるのだろうか"
     },
     {
       "start": "0:13:01",
-      "lyric": "I wanna leave this all behind"
+      "lyric": "すべてを手放してしまいたい"
     }
   ],
   "LYRICS_3": [
     {
       "start": "0:00:61",
-      "lyric": "wake at seven A.M."
+      "lyric": "午前7時に目が覚めた"
     },
     {
       "start": "0:03:96",
-      "lyric": "it's like heaven again"
+      "lyric": "再び天国に訪れたようだ"
     },
     {
       "start": "0:07:48",
-      "lyric": "see you smiling my friend"
+      "lyric": "友よ、微笑んでくれ"
     },
     {
       "start": "0:10:86",
-      "lyric": "and I don't want this to end"
+      "lyric": "終わらないでいて欲しい"
     },
     {
       "start": "0:13:92",
-      "lyric": "the present moment will fleet"
+      "lyric": "今この瞬間に逃げていく"
     },
     {
       "start": "0:17:38",
-      "lyric": "crowded city and streets"
+      "lyric": "混雑した街と通り"
     },
     {
       "start": "0:21:13",
-      "lyric": "everybody you meet"
+      "lyric": "出会うすべての人達が"
     },
     {
       "start": "0:24:23",
-      "lyric": "will go away someday"
+      "lyric": "いつか去っていく"
     }
   ],
   "LYRICS_4": [
     {
       "start": "0:01:11",
-      "lyric": "am I a drink that you drank?"
+      "lyric": "私は、あなたが飲んだ酒か"
     },
     {
       "start": "0:05:21",
-      "lyric": "am I a snack that you eight?"
+      "lyric": "私は、あなたが8つ食べた菓子か"
     },
     {
       "start": "0:09:61",
-      "lyric": "am I a thing that you lost?"
+      "lyric": "私は、あなたが失ったモノか"
     },
     {
       "start": "0:14:69",
-      "lyric": "lost long ago"
+      "lyric": "昔に"
     }
   ],
   "LYRICS_5": [
     {
       "start": "0:00:71",
-      "lyric": "I don't want to be buried"
+      "lyric": "埋葬されたくない"
     },
     {
       "start": "0:04:67",
-      "lyric": "six feet under the ground"
+      "lyric": "地下6フィートに"
     },
     {
       "start": "0:08:61",
-      "lyric": "if you are not around"
+      "lyric": "あなたがいないのなら。"
     },
     {
       "start": "0:12:40",
-      "lyric": "don't want to be alone"
+      "lyric": "一人になりたくない"
     },
     {
       "start": "0:15:75",
-      "lyric": "I don't want to leave this world"
+      "lyric": "この世界から離れたくない"
     },
     {
       "start": "0:20:07",
-      "lyric": "if you're not by my side"
+      "lyric": "あなたがそばにいないなら。"
     },
     {
       "start": "0:23:34",
-      "lyric": "no, I don't want to die"
+      "lyric": "死にたくない"
     },
     {
       "start": "0:26:80",
-      "lyric": "without you"
+      "lyric": "あなたがいなくては。"
     }
   ],
   "LYRICS_6": [
     {
       "start": "0:01:10",
-      "lyric": "*guitar noodling*"
+      "lyric": "*ギターの音*"
     },
     {
       "start": "0:03:73",
-      "lyric": "oh shit uhm..."
+      "lyric": "ああ、くそ..."
     },
     {
       "start": "0:06:00",
-      "lyric": "*GUITAR STRUM*"
+      "lyric": "*ギターを鳴らす*"
     },
     {
       "start": "0:07:52",
-      "lyric": "(whispers) so"
+      "lyric": " だから(囁き)"
     },
     {
       "start": "0:08:63",
-      "lyric": "just one chance,"
+      "lyric": "一度のチャンスだ"
     },
     {
       "start": "0:11:82",
-      "lyric": "and one dance"
+      "lyric": "一回のダンスだ"
     },
     {
       "start": "0:14:88",
-      "lyric": "feels like awkward"
+      "lyric": "きまずいかんじだ"
     },
     {
       "start": "0:17:36",
-      "lyric": "teenage romance"
+      "lyric": "青春は"
     },
     {
       "start": "0:19:98",
-      "lyric": "*music stops* it kinda sounds like"
+      "lyric": "*曲を止める* なんか"
     },
     {
       "start": "0:20:96",
-      "lyric": "the end though"
+      "lyric": "終わりみたいだけど"
     },
     {
       "start": "0:22:55",
-      "lyric": "maybe i should write"
+      "lyric": "書き始めてみようかな"
     },
     {
       "start": "0:23:21",
-      "lyric": "the beginning"
+      "lyric": "書き始めてみようかな"
     }
   ],
   "LYRICS_7": [
     {
       "start": "0:00:86",
-      "lyric": "it's so funny how hindsight,"
+      "lyric": "後知恵って面白い"
     },
     {
       "start": "0:03:98",
-      "lyric": "is super clear vision"
+      "lyric": "超明確な理想像"
     },
     {
       "start": "0:06:07",
-      "lyric": "it's so funny how you hide,"
+      "lyric": "隠れているのが可笑しいな"
     },
     {
       "start": "0:09:28",
-      "lyric": "what you're really thinking"
+      "lyric": "本当は何を思ってるのか"
     },
     {
       "start": "0:11:46",
-      "lyric": "I have three eyes open now"
+      "lyric": "今、第3の目を開いてて"
     },
     {
       "start": "0:16:59",
-      "lyric": "I tried but you are not around"
+      "lyric": "試してみたけど、近くにあなたはいないみたい"
     }
   ],
   "LYRICS_8": [
     {
       "start": "0:00:42",
-      "lyric": "please don't say that it's over"
+      "lyric": "もう終わりなんて言わないで"
     },
     {
       "start": "0:04:42",
-      "lyric": "I put my luck on a four-leaf clover"
+      "lyric": "4つ葉のクローバーに運を託して"
     },
     {
       "start": "0:11:15",
-      "lyric": "don't say it's nostalgia"
+      "lyric": "懐かしいなんて言わないで"
     },
     {
       "start": "0:16:28",
-      "lyric": "I'd rather stay in the past if I want to"
+      "lyric": "過去に留まりたいのなら"
     }
   ],
   "NOTES": [
@@ -438,7 +438,7 @@
     "9/5 lawsonの車でkevの墓参りに行ったことを知ったママは、ひどく怒った。ママはバカみたいなカタコトで私にこう言ったんだ。犯罪者！あなたが生まれたせいでママは美しくなくなったの！せめて良い子でいなさい！って、私は放課後遅くまで図書館のパソコン室にいた。orionに吐き出した。家に帰り、自分の部屋に入った。 ママは黙っていて、何も言わなかった。",
     "9/6 昨日、捜索願を出された。ママが警察に電話したんだ！！！ 今日も！！ ドラッグを使ってるから逮捕しろって言ってきた！！ ふざけないでよ！！！！！！",
     "9/13 パソコン、ごめんね...数日ぶり...家出しちゃって...今週はemのところで過ごしたんだ。emはすごくいい友達。emのお母さんが私のママに電話してくれたんだ。 私とママは話すことになった。ママは私が好きな中華料理屋に連れて行ってくれて、ハニーウォールナッツシュリンプを食べた。ママは、一人で子育てをするのがどんなに大変か、どうしたらいいかわからないって言ってた...ママのことを理解できるときもあるけど...たいていは理解できないんだ...ママは時々、本当に変なことを言うんだ...ママは私のことを愛しているし、私に立派に育ってほしいって思ってるのはわかるよ...ママのことは大好きだし...どこか抜けているところも、大好きだよ...。でも、ママは意地悪なことばかり言う。",
-    "10/13 ママはおばあちゃんのところに行ってるから、授業はサボった。oroinがハロウィンのために怖いマンガを送ってくれた。昨夜は連続殺人犯の話を調べるのに夢中になった。他に、scottを紹介してくれた。近いうちに2人を訪ねてみる。",
+    "10/13 ママはおばあちゃんのところに行ってるから、授業はサボった。orionがハロウィンのために怖いマンガを送ってくれた。昨夜は連続殺人犯の話を調べるのに夢中になった。他に、scottを紹介してくれた。近いうちに2人を訪ねてみる。",
     "10/31 この世界から消えたくない...もしあなたが私の側にいないなら...。"
   ],
   "OTHER_WORLD_LOGIN": "ログイン",
@@ -459,7 +459,7 @@
   "VIDEO_CALL_ACCEPT": "承諾",
   "VIDEO_CALL_DECLINE": "拒否",
   "VIDEO_CALL_CONNECTING": "<b>__orion__</b>  が通話に接続しています。お待ち下さい。",
-  "VIDEO_CALL_CAMERA_ON": "あなたのカメラは現在オンになっています。",
+  "VIDEO_CALL_CAMERA_ON": "カメラオン",
   "VIDEO_CALL_END_CALL": "通話終了",
   "VIDEO_CALL_MUTE": "ミュート",
   "OTHER_WORLD_CHAT_WELCOME": "<system> OtherWorldにようこそ！ 矢印をクリックして、この世界を探索してください！ 周りに特殊なオブジェクトがいくつも存在します！ クリックしてみてください！ 楽しんで！！",
@@ -611,7 +611,7 @@
   "ENDING_TASK_MANAGER_USAGE": "使用率",
 
   // Final Error Message
-  "ERROR_REPORT_OTHER_WORLD_HAS_ENCOUNTERED_A_PROBLEM": "Other Worldに問題が発生したため、終了されました。　　　　　　　　ご迷惑をおかけし、大変申し訳ございません。",
+  "ERROR_REPORT_OTHER_WORLD_HAS_ENCOUNTERED_A_PROBLEM": "Other Worldに問題が発生したため、終了されました。　　　　　　　　　　　　ご迷惑をおかけし、大変申し訳ございません。",
   "ERROR_REPORT_IF_YOU_WERE_IN_THE_MIDDLE_OF_SOMETHING": "もし何かの作業中だった場合、保存していないデータは失われる可能性があります。",
   "ERROR_REPORT_PLEASE_TELL_OTHER_WORLD_ABOUT_THIS_PROBLEM": "この問題をOther Worldに報告してください。",
   "ERROR_REPORT_WE_HAVE_CREATED_AN_ERROR_REPORT": "エラーレポートを作成しました。この報告書は機密扱いとし、匿名で送信されます。",
@@ -662,6 +662,23 @@
   "TRIBUTES_FATE_LINE_1": "　",
   "TRIBUTES_FATE_LINE_2": "運命を決める人",
   "TRIBUTES_FATE_LINE_3": "　",
+
+  // June 27
+  "VIDEO_CALL_INCOMING_CALL": "着信",
+  "CONSCIOUSNESS_TRIANGULATION": "意識の三角測量",
+  "ENDING_POPUP_OFFLINE": "オフライン",
+
+  "SETTINGS_TITLE": "設定",
+  "SETTINGS_FULLSCREEN": "フルスクリーン",
+  "SETTINGS_MASTER_VOLUME": "Master Volume",
+  "SETTINGS_SFX_VOLUME": "SFX Volume",
+  "SETTINGS_MUSIC_VOLUME": "Music Volume",
+  "SETTINGS_LANGUAGE": "Language",
+  "SETTINGS_DELETE_SAVE": "セーブ消去",
+  "SETTINGS_QUIT_GAME": "ゲーム終了",
+
+  "OTHER_WORLD_CANDLES": "<system> 3本の蝋燭... いかにして火を灯す？",
+  "OTHER_WORLD_DOOR_PUZZLE_FRAME_KNOCK": "<system> 分厚いドアだ。手だけでは、まともな音を出すことができない。ドアノッカーを使うと良い。",
 
   // Ignore this last line, it's so each line can have a comma at the end.
   "": null
