@@ -501,13 +501,13 @@
   "ENDING_YOU_ARE_ONLINE": "<SISTEMA> Sei online.",
   // Liz:
   "ENDING_A_LONG_TIME_AGO_I_WAS_APPROACHED_BY_A_MAN": "a long time ago... i was approached by a man...",
-  "ENDING_HE_PROMISED_ME_FOREVER": "he promised me forever.",
+  "ENDING_HE_PROMISED_ME_FOREVER": "mi ha promesso un 'per sempre'.",
   "ENDING_I_GOT_INTO_A_FIGHT_WITH_MY_MOTHER": "ho litigato con mia madre",
-  "ENDING_SO_I_DECIDED_TO_UPLOAD_MYSELF_ONTO_THE_INTERNET": "so i decided to upload myself onto the internet",
+  "ENDING_SO_I_DECIDED_TO_UPLOAD_MYSELF_ONTO_THE_INTERNET": "quindi ho deciso di caricarmi sull'internet",
   "ENDING_I_UPLOADED_MYSELF_ONTO_THIS_GAME": "i uploaded myself onto this... game",
   "ENDING_AT_FIRST_IT_WAS_GREAT": "all'inizio, era tutto fantastico.",
-  "ENDING_WE_CREATED_SO_MANY_BEAUTIFUL_THINGS_HERE": "we created so many beautiful things here.",
-  "ENDING_THE_WORLD_USED_TO_BE_CROWDED": "this world used to be crowded, with so many new faces to meet every day",
+  "ENDING_WE_CREATED_SO_MANY_BEAUTIFUL_THINGS_HERE": "abbiamo creato così tante cose belle qui.",
+  "ENDING_THE_WORLD_USED_TO_BE_CROWDED": "questo mondo una volta era così affollato, con così tante faccie nuove da incontrare ogni giorni",
   "ENDING_BUT_NOW": "ma ora...",
   // Profiles that pop up.
   "ENDING_POPUP_PROFILE_TITLE": "Profilo - {0}",
@@ -516,9 +516,9 @@
   "ENDING_POPUP_MESSAGE_BUTTON": "Messaggio",
   "ENDING_POPUP_BLOCK_BUTTON": "Blocca",
   // Liz:
-  "ENDING_THE_WORLD_OUT_THERE_CHANGES": "the world out there changes",
-  "ENDING_PEOPLE_LEAVE_GROW_OLD": "people leave, grow old, move on to the next thing",
-  "ENDING_OTHER_WORLD_STAYS_THE_SAME": "but Other World stays the same. forever",
+  "ENDING_THE_WORLD_OUT_THERE_CHANGES": "il mondo fuori cambia",
+  "ENDING_PEOPLE_LEAVE_GROW_OLD": "la gente se ne va, cresce, si interessa ad altro",
+  "ENDING_OTHER_WORLD_STAYS_THE_SAME": "ma Other World rimane lo stesso. per sempre",
   // Server Browser
   "ENDING_SERVER_BROWSER_TITLE": "Browser di Server",
   "ENDING_SERVER_BROWSER_REFRESH_BUTTON": "Ricarica",
@@ -528,8 +528,8 @@
   "ENDING_SERVER_BROWSER_SERVER_PING": "Ping (latenza)",
   // Liz:
   "ENDING_WITHOUT_THE_PLAYERS_WORLDS_ARE_GONE": "senza i giocatori, tutti i mondi creati da loro sono stati eliminati.",
-  "ENDING_EVERYONE_RITUAL_DELETED_THEMSELVES": "a un certo punto, tutti quelli che hanno fanno il rituale hanno provato a cancellarsi.",
-  "ENDING_HOW_IS_A_SOUL_STORED_IN_A_FILESISTEMA": "but how is a soul stored in a fileSISTEMA?",
+  "ENDING_EVERYONE_RITUAL_DELETED_THEMSELVES": "e a un certo punto, tutti quelli che hanno fanno il rituale hanno provato a cancellarsi.",
+  "ENDING_HOW_IS_A_SOUL_STORED_IN_A_FILESISTEMA": "ma come fa un'anima a stare in un fileSISTEMA?",
   "ENDING_I_HEAR_THEM": "li sento a volte, quando urlano. their consciousness merged with some arbitrary SISTEMA file",
   "ENDING_THIS_PLACE_IS_ALL_I_HAVE_LEFT": "questo posto è tutto ciò che rimane.",
   "ENDING_ALL_THINGS_DETERIORATE_EVEN_THIS": "tutto deteriora. anche qua.",
@@ -548,7 +548,7 @@
   "ENDING_ITS_ALL_SO_MEANINGLESS_NOW": "<SISTEMA> ora niente ha senso. if i could have realized how temporary it all was.",
   "ENDING_I_USED_TO_BE_AFRAID_OF_BAD_GRADES": "<SISTEMA> una volta avevo paura dei brutti voti.",
   "ENDING_I_USED_TO_BE_AFRAID_OF_NOT_LOOKING_PRETTY": "<SISTEMA> una volta avevo paura di non essere abbastanza carina.",
-  "ENDING_I_USED_TO_BE_AFRAID_OF_DISAPPOINTING_PEOPLE": "<SISTEMA> i used to be afraid of disappointing people.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_DISAPPOINTING_PEOPLE": "<SISTEMA> una volta avevo paura di deludere la gente.",
   "ENDING_I_USED_TO_BE_AFRAID_OF_DEATH": "<SISTEMA> una volta avevo paura della morte.",
   "ENDING_BUT_NOW_2": "<SISTEMA> ma ora",
   "ENDING_IM_AFRAID_OF_FOREVER": "<SISTEMA> ho paura del per sempre.",
@@ -574,7 +574,7 @@
   "ENDING_I_DECIDED_THAT_ITS_TIME_TO_MOVE_ON": "ho deciso che è arrivato il tempo di andare avanti.",
   "ENDING_YOURE_NOT_COMING_BACK_ARE_YOU_LIZ": "perché tu non tornerai mai liz, o no?",
   "ENDING_IVE_MISSED_YOU_SO_MUCH": "mi sei mancata così tanto.",
-  "ENDING_GOODBYE": "addio.",
+  "ENDING_GOODBYE": "Addio.",
 
   // Liz ending popup spam:
   "ENDING_NO": "NO",
@@ -592,10 +592,10 @@
   "ENDING_TASK_MANAGER_USAGE": "Uso",
 
   // Final Error Message
-  "ERROR_REPORT_OTHER_WORLD_HAS_ENCOUNTERED_A_PROBLEM": "Other World has encountered a problem and needs to close. We are sorry for the inconvenience.",
-  "ERROR_REPORT_IF_YOU_WERE_IN_THE_MIDDLE_OF_SOMETHING": "If you were in the middle of something, the information you were working on might be lost.",
+  "ERROR_REPORT_OTHER_WORLD_HAS_ENCOUNTERED_A_PROBLEM": "Other World ha riscontrato un errore e si è arrestato. Ci scusiamo per l'inconveniente.",
+  "ERROR_REPORT_IF_YOU_WERE_IN_THE_MIDDLE_OF_SOMETHING": "Se eri nel mezzo di fare qualcosa, le informazioni su cui stavi lavorando potrebbero essere andate perse.",
   "ERROR_REPORT_PLEASE_TELL_OTHER_WORLD_ABOUT_THIS_PROBLEM": "Perfavore riferisci a Other World di questo problema.",
-  "ERROR_REPORT_WE_HAVE_CREATED_AN_ERROR_REPORT": "Abbamo creatouna segnalazione ci puoi inviare. Tratteremo questo report in modo confidenziale e anonimo.",
+  "ERROR_REPORT_WE_HAVE_CREATED_AN_ERROR_REPORT": "Abbamo creato una segnalazione ci puoi inviare. Tratteremo questo report in modo confidenziale e anonimo.",
   "ERROR_REPORT_BUTTON_1": "Invia <b><u>La</u></b> Segnalazione",
   "ERROR_REPORT_BUTTON_2": "<b><u>f</u></b>orse <b><u>in</u></b> seguito?",
 
