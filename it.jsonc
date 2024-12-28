@@ -446,7 +446,7 @@
   "OTHER_WORLD_CHAT_WELCOME": "<SISTEMA> Benvenuta su OtherWorld! Clicca sulle frecce per navigare intorno al nostro mondo. Alcuni oggetti sono speciali, quindi clicca in giro. Goditi del tuo tempo qui :)",
   "OTHER_WORLD_CHAT_CREATION": "<SISTEMA> Tutto il creato è alle punte delle tue dita. Che cosa sognerai?",
   "OTHER_WORLD_CHAT_NEXUS": "<SISTEMA> Il Nexus, casa di tutti i mondi utente personalizzati. Carica il tuo o esplora il vasto cosmo di mondi già caricati!",
-  "OTHER_WORLD_CHAT_DISCO": "<SISTEMA> This is Disco, the liveliest hangout spot in OtherWorld. Hit the dance floor and make yourself a friend or ten...?",
+  "OTHER_WORLD_CHAT_DISCO": "<SISTEMA> Questo è Disco, il posto più visitato rilassarsi in OtherWorld spot in OtherWorld. Vai sulla pista da ballo e fatti un amico... o dieci!",
   "OTHER_WORLD_CHAT_YOU_ARENT_LIZ": "[__orion__] nn sei liz...",
   "OTHER_WORLD_CHAT_SPHERE": "<SISTEMA> La sfera, che rappresenta la Creatività. E' ciò che ci mantiene in vita.",
   "OTHER_WORLD_CHAT_CUBE": "<SISTEMA> Il cubo, che rappresenta la Comunità. E' ciò che ci connette.",
@@ -500,7 +500,7 @@
   "ENDING_YOU_ARE_OFFLINE": "<SISTEMA> Sei offline.",
   "ENDING_YOU_ARE_ONLINE": "<SISTEMA> Sei online.",
   // Liz:
-  "ENDING_A_LONG_TIME_AGO_I_WAS_APPROACHED_BY_A_MAN": "a long time ago... i was approached by a man...",
+  "ENDING_A_LONG_TIME_AGO_I_WAS_APPROACHED_BY_A_MAN": "tanto tempo fa... fui contattata da un uomo.",
   "ENDING_HE_PROMISED_ME_FOREVER": "mi ha promesso un 'per sempre'.",
   "ENDING_I_GOT_INTO_A_FIGHT_WITH_MY_MOTHER": "ho litigato con mia madre",
   "ENDING_SO_I_DECIDED_TO_UPLOAD_MYSELF_ONTO_THE_INTERNET": "quindi ho deciso di caricarmi sull'internet",
@@ -623,17 +623,17 @@
   "SERVERS_HOUSE_OF_BAPHOMET_LINE_1": "casa di",
   "SERVERS_HOUSE_OF_BAPHOMET_LINE_2": "bafometto",
 
-  "TRIBUTES_BOND_LINE_1": "di quale legame",
-  "TRIBUTES_BOND_LINE_2": "ti fidi",
-  "TRIBUTES_BOND_LINE_3": "di più?",
+  "TRIBUTES_BOND_LINE_1": "con chi è",
+  "TRIBUTES_BOND_LINE_2": "il legame",
+  "TRIBUTES_BOND_LINE_3": "a te più fidato?",
 
   "TRIBUTES_UNREQUITED_LINE_1": "chi è il tuo",
   "TRIBUTES_UNREQUITED_LINE_2": "desiderio",
-  "TRIBUTES_UNREQUITED_LINE_3": "incondizionato?",
+  "TRIBUTES_UNREQUITED_LINE_3": "non ricambiato?",
 
-  "TRIBUTES_FATE_LINE_1": "chi è il",
-  "TRIBUTES_FATE_LINE_2": "solo controllore",
-  "TRIBUTES_FATE_LINE_3": "del tuo fato?",
+  "TRIBUTES_FATE_LINE_1": "chi è l'unico",
+  "TRIBUTES_FATE_LINE_2": "a controllare",
+  "TRIBUTES_FATE_LINE_3": "il tuo fato?",
 
   // June 27
   "VIDEO_CALL_INCOMING_CALL": "Chiamata in arrivo",
