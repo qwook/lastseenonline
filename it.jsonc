@@ -582,14 +582,14 @@
   "ENDING_I_DONT_WANT_TO_BE_ALONE": "NON VOGLIO RIMANERE DA SOLA",
 
   // Error Messages
-  "ENDING_ERROR_MEMORYBOUNDS_EXCEEDED": "Error: MemoryBounds Exceeded.",
-  "ENDING_ERROR_SEGMENTATION_FAULT": "Segmentation Fault.",
+    "ENDING_ERROR_MEMORYBOUNDS_EXCEEDED": "Errore: Sovraccarico di memoria.",
+  "ENDING_ERROR_SEGMENTATION_FAULT": "Errore di segmentazione.",
 
   // Task Manager
-  "ENDING_TASK_MANAGER_TITLE": "Task Manager",
-  "ENDING_TASK_MANAGER_WARNING": "Warning: High Memory Usage",
-  "ENDING_TASK_MANAGER_PROGRAM": "Program",
-  "ENDING_TASK_MANAGER_USAGE": "Usage",
+  "ENDING_TASK_MANAGER_TITLE": "Gestione attività",
+  "ENDING_TASK_MANAGER_WARNING": "Avviso: Elevato uso di memoria",
+  "ENDING_TASK_MANAGER_PROGRAM": "Programma",
+  "ENDING_TASK_MANAGER_USAGE": "Uso",
 
   // Final Error Message
   "ERROR_REPORT_OTHER_WORLD_HAS_ENCOUNTERED_A_PROBLEM": "Other World has encountered a problem and needs to close. We are sorry for the inconvenience.",
