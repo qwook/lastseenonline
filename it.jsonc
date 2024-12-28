@@ -594,8 +594,8 @@
   // Final Error Message
   "ERROR_REPORT_OTHER_WORLD_HAS_ENCOUNTERED_A_PROBLEM": "Other World has encountered a problem and needs to close. We are sorry for the inconvenience.",
   "ERROR_REPORT_IF_YOU_WERE_IN_THE_MIDDLE_OF_SOMETHING": "If you were in the middle of something, the information you were working on might be lost.",
-  "ERROR_REPORT_PLEASE_TELL_OTHER_WORLD_ABOUT_THIS_PROBLEM": "Please tell Other World about this problem.",
-  "ERROR_REPORT_WE_HAVE_CREATED_AN_ERROR_REPORT": "We have created an error report that you can send to us. We will treat this report as confidential and anonymous.",
+  "ERROR_REPORT_PLEASE_TELL_OTHER_WORLD_ABOUT_THIS_PROBLEM": "Perfavore riferisci a Other World di questo problema.",
+  "ERROR_REPORT_WE_HAVE_CREATED_AN_ERROR_REPORT": "Abbamo creatouna segnalazione ci puoi inviare. Tratteremo questo report in modo confidenziale e anonimo.",
   "ERROR_REPORT_BUTTON_1": "Invia <b><u>La</u></b> Segnalazione",
   "ERROR_REPORT_BUTTON_2": "<b><u>f</u></b>orse <b><u>in</u></b> seguito?",
 
