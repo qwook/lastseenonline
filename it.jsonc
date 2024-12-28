@@ -527,12 +527,12 @@
   "ENDING_SERVER_BROWSER_PLAYERS_IN_SERVER": "Giocatori",
   "ENDING_SERVER_BROWSER_SERVER_PING": "Ping (latenza)",
   // Liz:
-  "ENDING_WITHOUT_THE_PLAYERS_WORLDS_ARE_GONE": "without the players, all the player-created worlds are gone.",
-  "ENDING_EVERYONE_RITUAL_DELETED_THEMSELVES": "a un certo punto, tutti quelli che hanno fanno il rituale hanno provato a cencerllarsi.",
+  "ENDING_WITHOUT_THE_PLAYERS_WORLDS_ARE_GONE": "senza i giocatori, tutti i mondi creati da loro sono stati eliminati.",
+  "ENDING_EVERYONE_RITUAL_DELETED_THEMSELVES": "a un certo punto, tutti quelli che hanno fanno il rituale hanno provato a cancellarsi.",
   "ENDING_HOW_IS_A_SOUL_STORED_IN_A_FILESISTEMA": "but how is a soul stored in a fileSISTEMA?",
   "ENDING_I_HEAR_THEM": "li sento a volte, quando urlano. their consciousness merged with some arbitrary SISTEMA file",
   "ENDING_THIS_PLACE_IS_ALL_I_HAVE_LEFT": "questo posto è tutto ciò che rimane.",
-  "ENDING_ALL_THINGS_DETERIORATE_EVEN_THIS": "tutto deteriora. anche questo.",
+  "ENDING_ALL_THINGS_DETERIORATE_EVEN_THIS": "tutto deteriora. anche qua.",
   "ENDING_HOW_COULD_WE_HAVE_KNOWN": "ma come potevamo saperlo?",
   // Liz, now <SISTEMA>, becomes part of Other World:
   "ENDING_I_MISS_EMILY": "<SISTEMA> mi manca emily",
@@ -568,13 +568,13 @@
   // Lawson:
   "ENDING_USER_IS_ONLINE": "{0} è ora online",
   "ENDING_HEY_LIZ": "hey liz...",
-  "ENDING_I_KEEP_SEEING_YOUR_ACCOUNT_ONLINE_AND_OFFLINE": "i keep seeing your account online and offline",
-  "ENDING_IVE_BEEN_MESSAGING_YOU_EVERY_YEAR": "i've been messaging you every year since you left, maybe hoping you would reply.",
-  "ENDING_I_VISITED_YOU_TODAY": "i visited you today. i left some flowers and some hi-chew.",
-  "ENDING_I_DECIDED_THAT_ITS_TIME_TO_MOVE_ON": "i decided that it's time to move on.",
-  "ENDING_YOURE_NOT_COMING_BACK_ARE_YOU_LIZ": "you're not coming back are you liz?",
-  "ENDING_IVE_MISSED_YOU_SO_MUCH": "i've missed you so much.",
-  "ENDING_GOODBYE": "goodbye.",
+  "ENDING_I_KEEP_SEEING_YOUR_ACCOUNT_ONLINE_AND_OFFLINE": "continuo a vedere il tuo account online e offline",
+  "ENDING_IVE_BEEN_MESSAGING_YOU_EVERY_YEAR": "ti messaggio ogni anni da quando te ne sei andata, sperando che magari un giorno mi avresti risposto.",
+  "ENDING_I_VISITED_YOU_TODAY": "ti ho fatto visita oggi. ti ho lasciato dei fiori e qualche goleador.",
+  "ENDING_I_DECIDED_THAT_ITS_TIME_TO_MOVE_ON": "ho deciso che è arrivato il tempo di andare avanti.",
+  "ENDING_YOURE_NOT_COMING_BACK_ARE_YOU_LIZ": "perché tu non tornerai mai liz, o no?",
+  "ENDING_IVE_MISSED_YOU_SO_MUCH": "mi sei mancata così tanto.",
+  "ENDING_GOODBYE": "addio.",
 
   // Liz ending popup spam:
   "ENDING_NO": "NO",
