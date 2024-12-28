@@ -490,11 +490,11 @@
 
   "ENDING_WARNING": "WARNING! Tributes do not match life aura. Overriding.",
   // Liz:
-  "ENDING_HOW_LONG_HAS_IT_BEEN": "how... long has it been ?",
-  "ENDING_THANK_U_FOR_UPLOADING_THOSE_PICTURES": "thank u for uploading those pictures",
-  "ENDING_WONDERED_IF_I_WOULD_SEE_THEM": "i wondered if i would ever see their faces again",
+  "ENDING_HOW_LONG_HAS_IT_BEEN": "quanto... tempo è passato ?",
+  "ENDING_THANK_U_FOR_UPLOADING_THOSE_PICTURES": "grazie per aver caricato quelle foto",
+  "ENDING_WONDERED_IF_I_WOULD_SEE_THEM": "mi sono sempre chiesta se avrei mai rivisto le loro facce",
   "ENDING_I_EVEN_FORGOT_WHAT_I_USED_TO_LOOK_LIKE": "i even forgot what i used to look like...",
-  "ENDING_HAVENT_SEEN_ANOTHER_PERSON": "i havent seen another person on here in a long time",
+  "ENDING_HAVENT_SEEN_ANOTHER_PERSON": "è da tanto che non vedo un'altra persona qua",
   // Implies that some separate SISTEMA has logged onto your account.
   "ENDING_SISTEMA_ACTION_ERROR": "<SISTEMA> That action can't be done because you are logged onto another computer.",
   "ENDING_YOU_ARE_OFFLINE": "<SISTEMA> Sei offline.",
