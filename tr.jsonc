@@ -618,7 +618,7 @@
   "ERROR_REPORT_BUTTON_2": "Gö<b><u>nd</u></b>erme?",
 
   // Translation Credits
-  "SHOW_TRANSLATION_CREDITS": false,
+  "SHOW_TRANSLATION_CREDITS": true,
   "CREDITS_TITLE": "Tuba Türker tarafından Türkçeye çevrilmiştir",
   // Put as many credits here as you want.
   // Please don't put a virus here :(
