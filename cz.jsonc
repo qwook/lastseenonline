@@ -5,7 +5,7 @@
   "NAME": "Čeština",
   "FONT_FAMILY": "PixeloidSans",
   "TITLE_TEXT": "last seen online",
-  "INTRO_TEXT_1": "Na garážovém výprodeji jsi našel starý počítac.",
+  "INTRO_TEXT_1": "Na garážovém výprodeji jsi našel starý počítač.",
   "INTRO_TEXT_2": "Rozhodl ses ho zapnout.",
   "CONTINUE_BUTTON": "pokračovat",
   "PASSWORD_TEXT": "Heslo:",
@@ -99,7 +99,7 @@
   ],
   "ETERNALJUICE_CHATLOG": [
     "<ETERNAL_JUICE>: a/s/l?",
-    "<LIZ>: je mi 14",
+    "<LIZ>: je mi jenom 14",
     "<ETERNAL_JUICE>: sladký nektar mládí, těším se až se k nám přidáš",
     "<LIZ>: co???"
   ],
@@ -142,7 +142,7 @@
     "<LIZ|CORRUPTED>: EMILY FUNGOVALO TO",
     "<EMMBER>: kdo jsi?",
     "<LIZ|CORRUPTED>: TO JSEM JA, LIZ!! FURT SE UCIM TO OVLADAT",
-    "<EMMBER>: poslouchej nevím co za debilní vtip tohle je, ale je to fakt hnusý. blokuju si tě."
+    "<EMMBER>: poslouchej, nevím co za debilní vtip tohle je, ale je to fakt hnusný. blokuju si tě."
   ],
   "ORION_CHATLOG": [
     "<LIZ>: ahoj, viděl jsi nový svět od jenni??",
@@ -191,7 +191,7 @@
   "VISUAL_NOVEL_WE_LIT_CANDLES_FOR_OUR_TRIBUTES": "zapálili jsme svíčky za naše holdy",
   "VISUAL_NOVEL_WE_GAZED_UPON_THE_FOUNTAIN": "sešli jsme se u fontány",
   "VISUAL_NOVEL_WE_FOUGHT_THE_LOST_BOYS": "bojovali jsme se ztracenýma dušema",
-  "VISUAL_NOVEL_WE_RESPECTED_THE_FOUR_FALLEN": "uctili jsme padlé",
+  "VISUAL_NOVEL_WE_RESPECTED_THE_FOUR_FALLEN": "uctili jsme čtyři padlé",
   "VISUAL_NOVEL_WE_SUNG_AWAY_OUR_AGE": "odzpívali jsme náš věk",
   "VISUAL_NOVEL_HOLD_ON_MY_MEMORY_IS_JUST_FUZZY": "moment.. nemůžu si vzpomenout...",
   "VISUAL_NOVEL_SURE_TAKE_YOUR_TIME_YOU_CAN_PROBABLY_FIND_SOMETHING_ON_YOUR_COMPUTER_TO_HELP_YOU_REFRESH_YOUR_MEMORY": "v pohodě. máš čas~ určitě najdeš v počítači něco, co ti pomůže si vzpomenout",
@@ -440,7 +440,7 @@
   "OTHER_WORLD_REGISTER": "Registrace",
   "OTHER_WORLD_EXIT": "Odejít",
   "OTHER_WORLD_BACK": "Zpět",
-  "OTHER_WORLD_INVITE_CODE": "Pozvánkovy kód",
+  "OTHER_WORLD_INVITE_CODE": "Pozvánkový kód",
   "OTHER_WORLD_CONTINUE": "Pokračovat",
   "OTHER_WORLD_USERNAME": "Uživatelské jméno",
   "OTHER_WORLD_PASSWORD": "Heslo",
@@ -460,7 +460,7 @@
   "OTHER_WORLD_CHAT_WELCOME": "<system> Vítejte v OtherWorld! Klikni na šipky pro pohyb po světě. Některé objekty jsou speciální, tak neváhej vše proklikat. Užij si pobyt zde :)",
   "OTHER_WORLD_CHAT_CREATION": "<system> Všechny výtvory jsou na dosah tvých rukou. O čem budeš snít?",
   "OTHER_WORLD_CHAT_NEXUS": "<system> Nexus, domov uživatelských světů. Nahraj svůj, nebo se připoj na svět již vytvořený!",
-  "OTHER_WORLD_CHAT_DISCO": "<system> Toto je diskotéka, nejživější místo v OtherWorld. Vstup na parket a najdi si nějaké prátele...!",
+  "OTHER_WORLD_CHAT_DISCO": "<system> Toto je diskotéka, nejživější místo v OtherWorldu. Vstup na parket a najdi si nějaké přátele...!",
   "OTHER_WORLD_CHAT_YOU_ARENT_LIZ": "[__orion__] ty nejsi liz...",
   "OTHER_WORLD_CHAT_SPHERE": "<system> Koule, reprezentuje Kreativitu. To nás drží nživu.",
   "OTHER_WORLD_CHAT_CUBE": "<system> Krychle, reprezentuje Komunitu. To nás všechny spojuje.",
@@ -544,7 +544,7 @@
   "ENDING_WITHOUT_THE_PLAYERS_WORLDS_ARE_GONE": "bez hráčů všechny světy zmizeli.",
   "ENDING_EVERYONE_RITUAL_DELETED_THEMSELVES": "nakonec se každý, kdo podstoupil rituál zkusil vymazat.",
   "ENDING_HOW_IS_A_SOUL_STORED_IN_A_FILESYSTEM": "ale jakým způsobem se duše uloží v souborech?",
-  "ENDING_I_HEAR_THEM": "občas slyším jejich křičení. jejich vědomí propojené s nějakým systémem",
+  "ENDING_I_HEAR_THEM": "občas slyším jejich křičení. jejich vědomí propojené s nějakým systémovým souborem",
   "ENDING_THIS_PLACE_IS_ALL_I_HAVE_LEFT": "toto místo je vše co mi zbylo.",
   "ENDING_ALL_THINGS_DETERIORATE_EVEN_THIS": "všechno se zhoršuje.",
   "ENDING_HOW_COULD_WE_HAVE_KNOWN": "jak jsme to měli vědět?",
@@ -596,14 +596,14 @@
   "ENDING_I_DONT_WANT_TO_BE_ALONE": "NECHCI BÝT SAMA",
 
   // Error Messages
-  "ENDING_ERROR_MEMORYBOUNDS_EXCEEDED": "Error: MemoryBounds Exceeded.",
-  "ENDING_ERROR_SEGMENTATION_FAULT": "Segmentation Fault.",
+  "ENDING_ERROR_MEMORYBOUNDS_EXCEEDED": "Chyba: Překročeny limity paměti.",
+  "ENDING_ERROR_SEGMENTATION_FAULT": "Chyba segmentace.",
 
   // Task Manager
-  "ENDING_TASK_MANAGER_TITLE": "Task Manager",
+  "ENDING_TASK_MANAGER_TITLE": "Správce úloh",
   "ENDING_TASK_MANAGER_WARNING": "Warning: High Memory Usage",
   "ENDING_TASK_MANAGER_PROGRAM": "Program",
-  "ENDING_TASK_MANAGER_USAGE": "Usage",
+  "ENDING_TASK_MANAGER_USAGE": "Využití",
 
   // Final Error Message
   "ERROR_REPORT_OTHER_WORLD_HAS_ENCOUNTERED_A_PROBLEM": "Other World has encountered a problem and needs to close. We are sorry for the inconvenience.",
@@ -615,42 +615,46 @@
 
   // Translation Credits
   "SHOW_TRANSLATION_CREDITS": true,
-  "CREDITS_TITLE": "English Translation",
+  "CREDITS_TITLE": "Český překlad",
   // Put as many credits here as you want.
   // Please don't put a virus here :(
   "CREDITS": [
     {
       "name": "Discord",
       "website": "https://discord.com/channels/1183870459687743590/1256010532914462740"
+    },
+    {
+      "name": "Eri",
+      "website": "https://nijika.dev"
     }
   ],
 
-  "CLICK_TO_REPLAY": "Click to Replay from Beginning",
+  "CLICK_TO_REPLAY": "Klikni pro restart od začátku",
 
   // April 23, additional lines:
-  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "<system> Something in the door changes... You've done something, or part of something...",
-  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "<system> The door unlocks.",
+  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "<system> Něco se na dveřích změnilo... Udělal jsi něco, nebo jen část něčeho...",
+  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "<system> Dveře se odemknou.",
 
   // June 24
-  "ORION_IS_TYPING": "__orion__ is typing...",
-  "SCROLL_TO_TOP": "Scroll to Top",
+  "ORION_IS_TYPING": "__orion__ píše...",
+  "SCROLL_TO_TOP": "Začátek",
   "SERVERS_EMPTY": "EMPTY",
-  "SERVERS_UPLOAD": "click here to upload world",
+  "SERVERS_UPLOAD": "klikni zde pro nahrání světa",
   "SERVERS_USER_WORLD": "<user world>",
-  "SERVERS_HOUSE_OF_BAPHOMET_LINE_1": "house of",
-  "SERVERS_HOUSE_OF_BAPHOMET_LINE_2": "baphomet",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_1": "dům",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_2": "baphometa",
 
-  "TRIBUTES_BOND_LINE_1": "whose bond",
-  "TRIBUTES_BOND_LINE_2": "do you trust",
-  "TRIBUTES_BOND_LINE_3": "the most?",
+  "TRIBUTES_BOND_LINE_1": "čí pouto",
+  "TRIBUTES_BOND_LINE_2": "věříš",
+  "TRIBUTES_BOND_LINE_3": "nejvíce?",
 
-  "TRIBUTES_UNREQUITED_LINE_1": "who is your",
-  "TRIBUTES_UNREQUITED_LINE_2": "unrequited",
-  "TRIBUTES_UNREQUITED_LINE_3": "desire?",
+  "TRIBUTES_UNREQUITED_LINE_1": "kdo je tvou",
+  "TRIBUTES_UNREQUITED_LINE_2": "neopětovanou",
+  "TRIBUTES_UNREQUITED_LINE_3": "touhou?",
 
-  "TRIBUTES_FATE_LINE_1": "who is the",
-  "TRIBUTES_FATE_LINE_2": "sole controller",
-  "TRIBUTES_FATE_LINE_3": "of your fate?",
+  "TRIBUTES_FATE_LINE_1": "kdo je",
+  "TRIBUTES_FATE_LINE_2": "jediným vládcem",
+  "TRIBUTES_FATE_LINE_3": "tvého osudu?",
 
   // Ignore this last line, it's so each line can have a comma at the end.
   "": null
