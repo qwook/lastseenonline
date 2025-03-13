@@ -170,7 +170,7 @@
   "VISUAL_NOVEL_WELL_GLAD_YOURE_BACK_IVE_MISSED_YOU": "no. jsem rád že jsi zpátky. chybělas mi.",
   "VISUAL_NOVEL_IVE_MISSED_YOU_TOO": "taky jsi mi chyběl",
   "VISUAL_NOVEL_CAN_YOU_REMIND_ME_WHO_THIS_IS": "kdo že vlastně jsi?",
-  "VISUAL_NOVEL_ITS_ORION_WE_USED_TO_BE_GOOD_FRIENDS_IM_SURPRISED_YOU_DONT_REMEMBER_ME_THATS_FINE": "to jsem já orion! byli jsme dobří přátelé. divím se, že si nevzpomínáě. ale to je v poho!",
+  "VISUAL_NOVEL_ITS_ORION_WE_USED_TO_BE_GOOD_FRIENDS_IM_SURPRISED_YOU_DONT_REMEMBER_ME_THATS_FINE": "to jsem já orion! byli jsme dobří přátelé. divím se, že si nevzpomínáš. ale to je v poho!",
   "VISUAL_NOVEL_ANYTHING_I_CAN_HELP_YOU_WITH": "můžu ti s něčím pomoct?",
   "VISUAL_NOVEL_DO_YOU_KNOW_THE_PASSCODE_FOR_PHOTOS4EMZIP": "nevíš heslo od photos4em.zip?",
   "VISUAL_NOVEL_HMM_I_DONT_REMEMBER_TRY_DIGGING_THROUGH_YOUR_OLD_CHATLOGS_MAYBE_YOU_SENT_IT_TO_SOMEONE": "hmm... nepamatuju si, podívej se do starých chatů. možná jsi o tom někomu psala",
@@ -496,15 +496,15 @@
   // "Dreadfully distinct against the dark" is a reference to Blade Runner 2049: https://youtu.be/ZRcpnM26nJM?t=17
   "OTHER_WORLD_FOUNTAIN_PUZZLE_INTRO": "<system> Leptáme dál, úmorně naproti temnotám. Kaligrafie v krvi, fontána nakreslí svůj znak. Dopisy pro milované, dopisy formované tokem. Cihlu za cihlou mačkáme, dokud čas neuplyne.",
   "OTHER_WORLD_FOUNTAIN_PUZZLE_SOLVED": "<system> Objeví se dveře.",
-  "OTHER_WORLD_TRIBUTE_PUZZLE_1": "kterému poutu nejvíce věříš?",
-  "OTHER_WORLD_TRIBUTE_PUZZLE_2": "kdo je tvá nenaplněná touh?",
-  "OTHER_WORLD_TRIBUTE_PUZZLE_3": "kdo jako jediný vlastní tvůj osud?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_1": "čímu poutu věříš nejvíce?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_2": "kdo je tvou neopětovanou touhou?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_3": "kdo je jediným vládcem tvého osudu?",
   "OTHER_WORLD_TRIBUTE_PUZZLE_FAILURE": "<system> Nic se nestalo. Možná tvůj hold nereprezentuje tvé pravé pocity?",
   "OTHER_WORLD_TRIBUTE_PUZZLE_SUCCESS": "<system> Tvůj hold byl přijat.",
 
   "ENDING_WARNING": "VAROVÁNÍ! Hold se neshoduje s životní aurou. Přehřívání.",
   // Liz:
-  "ENDING_HOW_LONG_HAS_IT_BEEN": "jak... je to dlouho ?",
+  "ENDING_HOW_LONG_HAS_IT_BEEN": "jak... je to dlouho?",
   "ENDING_THANK_U_FOR_UPLOADING_THOSE_PICTURES": "díky žes nahrál ty obrázky",
   "ENDING_WONDERED_IF_I_WOULD_SEE_THEM": "zajímalo mě, jestli ještě uvidím jejich obličeje",
   "ENDING_I_EVEN_FORGOT_WHAT_I_USED_TO_LOOK_LIKE": "už si ani nevzpomínám jak jsem já sama vypadala...",
