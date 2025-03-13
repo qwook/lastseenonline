@@ -462,7 +462,7 @@
   "OTHER_WORLD_CHAT_NEXUS": "<system> Nexus, domov uživatelských světů. Nahraj svůj, nebo se připoj na svět již vytvořený!",
   "OTHER_WORLD_CHAT_DISCO": "<system> Toto je diskotéka, nejživější místo v OtherWorldu. Vstup na parket a najdi si nějaké přátele...!",
   "OTHER_WORLD_CHAT_YOU_ARENT_LIZ": "[__orion__] ty nejsi liz...",
-  "OTHER_WORLD_CHAT_SPHERE": "<system> Koule, reprezentuje Kreativitu. To nás drží nživu.",
+  "OTHER_WORLD_CHAT_SPHERE": "<system> Koule, reprezentuje Kreativitu. To nás drží naživu.",
   "OTHER_WORLD_CHAT_CUBE": "<system> Krychle, reprezentuje Komunitu. To nás všechny spojuje.",
   "OTHER_WORLD_CHAT_PYRAMID": "<system> Jehlan, reprezentuje Strukturu. To nás drží pohromadě.",
   "OTHER_WORLD_CHAT_DISCO_BALL": "<system> Protanči celou noc! OtherWorld je vždy plný hráčů na seznámení a na tanec.",
@@ -601,7 +601,7 @@
 
   // Task Manager
   "ENDING_TASK_MANAGER_TITLE": "Správce úloh",
-  "ENDING_TASK_MANAGER_WARNING": "Warning: High Memory Usage",
+  "ENDING_TASK_MANAGER_WARNING": "Upozornění: Vysoké využití paměti",
   "ENDING_TASK_MANAGER_PROGRAM": "Program",
   "ENDING_TASK_MANAGER_USAGE": "Využití",
 
@@ -644,7 +644,7 @@
   "SERVERS_HOUSE_OF_BAPHOMET_LINE_1": "dům",
   "SERVERS_HOUSE_OF_BAPHOMET_LINE_2": "baphometa",
 
-  "TRIBUTES_BOND_LINE_1": "čí pouto",
+  "TRIBUTES_BOND_LINE_1": "čímu poutu",
   "TRIBUTES_BOND_LINE_2": "věříš",
   "TRIBUTES_BOND_LINE_3": "nejvíce?",
 
@@ -655,6 +655,24 @@
   "TRIBUTES_FATE_LINE_1": "kdo je",
   "TRIBUTES_FATE_LINE_2": "jediným vládcem",
   "TRIBUTES_FATE_LINE_3": "tvého osudu?",
+
+  
+  // June 27
+  "VIDEO_CALL_INCOMING_CALL": "Příchozí hovor",
+  "CONSCIOUSNESS_TRIANGULATION": "Triangulace vědomí",
+  "ENDING_POPUP_OFFLINE": "Offline",
+
+  "SETTINGS_TITLE": "Nastavení",
+  "SETTINGS_FULLSCREEN": "Celá obrazovka",
+  "SETTINGS_MASTER_VOLUME": "Hlavní hlasitost",
+  "SETTINGS_SFX_VOLUME": "Hlasitost SFX",
+  "SETTINGS_MUSIC_VOLUME": "Hlasitost hudby",
+  "SETTINGS_LANGUAGE": "Jazyk",
+  "SETTINGS_DELETE_SAVE": "Vymazat uloženou hru",
+  "SETTINGS_QUIT_GAME": "Zavřít hru",
+
+  "OTHER_WORLD_CANDLES": "<system> Tři svíčky... ale jak je zapálit?",
+  "OTHER_WORLD_DOOR_PUZZLE_FRAME_KNOCK": "<system> Dveře jsou příliš tlusté na to, aby vydaly slušný zvuk, když na ně boucháš rukama. Možná můžeš použít klepadla.",
 
   // Ignore this last line, it's so each line can have a comma at the end.
   "": null
