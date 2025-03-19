@@ -672,6 +672,9 @@
   "OTHER_WORLD_CANDLES": "<system> Three candles... But how to light them?",
   "OTHER_WORLD_DOOR_PUZZLE_FRAME_KNOCK": "<system> The door is too thick to make any decent sound with your hands. Perhaps you can use the door knockers.",
 
+  // Mar 19, 2025
+  "ENDING_UPLOADING_WEBCAM": "<system> Uploading... \"__orion__WEBCAM_CAPTURE.mp4\"",
+
   // Ignore this last line, it's so each line can have a comma at the end.
   "": null
 }
