@@ -666,7 +666,7 @@
   "SETTINGS_SFX_VOLUME": "SFX Volume",
   "SETTINGS_MUSIC_VOLUME": "Music Volume",
   "SETTINGS_LANGUAGE": "Language",
-  "SETTINGS_DELETE_SAVE": "Delete Save",
+  "SETTINGS_DELETE_SAVE": "Restart from the Beginning",
   "SETTINGS_QUIT_GAME": "Quit Game",
 
   "OTHER_WORLD_CANDLES": "<system> Three candles... But how to light them?",
@@ -674,6 +674,10 @@
 
   // Mar 19, 2025
   "ENDING_UPLOADING_WEBCAM": "<system> Uploading... \"__orion__WEBCAM_CAPTURE.mp4\"",
+
+  // May 12, 2025
+  "WARNING": "WARNING",
+  "TRIGGER_WARNING": "This is a psychological horror game and is not suitable for children or those who are easily disturbed.",  
 
   // Ignore this last line, it's so each line can have a comma at the end.
   "": null
