@@ -13,7 +13,7 @@
   "INTRO_TEXT_2": " さっそく起動してみましょう。 ",
   "CONTINUE_BUTTON": "次へ",
   "PASSWORD_TEXT": "パスワードを入力",
-  "PASSWORD_HINT": "ヒント: もこもこな男の子の名前と私の生まれた年",
+  "PASSWORD_HINT": "ヒント: ふわふわな男の子の名前と私の生まれた年",
   // Optional:
   "LOGGING_IN": "ログインしています。",
   // Optional:
@@ -26,7 +26,7 @@
   "DESKTOP_SHORTCUT_OTHER_WORLD": "Other World",
   "DESKTOP_SHORTCUT_ZIP": "photos4em.zip",
   "UNZIPPER_TITLE": "UnZipper - photos4em.zip",
-  "UNZIPPER_TEXT": "ファイルはパスコードで保護されています。　　　　　　　　　　4桁の数字を半角で入力してください。",
+  "UNZIPPER_TEXT": "ファイルはパスコードで保護されています。4桁の数字を半角で入力してください。",
   "UNZIPPER_UNLOCK_BUTTON": "解除",
   "UNZIPPER_INCORRECT_PASSWORD": "パスコードが違います。もう一度お試しください。",
   // Optional:
@@ -45,21 +45,21 @@
   // <SYSTEM> colors the line of chat gray.
   // <...ANYTHING ElSE> colors the line of chat red.
   "LAWSON_CHATLOG": [
-    "<LAWSON>: やほ！ 調子はどう？",
-    "<LIZ>: 良いかんじ。",
-    "<LAWSON>: ほんとに？ 今なにしてる？",
-    "<LIZ>: 何もしてない！ 音楽聴いたりゲームしてるだけ！ そっちは何してるの？",
-    "<LAWSON>: ここの居心地が良くてね、何もしてない！ でも、そろそろ二次方程式のテスト勉強しないと...ママに殺されちゃう...。",
+    "<LAWSON>: やほ^^ 調子はどう？",
+    "<LIZ>: 良いかんじ(*ﾟーﾟ)",
+    "<LAWSON>: ほんと？ 今なにしてるのー？",
+    "<LIZ>: 何もしてない_(:3 」∠)_  音楽聴いたりゲームしてるだけだよ そっちはどんな感じ？",
+    "<LAWSON>: ここの居心地が良くてね(o^^o) でも、そろそろ二次方程式のテスト勉強しないと...ママに殺されちゃう...。",
     "<LIZ>: それは大変だね...。 この前もママに怒られてなかった？",
     "<LAWSON>: うん...でも、今回はもっとうまくやれると思う。",
-    "<LIZ>: 私のママも最近、色々急かしてくるんだ...あなたは頑張ってるよ、ママに負けないで！！",
+    "<LIZ>: 私のママも最近、色々急かしてくるんだ(T_T) あなたは頑張ってるよ、ママに負けないで！！",
     "<LAWSON>: 君も？？？ 詳しく聞かせてよ！！",
-    "<LIZ>: 私はパパにそっくりだって！ パパがママを捨てたのは私のせいじゃないのに...。毎日毎日怒鳴って...私じゃ不十分だって...。",
+    "<LIZ>: 私はパパにそっくりだって...。 パパがママを捨てたのは私のせいじゃないのに...。毎日毎日怒鳴って、私じゃ不十分だって...。",
     "<LAWSON>: それは...大変だね...。ああ、僕も父に会うのは久しぶりだ...どうしてるんだろう...。",
-    "<LAWSON>: またね。君と話すのは本当に楽しいよ...おやすみ！",
+    "<LAWSON>: またねﾉｼ 君と話すのは本当に楽しいよ...おやすみ！ ( ˘ω˘)ｽﾔｧ",
     "<SYSTEM>: aznL4ws0n は現在オフラインです。",
     "<SYSTEM>: aznL4ws0n は現在オンラインです。",
-    "<LAWSON>: やぁ、二次方程式の宿題はもう終わった？",
+    "<LAWSON>: やぁ^^ 二次方程式の宿題はもう終わった？",
     "<SYSTEM>: aznL4ws0n は現在オフラインです。",
     "<SYSTEM>: aznL4ws0n は現在オンラインです。",
     "<LAWSON>: 学校でいろいろ言われてるけど、大丈夫？",
@@ -71,7 +71,7 @@
     "<LAWSON>: 心配だよ...。",
     "<SYSTEM>: aznL4ws0n は現在オフラインです。",
     "<SYSTEM>: aznL4ws0n は現在オンラインです。",
-    "<LAWSON>: 二次方程式のテストはC+だったよ...。",
+    "<LAWSON>: 二次方程式のテストはC+だったよ;;",
     "<SYSTEM>: aznL4ws0n は現在オフラインです。",
     "<SYSTEM>: aznL4ws0n は現在オンラインです。",
     "<LAWSON>: 今日、ママとケンカしたんだ。でも、僕は大丈夫だよ...。君が元気でいることを願ってる。",
@@ -80,7 +80,7 @@
     "<LAWSON>: 私たちが目指していた学校に合格しました♡",
     "<SYSTEM>: aznL4ws0n は現在オフラインです。",
     "<SYSTEM>: aznL4ws0n は現在オンラインです。",
-    "<LAWSON>: 今日、犬を見たんだ。scottyによく似ていたよ！！",
+    "<LAWSON>: 今日、犬を見たんだ。scottyによく似ていたよ^o^",
     "<SYSTEM>: aznL4ws0n は現在オフラインです。"
   ],
   "SCOTT_CHATLOG": [
@@ -611,7 +611,7 @@
   "ENDING_TASK_MANAGER_USAGE": "使用率",
 
   // Final Error Message
-  "ERROR_REPORT_OTHER_WORLD_HAS_ENCOUNTERED_A_PROBLEM": "Other Worldに問題が発生したため、終了されました。　　　　　　　　　　　　ご迷惑をおかけし、大変申し訳ございません。",
+  "ERROR_REPORT_OTHER_WORLD_HAS_ENCOUNTERED_A_PROBLEM": "Other Worldに問題が発生したため、終了されました。ご迷惑をおかけし、大変申し訳ございません。",
   "ERROR_REPORT_IF_YOU_WERE_IN_THE_MIDDLE_OF_SOMETHING": "もし何かの作業中だった場合、保存していないデータは失われる可能性があります。",
   "ERROR_REPORT_PLEASE_TELL_OTHER_WORLD_ABOUT_THIS_PROBLEM": "この問題をOther Worldに報告してください。",
   "ERROR_REPORT_WE_HAVE_CREATED_AN_ERROR_REPORT": "エラーレポートを作成しました。この報告書は機密扱いとし、匿名で送信されます。",
@@ -679,6 +679,13 @@
 
   "OTHER_WORLD_CANDLES": "<system> 3本の蝋燭... いかにして火を灯す？",
   "OTHER_WORLD_DOOR_PUZZLE_FRAME_KNOCK": "<system> 分厚いドアだ。手だけでは、まともな音を出すことができない。ドアノッカーを使うと良い。",
+
+  // Mar 19, 2025
+  "ENDING_UPLOADING_WEBCAM": "<system> アップロード中... \"__orion__WEBCAM_CAPTURE.mp4\"",
+
+  // May 12, 2025
+  "WARNING": "注意",
+  "TRIGGER_WARNING": "これはサイコロジカルホラーゲームです。お子様や精神的に不安定になりやすい方には適していません。",
 
   // Ignore this last line, it's so each line can have a comma at the end.
   "": null
