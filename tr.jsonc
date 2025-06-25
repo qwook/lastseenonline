@@ -1,0 +1,676 @@
+// I've documented a couple things here.
+// You don't have to translate everything, but I included
+// as much as I can just in case.
+{
+  "NAME": "Türkçe",
+  "FONT_FAMILY": "PixeloidSans, MadouFutoMaruGothic, PixelArial11",
+  "TITLE_SPACING": 1.0,
+  "TITLE_TEXT": "last seen online",
+  // INTRO_TEXT_1 and INTRO_TEXT_2 ideally should have the same
+  // letters as TITLE_TEXT but it's okay if not.
+  // I will program in a way for it to work without.
+  "INTRO_TEXT_1": "garaj satışında eski bir bilgisayar bulursun.",
+  "INTRO_TEXT_2": "ve çalıştırmaya karar verirsin.",
+  "CONTINUE_BUTTON": "devam et",
+  "PASSWORD_TEXT": "Şifre:",
+  "PASSWORD_HINT": "İpucu: minik tüylü dostumun adı ve doğum yılım",
+  // Optional:
+  "LOGGING_IN": "oturum açılıyor...",
+  // Optional:
+  "WELCOME_BACK": "hoşgeldiniz...",
+  "DESKTOP_SHORTCUT_BUDDYLIST": "Arkadaş Listesi",
+  // Don't change LoseAmp Player name.
+  // Kept here for consistency.
+  "DESKTOP_SHORTCUT_LOSEAMP_PLAYER": "LoseAmp Player",
+  "DESKTOP_SHORTCUT_OTHER_WORLD": "Other World",
+  "DESKTOP_SHORTCUT_ZIP": "emefotolar.zip",
+  "UNZIPPER_TITLE": "UnZipper - emefotolar.zip",
+  "UNZIPPER_TEXT": "Bu ZIP dosyası 4 haneli parola ile korunmaktadır.",
+  "UNZIPPER_UNLOCK_BUTTON": "Aç",
+  "UNZIPPER_INCORRECT_PASSWORD": "Yanlış parola. Tekrar deneyiniz.",
+  // Optional:
+  "BUDDYLIST_SIGN_ON": "Giriş Yap",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_1": "1. Kayıtlı parola kullanılıyor...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_2": "2. Bağlanılıyor...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_3": "3. Servisler başlatılıyor...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_4": "4. Bağlandı.",
+  "BUDDYLIST_CHAT_WINDOW_TITLE": "{0} - Sohbet",
+  "USER_IS_OFFLINE": "kullanıcı çevrimdışı, aktif olana dek bekleyiniz",
+  // <LIZ> colors the line of chat blue.
+  // <SYSTEM> colors the line of chat gray.
+  // <...ANYTHING ElSE> colors the line of chat red.
+  "LAWSON_CHATLOG": [
+    "<LAWSON>: slm :) nbr?",
+    "<LIZ>: iyi",
+    "<LAWSON>: sadece iyi mi?? başka neler yapıyosun?",
+    "<LIZ>: bir şey yaptığım yok!! müzik falan dinleyip oyun oynuyorum.. sen napıyosun??",
+    "<LAWSON>: ben de iyiyim... matematik sınavına çalışmam lazım yoksa annem beni öldüreceek",
+    "<LIZ>: geçen annen sana kızmamış mıydı?",
+    "<LAWSON>: evt... ama bu sefer sınavda daha iyi yapacağıma inanıyorum",
+    "<LIZ>: :((( elinden geleni yapıyorsun zaten!! anneni kafana takma. benim annem de bu aralar beni darlıyor...",
+    "<LAWSON>: seninki de mi??? ne oldu ki!!",
+    "<LIZ>: sürekli tıpkı babama benzediğimi söylüyor... babamın onu terk etmesi benim suçum değil.... her gün bağırıp çağırıyor.. onu bir türlü memnun edemiyorum...",
+    "<LAWSON>: :( anlıyorum... benim de babamı görmeyeli uzun zaman oldu.. acaba ne yapıyor...",
+    "<LAWSON>: her neyse, seninle konuşmak çok keyifliydi ama şimdi gitmem lazım... iyi geceler!!",
+    "<SYSTEM>: aznL4ws0n çevrimdışı",
+    "<SYSTEM>: aznL4ws0n çevrimiçi",
+    "<LAWSON>: matematik ödevini yaptın mı?",
+    "<SYSTEM>: aznL4ws0n çevrimdışı",
+    "<SYSTEM>: aznL4ws0n çevrimiçi",
+    "<LAWSON>: slm okulda bazı şeyler duydum, iyi misin?",
+    "<SYSTEM>: aznL4ws0n çevrimdışı",
+    "<SYSTEM>: aznL4ws0n çevrimiçi",
+    "<LAWSON>: konuşmak istemediğinin farkındayım sadece iyi misin değil misin onu merak ediyorum",
+    "<SYSTEM>: aznL4ws0n çevrimdışı",
+    "<SYSTEM>: aznL4ws0n çevrimiçi",
+    "<LAWSON>: seni özledim",
+    "<SYSTEM>: aznL4ws0n çevrimdışı",
+    "<SYSTEM>: aznL4ws0n çevrimiçi",
+    "<LAWSON>: matematik sınavından C+ aldım :(",
+    "<SYSTEM>: aznL4ws0n çevrimdışı",
+    "<SYSTEM>: aznL4ws0n çevrimiçi",
+    "<LAWSON>: bugün annemle kavga ettim, ama sorun değil.. umarım iyisindir.",
+    "<SYSTEM>: aznL4ws0n çevrimdışı",
+    "<SYSTEM>: aznL4ws0n çevrimiçi",
+    "<LAWSON>: hayalimizdeki okula kabul edildim! <3",
+    "<SYSTEM>: aznL4ws0n is çevrimdışı",
+    "<SYSTEM>: aznL4ws0n is çevrimiçi",
+    "<LAWSON>: bugün bir köpek gördüm. tıpkı scotty'ye benziyordu :)",
+    "<SYSTEM>: aznL4ws0n is çevrimdışı"
+  ],
+  "SCOTT_CHATLOG": [
+    "<SCOTT>: merhaba. ben Other World'den scott. beni mi eklemek istemiştin?",
+    "<LIZ>: evt!! (=^o^=) bahsettiğin şu ritüel hakkında düşünüyordum. buradan gitmeme yardımcı olacak mı?",
+    "<SCOTT>: ha evet. baphomet ritüeli. ama ben daha çok evrenin konami kodu olarak tanımlıyorum. bedenen gitmeni sağlamayacak fakat bilincini.. yani kodunu... aydınlığa ulaştıracak. sana sonsuza dek bu aydınlığı gösterebilirim.",
+    "<LIZ>: hmm anladım bu arada köpeğimle adlarınız aynı hahaha",
+    "<SYSTEM>: scottNJ çevrimdışı",
+    "<SYSTEM>: scottNJ çevrimiçi",
+    "<SCOTT>: oyundan attığım link geldi mi?",
+    "<LIZ>: sadece bu kadar mı??? işe yaradığına emin misin???",
+    "<SCOTT>: yardım etmemi isteyen sendin. ebedi kutsallığa giden yol burada saklı. ebedi mutluluğu istiyor musun istemiyor musun?",
+    "<SYSTEM>: scottNJ çevrimdışı",
+    "<SYSTEM>: scottNJ çevrimiçi",
+    "<SCOTT>: süreç başladı, hazır mısın?",
+    "<LIZ>: evt... fakat birazcık korkuyorum",
+    "<SCOTT>: korkma, ufaklık. yakında görüşeceğiz",
+    "<SYSTEM>: scottNJ çevrimdışı",
+    "<SYSTEM>: scottNJ çevrimiçi",
+    "<LIZ|CORRUPTED>: BENİ TERK ETMEYECEĞİNE SÖZ VERMİŞTİN"
+  ],
+  "ETERNALJUICE_CHATLOG": [
+    "<ETERNAL_JUICE>: yaş kaç?",
+    "<LIZ>: 14",
+    "<ETERNAL_JUICE>: gençliğinin baharındaymışsın, bize katılmanı sabırsızlıkla bekliyorum",
+    "<LIZ>: ne???"
+  ],
+  "EMMBER_CHATLOG": [
+    "<LIZ>: offf lawson çoook tatlı :(:(:(:(:(",
+    "<EMMBER>: neden çıkma teklifi etmiyorsun!!!",
+    "<LIZ>: benden hoşlanmasının imkanı yok... güzel değilim",
+    "<EMMBER>: saçmalama!! çok güzelsin......",
+    "<LIZ>: =.= annem burnumun onunkine benzemediğini söylüyor, babam gibi büyük burunluymuşum.! nefret ediyorum",
+    "<EMMBER>: sen ona bakma, fıstıkk gibisin d(^_^)z",
+    "<LIZ>: kaçıp gitmek istiyorum emmmm... bu dünyadan nefret ediyorum",
+    "<EMMBER>: :( lawson seni sevmese bile ben seni sonsuza kadar seveceğim!!! BFF!!!",
+    "<SYSTEM>: xXemmberXx86 çevrimdışı",
+    "<SYSTEM>: xXemmberXx86 çevrimiçi",
+    "<LIZ>: annem bilgisayarıma el koydu. ama bir şekilde mesaj yazmanın yolunu buldum em.",
+    "<EMMBER>: özürr ders çalışıyordum, neler oluyor?? annen çok tuhaf!!",
+    "<SYSTEM>: xXemmberXx86 çevrimdışı",
+    "<SYSTEM>: xXemmberXx86 çevrimiçi",
+    "<EMMBER>: liz 2 haftadır konuşmuyoruz, neler yapıyosun??",
+    "<LIZ>: özürr!! otherworldden tanıştığım arkadaşlarımla takılıyordum!!",
+    "<SYSTEM>: xXemmberXx86 çevrimdışı",
+    "<SYSTEM>: xXemmberXx86 çevrimiçi",
+    "<LIZ>: sonunda başardım. sonsuza dek buradan gitmenin yolunu buldum.",
+    "<EMMBER>: hahaha nereye gidiyon? paris mi?",
+    "<LIZ>: sana gönderdiğim fotoğraflar geldi mi?",
+    "<LIZ>: dün bu aşamaları orion için gerçekleştirdik.. yakında özgür olacağım.",
+    "<EMMBER>: ZIP dosyasını mı diyorsun? ama 4 haneli parola istiyor.",
+    "<LIZ>: -_- parola LoseAmp çalma listemdeki dört şarkıda saklı!!",
+    "<EMMBER>: anlamadım... 8 tane şarkı var.",
+    "<LIZ>: halen daha bff <b>masaüstü arkaplanımızı</b> mı kullanıyorsun?? LoseAmp dışındaki bütün pencereleri kapatman lazım!!! arkaplan sana sıralamayı gösterecek.",
+    "<EMMBER>: O_O !! saçmalıyosun!! oha <b>pencereyi üzerine sürükledim.</b> şimdi ne yapacağım??",
+    "<LIZ>: şarkı sözlerini dinle!!",
+    "<EMMBER>: ooooOOo çok zekisin ^_^",
+    "<EMMBER>: oha sende neden lawson'ın fotoğrafı var??",
+    "<LIZ>: AYYYy YANLIŞLIKLA İNDİRMİŞİM!!!",
+    "<EMMBER>: ... bu resimler bi garip...",
+    "<LIZ>: hoşuna gitti mi?",
+    "<SYSTEM>: xXemmberXx86 çevrimdışı",
+    "<SYSTEM>: xXemmberXx86 çevrimiçi",
+    "<LIZ|CORRUPTED>: EMILY İŞE YARADI",
+    "<EMMBER>: kimsiniz?",
+    "<LIZ|CORRUPTED>: BENİM, LIZ!! HALEN DAHA NASIL BUNU KONTROL EDECEĞİMİ ÖĞRENİYORUM",
+    "<EMMBER>: bak, ne tür bir eşek şakası yapıyorsun bilmiyorum ama artık b*kunu çıkardın. seni engelliyorum."
+  ],
+  "ORION_CHATLOG": [
+    "<LIZ>: slm jenni'nin yeni dünyasını gördün mü??",
+    "<ORION>: evt aşırı iyi olmuş. yaparken baya zaman harcamış.",
+    "<LIZ>: bir ara ben de onunki gibi bir dünya yapacağım",
+    "<ORION>: hahaha umarım yapabilirsin",
+    "<ORION>: bulduğum şu şeye bak: RED_HERRING_EXE",
+    "<LIZ>: ohaa?? bu other worldden mi???",
+    "<ORION>: hayır bir resim projesi, oyunla bir alakası olduğunu sanmıyorum.",
+    "<SYSTEM>: __orion__ is çevrimdışı",
+    "<SYSTEM>: __orion__ is çevrimiçi",
+    "<ORION>: otherworld'ün sohbet kısmına /info yazmayı denedin mi?? kaç saat aktif olduğunu gösteriyor",
+    "<LIZ>: rezillik...... 849 saat...",
+    "<SYSTEM>: __orion__ is now çevrimdışı",
+    "<SYSTEM>: __orion__ is now çevrimiçi",
+    "<ORION>: OLDU!!! HEMEN OTHERWORLDE GİR!!!",
+    "<SYSTEM>: __orion__ is now çevrimdışı",
+    "<SYSTEM>: __orion__ is now çevrimiçi"
+  ],
+  "VISUAL_NOVEL_HEY_IS_THIS_LIZ": "slm?? liz sen misin???",
+  "VISUAL_NOVEL_YEAH_THIS_IS_LIZ": "evet.. benim...",
+  "VISUAL_NOVEL_OH_INTERESTING_SO_STRANGE_TO_SEE_YOU_HERE": "ilginç... seni burada görmeyi beklemiyordum",
+  "VISUAL_NOVEL_UM_YEAH_JUST_TOOK_A_LONG_BREAK": "ha evet... bir süreliğine ortalıkta yoktum.",
+  "VISUAL_NOVEL_I_DONT_KNOW_WHAT_YOU_MEAN": "ne demek istediğini anlamadım...",
+  "VISUAL_NOVEL_WELL_GLAD_YOURE_BACK_IVE_MISSED_YOU": "boşver sorun değil. geri dönmene sevindim. seni çok özledim.",
+  "VISUAL_NOVEL_IVE_MISSED_YOU_TOO": "ben de seni özledim",
+  "VISUAL_NOVEL_CAN_YOU_REMIND_ME_WHO_THIS_IS": "pardon sizi tanıyamadım?",
+  "VISUAL_NOVEL_ITS_ORION_WE_USED_TO_BE_GOOD_FRIENDS_IM_SURPRISED_YOU_DONT_REMEMBER_ME_THATS_FINE": "ben orion! eskiden çok iyi arkadaştık. beni hatırlamamana çok şaşırdım. ama önemli değil!",
+  "VISUAL_NOVEL_ANYTHING_I_CAN_HELP_YOU_WITH": "yardım edebileceğim bir şey var mı?",
+  "VISUAL_NOVEL_DO_YOU_KNOW_THE_PASSCODE_FOR_PHOTOS4EMZIP": "emefotolar.zip dosyasının parolasını biliyor musun?",
+  "VISUAL_NOVEL_HMM_I_DONT_REMEMBER_TRY_DIGGING_THROUGH_YOUR_OLD_CHATLOGS_MAYBE_YOU_SENT_IT_TO_SOMEONE": "hmm... hatırlamıyorum, eski mesajlaşmalarına bir göz at. belki birisine göndermiş olabilirsin",
+  "VISUAL_NOVEL_OKAY_ILL_TRY_THAT_OUT": "tamam.. bakarım",
+  "VISUAL_NOVEL_WHATS_OTHER_WORLD": "Other World ne?",
+  "VISUAL_NOVEL_YOU_GOTTA_BE_JOKING_YOU_DONT_REMEMBER_ITS_THE_GAME_WE_PLAYED_WHEN_WE_WERE_KIDS_ARE_YOU_SURE_THIS_IS_LIZ": "dalga mı geçiyorsun! hatırlamıyor musun? çocukken oynadığımız oyunun adı. sen gerçekten liz misin?",
+  "VISUAL_NOVEL_YES_IM_SURE_HOW_DO_I_GET_IN": "evet... benim. oyuna nasıl giriş yapabilirim?",
+  "VISUAL_NOVEL_JUST_TO_MAKE_SURE_YOU_ARE_WHO_YOU_SAY_YOU_ARE_CAN_YOU_TELL_ME_THE_ORDER_OF_THE_FOUR_EVENTS_DURING_OUR_FINAL_RITUAL": "sadece liz olup olmadığından emin olmak için soruyorum... son ritüelimizde yaptığımız dört şeyi sıralayabilir misin?",
+  "VISUAL_NOVEL_ILL_TRY_TO_REMEMBER": "bir düşüneyim...",
+  "VISUAL_NOVEL_I_DONT_REMEMBER": "hatırlamıyorum",
+  "VISUAL_NOVEL_THAT_S_OKAY_TAKE_YOUR_TIME": "sorun yok, acele etme",
+  "VISUAL_NOVEL_OKAY": "tamam",
+  "VISUAL_NOVEL_SO_REMIND_ME_WHAT_HAPPENED": "o zaman söyle bakalım ilk ne yapmıştık?",
+  "VISUAL_NOVEL_THAT_MIGHT_BE_RIGHT_THAT_MIGHT_BE_WRONG_WHAT_NEXT": "doğru da olabilir, yanlış da olabilir. sonrasında ne yaptık?",
+  "VISUAL_NOVEL_OK_COULD_BE_WHAT_HAPPENED_BUT_I_WONT_TELL_YOU_WHAT_THEN": "hadi diyelim ki onu da yaptık. ondan sonra?",
+  "VISUAL_NOVEL_AND_FINALLY": "peki en son ne yaptık?",
+  "VISUAL_NOVEL_WE_BLESSED_THE_STATUE": "heykeli kutsadık",
+  "VISUAL_NOVEL_WE_LIT_CANDLES_FOR_OUR_TRIBUTES": "şükranlarımızı sunmak için mum yaktık",
+  "VISUAL_NOVEL_WE_GAZED_UPON_THE_FOUNTAIN": "bir süreliğine çeşmeyi izledik",
+  "VISUAL_NOVEL_WE_FOUGHT_THE_LOST_BOYS": "kaybolmuş çocuklarla mücadele ettik",
+  "VISUAL_NOVEL_WE_RESPECTED_THE_FOUR_FALLEN": "ölen dört dostumuza saygılarımızı sunduk",
+  "VISUAL_NOVEL_WE_SUNG_AWAY_OUR_AGE": "gençliğimize ağıtlar söyledik",
+  "VISUAL_NOVEL_HOLD_ON_MY_MEMORY_IS_JUST_FUZZY": "bir dakika.. şu an tam olarak hatırlayamadım...",
+  "VISUAL_NOVEL_SURE_TAKE_YOUR_TIME_YOU_CAN_PROBABLY_FIND_SOMETHING_ON_YOUR_COMPUTER_TO_HELP_YOU_REFRESH_YOUR_MEMORY": "tabii. acele etmene gerek yok~ bilgisayarında hatırlamana yardımcı olacak şeyler bulabilirsin",
+  "VISUAL_NOVEL_THANKS_ILL_TRY_AGAIN": "teşekkürler... bir bakayım",
+  "VISUAL_NOVEL_I_DONT_THINK_THATS_IT": "öyle yaptığımızı pek sanmıyorum...",
+  "VISUAL_NOVEL_HMM_OKAY_I_BELIEVE_U_FOR_NOW_YOU_NEED_TO_REGISTER_A_NEW_ACCOUNT_THE_INVITE_CODE_IS_NEVERLAND": "tamam... şimdilik sana inanıyorum ama yeni hesap açman gerek. {0} davet kodunu kullan",
+  "VISUAL_NOVEL_HMM_HEY_LIZ_IMMA_BRB": "liz.. hemen sana geri döneceğim haha... bayy",
+  "LYRICS_1": [
+    {
+      "start": "0:00:46",
+      "lyric": "şırıl şırıl nehir"
+    },
+    {
+      "start": "0:03:07",
+      "lyric": "parlayan gölet"
+    },
+    {
+      "start": "0:05:11",
+      "lyric": "dolup dolup taşan kaplıca"
+    },
+    {
+      "start": "0:10:28",
+      "lyric": "tüm bu üçünü biliyorum"
+    },
+    {
+      "start": "0:13:90",
+      "lyric": "biliyorum..."
+    }
+  ],
+  "LYRICS_2": [
+    {
+      "start": "0:00:40",
+      "lyric": "iki el tutunuyor"
+    },
+    {
+      "start": "0:05:57",
+      "lyric": "kötü yazılmış, aynı eski hikayeye"
+    },
+    {
+      "start": "0:09:92",
+      "lyric": "kontrolü -"
+    },
+    {
+      "start": "0:11:40",
+      "lyric": "ele alabilir miyiz?"
+    },
+    {
+      "start": "0:13:01",
+      "lyric": "her şeyi ardımda bırakmak istiyorum"
+    }
+  ],
+  "LYRICS_3": [
+    {
+      "start": "0:00:61",
+      "lyric": "sabahın yedisinde uyandım"
+    },
+    {
+      "start": "0:03:96",
+      "lyric": "adeta cennette gibiyim"
+    },
+    {
+      "start": "0:07:48",
+      "lyric": "seni gülümserken görüyorum dostum"
+    },
+    {
+      "start": "0:10:86",
+      "lyric": "ve bunun bitmesini istemiyorum"
+    },
+    {
+      "start": "0:13:92",
+      "lyric": "bugünler gelip geçecek"
+    },
+    {
+      "start": "0:17:38",
+      "lyric": "kalabalık şehir ve sokaklar"
+    },
+    {
+      "start": "0:21:13",
+      "lyric": "tanıdığın herkes"
+    },
+    {
+      "start": "0:24:23",
+      "lyric": "bir gün gidecek"
+    }
+  ],
+  "LYRICS_4": [
+    {
+      "start": "0:01:11",
+      "lyric": "içtiğin bir içecek miyim?"
+    },
+    {
+      "start": "0:05:21",
+      "lyric": "yediğin bir atıştırmalık mı?"
+    },
+    {
+      "start": "0:09:61",
+      "lyric": "yoksa kaybettiğin bir şey miyim?"
+    },
+    {
+      "start": "0:14:69",
+      "lyric": "uzun zaman önce kaybettiğin..."
+    }
+  ],
+  "LYRICS_5": [
+    {
+      "start": "0:00:71",
+      "lyric": "gömülmek istemiyorum"
+    },
+    {
+      "start": "0:04:67",
+      "lyric": "yerin altı metre altına"
+    },
+    {
+      "start": "0:08:61",
+      "lyric": "eğer yanımda değilsen"
+    },
+    {
+      "start": "0:12:40",
+      "lyric": "yalnız kalmak istemiyorum"
+    },
+    {
+      "start": "0:15:75",
+      "lyric": "bu dünyayı terk etmek istemiyorum"
+    },
+    {
+      "start": "0:20:07",
+      "lyric": "eğer yanımda değilsen"
+    },
+    {
+      "start": "0:23:34",
+      "lyric": "hayır, ölmek istemiyorum"
+    },
+    {
+      "start": "0:26:80",
+      "lyric": "sen olmadan..."
+    }
+  ],
+  "LYRICS_6": [
+    {
+      "start": "0:01:10",
+      "lyric": "*gitar sesleri*"
+    },
+    {
+      "start": "0:03:73",
+      "lyric": "hay senin..."
+    },
+    {
+      "start": "0:06:00",
+      "lyric": "*TINGIRTI*"
+    },
+    {
+      "start": "0:07:52",
+      "lyric": "(fısıldar) her neyse"
+    },
+    {
+      "start": "0:08:63",
+      "lyric": "sadece bir şans,"
+    },
+    {
+      "start": "0:11:82",
+      "lyric": "sadece bir dans"
+    },
+    {
+      "start": "0:14:88",
+      "lyric": "tıpkı garip bir"
+    },
+    {
+      "start": "0:17:36",
+      "lyric": "gençlik aşkı gibi hissettiriyor"
+    },
+    {
+      "start": "0:19:98",
+      "lyric": "*müzik durur* sanki"
+    },
+    {
+      "start": "0:20:96",
+      "lyric": "son kısmı gibi oldu"
+    },
+    {
+      "start": "0:22:55",
+      "lyric": "belki de başını"
+    },
+    {
+      "start": "0:23:21",
+      "lyric": "yazmalıyım"
+    }
+  ],
+  "LYRICS_7": [
+    {
+      "start": "0:00:86",
+      "lyric": "geçmişe dönüp baktığımda,"
+    },
+    {
+      "start": "0:03:98",
+      "lyric": "her şeyi daha iyi anlamak ne garip"
+    },
+    {
+      "start": "0:06:07",
+      "lyric": "gerçekten ne düşündüğünü -"
+    },
+    {
+      "start": "0:09:28",
+      "lyric": "saklıyor olman ne garip"
+    },
+    {
+      "start": "0:11:46",
+      "lyric": "şimdi üçüncü gözümü açtım"
+    },
+    {
+      "start": "0:16:59",
+      "lyric": "seni anlamak istedim ama artık yoksun"
+    }
+  ],
+  "LYRICS_8": [
+    {
+      "start": "0:00:42",
+      "lyric": "lütfen bana bittiğini söyleme"
+    },
+    {
+      "start": "0:04:42",
+      "lyric": "şansımı dört yapraklı yoncaya koydum"
+    },
+    {
+      "start": "0:11:15",
+      "lyric": "bana nostalji olduğunu söyleme"
+    },
+    {
+      "start": "0:16:28",
+      "lyric": "isteseydim geçmişte kalmayı yeğlerdim"
+    }
+  ],
+  "NOTES": [
+    "8/24 eski günlüğümü bulmamın üzerine dijital bir günlük tutmaya karar verdim. eskiden yazdığım şeyleri dönüp okumak çok garip bir histi. dört yıl önce yaşadığım onca şeyin şu ankinden hiçbir farkının olmaması, sanki aynı sorunları tekrar tekrar yaşıyormuşum gibi hissettirdi.",
+    "8/27 pardonn sözlüye çalışmam gerekiyordu!!! burayı istediğim kadar son gelişmelerden haberdar edemedim....",
+    "8/28 son zamanlarda bilgisayar başında çok uzun zaman geçiriyorum. daha sık dışarı çıkmam lazım... gerçi orion adında yeni biriyle arkadaş oldum!!! bugün bana yeni bir oyun gösterdi.",
+    "9/2 az önce zangada kev'in öldüğüne dair bir yazı gördüm. okuyunca bir tuhaf oldum... duygusuz biri gibi hissettim. yazının altında bir sürü yorum vardı. \"huzur içinde uyu kev\" gibi şeyler yazıyordu. onu pek tanımıyordum.. o yüzden ne hissedeceğimi bilmiyorum...",
+    "9/3 tamamen unutmuşum. kev'in dolabı benimkinin hemen altındaydı. o geldiği zaman \"merhaba, geçebilir miyim?\" dediğini duyardım ve yoldan çekilirdim. çok alışmışım. dolabımı kaparken sesini duymadığımı fark ettim. artık yoldan çekilmeme gerek yoktu. gelen farkındalıkla ağlamaya başladım. ağlamamı durduramadım. ölümden çok korkuyorum. sadece.. nasıl biri bir anda yok olabilir?? kev artık yarınki derse gidemeyecek. bir dahaki hafta yapılacak olan moral haftasına hazırlanmaya devam edemeyecek. çünkü onun hakkındaki her küçük detay ve yarın yapmak üzere olduğu her şey... bütün her şey... bir anda son buldu.",
+    "9/4 bugün lawson ve em ile birlikte kazanın olduğu yere uğradık. biri kev ile babasının kaza yaptığı yere beyaz bir haç koymuştu. kev'e bir mektup yazdım ve oraya bıraktım.",
+    "9/5 annem, lawson'ın beni kev'in mezarlığına götürdüğünü öğrendi ve aşırı sinirlendi. berbat ve bozuk ingilizcesiyle benim bir suçlu olduğumu söyledi. doğarak güzelliğini mahvettiğimi ve en azından iyi bir evlat olabileceğimi söyledi. okuldan sonra bilgisayar laboratuvarında geç saate kadar kaldım. orion'a içimi döktüm. sonra eve gittim ve odama geçtim. annemden hiç ses yoktu, bana hiçbir şey demedi.",
+    "9/6 dün annem polisleri aramış!!! hakkımda kayıp ihbarı vermiş. BUGÜN o lanet polisleri YİNE aradı.. ve uyuşturucu kullandığımı düşündüğü için onlara beni tutuklamalarını söyledi??? KAFAYI SIYIRMIŞ!!!!",
+    "9/13 özür dilerim bilgisayar.... birkaç gün oldu... evden kaçtım... tüm haftayı em'in evinde geçirdim.. em gerçekten iyi bir dost. em'in annesi annemi aradı. bu yüzden annemle konuşmak zorunda kaldım. beni en sevdiğim çin restoranına ballı cevizli karides yemeye götürdü. bana tek başına çocuk yetiştirmenin ne kadar zor olduğunu ve nasıl yapacağını bilmediğini söyledi... bazen annemi anlıyorum... fakat çoğu zaman yaptıklarına anlam veremiyorum... bazen çok saçma sapan şeyler söylüyor..... beni sevdiğini ve iyi yetişmemi istediğini biliyorum... ben de onu seviyorum.. şapşal gibi davrandığı zamanları seviyorum... fakat en acımasızca şeyleri söyleyip duruyor...",
+    "10/13 annem anneannemi ziyaret etmeye gitti. bu yüzden dersi ektim. orion yaklaşan cadılar bayramından dolayı bana korku mangaları gönderip duruyordu. dün gece beraber seri katillerle alakalı serilere göz attık ve bağımlısı olduk. beni scott diye biriyle tanıştırdı. yakında onlarla buluşabilirim.",
+    "10/31 bu dünyayı terk etmek istemiyorum... eğer yanımda değilsen....."
+  ],
+  "OTHER_WORLD_LOGIN": "Giriş yap",
+  "OTHER_WORLD_REGISTER": "Kayıt ol",
+  "OTHER_WORLD_EXIT": "Çıkış",
+  "OTHER_WORLD_BACK": "Geri dön",
+  "OTHER_WORLD_INVITE_CODE": "Davet Kodu",
+  "OTHER_WORLD_CONTINUE": "Devam et",
+  "OTHER_WORLD_USERNAME": "Kullanıcı adı",
+  "OTHER_WORLD_PASSWORD": "Şifre",
+  "OTHER_WORLD_CONNECTING": "Sunucuya bağlanılıyor...",
+  "OTHER_WORLD_LOGGING_IN": "Giriş yapılıyor...",
+  "OTHER_WORLD_WELCOME": "hoşgeldin {0}",
+  "OTHER_WORLD_INVALID": "Geçersiz kullanıcı adı veya şifre",
+  "OTHER_WORLD_WHATS_YOUR_NAME": "Adın ne?",
+  "VIDEO_CALL_TITLE": "WebCam - __orion__",
+  "VIDEO_CALL_REQUEST": "<b>__orion__</b> görüntülü aramak istiyor.",
+  "VIDEO_CALL_ACCEPT": "Kabul et",
+  "VIDEO_CALL_DECLINE": "Reddet",
+  "VIDEO_CALL_CONNECTING": "<b>__orion__</b> ile bağlantı kuruluyor, lütfen bekleyin.",
+  "VIDEO_CALL_CAMERA_ON": "KAMERA AÇIK",
+  "VIDEO_CALL_END_CALL": "Aramayı bitir",
+  "VIDEO_CALL_MUTE": "Sustur",
+  "OTHER_WORLD_CHAT_WELCOME": "<sistem> Otherworld'e hoşgeldin! Oklara tıklayarak dünyamızda gezinebilirsin. Bazı özel nesneler bulunduğu için gezinirken etrafa tıkla. Burada geçirdiğin zamanın tadını çıkar :)",
+  "OTHER_WORLD_CHAT_CREATION": "<sistem> Tüm yaratılış elinin altında. Ne hayal edeceksin?",
+  "OTHER_WORLD_CHAT_NEXUS": "<sistem> Nexus, bütün kullanıcıların dünyalarının bulunduğu yerdir. Kendi dünyanı yükleyebilir veya halihazırda yüklenmiş olan bu geniş evrendeki diğer dünyalara bakınabilirsin!",
+  "OTHER_WORLD_CHAT_DISCO": "<sistem> Burası Disko, Otherworld'ün en hareketli mekanı. Dans pistine çık ve kendine bir arkadaş edin. Ya da istiyorsan birden fazla...?",
+  "OTHER_WORLD_CHAT_YOU_ARENT_LIZ": "[__orion__] sen liz değilsin...",
+  "OTHER_WORLD_CHAT_SPHERE": "<sistem> Küre, Yaratıcılığı temsil eder ve bizi hayatta tutan şeydir.",
+  "OTHER_WORLD_CHAT_CUBE": "<sistem> Küp, Topluluğu temsil eder ve bizi birbirimize bağlayan şeydir.",
+  "OTHER_WORLD_CHAT_PYRAMID": "<sistem> Piramit, Yapıyı temsil eder ve bizi bir arada tutan şeydir.",
+  "OTHER_WORLD_CHAT_DISCO_BALL": "<sistem> Gece boyunca dans et! OtherWorld tanışıp dans edebileceğin bir sürü oyuncuyla dolu.",
+  "OTHER_WORLD_CHAT_STATUE": "<sistem> .ria eht ni cisum syawla s'erehT",
+  "OTHER_WORLD_CHAT_CLOCK": "<sistem> Saat ilerliyor!",
+  "OTHER_WORLD_CHAT_ALONEGURL_OH_HELLO_FRIEND": "[alonegurl15] oh... merhaba.. dostum",
+  "FILE_BROWSER_ME_JPG": "ben.jpg",
+  "FILE_BROWSER_ME_AND_MY_BF_JPG": "ben_ve_eniyi_arkadaşım.jpg",
+  "FILE_BROWSER_WALLPAPERS_FOLDER": "Duvar Kağıtları",
+  "FILE_BROWSER_DESKTOP_FOLDER": "Masaüstü",
+  "FILE_BROWSER_PICTURES_FOLDER": "Resimler",
+  "FILE_BROWSER_GO_BACK": "Geri Dön",
+  "FILE_BROWSER_OPEN": "Aç",
+  "FILE_BROWSER_CANCEL": "İptal",
+  "FILE_BROWSER_TITLE_UPLOAD_WORLD": "Kendi dünyanı yükle!",
+  "OTHER_WORLD_CHAT_UPLOAD_WORLD_ERROR": "<sistem> Yalnızca *.world dosyalarına izin verilir.",
+  "OTHER_WORLD_CHAT_HOUSE_INTRO": "<sistem> Karşında Baphomet'in Evi; Bütün dünyalar içerisindeki dünyaları birbirine bağlayan çok boyutlu bir düzlem. Girebilmek için senden önce gelenlerin yolunu izlemelisin.",
+  "OTHER_WORLD_DOOR_PUZZLE_SHORT_KNOCK": "<sistem> *tık*",
+  "OTHER_WORLD_DOOR_PUZZLE_LONG_KNOCK": "<sistem> *TAK!*",
+  "OTHER_WORLD_DOOR_PUZZLE_FOUR_PORTRAITS": "<sistem> Dış dünyalardaki dostlarımızı kaybetsek de sanal dünyamızda asla unutulmayacaklar. Portrelerine tıklayarak saygılarını sun.",
+  "OTHER_WORLD_DOOR_PUZZLE_GREGG": "<sistem> Huzur içinde uyu Gregg. Temmuz 3, 1956 - Eylül 11, 2001 \"Bitler ve baytlar 1'ler ve 0'lardan oluşur, varoluşun iki hali gibidirler; açık ve kapalı, yumuşak ve yüksek, kısa ve uzun. Fakat bu tezatlıkta sonsuzluğu barındırırlar.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_AURORA": "<sistem> Huzur içinde uyu Aurora. Ocak 1, 1975 - Aralık 31, 1999 \"Yıldızların nasıl parladığına bak. Nasıl da yanıp sönüyorlar, ışık saçıyorlar...\"",
+  "OTHER_WORLD_DOOR_PUZZLE_SAHRA": "<sistem> Huzur içinde uyu Sahra. Nisan 4, 1978 - Mart 13, 2002 \"Fırsat kapıda bir tıklatma gibidir. Ya da bazen birkaç tıklatma...\"",
+  "OTHER_WORLD_DOOR_PUZZLE_JORDEN": "<sistem> Huzur içinde uyu Jorden. Ağustos 3, 1988 - Eylül 11, 2001 \"Ya pes ederiz ya da dayanırız. Bazen dayanmak size pes etmekten daha farklı bir sonuç verecektir.\"",
+  "OTHER_WORLD_STATUE_PUZZLE_INTRO": "<sistem> Kapı arkandan kapanır. Baphomet'in emri yalnızca sanal rüya alemimizden kaçmaya mahkum olanlar içindir. Tüm heykeller emirde belirtiği şekilde kutsanmalıdır. Heykellerden biri açgözlüdür ve birden fazla kutsamaya ihtiyaç duymaktadır.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_GOAT": "<sistem> Keçiyi kutsadın.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_LION": "<sistem> Aslanı kutsadın.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_OX": "<sistem> Öküzü kutsadın.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_EAGLE": "<sistem> Kartalı kutsadın.",
+  "OTHER_WORLD_STATUE_PUZZLE_SOLVED": "<sistem> Ne kadar zekisin öyle. Heykelin arkasından bir kapı açılır.",
+  // "Dreadfully distinct against the dark" is a reference to Blade Runner 2049: https://youtu.be/ZRcpnM26nJM?t=17
+  "OTHER_WORLD_FOUNTAIN_PUZZLE_INTRO": "<sistem> Yazmaya devam ettik... Karanlığın içinde belli olan kanlı kaligrafiyi. Çeşme şekil verdi harflerine. Sonra yazdı o harfleri sevdiklerimiz için. Biz teker teker basınca da o harflere... Bir anda zaman akıp gidiverdi öylece.",
+  "OTHER_WORLD_FOUNTAIN_PUZZLE_SOLVED": "<sistem> Bir kapı belirir.",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_1": "en çok kiminle olan ilişkine güveniyorsun?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_2": "karşılıksız arzun kimdir?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_3": "kaderini belirleyen yegane kişi kimdir?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_FAILURE": "<sistem> Hiçbir şey olmuyor. Sundukların gerçek hislerini yansıtmıyor olabilir mi?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_SUCCESS": "<sistem> Sundukların kabul edildi.",
+
+  "ENDING_WARNING": "UYARI! Sunulanlar yaşam aurasıyla eşleşmiyor. Geçersiz kılınıyor.",
+  // Liz:
+  "ENDING_HOW_LONG_HAS_IT_BEEN": "ne kadar... zaman geçti ?",
+  "ENDING_THANK_U_FOR_UPLOADING_THOSE_PICTURES": "fotoğrafları yüklediğin için teşekkür ederim",
+  "ENDING_WONDERED_IF_I_WOULD_SEE_THEM": "tekrardan suratlarını görebilme imkanım olur mu diye merak ediyordum",
+  "ENDING_I_EVEN_FORGOT_WHAT_I_USED_TO_LOOK_LIKE": "nasıl göründüğümü bile unuttum...",
+  "ENDING_HAVENT_SEEN_ANOTHER_PERSON": "uzun süredir burada başka birini görmedim",
+  // Implies that some separate system has logged onto your account.
+  "ENDING_SYSTEM_ACTION_ERROR": "<sistem> Başka bir bilgisayarda oturumunuz açık olduğu için bu işlem gerçekleştirilemez.",
+  "ENDING_YOU_ARE_OFFLINE": "<sistem> Çevrimdışısın.",
+  "ENDING_YOU_ARE_ONLINE": "<sistem> Çevrimiçisin.",
+  // Liz:
+  "ENDING_A_LONG_TIME_AGO_I_WAS_APPROACHED_BY_A_MAN": "uzun zaman önce... bir adamla karşılaştım...",
+  "ENDING_HE_PROMISED_ME_FOREVER": "bana sonsuzluğu vaat etti.",
+  "ENDING_I_GOT_INTO_A_FIGHT_WITH_MY_MOTHER": "annemle tartıştım",
+  "ENDING_SO_I_DECIDED_TO_UPLOAD_MYSELF_ONTO_THE_INTERNET": "sonra kendimi internete yüklemeye karar verdim",
+  "ENDING_I_UPLOADED_MYSELF_ONTO_THIS_GAME": "kendimi bu oyuna yükledim",
+  "ENDING_AT_FIRST_IT_WAS_GREAT": "ilk başta her şey çok güzeldi.",
+  "ENDING_WE_CREATED_SO_MANY_BEAUTIFUL_THINGS_HERE": "burada çok güzel şeyler yaptık.",
+  "ENDING_THE_WORLD_USED_TO_BE_CROWDED": "bu dünya eskiden kalabalıktı, her gün tanışabileceğin yeni yüzler görürdün",
+  "ENDING_BUT_NOW": "fakat şimdi...",
+  // Profiles that pop up.
+  "ENDING_POPUP_PROFILE_TITLE": "Profil - {0}",
+  "ENDING_POPUP_LOADING": "Yükleniyor...",
+  "ENDING_POPUP_LAST_SEEN": "En son {0} gün önce görüldü.",
+  "ENDING_POPUP_MESSAGE_BUTTON": "Mesaj",
+  "ENDING_POPUP_BLOCK_BUTTON": "Engelle",
+  // Liz:
+  "ENDING_THE_WORLD_OUT_THERE_CHANGES": "dışarıdaki dünya değişir",
+  "ENDING_PEOPLE_LEAVE_GROW_OLD": "insanlar gider, yaşlanır, hayata yeni sayfa açarlar",
+  "ENDING_OTHER_WORLD_STAYS_THE_SAME": " fakat Other World hep aynı kalır. sonsuza dek",
+  // Server Browser
+  "ENDING_SERVER_BROWSER_TITLE": "Sunucu Listesi",
+  "ENDING_SERVER_BROWSER_REFRESH_BUTTON": "Yenile",
+  "ENDING_SERVER_BROWSER_CLOSE_BUTTON": "Kapa",
+  "ENDING_SERVER_BROWSER_SERVER_NAME": "Ad",
+  "ENDING_SERVER_BROWSER_PLAYERS_IN_SERVER": "Oyuncular",
+  "ENDING_SERVER_BROWSER_SERVER_PING": "Ping",
+  // Liz:
+  "ENDING_WITHOUT_THE_PLAYERS_WORLDS_ARE_GONE": "oyuncular yoksa yarattıkları tüm dünyalar kaybolur.",
+  "ENDING_EVERYONE_RITUAL_DELETED_THEMSELVES": "zaman içinde ritüeli gerçekleştiren tüm oyuncular kendilerini silmeyi denediler.",
+  "ENDING_HOW_IS_A_SOUL_STORED_IN_A_FILESYSTEM": "fakat, nasıl oluyor da bir ruh dosya sisteminde depolanıyor?",
+  "ENDING_I_HEAR_THEM": "bazen onları duyuyorum, çığlık atıyorlar. bilinçleri bazı sistem dosyalarıyla birleşmiş durumda.",
+  "ENDING_THIS_PLACE_IS_ALL_I_HAVE_LEFT": "geriye kalan tek şey burası.",
+  "ENDING_ALL_THINGS_DETERIORATE_EVEN_THIS": "bütün her şey bozuluyor. burası bile.",
+  "ENDING_HOW_COULD_WE_HAVE_KNOWN": "nasıl bilebilirdik ki?",
+  // Liz, now <system>, becomes part of Other World:
+  "ENDING_I_MISS_EMILY": "<sistem> emily'yi özlüyorum",
+  "ENDING_I_MISS_GOING_ON_THE_COMPUTER_WITH_HER": "<sistem> onunla birlikte bilgisayarda oyun oynamayı özlüyorum",
+  "ENDING_SLEEPING_OVER_WATCHING_TV_SHOWS": "<sistem> yatılıya kalmayı, beraber televizyon seyretmeyi...",
+  "ENDING_I_WONDER_WHO_SHE_GREW_UP_TO_BECOME": "<sistem> büyüyüp nasıl biri olduğunu merak ediyorum",
+  "ENDING_I_MISS_LAWSON": "<sistem> lawson'ı özlüyorum",
+  "ENDING_I_MISS_TALKING_TO_HIM": "<sistem> onunla sorunlarım hakkında konuşmayı özlüyorum",
+  "ENDING_I_MISS_HOW_COMFORTING_HE_WAS": "<sistem> beni teselli edişini özlüyorum",
+  "ENDING_I_DONT_WANT_HIM_TO_SEE_ME_LIKE_THIS": "<sistem> beni bu şekilde görmesini istemiyorum.",
+  "ENDING_I_MISS_MY_MOM": "<sistem> annemi özlüyorum",
+  "ENDING_I_MISS_OUR_STUPID_FIGHTS": "<sistem> annemle olan saçma kavgalarımızı özlüyorum",
+  "ENDING_ITS_ALL_SO_MEANINGLESS_NOW": "<sistem> artık hiçbirinin önemi kalmadı. keşke her şeyin geçici olduğunu daha önce fark edebilseydim.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_BAD_GRADES": "<sistem> eskiden kötü not almaktan korkardım.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_NOT_LOOKING_PRETTY": "<sistem> eskiden yeterince güzel olamamaktan korkardım.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_DISAPPOINTING_PEOPLE": "<sistem> eskiden insanları hayal kırıklığına uğratmaktan korkardım.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_DEATH": "<sistem> eskiden ölümden korkardım.",
+  "ENDING_BUT_NOW_2": "<sistem> fakat şimdi",
+  "ENDING_IM_AFRAID_OF_FOREVER": "<sistem> sonsuzluktan korkuyorum.",
+  "ENDING_BUT_YOURE_HERE_NOW_ARENT_YOU": "<sistem> ama... artık sen buradasın, değil mi?",
+  "ENDING_YOU_PERFORMED_THE_RITUAL": "<sistem> ritüeli gerçekleştirdin.",
+  "ENDING_ONLY_A_FEW_MINUTES_UNTIL_YOU_JOIN_ME": "<sistem> bana katılmana birkaç dakika kaldı",
+  "ENDING_AND_THEN_I_WONT_BE_ALONE": "<sistem> bundan sonra sonsuza kadar",
+  "ENDING_FOREVER": "<sistem> yalnız olmayacağım.",
+
+  // Facegram
+  "ENDING_FACEGRAM_TITLE": "facegram - {0}",
+  "ENDING_FACEGRAM_POSTS_COUNT": "Gönderiler",
+  "ENDING_FACEGRAM_FOLLOWERS_COUNT": "Takipçiler",
+  "ENDING_FACEGRAM_FOLLOWING_COUNT": "Takip Edilenler",
+  "ENDING_THIS_ACCOUNT_IS_PRIVATE": "Bu hesap gizli. Takip isteğiniz kabul edilene kadar bekleyiniz.",
+
+  // Lawson:
+  "ENDING_USER_IS_ONLINE": "{0} çevrimiçi",
+  "ENDING_HEY_LIZ": "baksana liz...",
+  "ENDING_I_KEEP_SEEING_YOUR_ACCOUNT_ONLINE_AND_OFFLINE": "hesabının durmadan bir çevrimiçi bir çevrimdışı olup durduğunu görüyorum",
+  "ENDING_IVE_BEEN_MESSAGING_YOU_EVERY_YEAR": "gittiğinden beri her yıl sana mesaj atıyordum.",
+  "ENDING_I_VISITED_YOU_TODAY": "bugün seni ziyaret ettim. çiçekle birlikte biraz meyveli şeker bıraktım.",
+  "ENDING_I_DECIDED_THAT_ITS_TIME_TO_MOVE_ON": "hayatıma devam etmenin zamanı geldiğine karar verdim.",
+  "ENDING_YOURE_NOT_COMING_BACK_ARE_YOU_LIZ": "geri dönmeyeceksin, değil mi liz?",
+  "ENDING_IVE_MISSED_YOU_SO_MUCH": "seni çok özledim.",
+  "ENDING_GOODBYE": "hoşçakal.",
+
+  // Liz ending popup spam:
+  "ENDING_NO": "HAYIR",
+  "ENDING_DONT_LEAVE_ME": "BENİ BIRAKMA",
+  "ENDING_I_DONT_WANT_TO_BE_ALONE": "YALNIZ KALMAK İSTEMİYORUM",
+
+  // Error Messages
+  "ENDING_ERROR_MEMORYBOUNDS_EXCEEDED": "Hata: Bellek kapasitesi aşıldı.",
+  "ENDING_ERROR_SEGMENTATION_FAULT": "Segmentasyon Hatası.",
+
+  // Task Manager
+  "ENDING_TASK_MANAGER_TITLE": "Görev Yöneticisi",
+  "ENDING_TASK_MANAGER_WARNING": "Uyarı: Yüksek Bellek Kullanımı",
+  "ENDING_TASK_MANAGER_PROGRAM": "Program",
+  "ENDING_TASK_MANAGER_USAGE": "Kullanım",
+
+  // Final Error Message
+  "ERROR_REPORT_OTHER_WORLD_HAS_ENCOUNTERED_A_PROBLEM": "Other World bir sorunla karşılaştı ve kapatılması gerekiyor. Rahatsızlıktan dolayı özür dileriz.",
+  "ERROR_REPORT_IF_YOU_WERE_IN_THE_MIDDLE_OF_SOMETHING": "Bir işlemin ortasındaysanız, üzerinde çalıştığınız bilgiler kaybolabilir..",
+  "ERROR_REPORT_PLEASE_TELL_OTHER_WORLD_ABOUT_THIS_PROBLEM": "Lütfen bu sorunu Other World'e bildirin.",
+  "ERROR_REPORT_WE_HAVE_CREATED_AN_ERROR_REPORT": "Bize gönderebileceğiniz bir hata raporu oluşturduk. Bu raporu gizli ve anonim olarak işleme koyacağız.",
+  "ERROR_REPORT_BUTTON_1": "Gönd<b><u>e</u></b>r",
+  "ERROR_REPORT_BUTTON_2": "Gö<b><u>nd</u></b>erme?",
+
+  // Translation Credits
+  "SHOW_TRANSLATION_CREDITS": true,
+  "CREDITS_TITLE": "Tuba Türker tarafından Türkçeye çevrilmiştir",
+  // Put as many credits here as you want.
+  // Please don't put a virus here :(
+  "CREDITS": [
+    { "name": "lullation", "website": "https://github.com/lullation" },
+    { "name": "lullation (Discord)" }
+  ],
+
+  "CLICK_TO_REPLAY": "Baştan başlamak için tıklayınız",
+
+  // April 23, additional lines:
+  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "<sistem> Kapıda bir değişiklik var... Bir şeyleri tetikledin...",
+  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "<sistem> Kapı açılır.",
+
+  // June 24
+  "ORION_IS_TYPING": "__orion__ yazıyor...",
+  "SCROLL_TO_TOP": "Başa Kaydır",
+  "SERVERS_EMPTY": "BOŞ",
+  "SERVERS_UPLOAD": "dünya yüklemek için tıklayın",
+  "SERVERS_USER_WORLD": "<kullanıcı dünyası>",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_1": "baphomet'in",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_2": "evi",
+
+  "TRIBUTES_BOND_LINE_1": "en çok",
+  "TRIBUTES_BOND_LINE_2": "kiminle olan ilişkine",
+  "TRIBUTES_BOND_LINE_3": "güveniyorsun??",
+
+  "TRIBUTES_UNREQUITED_LINE_1": "karşılıksız",
+  "TRIBUTES_UNREQUITED_LINE_2": "arzun",
+  "TRIBUTES_UNREQUITED_LINE_3": "kimdir?",
+
+  "TRIBUTES_FATE_LINE_1": "kaderini belirleyen",
+  "TRIBUTES_FATE_LINE_2": "yegane kişi",
+  "TRIBUTES_FATE_LINE_3": "kimdir?",
+
+  // June 27
+  "VIDEO_CALL_INCOMING_CALL": "Gelen Arama",
+  "CONSCIOUSNESS_TRIANGULATION": "Bilinç Nirengi",
+  "ENDING_POPUP_OFFLINE": "Çevrimdışı",
+
+  "SETTINGS_TITLE": "Ayarlar",
+  "SETTINGS_FULLSCREEN": "Tam Ekran",
+  "SETTINGS_MASTER_VOLUME": "Ana Ses Düzeyi",
+  "SETTINGS_SFX_VOLUME": "Ses Efekti Düzeyi",
+  "SETTINGS_MUSIC_VOLUME": "Müzik Sesi",
+  "SETTINGS_LANGUAGE": "Dil",
+  "SETTINGS_DELETE_SAVE": "Kaydı Sil",
+  "SETTINGS_QUIT_GAME": "Oyundan Çık",
+
+  "OTHER_WORLD_CANDLES": "<sistem> Üç tane mum... Peki nasıl yakmalı?",
+  "OTHER_WORLD_DOOR_PUZZLE_FRAME_KNOCK": "<sistem> Kapı ellerinle ses çıkaramayacağın kadar çok kalın. Belki kapı tokmaklarını kullanabilirsin.",
+
+  // Ignore this last line, it's so each line can have a comma at the end.
+  "": null
+}

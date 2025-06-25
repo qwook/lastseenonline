@@ -4,7 +4,7 @@
 {
   "NAME": "한국인",
   "FONT_FAMILY": "Fusion Pixel, MadouFutoMaruGothic, PixeloidSans",
-  "TITLE_TEXT": "마지막으로 접속함",
+  "TITLE_TEXT": "라스트 씬 온라인",
   // INTRO_TEXT_1 and INTRO_TEXT_2 ideally should have the same
   // letters as TITLE_TEXT but it's okay if not.
   // I will program in a way for it to work without.
@@ -111,7 +111,7 @@
     "<EMMBER>: 걍 사귀자고 해!!!",
     "<LIZ>: 날 좋아할 리가 없자나... 난 예쁘지도 않고",
     "<EMMBER>: 뭣!!ㅋㅋㅋㅋ 너 진짜 예뻐......",
-    "<LIZ>: =.= 울 엄마가 내가 엄마 코 말고 아빠 큰 코를 닮앗대.! 지대 짱나",
+    "<LIZ>: =.= 울 엄마가 내가 엄마 코 말고 아빠 큰 코를 닮앗대.! 완전 짱나",
     "<EMMBER>: 엄마 말 듣지 마, 넌 얼짱훈녀야아아 d(^_^)z",
     "<LIZ>: 엠 나 그냥 떠나버리고 싶어... 이 지구에 살기 싫다",
     "<EMMBER>: 로슨이 널 사랑하지 않더라도 난 언제나 널 사랑해!!! 베프!!!",
@@ -460,7 +460,7 @@
   "VIDEO_CALL_CAMERA_ON": "당신의 카메라는 켜져 있습니다",
   "VIDEO_CALL_END_CALL": "통화 끝내기",
   "VIDEO_CALL_MUTE": "음소거",
-  "OTHER_WORLD_CHAT_WELCOME": "<system> Other World에 온 것을 환영합니다! 월드를 탐방하기 위해선 화살표를 누르세요. 몇몇 오브젝트는 특별한 특성이 있으니, 이것저것 클릭해보세요. 즐거운 시간 되시길 바라요 :)",
+  "OTHER_WORLD_CHAT_WELCOME": "<system> Other World에 온 것을 환영합니다! 월드를 탐방하기 위해선 화살표를 누르세요. 몇몇 오브젝트는 특별한 특성이 있으니, 이것저것 클릭해보세요. 즐거운 시간 되시길 바랍니다 :)",
   "OTHER_WORLD_CHAT_CREATION": "<system> 무엇을 창조할지는 당신의 손끝에 달렸습니다. 어떤 상상을 실현하실 건가요?",
   "OTHER_WORLD_CHAT_NEXUS": "<system> 넥서스는 모든 커스텀 유저 월드의 출발점입니다. 직접 만든 월드를 올리거나 이미 업로드된 수많은 월드들의 방대한 세계를 탐험하세요!",
   "OTHER_WORLD_CHAT_DISCO": "<system> 여긴 디스코, Other World에서 가장 활기찬 장소죠. 끝내주는 춤을 추고 친구들을 만들어보세요",
@@ -631,8 +631,8 @@
   "CLICK_TO_REPLAY": "처음부터 다시 시작하려면 누르세요",
 
   // April 23, additional lines:
-  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "<system> 문이 어딘가 달라졌습니다... 무언가 달성했거나, 그 일부를 수행한 것이겠지요...",
-  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "<system> 문이 열립니다.",
+  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "문이 어딘가 달라졌습니다... 무언가 달성했거나, 그 일부를 수행한 것이겠지요...",
+  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "문이 열립니다.",
   // June 24
   "ORION_IS_TYPING": "__orion__ 이 입력 중...",
   "SCROLL_TO_TOP": "상단 이동",

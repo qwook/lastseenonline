@@ -134,7 +134,7 @@
     "<LIZ>: -_- its 4 of my songs on my LoseAmp playlist!!",
     "<EMMBER>: oh... i don't get it.. you have 8 songs.",
     "<LIZ>: r u still using our bff <b>desktop wallpaper</b>?? u need 2 close every window except for LoseAmp!!! the wallpaper will show u the order.",
-    "<EMMBER>: O_O !! thats crzy!! omg <b>i just dragged the window over.</b> ok what next??",
+    "<EMMBER>: O_O !! thats crzy!! omg <b>i just dragged the LoseAmp window over.</b> ok what next??",
     "<LIZ>: listen to the lyrics!!",
     "<EMMBER>: ooooOOo now UR smrt as fukkk ^_^",
     "<EMMBER>: omg y do u have a pic of lawson??",
@@ -164,10 +164,17 @@
     "<SYSTEM>: __orion__ is now online",
     "<ORION>: IT WORKED!!! GET ON OTHERWORLD RIGHT NOW!!!",
     "<SYSTEM>: __orion__ is now offline",
-    "<SYSTEM>: __orion__ is now online"
+    "<SYSTEM>: __orion__ is now online",
+    "<LIZ>: DON'T LEAVE ME",
+    "<ORION>: finally. i almost taste the end",
+    "<ORION>: no... where am i?",
+    "<ORION>: only...darkness... nobodynobodyno...",
+    "<LIZ>: NEVER TALK TO ME AGAIN",
+    "<SYSTEM>: You have blocked __orion__",
+    "<SYSTEM>: You have unblocked __orion__"
   ],
-  "VISUAL_NOVEL_HEY_IS_THIS_LIZ": "hey?? is this liz???",
-  "VISUAL_NOVEL_YEAH_THIS_IS_LIZ": "yeah.. this is liz...",
+  "VISUAL_NOVEL_HEY_IS_THIS_LIZ": "hey, is this liz???",
+  "VISUAL_NOVEL_YEAH_THIS_IS_LIZ": "yeah.. this is her",
   "VISUAL_NOVEL_OH_INTERESTING_SO_STRANGE_TO_SEE_YOU_HERE": "oh interesting... so strange to see you...here...",
   "VISUAL_NOVEL_UM_YEAH_JUST_TOOK_A_LONG_BREAK": "um yeah, just took a long break.",
   "VISUAL_NOVEL_I_DONT_KNOW_WHAT_YOU_MEAN": "i don't know what you mean...",
@@ -202,7 +209,7 @@
   "VISUAL_NOVEL_THANKS_ILL_TRY_AGAIN": "thanks... i'll try again",
   "VISUAL_NOVEL_I_DONT_THINK_THATS_IT": "i don't think that's it...",
   "VISUAL_NOVEL_HMM_OKAY_I_BELIEVE_U_FOR_NOW_YOU_NEED_TO_REGISTER_A_NEW_ACCOUNT_THE_INVITE_CODE_IS_NEVERLAND": "hmm... okay i believe u. for now. you need to register a new account, the invite code is {0}",
-  "VISUAL_NOVEL_HMM_HEY_LIZ_IMMA_BRB": "hmm... hey liz.. imma brb haha... cya",
+  "VISUAL_NOVEL_HMM_HEY_LIZ_IMMA_BRB": "hmm... hey liz.. imma brb hahaHAHA... cya",
   "LYRICS_1": [
     {
       "start": "0:00:46",
@@ -429,6 +436,7 @@
   ],
   "NOTES": [
     "8/24 just found my old notebook and got inspired to make a digital version!! it was weird reading it, lots of things i went through 4 years ago sound like me right now its like i keep going through the same problems over and over again",
+    "8/25 photos from my digi cam just came in!!!! sooOoo xcited >.<",
     "8/27 woops had to study for a quiz!!! didnt get to update as much as i wanted....",
     "8/28 ive been spending a lot of time on the computer lately. i rly should get out more. i met a new friend named orion though!!! he showed me a new game 2day.",
     "9/2 just saw a post on zanga that kev ng just recently passed away. it was weird seeing it... i felt kind of emotionless. it just was. there were a bunch of comments on the post. \"rip kev\" and stuff like that. i didnt rly kno him.. idk how to feel...",
@@ -562,8 +570,8 @@
   "ENDING_I_MISS_HOW_COMFORTING_HE_WAS": "<system> i miss how comforting he was",
   "ENDING_I_DONT_WANT_HIM_TO_SEE_ME_LIKE_THIS": "<system> i don't want him to see me like this.",
   "ENDING_I_MISS_MY_MOM": "<system> i miss my mom",
-  "ENDING_I_MISS_OUR_STUPID_FIGHTS": "<system> i miss our stupid fights",
-  "ENDING_ITS_ALL_SO_MEANINGLESS_NOW": "<system> its all so meaningless now. if i could have realized how temporary it all was.",
+  "ENDING_I_MISS_OUR_STUPID_FIGHTS": "<system> our fights seem so far away now",
+  "ENDING_ITS_ALL_SO_MEANINGLESS_NOW": "<system> its all so meaningless. if i could have realized how temporary it all was.",
   "ENDING_I_USED_TO_BE_AFRAID_OF_BAD_GRADES": "<system> i used to be afraid of getting bad grades.",
   "ENDING_I_USED_TO_BE_AFRAID_OF_NOT_LOOKING_PRETTY": "<system> i used to be afraid of not looking pretty enough.",
   "ENDING_I_USED_TO_BE_AFRAID_OF_DISAPPOINTING_PEOPLE": "<system> i used to be afraid of disappointing people.",
@@ -666,11 +674,18 @@
   "SETTINGS_SFX_VOLUME": "SFX Volume",
   "SETTINGS_MUSIC_VOLUME": "Music Volume",
   "SETTINGS_LANGUAGE": "Language",
-  "SETTINGS_DELETE_SAVE": "Delete Save",
+  "SETTINGS_DELETE_SAVE": "Restart from the Beginning",
   "SETTINGS_QUIT_GAME": "Quit Game",
 
   "OTHER_WORLD_CANDLES": "<system> Three candles... But how to light them?",
   "OTHER_WORLD_DOOR_PUZZLE_FRAME_KNOCK": "<system> The door is too thick to make any decent sound with your hands. Perhaps you can use the door knockers.",
+
+  // Mar 19, 2025
+  "ENDING_UPLOADING_WEBCAM": "<system> Uploading... \"__orion__WEBCAM_CAPTURE.mp4\"",
+
+  // May 12, 2025
+  "WARNING": "WARNING",
+  "TRIGGER_WARNING": "This is a psychological horror game and is not suitable for children or those who are easily disturbed.",
 
   // Ignore this last line, it's so each line can have a comma at the end.
   "": null
