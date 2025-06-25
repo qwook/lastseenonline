@@ -684,7 +684,7 @@
   "ENDING_UPLOADING_WEBCAM": "<system> アップロード中... \"__orion__WEBCAM_CAPTURE.mp4\"",
 
   // May 12, 2025
-  "WARNING": "注意",
+  "WARNING": "警告",
   "TRIGGER_WARNING": "これはサイコロジカルホラーゲームです。 お子様や精神的に不安定になりやすい方には適していません。",
 
   // Ignore this last line, it's so each line can have a comma at the end.
