@@ -503,7 +503,7 @@
   // Liz:
   "ENDING_HOW_LONG_HAS_IT_BEEN": "combien... de temps ça fait ?",
   "ENDING_THANK_U_FOR_UPLOADING_THOSE_PICTURES": "Merci d’avoir téléchargé ces photos",
-  "ENDING_WONDERED_IF_I_WOULD_SEE_THEM": "je me demandais si je reverrais leurs visages un jour"
+  "ENDING_WONDERED_IF_I_WOULD_SEE_THEM": "je me demandais si je reverrais leurs visages un jour",
   "ENDING_I_EVEN_FORGOT_WHAT_I_USED_TO_LOOK_LIKE": "j’ai même oublié à quoi je ressemblais...",
   "ENDING_HAVENT_SEEN_ANOTHER_PERSON": "je n'ai vu personne ici depuis longtemps",
   // Implies that some separate system has logged onto your account.
@@ -617,8 +617,8 @@
   // Please don't put a virus here :(
   "CREDITS": [
     { "name": "novana", "website": "https://steamcommunity.com/id/novanawad//" },
-    { "name": "lulu" "website": "https://www.instagram.com/brquettt.lu/"},
-    { "name": "Henry3" },
+    { "name": "lulu", "website": "https://www.instagram.com/brquettt.lu/"},
+    { "name": "Henry3" }
     
   ],
 
