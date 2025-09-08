@@ -1,5 +1,6 @@
 {
   "NAME": "Français",
+  "FONT_FAMILY": "PixelArial11, MadouFutoMaruGothic, PixeloidSans",
   "TITLE_TEXT": "last seen online",
   "INTRO_TEXT_1": "tu trouves un vieil ordinateur dans un vide grenier.",
   "INTRO_TEXT_2": "tu décides de l'allumer.",
