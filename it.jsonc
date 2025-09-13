@@ -113,7 +113,7 @@
     "<LIZ>: non e possibile che gli piaccia... nn sono bella",
     "<EMMBER>: ke? lol!! 6 cosi splendida......",
     "<LIZ>: =.= mia mamma dice che non ho il suo naso, ma ho il nasone di mio papa.! lo odio",
-    "<EMMBER>: dont listen to her, 6 beEellissima d(^_^)z",
+    "<EMMBER>: non ascoltarla, 6 beEellissima d(^_^)z",
     "<LIZ>: voglio solo scappare emmmm... odio stare qui sulla Terra",
     "<EMMBER>: awww anche se lawson non ti dovesse amare io ti amerò x sempre!!! BFF!!!",
     "<SISTEMA>: xXemmberXx86 è ora offline",
@@ -193,7 +193,7 @@
   "VISUAL_NOVEL_AND_FINALLY": "e in fine?",
   "VISUAL_NOVEL_WE_BLESSED_THE_STATUE": "abbiamo benedetto la statua",
   "VISUAL_NOVEL_WE_LIT_CANDLES_FOR_OUR_TRIBUTES": "abbiamo acceso candele per i nostri tributi",
-  "VISUAL_NOVEL_WE_GAZED_UPON_THE_FOUNTAIN": "abbiamo contemplatola fontana",
+  "VISUAL_NOVEL_WE_GAZED_UPON_THE_FOUNTAIN": "abbiamo contemplato la fontana",
   "VISUAL_NOVEL_WE_FOUGHT_THE_LOST_BOYS": "abbiamo combattuto i ragazzi persi",
   "VISUAL_NOVEL_WE_RESPECTED_THE_FOUR_FALLEN": "abbiamo rispettato i quattro caduti",
   "VISUAL_NOVEL_WE_SUNG_AWAY_OUR_AGE": "abbiamo cantato via la nostra età",
@@ -213,7 +213,7 @@
       "lyric": "uno stagno che brilla"
     },
     {
-      "start": "0:05:11",
+      "start": "0:05:11",s
       "lyric": "una sorgente stra-straripa"
     },
     {
@@ -386,7 +386,7 @@
     "LYRICS_7": [
     {
       "start": "0:00:86",
-      "lyric": "é divertente come la retrospettiva,"
+      "lyric": “é divertente come la retrospettiva,"
     },
     {
       "start": "0:03:98",
@@ -402,22 +402,40 @@
     },
     {
       "start": "0:11:46",
-      "lyric": "ho tre occhi aperti ora"
+      "lyric": “ho tre occhi aperti ora"
     },
     {
       "start": "0:16:59",
       "lyric": "ho provato ma tu non ci sei più"
     }
   ],
+"LYRICS_8": [
+    {
+      "start": "0:00:42",
+      "lyric": "ti prego non dire che finita è"
+    },
+    {
+      "start": "0:04:42",
+      "lyric": "misi il mio fato su un quadrifoglio"
+    },
+    {
+      "start": "0:11:15",
+      "lyric": "dai non dir che nostalgia è"
+    },
+    {
+      "start": "0:16:28",
+      "lyric": "preferisco viver nel passato se voglio"
+    }
+  ],
   "NOTES": [
     "24/8 appena trovato il mio vecchio portatile che mi ha inspirato a fare una versione digitale!! é stato strano leggerlo, ho trascorso tante cose 4 anni fa che suonano come la me di adesso é, come se stessi andando attraverso gli stessi problemi di nuovo e di nuovo",
     "27/8 woops ho avuto da studiare per un quiz!!! non ho potuto aggiornare quanto volevo....",
     "28/8 ho speso 1 sacco di tempo al computer ultimamente. dovrei davvero uscir di più. però ho incontrato un nuovo amico di nome orion!!! mi ha mostrato 1 nuovo gioco oggi.",
-    "2/9 appena visto un post su zanga che proprio recentemente kev ng é scomparso . é stato strano vederlo... mi sono sentita senza emozioni. é solo stato. c’era un mucchio di commenti sotto al post. \"rip kev\" e roba del genere. vrmnt nn lo conoscevo .. nn so prprio cm sentirmi...",
-    "9/3 mi sono dimenticata. l’armadietto di kev era proprio a fianco al mio. di solito mi spostavo § tutte le volte che veniva, e sentivo la sua voce \"ciao scusami\". ci ero così abituata. quando ho chiuso l’armadietto, ho realizzato che non lo sentivo, e non mi sono dovuta sportare, e poi ho pianto. non riuscivo a smettere di piangere. la morte é così spaventosa per me. solo... come può qualc1 solo essere andato?? ogni piccola cosa su questa persona, tutto quello che aveva intenzione di fare domani, kev che va a lezione il giorno dopo o kev che si prepara per la \"settimana a tema\" settimana prossima. semplicemente si ferma tutto.",
+    "2/9 appena visto un post su zanga che proprio recentemente kev ng é scomparso . é stato strano vederlo... mi sono sentita senza emozioni. é solo stato. c’era un mucchio di commenti sotto al post. \"rip kev\" e roba del genere. vrmnt nn lo conoscevo .. nn so prprio cm sentirmi...", 
+"9/3 mi sono dimenticata. l’ armadietto di kev era proprio a fianco al mio. di solito mi spostavo tutte le volte che veniva, e sentivo la sua voce \"ciao scusami\". ci ero così abituata. quando ho chiuso l’armadietto, ho realizzato che non lo sentivo, e non mi sono dovuta sportare, e poi ho pianto. non riuscivo a smettere di piangere. la morte é così spaventosa per me. solo... come può qualc1 solo essere andato?? ogni piccola cosa su questa persona, tutto quello che aveva intenzione di fare domani, kev che va a lezione il giorno dopo o kev che si prepara per la "settimana a tema" settimana prossima. semplicemente si ferma tutto.",
     "9/4 lawson, em ed io oggi abbiamo visitato l'uscita landese, fuori 680. qualc1 ha messo una croce bianca dove kev e suo padre si sono schiantati. ho scritto a kev una lettera, e l' ho fatta cadere.",
     "9/5 mamma ha scoperto che lawson mi ha accompagnato in macchina a visitare la tomba di kev e si è incazzata tantissimo. mi ha detto nel suo stupido italiano maccheronico che sarei una criminale. ha detto che ho rovinato la sua bellezza nascendo e che il minimo che possa fare è essere una brava figlia.  sono stata tardi dopo scuola nella sala computer della biblioteca. mi sono sfogata con orion. sono tornata a casa e sono andata dritta in camera. la mamma era silenziosa, nn mi ha detto niente.",
-    "9/6 mamma ha chiamato quei cazzo di poliziotti ieri!!! mi ha segnalata come scomparsa. e poi OGGI li ha chiamati DI NUOVO. li ha detto di arrestarmi xchè secondo lei mi stavo drogando ieri???? CHE CAZZO!!!!",
+    "9/6 mamma ha chiamato quei cazzo di poliziotti ieri!!! mi ha segnalata come scomparsa. e poi OGGI li ha chiamati DI NUOVO. li ha detto di arrestarmi xchè secondo lei mi stavo drogando ieri???? CHE CAZZO!!!!",e
     "9/13 scusa computer.... è passato un po' di tempo... sono scappata di casa... ho passato l'ultima settimana a casa di em. em è un'amica fantastica. la mamma di em ha chiamato la mia. alla fine io e mamma abbiamo parlato. mi ha portato al mio ristorante cinese preferito, dove hanno i gamberi con il miele e le noci. mi ha raccontato di quanto sia difficile fare tutto questo da sola e non sa come farlo... a volta capisco la mamma... ma la maggior parte delle volte no... a volte dice roba molto strana..... capisco che mi vuole bene e che vuole che io cresca bene... e le voglio bene anch'io.. e mi piace quando a volte è simpatica e divertente... ma dice sempre cose così cattive...",
     "10/13 la mamma non c'è, sta facendo visita alla nonna. quindi ho marinato la scuola. orion continua a mandarmi manga horror xché è halloween. ieri sera abbiamo passato ore e leggere storie sui serial killer. mi ha introdotto a scott. mi sa che tra poco gli farò visita.",
     "10/31 non voglio lasciare questo mondo... se non sei al mio lato....."
@@ -470,8 +488,8 @@
   "OTHER_WORLD_DOOR_PUZZLE_LONG_KNOCK": "<SISTEMA> *TOOOOC!*",
   "OTHER_WORLD_DOOR_PUZZLE_FOUR_PORTRAITS": "<SISTEMA> Anche se abbiamo perso i nostri amici nel mondo esterno, non saranno mai dimenticati nel nostro mondo virtuale. Da rispetto ai tributi toccando il loro ritratto.",
   "OTHER_WORLD_DOOR_PUZZLE_GREGG": "<SISTEMA> RIP Gregg. 3 lug, 1956 - 11 sett, 2001 \"I bits e i byte sono solo 1 e 0, due modi di essere; acceso e spento, silenzio e rumore, corto e lungo. Ma quei due modi contengono l'eternità.\"",
-  "OTHER_WORLD_DOOR_PUZZLE_AURORA": "<SISTEMA> RIP Aurora. 1 gen, 1975 - 31 dic, 1999 \"Guarda le stelle che brillano. Guara come lucciano e chiudono i loro occhi.\"",
-  "OTHER_WORLD_DOOR_PUZZLE_SAHRA": "<SISTEMA> RIP Sahra. 4 apr, 1978 - 13 mar, 2002 \"Le opportunità sono come battere a una porta. A volte deve battere più di una volta.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_AURORA": "<SISTEMA> RIP Aurora. 1 gen, 1975 - 31 dic, 1999 \"Guarda le stelle che brillano. Guarda come lucciano e chiudono i loro occhi.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_SAHRA": "<SISTEMA> RIP Sahra. 4 apr, 1978 - 13 mar, 2002 \"Le opportunità sono come battere a una porta. A volte si deve battere più di una volta.\"",
   "OTHER_WORLD_DOOR_PUZZLE_JORDEN": "<SISTEMA> RIP Jorden. 3 ago, 1988 - 11 sett, 2001 \"O ci arrendiamo o premiamo ancora più forte. A volte continuare a premere può portare a risultati diversi.\"",
   "OTHER_WORLD_STATUE_PUZZLE_INTRO": "<SISTEMA> La porta si chiude dietro di te. L'Ordine di Bafometto è solo per coloro destinati a scappare il nostro ambiente simulato. Tutte le statue devono essere benedette, seguendo l'ordine prestabilito. Una statua è avara e richiede più di una benedizione.",
   "OTHER_WORLD_STATUE_PUZZLE_BLESS_GOAT": "<SISTEMA> Benedici la capra.",
@@ -529,7 +547,7 @@
   // Liz:
   "ENDING_WITHOUT_THE_PLAYERS_WORLDS_ARE_GONE": "senza i giocatori, tutti i mondi creati da loro sono stati eliminati.",
   "ENDING_EVERYONE_RITUAL_DELETED_THEMSELVES": "e a un certo punto, tutti quelli che hanno fanno il rituale hanno provato a cancellarsi.",
-  "ENDING_HOW_IS_A_SOUL_STORED_IN_A_FILESISTEMA": "ma come fa un'anima a stare in un fileSISTEMA?",
+  "ENDING_HOW_IS_A_SOUL_STORED_IN_A_FILESISTEMA": "ma come fa un'anima a stare in un file SISTEMA? ",
   "ENDING_I_HEAR_THEM": "li sento a volte, quando urlano. il loro inconscio si è fuso con qualche file SISTEMA",
   "ENDING_THIS_PLACE_IS_ALL_I_HAVE_LEFT": "questo posto è tutto ciò che rimane.",
   "ENDING_ALL_THINGS_DETERIORATE_EVEN_THIS": "tutto deteriora. anche qua.",
@@ -605,11 +623,11 @@
   // Put as many credits here as you want.
   // Please don't put a virus here :(
   "CREDITS": [
-    { "name": "Gioppolognomo", "website": "https://github.com/Gioppolognomo" },
+    { "name": "Gioppolognomo", "website": "https://github.com/Gioppolognomo" }
     { "name": "Betelgeuse", "website": "http://www.betelgeusethemusicman.it/"}
   ],
 
-  "CLICK_TO_REPLAY": "Click to Replay from Beginning",
+  "CLICK_TO_REPLAY": "Clicca qui per rigiocare dall'inizio ",
 
   // April 23, additional lines:
   "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "<SISTEMA> Qualcosa nella porta cambia... Hai fatto qualcosa, o parte di qualcosa...",
@@ -621,8 +639,8 @@
   "SERVERS_EMPTY": "VUOTO",
   "SERVERS_UPLOAD": "clicca qui per caricare il mondo",
   "SERVERS_USER_WORLD": "<mondo utente>",
-  "SERVERS_HOUSE_OF_BAPHOMET_LINE_1": "casa di",
-  "SERVERS_HOUSE_OF_BAPHOMET_LINE_2": "bafometto",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_1": Casa di",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_2": "Bafometto",
 
   "TRIBUTES_BOND_LINE_1": "con chi è",
   "TRIBUTES_BOND_LINE_2": "il legame",
