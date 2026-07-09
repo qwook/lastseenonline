@@ -73,7 +73,7 @@
     "<SYSTEM>: aznL4ws0n est maintenant déconnecté",
     "<SYSTEM>: aznL4ws0n est maintenant en ligne",
     "<LAWSON>: j'ai vu un chien aujourd'hui. il ressemblait beaucoup à scotty :)",
-    "<SYSTEM>: aznL4ws0n est maintenant déconnecté"
+    "<SYSTEM>: aznL4ws0n est maintenant déconnecté",
   ],
   "SCOTT_CHATLOG": [
     "<SCOTT>: salut. c'est scott, de l'Other World. tu voulais m'ajouter?",
@@ -92,13 +92,13 @@
     "<SCOTT>: n'aie pas peur, petite. je te rencontrerai bientôt",
     "<SYSTEM>: scottNJ est maintenant déconnecté",
     "<SYSTEM>: scottNJ est maintenant en ligne",
-    "<LIZ|CORRUPTED>: TU M'AS PROMIS QUE TU NE ME QUITTERAIS PAS"
+    "<LIZ|CORRUPTED>: TU M'AS PROMIS QUE TU NE ME QUITTERAIS PAS",
   ],
   "ETERNALJUICE_CHATLOG": [
     "<ETERNAL_JUICE>:  a/s/v?",
     "<LIZ>: j'ai que 14 ans",
     "<ETERNAL_JUICE>: le doux nectar de la jeunesse, j'ai hâte que tu nous rejoignes",
-    "<LIZ>: quoi???"
+    "<LIZ>: quoi???",
   ],
   "EMMBER_CHATLOG": [
     "<LIZ>: aaahhh lawson est trop mignon :(:(:(:(:(",
@@ -139,7 +139,7 @@
     "<LIZ|CORRUPTED>: EMILY CA A MARCHE",
     "<EMMBER>: c'est qui?",
     "<LIZ|CORRUPTED>: C'EST MOI, LIZ!! J'APPREND ENCORE A CONTROLER CA",
-    "<EMMBER>: écoute je sais pas quel genre de putain de blague de merde tu fais, mais c'est vraiment à chier. je te bloque."
+    "<EMMBER>: écoute je sais pas quel genre de putain de blague de merde tu fais, mais c'est vraiment à chier. je te bloque.",
   ],
   "ORION_CHATLOG": [
     "<LIZ>: t'as le nouveau monde de jenni??",
@@ -157,7 +157,7 @@
     "<SYSTEM>: __orion__ est maintenant en ligne",
     "<ORION>: CA FONCTIONNE!!! VA DANS L'OTHER WORLD DE SUITE!!!",
     "<SYSTEM>: __orion__ est maintenant déconnecté",
-    "<SYSTEM>: __orion__ est maintenant en ligne"
+    "<SYSTEM>: __orion__ est maintenant en ligne",
   ],
   "VISUAL_NOVEL_HEY_IS_THIS_LIZ": "salut?? c'est liz???",
   "VISUAL_NOVEL_YEAH_THIS_IS_LIZ": "oui.. c'est liz...",
@@ -199,226 +199,226 @@
   "LYRICS_1": [
     {
       "start": "0:00:46",
-      "lyric": "une brillante rivière"
+      "lyric": "une brillante rivière",
     },
     {
       "start": "0:03:07",
-      "lyric": "un étang qui brille"
+      "lyric": "un étang qui brille",
     },
     {
       "start": "0:05:11",
-      "lyric": "un débordement d'eau chaude"
+      "lyric": "un débordement d'eau chaude",
     },
     {
       "start": "0:10:28",
-      "lyric": "toutes ces trois choses oh, oh je les connais"
+      "lyric": "toutes ces trois choses oh, oh je les connais",
     },
     {
       "start": "0:13:90",
-      "lyric": "je les connais..."
-    }
+      "lyric": "je les connais...",
+    },
   ],
   "LYRICS_2": [
     {
       "start": "0:00:40",
-      "lyric": "deux mains maintenues côte-à-côte"
+      "lyric": "deux mains maintenues côte-à-côte",
     },
     {
       "start": "0:05:57",
-      "lyric": "sur la même vieille histoire, mal écrite"
+      "lyric": "sur la même vieille histoire, mal écrite",
     },
     {
       "start": "0:09:92",
-      "lyric": "peut-on -"
+      "lyric": "peut-on -",
     },
     {
       "start": "0:11:40",
-      "lyric": "prendre le contrôle?"
+      "lyric": "prendre le contrôle?",
     },
     {
       "start": "0:13:01",
-      "lyric": "Je veux laisser tout ça derrière moi"
-    }
+      "lyric": "Je veux laisser tout ça derrière moi",
+    },
   ],
   "LYRICS_3": [
     {
       "start": "0:00:61",
-      "lyric": "se réveiller à sept heures"
+      "lyric": "se réveiller à sept heures",
     },
     {
       "start": "0:03:96",
-      "lyric": "c'est le paradis à nouveau"
+      "lyric": "c'est le paradis à nouveau",
     },
     {
       "start": "0:07:48",
-      "lyric": "quand je vois ton sourire mon ami"
+      "lyric": "quand je vois ton sourire mon ami",
     },
     {
       "start": "0:10:86",
-      "lyric": "et je ne veux pas que ça se termine"
+      "lyric": "et je ne veux pas que ça se termine",
     },
     {
       "start": "0:13:92",
-      "lyric": "le moment présent flottera"
+      "lyric": "le moment présent flottera",
     },
     {
       "start": "0:17:38",
-      "lyric": "ces villes et rues bondées"
+      "lyric": "ces villes et rues bondées",
     },
     {
       "start": "0:21:13",
-      "lyric": "et toutes ces personnes rencontrées"
+      "lyric": "et toutes ces personnes rencontrées",
     },
     {
       "start": "0:24:23",
-      "lyric": "partiront un jour"
-    }
+      "lyric": "partiront un jour",
+    },
   ],
   "LYRICS_4": [
     {
       "start": "0:01:11",
-      "lyric": "suis-je une boisson que tu as bu?"
+      "lyric": "suis-je une boisson que tu as bu?",
     },
     {
       "start": "0:05:21",
-      "lyric": "suis-je un snack que tu as mangé?"
+      "lyric": "suis-je un snack que tu as mangé?",
     },
     {
       "start": "0:09:61",
-      "lyric": "suis-je ce que tu as perdu?"
+      "lyric": "suis-je ce que tu as perdu?",
     },
     {
       "start": "0:14:69",
-      "lyric": "perdu il y a longtemps"
-    }
+      "lyric": "perdu il y a longtemps",
+    },
   ],
   "LYRICS_5": [
     {
       "start": "0:00:71",
-      "lyric": "je ne veux pas être enterrée"
+      "lyric": "je ne veux pas être enterrée",
     },
     {
       "start": "0:04:67",
-      "lyric": "six pieds sous terre"
+      "lyric": "six pieds sous terre",
     },
     {
       "start": "0:08:61",
-      "lyric": "si tu n'es pas là"
+      "lyric": "si tu n'es pas là",
     },
     {
       "start": "0:12:40",
-      "lyric": "je ne veux pas être seule"
+      "lyric": "je ne veux pas être seule",
     },
     {
       "start": "0:15:75",
-      "lyric": "je ne veux pas quitter ce monde"
+      "lyric": "je ne veux pas quitter ce monde",
     },
     {
       "start": "0:20:07",
-      "lyric": "si tu n'es pas à mes côtés"
+      "lyric": "si tu n'es pas à mes côtés",
     },
     {
       "start": "0:23:34",
-      "lyric": "non, je ne veux pas mourir"
+      "lyric": "non, je ne veux pas mourir",
     },
     {
       "start": "0:26:80",
-      "lyric": "sans toi"
-    }
+      "lyric": "sans toi",
+    },
   ],
   "LYRICS_6": [
     {
       "start": "0:01:10",
-      "lyric": "*guitare*"
+      "lyric": "*guitare*",
     },
     {
       "start": "0:03:73",
-      "lyric": "oh merde uhm..."
+      "lyric": "oh merde uhm...",
     },
     {
       "start": "0:06:00",
-      "lyric": "*guitare*"
+      "lyric": "*guitare*",
     },
     {
       "start": "0:07:52",
-      "lyric": "(murmure) donc"
+      "lyric": "(murmure) donc",
     },
     {
       "start": "0:08:63",
-      "lyric": "juste une chance,"
+      "lyric": "juste une chance,",
     },
     {
       "start": "0:11:82",
-      "lyric": "et une danse"
+      "lyric": "et une danse",
     },
     {
       "start": "0:14:88",
-      "lyric": "me font me sentir maladroit"
+      "lyric": "me font me sentir maladroit",
     },
     {
       "start": "0:17:36",
-      "lyric": "comme un amour de jeunesse"
+      "lyric": "comme un amour de jeunesse",
     },
     {
       "start": "0:19:98",
-      "lyric": "* musique s'arrête* on dirait que"
+      "lyric": "* musique s'arrête* on dirait que",
     },
     {
       "start": "0:20:96",
-      "lyric": "c'est la fin en fait"
+      "lyric": "c'est la fin en fait",
     },
     {
       "start": "0:22:55",
-      "lyric": "peut-être que je devrais écrire"
+      "lyric": "peut-être que je devrais écrire",
     },
     {
       "start": "0:23:21",
-      "lyric": "le début"
-    }
+      "lyric": "le début",
+    },
   ],
   "LYRICS_7": [
     {
       "start": "0:00:86",
-      "lyric": "c'est marrant avec du recul,"
+      "lyric": "c'est marrant avec du recul,",
     },
     {
       "start": "0:03:98",
-      "lyric": "c'est très clair maintenant"
+      "lyric": "c'est très clair maintenant",
     },
     {
       "start": "0:06:07",
-      "lyric": "c'est marrant comment tu caches,"
+      "lyric": "c'est marrant comment tu caches,",
     },
     {
       "start": "0:09:28",
-      "lyric": "ce que tu penses vraiment"
+      "lyric": "ce que tu penses vraiment",
     },
     {
       "start": "0:11:46",
-      "lyric": "j'ai trois yeux ouverts maintenant"
+      "lyric": "j'ai trois yeux ouverts maintenant",
     },
     {
       "start": "0:16:59",
-      "lyric": "j'ai essayé mais tu n'es plus là"
-    }
+      "lyric": "j'ai essayé mais tu n'es plus là",
+    },
   ],
   "LYRICS_8": [
     {
       "start": "0:00:42",
-      "lyric": "s'il te plaît ne me dis pas que c'est la fin"
+      "lyric": "s'il te plaît ne me dis pas que c'est la fin",
     },
     {
       "start": "0:04:42",
-      "lyric": "Ma chance sur un trèfle à quatre feuilles"
+      "lyric": "Ma chance sur un trèfle à quatre feuilles",
     },
     {
       "start": "0:11:15",
-      "lyric": "ne dis pas que c'est nostalgique"
+      "lyric": "ne dis pas que c'est nostalgique",
     },
     {
       "start": "0:16:28",
-      "lyric": "Je préfère rester dans le passé si je le veux"
-    }
+      "lyric": "Je préfère rester dans le passé si je le veux",
+    },
   ],
   "NOTES": [
     "24/8 Je viens de trouver mon vieux carnet et je me suis inspiré pour faire une version numérique!! c'était bizarre de le lire, Beaucoup de choses que j ai traversées il y a 4 ans sonnent beaucoup comme ce que je traverse maintenant c'est comme si je continuais à traverser les mêmes problèmes encore et encore",
@@ -431,7 +431,7 @@
     "6/9 ma mère a appelé les putains de flics hier!!! elle a signalé ma disparition. et AUJOURD HUI elle a ENCORE appellé les putains de flics.. leur disant de m'arrêter prck elle croyait que je me droguais??? PTN WTF!!!!",
     "13/9 désolée ordi.... ça fait quelque jours... j'ai fugué... j'ai passé la semaine chez em.. c'est vrmt une super amie. sa mère a appellé ma mère. ma mère et moi avons fini par parler. elle m'a emmenée à mon restaurant chinois préféré et on a mangé des crevettes au miel et aux noix. elle m'a dit à quel point c'était dur de devoir gérer tout ça toute seule et comment ça la dépasse... parfois je peux comprendre maman...  mais la plupart du temps non... elle dit juste des trucs putain de bizarres parfois..... Je comprends qu'elle m'aime et veut que je grandisse bien... et je l'aime.. et j'aime à quel point elle peut être maladroite parfois... mais des fois elle peut être la plus méchante qui soit...",
     "13/10 maman est allée voir mamie. donc j'ai séché les cours. orion m'a envoyé des mangas d'horreur prck halloween approche. hier soir, on était obsédés par les histoires de tueurs en série. Il m'a présenté à scott. je pourrai leur rendre visite bientôt.",
-    "31/10 je ne veux pas quitter ce monde... si tu n'es pas à mes côtés....."
+    "31/10 je ne veux pas quitter ce monde... si tu n'es pas à mes côtés.....",
   ],
   "OTHER_WORLD_LOGIN": "Connexion",
   "OTHER_WORLD_REGISTER": "S'inscrire",
@@ -616,14 +616,15 @@
   // Put as many credits here as you want.
   // Please don't put a virus here :(
   "CREDITS": [
-    { "name": "novana", "website": "https://steamcommunity.com/id/novanawad//" },
-    { "name": "lulu", "website": "https://www.instagram.com/brquettt.lu/"},
-    { "name": "Henry3" }
-    
+    {
+      "name": "novana",
+      "website": "https://steamcommunity.com/id/novanawad//",
+    },
+    { "name": "lulu", "website": "https://www.instagram.com/brquettt.lu/" },
   ],
 
   "CLICK_TO_REPLAY": "Cliquez pour Rejouer",
 
   // Ignore this last line, it's so each line can have a comma at the end.
-  "": null
+  "": null,
 }
