@@ -3,7 +3,7 @@
 // as much as I can just in case.
 {
   "NAME": "Tiếng Việt",
-  "FONT_FAMILY": "Fusion Pixel, MadouFutoMaruGothic, Arial",
+  "FONT_FAMILY": "DejaVuSans11Pixel, PixeloidSans, MadouFutoMaruGothic, Arial",
   "TITLE_SPACING": 1.0,
   "TITLE_TEXT": "lần cuối trực tuyến",
   // INTRO_TEXT_1 and INTRO_TEXT_2 ideally should have the same

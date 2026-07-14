@@ -1,0 +1,690 @@
+// I've documented a couple things here.
+// You don't have to translate everything, but I included
+// as much as I can just in case.
+{
+  "NAME": "Melayu",
+  "FONT_FAMILY": "PixelArial11, MadouFutoMaruGothic, PixeloidSans",
+  "TITLE_SPACING": 1.0,
+  "TITLE_TEXT": "last seen online",
+  // INTRO_TEXT_1 and INTRO_TEXT_2 ideally should have the same
+  // letters as TITLE_TEXT but it's okay if not.
+  // I will program in a way for it to work without.
+  "INTRO_TEXT_1": "anda jumpa komputer lama kat jualan garaj.",
+  "INTRO_TEXT_2": "jadi anda memutuskan untuk menghidupkannya.",
+  "CONTINUE_BUTTON": "teruskan",
+  "PASSWORD_TEXT": "Kata Laluan:",
+  "PASSWORD_HINT": "Petunjuk: nama si bulu comel dan tahun lahirku.",
+  // Optional:
+  "LOGGING_IN": "log masuk...",
+  // Optional:
+  "WELCOME_BACK": "selamat kembali...",
+  "DESKTOP_SHORTCUT_BUDDYLIST": "Buddy List",
+  // Don't change LoseAmp Player name.
+  // Kept here for consistency.
+  "DESKTOP_SHORTCUT_LOSEAMP_PLAYER": "LoseAmp Player",
+  "DESKTOP_SHORTCUT_OTHER_WORLD": "Other World",
+  "DESKTOP_SHORTCUT_ZIP": "photos4em.zip",
+  "UNZIPPER_TITLE": "UnZipper - photos4em.zip",
+  "UNZIPPER_TEXT": "Fail ZIP ini dilindungi kata laluan dengan kod 4 digit.",
+  "UNZIPPER_UNLOCK_BUTTON": "Buka",
+  "UNZIPPER_INCORRECT_PASSWORD": "Kata Laluan salah. Cuba lagi.",
+  // Optional:
+  "BUDDYLIST_SIGN_ON": "Daftar Masuk",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_1": "1. Menggunakan kata laluan yang disimpan...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_2": "2. Menyambung...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_3": "3. Memulakan perkhidmatan...",
+  // Optional:
+  "BUDDYLIST_SIGN_ON_STEP_4": "4. Tersambung.",
+  "BUDDYLIST_CHAT_WINDOW_TITLE": "{0} - Chat",
+  "USER_IS_OFFLINE": "pengguna ini sedang luar talian, tunggu sehingga mereka kembali.",
+  // <LIZ> colors the line of chat blue.
+  // <sistem> colors the line of chat gray.
+  // <...ANYTHING ElSE> colors the line of chat red.
+  "LAWSON_CHATLOG": [
+    "<LAWSON>: heyyy :) macam mana hari ko?",
+    "<LIZ>: ok je",
+    "<LAWSON>: ok je?? kau tengah buat apa tu?",
+    "<LIZ>: takde buat apa sangat!! cuma dgr lagu sambil main game.. ko pulak??",
+    "<LAWSON>: kat sini pon chill je... kena study utk exam algebra klu tak mak aku bunuh akuuu",
+    "<LIZ>: omg bukan mak ko mmng bising ke haritu?",
+    "<LAWSON>: yaah... tp rasanya aku blh buat lg baik kali ni",
+    "<LIZ>: :((( ko dah buat yg terbaik!! jgn la down. mak aku pun asyik bising lately...",
+    "<LAWSON>: kau pun sama??? cite lah!!",
+    "<LIZ>: asyik ckp aku ni mcm ayah aku... bukan salah aku bila dia tinggalkan mak aku.... hari-hari asyik nak marah je.. aku ni tak pernah cukup baik ke...",
+    "<LAWSON>: aww kesiannya kau... haah dah lama jugak aku tak jumpa ayah aku.. pe cite dia skrg...",
+    "<LAWSON>: aku kena pergi dulu, tp aku happy sgt dpt chat dgn kau... gn!!",
+    "<SYSTEM>: aznL4ws0n kini luar talian",
+    "<SYSTEM>: aznL4ws0n kini dalam talian",
+    "<LAWSON>: yo kau dah siap hw algebra blm?",
+    "<SYSTEM>: aznL4ws0n kini luar talian",
+    "<SYSTEM>: aznL4ws0n kini dalam talian",
+    "<LAWSON>: heyy kat sekolah dorang cakap mcm-mcm, ko ok tak?",
+    "<SYSTEM>: aznL4ws0n kini luar talian",
+    "<SYSTEM>: aznL4ws0n kini dalam talian",
+    "<LAWSON>: aku tau ko tak nak ckp psl ni tp aku cuma nak pastikan kau ok",
+    "<SYSTEM>: aznL4ws0n kini luar talian",
+    "<SYSTEM>: aznL4ws0n kini dalam talian",
+    "<LAWSON>: aku rindu kau",
+    "<SYSTEM>: aznL4ws0n kini luar talian",
+    "<SYSTEM>: aznL4ws0n kini dalam talian",
+    "<LAWSON>: aku baru dpt C+ dlm ujian algebra :(",
+    "<SYSTEM>: aznL4ws0n kini luar talian",
+    "<SYSTEM>: aznL4ws0n kini dalam talian",
+    "<LAWSON>: gaduh dgn mak aku harini, tp takpe lah.. harap kau ok.",
+    "<SYSTEM>: aznL4ws0n kini luar talian",
+    "<SYSTEM>: aznL4ws0n kini dalam talian",
+    "<LAWSON>: baru je dpt masuk sekolah impian kita! <3",
+    "<SYSTEM>: aznL4ws0n kini luar talian",
+    "<SYSTEM>: aznL4ws0n kini dalam talian",
+    "<LAWSON>: nampak anjing harini. rupa dia mcm scotty :)",
+    "<SYSTEM>: aznL4ws0n kini luar talian"
+  ],
+  "SCOTT_CHATLOG": [
+    "<SCOTT>: helo. ini scott, dari Other World. kau nak add aku?",
+    "<LIZ>: ya!! (=^o^=) so psl apa yg ko ckp tu. ritual tu.. aku asyik terfikir. ia blh tolong aku keluar?",
+    "<SCOTT>: ah ya. ritual baphomet. aku blh terangkan ia sbg konami code utk alam semesta ni. ia takkan tolong kau keluar, tp ia akn mbawa kesedaran kau.. kod kau... ke arah pencerahan. aku blh tunjukkan kau selamanya.",
+    "<LIZ>: hmm ok lagipun nama ko sama mcm nama anjing aku hahahaha",
+    "<SYSTEM>: scottNJ kini luar talian",
+    "<SYSTEM>: scottNJ kini dalam talian",
+    "<SCOTT>: kau dpt link aku dari game tu?",
+    "<LIZ>: jadi ini ke caranya??? kau yakin jadi ni???",
+    "<SCOTT>: kau yg minta tolong aku. jln menuju kesucian abadi ada di sini. kau cari kebahagiaan abadi atau tak?",
+    "<SYSTEM>: scottNJ kini luar talian",
+    "<SYSTEM>: scottNJ kini dalam talian",
+    "<SCOTT>: proses dah bermula, kau dah sedia?",
+    "<LIZ>: ya... tp aku takut sikit",
+    "<SCOTT>: jgn takut, anak kecil. aku akn jumpa kau tak lama lg",
+    "<SYSTEM>: scottNJ kini luar talian",
+    "<SYSTEM>: scottNJ kini dalam talian",
+    "<LIZ|CORRUPTED>: KAU JANJI KAU TAKKAN TINGGALKAN AKU"
+  ],
+  "ETERNALJUICE_CHATLOG": [
+    "<ETERNAL_JUICE>: a/s/l?",
+    "<LIZ>: aku baru 14",
+    "<ETERNAL_JUICE>: kemanisan usia muda, aku tak sabar tunggu kau sertai kami",
+    "<LIZ>: apa???"
+  ],
+  "EMMBER_CHATLOG": [
+    "<LIZ>: aaahhh lawson cute sgt :(:(:(:(:(",
+    "<EMMBER>: knpa kau tak ajak dia keluar!!!",
+    "<LIZ>: tak mungkin dia suka aku... aku tak cantik",
+    "<EMMBER>: mana ada lol!! ko cantik sgt......",
+    "<LIZ>: =.= mak aku cakap hidung aku tak mcm dia, tp mcm hidung ayah aku yg besar.! benci betul",
+    "<EMMBER>: jgn dgr ckp dia, kau caaAntik d(^_^)z",
+    "<LIZ>: aku rasa mcm nak lari je emmmm... aku benci ada kat bumi ni",
+    "<EMMBER>: awww walaupun lawson tak suka kau, aku akn selalu sayang kau!!! BFF!!!",
+    "<SYSTEM>: xXemmberXx86 kini luar talian",
+    "<SYSTEM>: xXemmberXx86 kini dalam talian",
+    "<LIZ>: pc aku kena rampas dgn mak. tp aku jumpa cara lain em.",
+    "<EMMBER>: sry td tengah study, ada apa ni?? mak ko pelik sgt ah!!",
+    "<SYSTEM>: xXemmberXx86 kini luar talian",
+    "<SYSTEM>: xXemmberXx86 kini dalam talian",
+    "<EMMBER>: liz kita dah 2 minggu tak chat, ko sibuk buat apa je??",
+    "<LIZ>: o sry!! baru lps main dgn kawan-kawan yg aku jumpa dlm otherworld!!",
+    "<SYSTEM>: xXemmberXx86 kini luar talian",
+    "<SYSTEM>: xXemmberXx86 kini dalam talian",
+    "<LIZ>: aku berjaya. aku dah jumpa cara mcm mana nak keluar dari sini selamanya..",
+    "<EMMBER>: lol ko nak pergi mana sebenarnya? paris?",
+    "<LIZ>: aku dah hantar gambar-gambar tu, ko dpt tak?",
+    "<LIZ>: kitorang buat langkah-langkah ni semalam utk orion.. tak lama lg aku akn bebas.",
+    "<EMMBER>: ya fail ZIP tu kan? tp ada passcode 4 digit.",
+    "<LIZ>: -_- tu 4 lagu aku dlm playlist LoseAmp la!!",
+    "<EMMBER>: oh... tak faham.. kau kan ada 8 lagu.",
+    "<LIZ>: kau masih guna <b>wallpaper desktop</b> bff kita kan?? kau kena tutup semua window kecuali LoseAmp!!! nnt wallpaper tu akn tunjuk turutan dia.",
+    "<EMMBER>: O_O !! gila ah!! omg <b>aku baru je alih window LoseAmp tu.</b> ok pastu apa lg??",
+    "<LIZ>: dengar lirik dia!!",
+    "<EMMBER>: ooooOOo skrg ko pandai sgt la ^_^",
+    "<EMMBER>: omg kenapa kau ada gambar lawson??",
+    "<LIZ>: TIDAAAAAk TU TAK SENGAJA!!!",
+    "<EMMBER>: ... gambar-gambar ni pelik la...",
+    "<LIZ>: so kau berminat tak?",
+    "<SYSTEM>: xXemmberXx86 kini luar talian",
+    "<SYSTEM>: xXemmberXx86 kini dalam talian",
+    "<LIZ|CORRUPTED>: EMILY INI BERJAYA",
+    "<EMMBER>: siapa ni?",
+    "<LIZ|CORRUPTED>: NI AKU, LIZ!! AKU STILL TENGAH BELAJAR MCM MANA NAK CONTROL BENDA NI",
+    "<EMMBER>: dengar sini eh, aku tak tau kau tengah buat lawak sakit jiwa apa skrg, tp ni mmg gila sgt. aku block kau."
+  ],
+  "ORION_CHATLOG": [
+    "<LIZ>: hey kau dah tgk world baru jenni blm??",
+    "<ORION>: dah hebat sgt. dia mmg luangkan byk masa buat tu",
+    "<LIZ>: satu hari nnt aku akn buat world yg sama hebat",
+    "<ORION>: haha mungkin",
+    "<ORION>: oh ya tgk ni aku jumpa benda ni: RED_HERRING_EXE",
+    "<LIZ>: oh wow?? ni dari other world ke???",
+    "<ORION>: tak ni cuma mcm art project, rasanya takde kaitan dgn game tu.",
+    "<SYSTEM>: __orion__ kini luar talian",
+    "<SYSTEM>: __orion__ kini dalam talian",
+    "<ORION>: eh ko dh try taip /info dlm chat otherworld blm?? dia tunjuk brp lama kau online",
+    "<LIZ>: omg malunya...... 849 hours...",
+    "<SYSTEM>: __orion__ kini luar talian",
+    "<SYSTEM>: __orion__ kini dalam talian",
+    "<ORION>: BERJAYA!!! MASUK KE OTHERWORLD SKRG!!!",
+    "<SYSTEM>: __orion__ kini luar talian",
+    "<SYSTEM>: __orion__ kini dalam talian",
+    "<LIZ>: JANGAN TINGGALKAN AKU",
+    "<ORION>: akhirnya. aku dah hampir tiba ke penghujungnya.",
+    "<ORION>: tidak... aku kat mana ni?",
+    "<ORION>: cuma...kegelapan... takdesapatakdesapatakde...",
+    "<LIZ>: JANGAN PERNAH CAKAP DGN AKU LG",
+    "<SYSTEM>: Anda telah menyekat __orion__",
+    "<SYSTEM>: Anda telah menyahsekat __orion__"
+  ],
+  "VISUAL_NOVEL_HEY_IS_THIS_LIZ": "hey, ni liz ke???",
+  "VISUAL_NOVEL_YEAH_THIS_IS_LIZ": "ya.. ni dia",
+  "VISUAL_NOVEL_OH_INTERESTING_SO_STRANGE_TO_SEE_YOU_HERE": "oh menarik... pelik betul nampak ko...kat sini...",
+  "VISUAL_NOVEL_UM_YEAH_JUST_TOOK_A_LONG_BREAK": "um ya, baru lps berehat panjang.",
+  "VISUAL_NOVEL_I_DONT_KNOW_WHAT_YOU_MEAN": "aku tak faham maksud kau...",
+  "VISUAL_NOVEL_WELL_GLAD_YOURE_BACK_IVE_MISSED_YOU": "baguslah. gembira kau dah balik. aku rindu kau.",
+  "VISUAL_NOVEL_IVE_MISSED_YOU_TOO": "aku rindu kau juga",
+  "VISUAL_NOVEL_CAN_YOU_REMIND_ME_WHO_THIS_IS": "blh kau ingatkan ini siapa?",
+  "VISUAL_NOVEL_ITS_ORION_WE_USED_TO_BE_GOOD_FRIENDS_IM_SURPRISED_YOU_DONT_REMEMBER_ME_THATS_FINE": "ni orion! kita dulu kawan baik. terkejut pulak kau tak ingat aku. takpe lah!",
+  "VISUAL_NOVEL_ANYTHING_I_CAN_HELP_YOU_WITH": "ada benda ke blh aku tolong?",
+  "VISUAL_NOVEL_DO_YOU_KNOW_THE_PASSCODE_FOR_PHOTOS4EMZIP": "kau tau tak passcode utk photos4em.zip?",
+  "VISUAL_NOVEL_HMM_I_DONT_REMEMBER_TRY_DIGGING_THROUGH_YOUR_OLD_CHATLOGS_MAYBE_YOU_SENT_IT_TO_SOMEONE": "hmm... aku tak ingat, cuba check chatlog lama kau. mungkin kau ada hantar kat seseorg",
+  "VISUAL_NOVEL_OKAY_ILL_TRY_THAT_OUT": "okay.. nnt aku cuba",
+  "VISUAL_NOVEL_WHATS_OTHER_WORLD": "apa benda Other World tu?",
+  "VISUAL_NOVEL_YOU_GOTTA_BE_JOKING_YOU_DONT_REMEMBER_ITS_THE_GAME_WE_PLAYED_WHEN_WE_WERE_KIDS_ARE_YOU_SURE_THIS_IS_LIZ": "biar betul! tu kan game yg kita main masa kecik kita dulu. kau pasti ke ni liz?",
+  "VISUAL_NOVEL_YES_IM_SURE_HOW_DO_I_GET_IN": "ya... aku pasti. mcm mana aku nak masuk?",
+  "VISUAL_NOVEL_JUST_TO_MAKE_SURE_YOU_ARE_WHO_YOU_SAY_YOU_ARE_CAN_YOU_TELL_ME_THE_ORDER_OF_THE_FOUR_EVENTS_DURING_OUR_FINAL_RITUAL": "saya nak pastikan ko ni mmg org yg kau ckp... blh ko bgtau turutan empat acara masa ritual terakhir kita",
+  "VISUAL_NOVEL_ILL_TRY_TO_REMEMBER": "aku cuba ingat balik",
+  "VISUAL_NOVEL_I_DONT_REMEMBER": "aku tak ingat",
+  "VISUAL_NOVEL_THAT_S_OKAY_TAKE_YOUR_TIME": "takpe, ambillah masa",
+  "VISUAL_NOVEL_OKAY": "oke",
+  "VISUAL_NOVEL_SO_REMIND_ME_WHAT_HAPPENED": "jadi ingatkan aku, apa yg jd",
+  "VISUAL_NOVEL_THAT_MIGHT_BE_RIGHT_THAT_MIGHT_BE_WRONG_WHAT_NEXT": "mungkin betul, mungkin salah. lepastu apa?",
+  "VISUAL_NOVEL_OK_COULD_BE_WHAT_HAPPENED_BUT_I_WONT_TELL_YOU_WHAT_THEN": "ok... mungkin tu yg jd tp aku takkan bgtau ko. lepastu apa?",
+  "VISUAL_NOVEL_AND_FINALLY": "dan akhirnya?",
+  "VISUAL_NOVEL_WE_BLESSED_THE_STATUE": "kita rahmati patung tu",
+  "VISUAL_NOVEL_WE_LIT_CANDLES_FOR_OUR_TRIBUTES": "kita nyalakan lilin utk persembahan kita",
+  "VISUAL_NOVEL_WE_GAZED_UPON_THE_FOUNTAIN": "kita memandang ke arah air pancut tu",
+  "VISUAL_NOVEL_WE_FOUGHT_THE_LOST_BOYS": "kita lawan the lost boys",
+  "VISUAL_NOVEL_WE_RESPECTED_THE_FOUR_FALLEN": "kita beri penghormatan kpd empat orang yg gugur",
+  "VISUAL_NOVEL_WE_SUNG_AWAY_OUR_AGE": "kita nyanyikan usia kita",
+  "VISUAL_NOVEL_HOLD_ON_MY_MEMORY_IS_JUST_FUZZY": "kejap.. ingatan aku kabur sikit...",
+  "VISUAL_NOVEL_SURE_TAKE_YOUR_TIME_YOU_CAN_PROBABLY_FIND_SOMETHING_ON_YOUR_COMPUTER_TO_HELP_YOU_REFRESH_YOUR_MEMORY": "oke. ambik je masa dulu~ kau mungkin blh cari sesuatu dlm komputer tu utk tolong segarkan balik ingatan",
+  "VISUAL_NOVEL_THANKS_ILL_TRY_AGAIN": "terima kasih... nnt aku cuba lg",
+  "VISUAL_NOVEL_I_DONT_THINK_THATS_IT": "aku rasa bukan yg tu...",
+  "VISUAL_NOVEL_HMM_OKAY_I_BELIEVE_U_FOR_NOW_YOU_NEED_TO_REGISTER_A_NEW_ACCOUNT_THE_INVITE_CODE_IS_NEVERLAND": "hmm... okay aku percaya. buat masa ni. kau kena daftar akaun baru, invite code dia ialah {0}",
+  "VISUAL_NOVEL_HMM_HEY_LIZ_IMMA_BRB": "hmm... hey liz.. aku pergi kejap hahaHAHA... cya",
+  "LYRICS_1": [
+    {
+      "start": "0:00:46",
+      "lyric": "a babbling river"
+    },
+    {
+      "start": "0:03:07",
+      "lyric": "a pond that glows"
+    },
+    {
+      "start": "0:05:11",
+      "lyric": "a hot spring over-overflows"
+    },
+    {
+      "start": "0:10:28",
+      "lyric": "all three things oh, oh I know"
+    },
+    {
+      "start": "0:13:90",
+      "lyric": "I know..."
+    }
+  ],
+  "LYRICS_2": [
+    {
+      "start": "0:00:40",
+      "lyric": "two hands holding on to the same"
+    },
+    {
+      "start": "0:05:57",
+      "lyric": "old story, written poorly"
+    },
+    {
+      "start": "0:09:92",
+      "lyric": "can we -"
+    },
+    {
+      "start": "0:11:40",
+      "lyric": "take control?"
+    },
+    {
+      "start": "0:13:01",
+      "lyric": "I wanna leave this all behind"
+    }
+  ],
+  "LYRICS_3": [
+    {
+      "start": "0:00:61",
+      "lyric": "wake at seven A.M."
+    },
+    {
+      "start": "0:03:96",
+      "lyric": "it's like heaven again"
+    },
+    {
+      "start": "0:07:48",
+      "lyric": "see you smiling my friend"
+    },
+    {
+      "start": "0:10:86",
+      "lyric": "and I don't want this to end"
+    },
+    {
+      "start": "0:13:92",
+      "lyric": "the present moment will fleet"
+    },
+    {
+      "start": "0:17:38",
+      "lyric": "crowded city and streets"
+    },
+    {
+      "start": "0:21:13",
+      "lyric": "everybody you meet"
+    },
+    {
+      "start": "0:24:23",
+      "lyric": "will go away someday"
+    }
+  ],
+  "LYRICS_4": [
+    {
+      "start": "0:01:11",
+      "lyric": "am I a drink that you drank?"
+    },
+    {
+      "start": "0:05:21",
+      "lyric": "am I a snack that you eight?"
+    },
+    {
+      "start": "0:09:61",
+      "lyric": "am I a thing that you lost?"
+    },
+    {
+      "start": "0:14:69",
+      "lyric": "lost long ago"
+    }
+  ],
+  "LYRICS_5": [
+    {
+      "start": "0:00:71",
+      "lyric": "I don't want to be buried"
+    },
+    {
+      "start": "0:04:67",
+      "lyric": "six feet under the ground"
+    },
+    {
+      "start": "0:08:61",
+      "lyric": "if you are not around"
+    },
+    {
+      "start": "0:12:40",
+      "lyric": "don't want to be alone"
+    },
+    {
+      "start": "0:15:75",
+      "lyric": "I don't want to leave this world"
+    },
+    {
+      "start": "0:20:07",
+      "lyric": "if you're not by my side"
+    },
+    {
+      "start": "0:23:34",
+      "lyric": "no, I don't want to die"
+    },
+    {
+      "start": "0:26:80",
+      "lyric": "without you"
+    }
+  ],
+  "LYRICS_6": [
+    {
+      "start": "0:01:10",
+      "lyric": "*guitar noodling*"
+    },
+    {
+      "start": "0:03:73",
+      "lyric": "oh shit uhm..."
+    },
+    {
+      "start": "0:06:00",
+      "lyric": "*GUITAR STRUM*"
+    },
+    {
+      "start": "0:07:52",
+      "lyric": "(whispers) so"
+    },
+    {
+      "start": "0:08:63",
+      "lyric": "just one chance,"
+    },
+    {
+      "start": "0:11:82",
+      "lyric": "and one dance"
+    },
+    {
+      "start": "0:14:88",
+      "lyric": "feels like awkward"
+    },
+    {
+      "start": "0:17:36",
+      "lyric": "teenage romance"
+    },
+    {
+      "start": "0:19:98",
+      "lyric": "*music stops* it kinda sounds like"
+    },
+    {
+      "start": "0:20:96",
+      "lyric": "the end though"
+    },
+    {
+      "start": "0:22:55",
+      "lyric": "maybe i should write"
+    },
+    {
+      "start": "0:23:21",
+      "lyric": "the beginning"
+    }
+  ],
+  "LYRICS_7": [
+    {
+      "start": "0:00:86",
+      "lyric": "it's so funny how hindsight,"
+    },
+    {
+      "start": "0:03:98",
+      "lyric": "is super clear vision"
+    },
+    {
+      "start": "0:06:07",
+      "lyric": "it's so funny how you hide,"
+    },
+    {
+      "start": "0:09:28",
+      "lyric": "what you're really thinking"
+    },
+    {
+      "start": "0:11:46",
+      "lyric": "I have three eyes open now"
+    },
+    {
+      "start": "0:16:59",
+      "lyric": "I tried but you are not around"
+    }
+  ],
+  "LYRICS_8": [
+    {
+      "start": "0:00:42",
+      "lyric": "please don't say that it's over"
+    },
+    {
+      "start": "0:04:42",
+      "lyric": "I put my luck on a four-leaf clover"
+    },
+    {
+      "start": "0:11:15",
+      "lyric": "don't say it's nostalgia"
+    },
+    {
+      "start": "0:16:28",
+      "lyric": "I'd rather stay in the past if I want to"
+    }
+  ],
+  "NOTES": [
+    "8/24 baru je jumpa buku nota lama dan terfikir nak buat versi digital!! pelik rasanya bila baca balik, byk benda yg aku lalui 4 thn lps sama mcm apa yg aku rasa skrg ni mcm aku asyik hadap masalah yg sama je",
+    "8/25 gambar dari digicam aku baru je siap!!!! sooOoo xcited >.<",
+    "8/27 alamak kena study utk kuiz!!! tak dpt nak update sgt mcm yg aku nak....",
+    "8/28 sejak dua menjak ni aku byk habiskan masa dpn komputer. aku patut lebih kerap keluar. tp harini aku dpt kawan baru nama dia orion!!! dia tunjuk aku game baru.",
+    "9/2 baru je nampak post kat zanga yg kev ng baru je meninggal dunia. pelik rasanya tgk post tu... aku rasa mcm kosong. mcm tu je. ada byk komen kat post tu. \"rip kev\" dan mcm-mcm lg. aku bkn kenal sgt pon dgn dia.. tak tau nak rasa apa...",
+    "9/3 aku lupa. loker kev dulu betul-betul bawah loker aku. aku selalu kena ke tepi bila dia dtg, dan aku selalu dgr suara dia \"hai boleh tepi kejap\". aku dah terbiasa sgt. bila aku tutup loker, aku sedar aku tak dgr suara dia, dan aku tak payah ke tepi pun, lepastu aku menangis. aku tak blh berhenti menangis. kematian tu menakutkanku. mcm mana... mcm mana seseorg tu blh hilang mcm tu je?? setiap benda kecil psl dia, segala apa yg dia nak buat esok, kev pergi ke kelas hari seterusnya atau kev buat persiapan utk minggu sukan minggu dpn. semuanya terhenti.",
+    "9/4 harini aku, lawson dgn em melawat susur keluar landess, dkt laluan 680. ada org letak salib putih kat tempat kev dan ayah dia kemalangan. aku tulis surat utk kev, dan tinggalkan kat situ.",
+    "9/5 mak dpt tau lawson bwk aku pergi melawat kubur kev dan dia marah gila. dia ckp dlm bahasa inggeris dia yg berterabur tu aku ni penjahat. dia ckp aku hancurkan kecantikan dia sbb lahirkan aku dan sekurang-kurangnya jadilah anak yg baik. aku duduk kat lab komputer perpustakaan lps habis sekolah. aku luahkan semuanya kat orion. aku jln kaki balik rumah dan terus masuk bilik. mak senyap je, tak ckp apa-apa pun.",
+    "9/6 mak aku call polis sialan tu semalam!!! dia report aku hilang. lepastu HARINI dia call polis LAGI.. suruh dorang tangkap aku sbb dia ingat aku isap dadah semalam??? UGH WTF!!!!",
+    "9/13 sry komputer.... dah beberapa hari... lari dari rumah... seminggu aku duduk rumah em.. em mmg kawan yg sgt baik. mak em call mak aku. akhirnya aku ngn mak bercakap jugak. dia bwk aku pergi restoran cina kegemaran aku mkn udang walnut madu. dia ckp betapa susahnya dia kena buat semua benda ni sendirian dan dia tak tau mcm mana nak buat... kadang-kadang aku blh faham mak... tp selalunya tak... kadang-kadang dia ckp benda yg merapu... aku faham dia sygkan aku dan nak aku membesar dgn baik... dan aku syg dia.. aku suka bila dia buat kelakar kadang-kadang... tp kata-kata dia selalu mengguris hati...",
+    "10/13 mak takde kat rumah sbb pergi melawat nenek. jadi aku skip sekolah. orion asyik hantar manga seram sbb nak dkt halloween. semalam kitorang obses cari cerita pembunuh bersiri. dia kenalkan aku kat scott. mungkin aku akan pergi melawat dorang nanti.",
+    "10/31 aku tak nak tinggalkan dunia ni... kalau kau takde kat sisi aku....."
+  ],
+  "OTHER_WORLD_LOGIN": "Login",
+  "OTHER_WORLD_REGISTER": "Daftar",
+  "OTHER_WORLD_EXIT": "Keluar",
+  "OTHER_WORLD_BACK": "Kembali",
+  "OTHER_WORLD_INVITE_CODE": "Kod Jemputan",
+  "OTHER_WORLD_CONTINUE": "Teruskan",
+  "OTHER_WORLD_USERNAME": "Nama Pengguna",
+  "OTHER_WORLD_PASSWORD": "Kata Laluan",
+  "OTHER_WORLD_CONNECTING": "Menguhubung ke pelayan...",
+  "OTHER_WORLD_LOGGING_IN": "Log Masuk...",
+  "OTHER_WORLD_WELCOME": "selamat datang {0}",
+  "OTHER_WORLD_INVALID": "Nama Pengguna atau Kata Laluan Salah",
+  "OTHER_WORLD_WHATS_YOUR_NAME": "Siapakah Nama Anda",
+  "VIDEO_CALL_TITLE": "WebCam - __orion__",
+  "VIDEO_CALL_REQUEST": "<b>__orion__</b> telah meminta panggilan webcam",
+  "VIDEO_CALL_ACCEPT": "Terima",
+  "VIDEO_CALL_DECLINE": "Tolak",
+  "VIDEO_CALL_CONNECTING": "Menyambung panggilan dengan <b>__orion__</b>, sila tunggu sebentar.",
+  "VIDEO_CALL_CAMERA_ON": "KAMERA ANDA DIHIDUPKAN",
+  "VIDEO_CALL_END_CALL": "Tamatkan Panggilan",
+  "VIDEO_CALL_MUTE": "Senyap",
+  "OTHER_WORLD_CHAT_WELCOME": "<sistem> Selamat datang ke OtherWorld! Klik anak panah untuk bergerak di dalam dunia kami. Beberapa objek adalah istimewa, jadi klik di sekeliling. Nikmati masa anda di sini :)",
+  "OTHER_WORLD_CHAT_CREATION": "<sistem> Semua ciptaan ada dalam genggaman anda. Apakah yang akan anda impikan?",
+  "OTHER_WORLD_CHAT_NEXUS": "<sistem> The Nexus, rumah untuk semua dunia buatan pengguna. Muat naik dunia anda atau lihat kosmos luas dunia yang telah dimuat naik!",
+  "OTHER_WORLD_CHAT_DISCO": "<sistem> Ini ialah Disco, tempat lepak paling meriah di OtherWorld. Turun ke lantai tarian dan cari kawan... kalau dapat sepuluh orang lagi bagus!",
+  "OTHER_WORLD_CHAT_YOU_ARENT_LIZ": "[__orion__] kau bukan liz...",
+  "OTHER_WORLD_CHAT_SPHERE": "<sistem> Sfera, melambangkan Kreativiti. Inilah yang mengekalkan kita untuk terus hidup",
+  "OTHER_WORLD_CHAT_CUBE": "<sistem> Kiub, melambangkan Komuniti. Inilah yang menghubungkan kita semua.",
+  "OTHER_WORLD_CHAT_PYRAMID": "<sistem> Piramid, melambangkan Struktur. Inilah yang menyatukan kita.",
+  "OTHER_WORLD_CHAT_DISCO_BALL": "<sistem> Menari sepanjang malam! OtherWorld sentiasa penuh dengan pemain untuk anda temui dan menari bersama",
+  "OTHER_WORLD_CHAT_STATUE": "<sistem> .aradu id kizum ada asaitneS",
+  "OTHER_WORLD_CHAT_CLOCK": "<sistem> Jam sedang berdetik!",
+  "OTHER_WORLD_CHAT_ALONEGURL_OH_HELLO_FRIEND": "[alonegurl15] oh... helo.. kawan",
+  "FILE_BROWSER_ME_JPG": "me.jpg",
+  "FILE_BROWSER_ME_AND_MY_BF_JPG": "me_and_best_friend.jpg",
+  "FILE_BROWSER_WALLPAPERS_FOLDER": "Wallpaper",
+  "FILE_BROWSER_DESKTOP_FOLDER": "Desktop",
+  "FILE_BROWSER_PICTURES_FOLDER": "Gambar",
+  "FILE_BROWSER_GO_BACK": "Kembali",
+  "FILE_BROWSER_OPEN": "Buka",
+  "FILE_BROWSER_CANCEL": "Batal",
+  "FILE_BROWSER_TITLE_UPLOAD_WORLD": "Muat naik dunia anda!",
+  "OTHER_WORLD_CHAT_UPLOAD_WORLD_ERROR": "<sistem> Hanya fail *.world dibenarkan.",
+  "OTHER_WORLD_CHAT_HOUSE_INTRO": "<sistem> Di hadapan anda ialah House of Baphomet; satu satah multidimensi yang menghubungkan semua dunia di dalam dunia. Untuk masuk, anda mesti mengikut panduan mereka yang telah pergi sebelum anda.",
+  "OTHER_WORLD_DOOR_PUZZLE_SHORT_KNOCK": "<sistem> *ketuk*",
+  "OTHER_WORLD_DOOR_PUZZLE_LONG_KNOCK": "<sistem> *KETUUUUK!*",
+  "OTHER_WORLD_DOOR_PUZZLE_FOUR_PORTRAITS": "<sistem> Walaupun kita telah kehilangan rakan kita di dunia luar, mereka tidak akan dilupakan di dalam dunia maya kita. Beri penghormatan dengan mengklik potret mereka.",
+  "OTHER_WORLD_DOOR_PUZZLE_GREGG": "<sistem> RIP Gregg. 3 Julai 1956 - 11 Sept 2001 \"Bit dan byte cuma 1 dan 0, dua keadaan wujud; on dan off, lemah dan kuat, pendek dan panjang. Tetapi dalam dua keadaan itu, tersimpan keabadian.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_AURORA": "<sistem> RIP Aurora. 1 Jan 1975 - 31 Dis 1999 \"Lihat bagaimana bintang bersinar. Lihat bagaimana ia berkelip-kelip.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_SAHRA": "<sistem> RIP Sahra. 4 April 1978 - 13 Mac 2002 \"Peluang adalah satu ketukan di pintu. Kadang-kadang beberapa ketukan.\"",
+  "OTHER_WORLD_DOOR_PUZZLE_JORDEN": "<sistem> RIP Jorden. 3 Ogos 1988 - 11 Sept 2001 \"Kita sama ada berputus asa, atau bertahan. Kadang-kadang bertahan memberi hasil yang berbeza dari sekadar mengetuk.\"",
+  "OTHER_WORLD_STATUE_PUZZLE_INTRO": "<sistem> Pintu tertutup di belakang anda. The Order of Baphomet hanya untuk mereka yang ditakdirkan daripada dreamscape simulasi kita. Semua patung perlu diberkati, mengikut apa yang ditetapkan The Order. Satu patung tamak dan memerlukan berkat berulang kali.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_GOAT": "<sistem> Anda telah memberkati kambing.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_LION": "<sistem> Anda telah memberkati singa.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_OX": "<sistem> Anda telah memberkati lembu.",
+  "OTHER_WORLD_STATUE_PUZZLE_BLESS_EAGLE": "<sistem> Anda telah memberkati helang.",
+  "OTHER_WORLD_STATUE_PUZZLE_SOLVED": "<sistem> Anda seorang yang bijak. Sebuah pintu terbuka di belakang patung itu.",
+  // "Dreadfully distinct against the dark" is a reference to Blade Runner 2049: https://youtu.be/ZRcpnM26nJM?t=17
+  "OTHER_WORLD_FOUNTAIN_PUZZLE_INTRO": "<sistem> Kita terus mengukir, jelas terpahat dalam gelap. Kaligrafi berdarah, air pancutan menulis kesannya. Huruf untuk orang tersayang, huruf terbentuk dari aliran. Batu demi batu kita tekan, dan sekelip mata masa berlalu.",
+  "OTHER_WORLD_FOUNTAIN_PUZZLE_SOLVED": "<sistem> Sebuah pintu terbuka.",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_1": "hubungan siapa yang paling anda percaya?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_2": "siapa idaman anda yang tak berbalas?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_3": "siapakah penentu tunggal takdir anda?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_FAILURE": "<sistem> Tiada apa yang berlaku. Mungkin penghormatan anda tidak mewakili perasaan sebenar anda?",
+  "OTHER_WORLD_TRIBUTE_PUZZLE_SUCCESS": "<sistem> Penghormatan anda telah diterima.",
+
+  "ENDING_WARNING": "AMARAN! Penghormatan tidak sepadan dengan aura hidup. Memintas.",
+  // Liz:
+  "ENDING_HOW_LONG_HAS_IT_BEEN": "berapa... lama dah berlalu?",
+  "ENDING_THANK_U_FOR_UPLOADING_THOSE_PICTURES": "terima kasih sbb upload gambar-gambar tu",
+  "ENDING_WONDERED_IF_I_WOULD_SEE_THEM": "aku tertanya-tanya bila aku akn nampak muka dorang lagi",
+  "ENDING_I_EVEN_FORGOT_WHAT_I_USED_TO_LOOK_LIKE": "aku dah lupa macam mana rupa aku dulu...",
+  "ENDING_HAVENT_SEEN_ANOTHER_PERSON": "dah lama aku tak nampak org lain kat sini",
+  // Implies that some separate system has logged onto your account.
+  "ENDING_SYSTEM_ACTION_ERROR": "<sistem> Tindakan itu tidak boleh dilakukan kerana anda telah log masuk di komputer lain.",
+  "ENDING_YOU_ARE_OFFLINE": "<sistem> Anda kini di luar talian.",
+  "ENDING_YOU_ARE_ONLINE": "<sistem> Anda kini di dalam talian.",
+  // Liz:
+  "ENDING_A_LONG_TIME_AGO_I_WAS_APPROACHED_BY_A_MAN": "dulu... ada seorang lelaki datang dekat aku...",
+  "ENDING_HE_PROMISED_ME_FOREVER": "dia berjanji selamanya.",
+  "ENDING_I_GOT_INTO_A_FIGHT_WITH_MY_MOTHER": "aku gaduh dgn mak aku",
+  "ENDING_SO_I_DECIDED_TO_UPLOAD_MYSELF_ONTO_THE_INTERNET": "so aku decide upload diri aku ke internet",
+  "ENDING_I_UPLOADED_MYSELF_ONTO_THIS_GAME": "aku upload diri aku ke dlm... game ni",
+  "ENDING_AT_FIRST_IT_WAS_GREAT": "mula mula, seronok sgt.",
+  "ENDING_WE_CREATED_SO_MANY_BEAUTIFUL_THINGS_HERE": "kitorang cipta banyak benda menarik kat sini.",
+  "ENDING_THE_WORLD_USED_TO_BE_CROWDED": "dunia ni dulu ramai, bnyk muka baru nak jumpa setiap hari",
+  "ENDING_BUT_NOW": "tapi sekarang...",
+  // Profiles that pop up.
+  "ENDING_POPUP_PROFILE_TITLE": "Profil - {0}",
+  "ENDING_POPUP_LOADING": "Memuatkan...",
+  "ENDING_POPUP_LAST_SEEN": "Kali terakhir dilihat {0} hari lalu.",
+  "ENDING_POPUP_MESSAGE_BUTTON": "Mesej",
+  "ENDING_POPUP_BLOCK_BUTTON": "Sekat",
+  // Liz:
+  "ENDING_THE_WORLD_OUT_THERE_CHANGES": "dunia kat luar sana berubah",
+  "ENDING_PEOPLE_LEAVE_GROW_OLD": "orang pergi, makin tua, teruskan hidup",
+  "ENDING_OTHER_WORLD_STAYS_THE_SAME": "tapi Other World tetap sama. selamanya",
+  // Server Browser
+  "ENDING_SERVER_BROWSER_TITLE": "Pelayar Pelayan",
+  "ENDING_SERVER_BROWSER_REFRESH_BUTTON": "Segarkan",
+  "ENDING_SERVER_BROWSER_CLOSE_BUTTON": "Tutup",
+  "ENDING_SERVER_BROWSER_SERVER_NAME": "Nama",
+  "ENDING_SERVER_BROWSER_PLAYERS_IN_SERVER": "Pemain",
+  "ENDING_SERVER_BROWSER_SERVER_PING": "Ping",
+  // Liz:
+  "ENDING_WITHOUT_THE_PLAYERS_WORLDS_ARE_GONE": "tanpa pemain, semua dunia ciptaan dorg dah hilang.",
+  "ENDING_EVERYONE_RITUAL_DELETED_THEMSELVES": "akhirnya, semua yang buat ritual tu cuba hilangkan diri sendiri.",
+  "ENDING_HOW_IS_A_SOUL_STORED_IN_A_FILESYSTEM": "tapi macam mana roh disimpan dalam sistem fail?",
+  "ENDING_I_HEAR_THEM": "kadang-kadang aku dengar dorang, menjerit. kesedaran dorang bergabung dengan beberapa fail sistem",
+  "ENDING_THIS_PLACE_IS_ALL_I_HAVE_LEFT": "tempat ni je yang aku ada.",
+  "ENDING_ALL_THINGS_DETERIORATE_EVEN_THIS": "semua benda akan hancur. ini pun sama.",
+  "ENDING_HOW_COULD_WE_HAVE_KNOWN": "macam mana kitorang nak tahu?",
+  // Liz, now <sistem>, becomes part of Other World:
+  "ENDING_I_MISS_EMILY": "<sistem> aku rindu emily",
+  "ENDING_I_MISS_GOING_ON_THE_COMPUTER_WITH_HER": "<sistem> aku rindu main komputer dgnn dia, main flash game",
+  "ENDING_SLEEPING_OVER_WATCHING_TV_SHOWS": "<sistem> tido kat rumah dia, tengok tv sama-sama",
+  "ENDING_I_WONDER_WHO_SHE_GREW_UP_TO_BECOME": "<sistem> aku tertanya-tanya dia dah jadi apa bila dah besar",
+  "ENDING_I_MISS_LAWSON": "<sistem> aku rindu lawson",
+  "ENDING_I_MISS_TALKING_TO_HIM": "<sistem> aku rindu nak cerita masalah aku kat dia",
+  "ENDING_I_MISS_HOW_COMFORTING_HE_WAS": "<sistem> aku rindu cara dia tenangkan aku",
+  "ENDING_I_DONT_WANT_HIM_TO_SEE_ME_LIKE_THIS": "<sistem> aku tak nak dia tengok aku macam ni.",
+  "ENDING_I_MISS_MY_MOM": "<sistem> aku rindu dgn mak aku",
+  "ENDING_I_MISS_OUR_STUPID_FIGHTS": "<sistem> pergaduhan kitorang rasa macam dah lama sangat berlalu",
+  "ENDING_ITS_ALL_SO_MEANINGLESS_NOW": "<sistem> semuanya dah takde makna. kalaulah aku sedar yang semua ni sementara je.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_BAD_GRADES": "<sistem> dulu aku takut dapat gred teruk..",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_NOT_LOOKING_PRETTY": "<sistem> dulu aku takut tak nampak cantik.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_DISAPPOINTING_PEOPLE": "<sistem> dulu aku takut kecewakan org.",
+  "ENDING_I_USED_TO_BE_AFRAID_OF_DEATH": "<sistem> dulu aku takut mati.",
+  "ENDING_BUT_NOW_2": "<sistem> tapi sekarang",
+  "ENDING_IM_AFRAID_OF_FOREVER": "<sistem> aku takut pada selamanya.",
+  "ENDING_BUT_YOURE_HERE_NOW_ARENT_YOU": "<sistem> tapi... kau ada kat sini sekarang kan?",
+  "ENDING_YOU_PERFORMED_THE_RITUAL": "<sistem> kau dah buat ritual tu.",
+  "ENDING_ONLY_A_FEW_MINUTES_UNTIL_YOU_JOIN_ME": "<sistem> tinggal beberapa minit je sebelum kau join aku",
+  "ENDING_AND_THEN_I_WONT_BE_ALONE": "<sistem> dan lps tu ak takkan sorang-sorang lagi",
+  "ENDING_FOREVER": "<sistem> selamanya.",
+
+  // Facegram
+  "ENDING_FACEGRAM_TITLE": "facegram - {0}",
+  "ENDING_FACEGRAM_POSTS_COUNT": "Siaran",
+  "ENDING_FACEGRAM_FOLLOWERS_COUNT": "Pengikut",
+  "ENDING_FACEGRAM_FOLLOWING_COUNT": "Mengikuti",
+  "ENDING_THIS_ACCOUNT_IS_PRIVATE": "Akaun ini Peribadi. Tunggu sehingga permintaan mengikut anda diterima.",
+
+  // Lawson:
+  "ENDING_USER_IS_ONLINE": "{0} kini dalam talian",
+  "ENDING_HEY_LIZ": "hei liz...",
+  "ENDING_I_KEEP_SEEING_YOUR_ACCOUNT_ONLINE_AND_OFFLINE": "aku asyik nampak akaun kau online pastu offline",
+  "ENDING_IVE_BEEN_MESSAGING_YOU_EVERY_YEAR": "tiap-tiap tahun aku mesej kau sejak kau takde, dengan harapan kau akan reply",
+  "ENDING_I_VISITED_YOU_TODAY": "aku melawat kau harini. aku ada tinggalkan bunga dengan hi-chew.",
+  "ENDING_I_DECIDED_THAT_ITS_TIME_TO_MOVE_ON": "aku rasa dah tiba masanya untuk aku move on.",
+  "ENDING_YOURE_NOT_COMING_BACK_ARE_YOU_LIZ": "kau takkan balik kan liz?",
+  "ENDING_IVE_MISSED_YOU_SO_MUCH": "aku rindu kau sangat sangat.",
+  "ENDING_GOODBYE": "selamat tinggal.",
+
+  // Liz ending popup spam:
+  "ENDING_NO": "TAK",
+  "ENDING_DONT_LEAVE_ME": "JANGAN TINGGALKAN AKU",
+  "ENDING_I_DONT_WANT_TO_BE_ALONE": "AKU TAK NAK TINGGAL SORANG",
+
+  // Error Messages
+  "ENDING_ERROR_MEMORYBOUNDS_EXCEEDED": "Ralat: Had Memori Dilebihi.",
+  "ENDING_ERROR_SEGMENTATION_FAULT": "Ralat Segmentasi.",
+
+  // Task Manager
+  "ENDING_TASK_MANAGER_TITLE": "Pengurus Tugas",
+  "ENDING_TASK_MANAGER_WARNING": "Amaran: Penggunaan Memori Tinggi",
+  "ENDING_TASK_MANAGER_PROGRAM": "Program",
+  "ENDING_TASK_MANAGER_USAGE": "Penggunaan",
+
+  // Final Error Message
+  "ERROR_REPORT_OTHER_WORLD_HAS_ENCOUNTERED_A_PROBLEM": "Other World menghadapi masalah dan perlu ditutup. Maaf atas sebarang kesulitan.",
+  "ERROR_REPORT_IF_YOU_WERE_IN_THE_MIDDLE_OF_SOMETHING": "Jika anda sedang melakukan sesuatu, maklumat yang anda sedang kerjakan mungkin akan hilang.",
+  "ERROR_REPORT_PLEASE_TELL_OTHER_WORLD_ABOUT_THIS_PROBLEM": "Sila beritahu Other World tentang masalah ini.",
+  "ERROR_REPORT_WE_HAVE_CREATED_AN_ERROR_REPORT": "Kami telah mencipta laporan ralat yang anda boleh hantar kepada kami. Kami akan mengendalikan laporan ini secara peribadi dan tanpa nama.",
+  "ERROR_REPORT_BUTTON_1": "Hantar <b><u>Laporan</u></b>",
+  "ERROR_REPORT_BUTTON_2": "Jangan <b><u>Hantar</u></b>?",
+
+  // Translation Credits
+  "SHOW_TRANSLATION_CREDITS": false,
+  "CREDITS_TITLE": "English Translation",
+  // Put as many credits here as you want.
+  // Please don't put a virus here :(
+  "CREDITS": [
+    { "name": "Ken", "website": "https://youtube.com/channel/UCYgZUYrPg8CddR6NzUOqyJA" }
+  ],
+
+  "CLICK_TO_REPLAY": "Click to Replay from Beginning",
+
+  // April 23, additional lines:
+  "OTHER_WORLD_DOOR_PUZZLE_SOMETHING_IN_DOOR_CHANGES": "<sistem> Sesuatu pada pintu itu berubah... Anda telah melakukan sesuatu, atau sebahagian daripadanya...",
+  "OTHER_WORLD_DOOR_PUZZLE_SOLVED": "<sistem> Pintu itu terbuka.",
+
+  // June 24
+  "ORION_IS_TYPING": "__orion__ sedang menaip...",
+  "SCROLL_TO_TOP": "Skrol ke Atas",
+  "SERVERS_EMPTY": "KOSONG",
+  "SERVERS_UPLOAD": "klik di sini untuk muat naik dunia",
+  "SERVERS_USER_WORLD": "<user world>",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_1": "house of",
+  "SERVERS_HOUSE_OF_BAPHOMET_LINE_2": "baphomet",
+
+  "TRIBUTES_BOND_LINE_1": "hubungan siapa",
+  "TRIBUTES_BOND_LINE_2": "yang paling",
+  "TRIBUTES_BOND_LINE_3": "anda percaya?",
+
+  "TRIBUTES_UNREQUITED_LINE_1": "siapakah idaman",
+  "TRIBUTES_UNREQUITED_LINE_2": "yang tak",
+  "TRIBUTES_UNREQUITED_LINE_3": "terbalas?",
+
+  "TRIBUTES_FATE_LINE_1": "siapakah",
+  "TRIBUTES_FATE_LINE_2": "penentu tunggal",
+  "TRIBUTES_FATE_LINE_3": "takdir anda?",
+
+  // June 27
+  "VIDEO_CALL_INCOMING_CALL": "Panggilan Masuk",
+  "CONSCIOUSNESS_TRIANGULATION": "Triangulasi Kesedaran",
+  "ENDING_POPUP_OFFLINE": "Luar Talian",
+
+  "SETTINGS_TITLE": "Tetapan",
+  "SETTINGS_FULLSCREEN": "Skrin Penuh",
+  "SETTINGS_MASTER_VOLUME": "Kelantangan Utama",
+  "SETTINGS_SFX_VOLUME": "Kelantangan SFX",
+  "SETTINGS_MUSIC_VOLUME": "Kelantangan Muzik",
+  "SETTINGS_LANGUAGE": "Bahasa",
+  "SETTINGS_DELETE_SAVE": "Mula semua dari awal",
+  "SETTINGS_QUIT_GAME": "Keluar Permainan",
+
+  "OTHER_WORLD_CANDLES": "<sistem> Tiga batang lilin... Tetapi bagaimana cara untuk menyalakannya?",
+  "OTHER_WORLD_DOOR_PUZZLE_FRAME_KNOCK": "<sistem> Pintu itu terlalu tebal untuk menghasilkan bunyi yang kuat menggunakan tangan anda. Mungkin anda boleh menggunakan pengetuk pintu.",
+
+  // Mar 19, 2025
+  "ENDING_UPLOADING_WEBCAM": "<sistem> Memuat Naik... \"__orion__WEBCAM_CAPTURE.mp4\"",
+
+  // May 12, 2025
+  "WARNING": "AMARAN",
+  "TRIGGER_WARNING": "Ini adalah permainan seram psikologi dan tidak sesuai untuk kanak-kanak atau mereka yang mudah terganggu.",
+
+  // Ignore this last line, it's so each line can have a comma at the end.
+  "": null
+}
