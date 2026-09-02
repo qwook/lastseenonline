@@ -70,7 +70,7 @@
     "<LAWSON>: seni özledim",
     "<SYSTEM>: aznL4ws0n çevrimdışı",
     "<SYSTEM>: aznL4ws0n çevrimiçi",
-    "<LAWSON>: matematik sınavından C+ aldım :(",
+    "<LAWSON>: matematik sınavından 75 aldım :(",
     "<SYSTEM>: aznL4ws0n çevrimdışı",
     "<SYSTEM>: aznL4ws0n çevrimiçi",
     "<LAWSON>: bugün annemle kavga ettim, ama sorun değil.. umarım iyisindir.",
@@ -623,8 +623,7 @@
   // Put as many credits here as you want.
   // Please don't put a virus here :(
   "CREDITS": [
-    { "name": "lullation", "website": "https://github.com/lullation" },
-    { "name": "lullation (Discord)" }
+    { "name": "github", "website": "https://github.com/tubaturker" }
   ],
 
   "CLICK_TO_REPLAY": "Baştan başlamak için tıklayınız",
